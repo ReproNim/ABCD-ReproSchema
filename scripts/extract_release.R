@@ -70,6 +70,10 @@ if (!is.data.frame(release_data)) {
   quit(status = 1)
 }
 
+# Force conversion to plain data.frame to handle tibble quirks
+# Use as.data.frame on the unclassed object to get raw structure
+release_data <- as.data.frame(unclass(release_data), stringsAsFactors = FALSE)
+
 # Diagnose structure
 cat(sprintf("Dimensions: %d rows x %d cols\n", nrow(release_data), ncol(release_data)))
 
