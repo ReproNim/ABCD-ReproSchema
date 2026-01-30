@@ -70,6 +70,23 @@ if (!is.data.frame(release_data)) {
   quit(status = 1)
 }
 
+# Convert to regular data.frame and handle list columns
+release_data <- as.data.frame(release_data)
+
+# Check for and flatten list columns (common in tibbles)
+for (col in names(release_data)) {
+  if (is.list(release_data[[col]])) {
+    cat(sprintf("Converting list column to character: %s\n", col))
+    release_data[[col]] <- sapply(release_data[[col]], function(x) {
+      if (is.null(x) || length(x) == 0) {
+        NA_character_
+      } else {
+        paste(x, collapse = "; ")
+      }
+    })
+  }
+}
+
 # Create output directory if needed
 output_dir <- dirname(output_csv)
 if (output_dir != "." && !dir.exists(output_dir)) {
