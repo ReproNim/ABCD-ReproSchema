@@ -70,22 +70,51 @@ if (!is.data.frame(release_data)) {
   quit(status = 1)
 }
 
-# Convert to regular data.frame and handle list columns
-release_data <- as.data.frame(release_data)
+# Diagnose structure
+cat(sprintf("Dimensions: %d rows x %d cols\n", nrow(release_data), ncol(release_data)))
 
-# Check for and flatten list columns (common in tibbles)
+# Check for columns with inconsistent lengths
+expected_len <- nrow(release_data)
+problem_cols <- c()
 for (col in names(release_data)) {
-  if (is.list(release_data[[col]])) {
-    cat(sprintf("Converting list column to character: %s\n", col))
-    release_data[[col]] <- sapply(release_data[[col]], function(x) {
+  col_len <- length(release_data[[col]])
+  if (col_len != expected_len) {
+    problem_cols <- c(problem_cols, col)
+    cat(sprintf("WARNING: Column '%s' has length %d (expected %d)\n", col, col_len, expected_len))
+  }
+}
+
+# Build a clean data frame column by column
+clean_data <- data.frame(row_id = seq_len(expected_len))
+for (col in names(release_data)) {
+  col_data <- release_data[[col]]
+
+  # Handle list columns
+  if (is.list(col_data)) {
+    cat(sprintf("Converting list column: %s\n", col))
+    col_data <- sapply(col_data, function(x) {
       if (is.null(x) || length(x) == 0) {
         NA_character_
       } else {
-        paste(x, collapse = "; ")
+        paste(as.character(x), collapse = "; ")
       }
     })
   }
+
+  # Ensure correct length
+  if (length(col_data) != expected_len) {
+    cat(sprintf("Padding column '%s' from %d to %d\n", col, length(col_data), expected_len))
+    col_data <- c(col_data, rep(NA, expected_len - length(col_data)))
+  }
+
+  clean_data[[col]] <- col_data
 }
+
+# Remove helper column
+clean_data$row_id <- NULL
+release_data <- clean_data
+
+cat(sprintf("Clean dimensions: %d rows x %d cols\n", nrow(release_data), ncol(release_data)))
 
 # Create output directory if needed
 output_dir <- dirname(output_csv)
