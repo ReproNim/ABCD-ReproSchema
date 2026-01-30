@@ -1,0 +1,86 @@
+{
+    "id": "su_y_alcsre__hvy_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "If never, enter \"0"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ysu02 | abcd_yam01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "substance_use_interviewyouth | y_alcohol_measures_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "subj_resp_alc_1c | subj_resp_alc_1c_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "subj_resp_alc_1c_1094b2 | subj_resp_alc_1c_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_alcsre"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_alcsre__hvy_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_alcsre_0016"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_alcsre"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_alcsre__hvy_001"
+    },
+    "question": {
+        "en": "Period of heaviest drinking: How many drinks did it take for you to begin to feel different? (where you could feel an effect)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "ph_p_otbi__rpt__loc_001__l",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_lpohstbi01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_tbi_screenmodified_ohio_state_screen_tbiparent_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tbi_7c1_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "tbi_7c1_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_otbi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_otbi__rpt__loc_001__l"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_otbi_0086"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_otbi"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_otbi__rpt__loc_001__l"
+    },
+    "question": {
+        "en": "Experienced multiple, repeated impacts to the head 1: Was your child knocked out or did they lose consciousness (LOC)? If yes, how long? [Longitudinal]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

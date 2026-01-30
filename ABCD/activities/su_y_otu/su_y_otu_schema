@@ -1,0 +1,95 @@
+{
+    "id": "su_y_otu_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_otu"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_otu_dtt",
+            "items/su_y_otu_age",
+            "items/su_y_otu_adm",
+            "items/su_y_otu__alc_001",
+            "items/su_y_otu__illdrg_001",
+            "items/su_y_otu__inh_001",
+            "items/su_y_otu__mj_001",
+            "items/su_y_otu__nic__cig_001",
+            "items/su_y_otu__nic__vape_001",
+            "items/su_y_otu__othdrg_001",
+            "items/su_y_otu__rxopi_001",
+            "items/su_y_otu__rxsed_001",
+            "items/su_y_otu__rxstim_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_otu_dtt",
+                "isVis": true,
+                "variableName": "su_y_otu_dtt"
+            },
+            {
+                "isAbout": "items/su_y_otu_age",
+                "isVis": true,
+                "variableName": "su_y_otu_age"
+            },
+            {
+                "isAbout": "items/su_y_otu_adm",
+                "isVis": true,
+                "variableName": "su_y_otu_adm"
+            },
+            {
+                "isAbout": "items/su_y_otu__alc_001",
+                "isVis": true,
+                "variableName": "su_y_otu__alc_001"
+            },
+            {
+                "isAbout": "items/su_y_otu__illdrg_001",
+                "isVis": true,
+                "variableName": "su_y_otu__illdrg_001"
+            },
+            {
+                "isAbout": "items/su_y_otu__inh_001",
+                "isVis": true,
+                "variableName": "su_y_otu__inh_001"
+            },
+            {
+                "isAbout": "items/su_y_otu__mj_001",
+                "isVis": true,
+                "variableName": "su_y_otu__mj_001"
+            },
+            {
+                "isAbout": "items/su_y_otu__nic__cig_001",
+                "isVis": true,
+                "variableName": "su_y_otu__nic__cig_001"
+            },
+            {
+                "isAbout": "items/su_y_otu__nic__vape_001",
+                "isVis": true,
+                "variableName": "su_y_otu__nic__vape_001"
+            },
+            {
+                "isAbout": "items/su_y_otu__othdrg_001",
+                "isVis": true,
+                "variableName": "su_y_otu__othdrg_001"
+            },
+            {
+                "isAbout": "items/su_y_otu__rxopi_001",
+                "isVis": true,
+                "variableName": "su_y_otu__rxopi_001"
+            },
+            {
+                "isAbout": "items/su_y_otu__rxsed_001",
+                "isVis": true,
+                "variableName": "su_y_otu__rxsed_001"
+            },
+            {
+                "isAbout": "items/su_y_otu__rxstim_001",
+                "isVis": true,
+                "variableName": "su_y_otu__rxstim_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

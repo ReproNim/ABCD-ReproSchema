@@ -1,0 +1,89 @@
+{
+    "id": "le_l_socsrv_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_socsrv"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_socsrv__addr1__socsrv__cnty_count",
+            "items/le_l_socsrv__addr1__socsrv__cnty_rate",
+            "items/le_l_socsrv__addr1__socsrv_count",
+            "items/le_l_socsrv__addr1__socsrv_rate",
+            "items/le_l_socsrv__addr2__socsrv__cnty_count",
+            "items/le_l_socsrv__addr2__socsrv__cnty_rate",
+            "items/le_l_socsrv__addr2__socsrv_count",
+            "items/le_l_socsrv__addr2__socsrv_rate",
+            "items/le_l_socsrv__addr3__socsrv__cnty_count",
+            "items/le_l_socsrv__addr3__socsrv__cnty_rate",
+            "items/le_l_socsrv__addr3__socsrv_count",
+            "items/le_l_socsrv__addr3__socsrv_rate"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_socsrv__addr1__socsrv__cnty_count",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr1__socsrv__cnty_count"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr1__socsrv__cnty_rate",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr1__socsrv__cnty_rate"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr1__socsrv_count",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr1__socsrv_count"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr1__socsrv_rate",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr1__socsrv_rate"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr2__socsrv__cnty_count",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr2__socsrv__cnty_count"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr2__socsrv__cnty_rate",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr2__socsrv__cnty_rate"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr2__socsrv_count",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr2__socsrv_count"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr2__socsrv_rate",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr2__socsrv_rate"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr3__socsrv__cnty_count",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr3__socsrv__cnty_count"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr3__socsrv__cnty_rate",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr3__socsrv__cnty_rate"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr3__socsrv_count",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr3__socsrv_count"
+            },
+            {
+                "isAbout": "items/le_l_socsrv__addr3__socsrv_rate",
+                "isVis": true,
+                "variableName": "le_l_socsrv__addr3__socsrv_rate"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,59 @@
+{
+    "id": "mr_y_adm__info_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_adm__info"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_adm__info_dt",
+            "items/mr_y_adm__info_sessid",
+            "items/mr_y_adm__info__dev_manufact",
+            "items/mr_y_adm__info__dev_model",
+            "items/mr_y_adm__info__dev_serial",
+            "items/mr_y_adm__info__dev_fldstr",
+            "items/mr_y_adm__info__dev__sftw_ver"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_adm__info_dt",
+                "isVis": true,
+                "variableName": "mr_y_adm__info_dt"
+            },
+            {
+                "isAbout": "items/mr_y_adm__info_sessid",
+                "isVis": true,
+                "variableName": "mr_y_adm__info_sessid"
+            },
+            {
+                "isAbout": "items/mr_y_adm__info__dev_manufact",
+                "isVis": true,
+                "variableName": "mr_y_adm__info__dev_manufact"
+            },
+            {
+                "isAbout": "items/mr_y_adm__info__dev_model",
+                "isVis": true,
+                "variableName": "mr_y_adm__info__dev_model"
+            },
+            {
+                "isAbout": "items/mr_y_adm__info__dev_serial",
+                "isVis": true,
+                "variableName": "mr_y_adm__info__dev_serial"
+            },
+            {
+                "isAbout": "items/mr_y_adm__info__dev_fldstr",
+                "isVis": true,
+                "variableName": "mr_y_adm__info__dev_fldstr"
+            },
+            {
+                "isAbout": "items/mr_y_adm__info__dev__sftw_ver",
+                "isVis": true,
+                "variableName": "mr_y_adm__info__dev__sftw_ver"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

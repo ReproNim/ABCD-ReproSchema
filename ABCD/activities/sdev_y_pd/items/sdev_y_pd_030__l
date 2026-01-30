@@ -1,0 +1,81 @@
+{
+    "id": "sdev_y_pd_030__l",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Temperament/Personality"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "soc_dev_fu_personality01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_follow_up_child_personality_dis"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "socialdev_cpd_030_ypi_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_cpd_030_ypi_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/sdev.html#sdev_y_pd"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_pd_030__l"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_pd_0062"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_pd"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_pd_030__l"
+    },
+    "question": {
+        "en": "The world would be a better place if I were in charge. [Youth; Longitudinal]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

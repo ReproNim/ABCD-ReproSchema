@@ -1,0 +1,71 @@
+{
+    "id": "le_l_demo__cnty_baplus",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "School (Demographics)"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "led_school_part_301"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ledsch_seda_c_baplusavgall"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#SEDA"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_demo__cnty_baplus"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_demo_cnty_0025"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_demo__cnty"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_demo__cnty_baplus"
+    },
+    "question": {
+        "en": "Ba+ rate, EB, All families [SEDA (ACS 2005-09 & 2014-18 avg); County]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

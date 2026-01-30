@@ -1,0 +1,71 @@
+{
+    "id": "le_l_leadrisk_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_leadrisk"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_leadrisk__addr1__homerisk_prcnt",
+            "items/le_l_leadrisk__addr1__pov125_prcnt",
+            "items/le_l_leadrisk__addr1_idx",
+            "items/le_l_leadrisk__addr2__homerisk_prcnt",
+            "items/le_l_leadrisk__addr2__pov125_prcnt",
+            "items/le_l_leadrisk__addr2_idx",
+            "items/le_l_leadrisk__addr3__homerisk_prcnt",
+            "items/le_l_leadrisk__addr3__pov125_prcnt",
+            "items/le_l_leadrisk__addr3_idx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_leadrisk__addr1__homerisk_prcnt",
+                "isVis": true,
+                "variableName": "le_l_leadrisk__addr1__homerisk_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_leadrisk__addr1__pov125_prcnt",
+                "isVis": true,
+                "variableName": "le_l_leadrisk__addr1__pov125_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_leadrisk__addr1_idx",
+                "isVis": true,
+                "variableName": "le_l_leadrisk__addr1_idx"
+            },
+            {
+                "isAbout": "items/le_l_leadrisk__addr2__homerisk_prcnt",
+                "isVis": true,
+                "variableName": "le_l_leadrisk__addr2__homerisk_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_leadrisk__addr2__pov125_prcnt",
+                "isVis": true,
+                "variableName": "le_l_leadrisk__addr2__pov125_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_leadrisk__addr2_idx",
+                "isVis": true,
+                "variableName": "le_l_leadrisk__addr2_idx"
+            },
+            {
+                "isAbout": "items/le_l_leadrisk__addr3__homerisk_prcnt",
+                "isVis": true,
+                "variableName": "le_l_leadrisk__addr3__homerisk_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_leadrisk__addr3__pov125_prcnt",
+                "isVis": true,
+                "variableName": "le_l_leadrisk__addr3__pov125_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_leadrisk__addr3_idx",
+                "isVis": true,
+                "variableName": "le_l_leadrisk__addr3_idx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

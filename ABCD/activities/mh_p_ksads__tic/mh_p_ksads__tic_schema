@@ -1,0 +1,119 @@
+{
+    "id": "mh_p_ksads__tic_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_ksads__tic"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_ksads__tic__mtr__dur__pres_sx",
+            "items/mh_p_ksads__tic__mtr__past_sx",
+            "items/mh_p_ksads__tic__mtr__pres_sx",
+            "items/mh_p_ksads__tic__mtr__sppl__pres_sx",
+            "items/mh_p_ksads__tic__othcaus__pres_sx",
+            "items/mh_p_ksads__tic__phnc__dur__pres_sx",
+            "items/mh_p_ksads__tic__phnc__imp__pres_sx",
+            "items/mh_p_ksads__tic__phnc__past_sx",
+            "items/mh_p_ksads__tic__phnc__pres_sx",
+            "items/mh_p_ksads__tic__phnc__sppl__pres_sx",
+            "items/mh_p_ksads__tic__perst__pres_dx",
+            "items/mh_p_ksads__tic__perst__nosymp__rem_dx",
+            "items/mh_p_ksads__tic__prov__pres_dx",
+            "items/mh_p_ksads__tic__ts__pres_dx",
+            "items/mh_p_ksads__tic__ts__nosymp__rem_dx",
+            "items/mh_p_ksads__tic__unspec__past_dx",
+            "items/mh_p_ksads__tic__unspec__pres_dx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__tic__mtr__dur__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__mtr__dur__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__mtr__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__mtr__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__mtr__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__mtr__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__mtr__sppl__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__mtr__sppl__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__othcaus__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__othcaus__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__phnc__dur__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__phnc__dur__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__phnc__imp__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__phnc__imp__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__phnc__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__phnc__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__phnc__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__phnc__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__phnc__sppl__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__phnc__sppl__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__perst__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__perst__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__perst__nosymp__rem_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__perst__nosymp__rem_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__prov__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__prov__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__ts__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__ts__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__ts__nosymp__rem_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__ts__nosymp__rem_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__unspec__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__unspec__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__tic__unspec__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__tic__unspec__pres_dx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

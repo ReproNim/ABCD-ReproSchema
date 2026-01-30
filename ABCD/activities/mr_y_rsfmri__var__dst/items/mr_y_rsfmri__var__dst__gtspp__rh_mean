@@ -1,0 +1,81 @@
+{
+    "id": "mr_y_rsfmri__var__dst__gtspp__rh_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Resting State fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Temporal Variance"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Destrieux"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_mrirsfd01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "mrirsfd109"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_rsfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_rsfmri__var__dst__gtspp__rh_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_rsfmri_var_dst_0111"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_rsfmri__var__dst"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_rsfmri__var__dst__gtspp__rh_mean"
+    },
+    "question": {
+        "en": "Average temporal variance in Destrieux ROI: planum polare of the superior temporal gyrus (right hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

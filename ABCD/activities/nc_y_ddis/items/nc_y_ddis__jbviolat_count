@@ -1,0 +1,66 @@
+{
+    "id": "nc_y_ddis__jbviolat_count",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ddis_scr_val_jbpass1_num_violations"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_y_ddis"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_y_ddis__jbviolat_count"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_y_ddis_0028"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_y_ddis"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_y_ddis__jbviolat_count"
+    },
+    "question": {
+        "en": "Delay Discounting: Number of violations"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

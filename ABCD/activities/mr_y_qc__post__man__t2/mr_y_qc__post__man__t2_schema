@@ -1,0 +1,71 @@
+{
+    "id": "mr_y_qc__post__man__t2_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_qc__post__man__t2"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_qc__post__man__t2__artifact_score",
+            "items/mr_y_qc__post__man__t2__contain_type",
+            "items/mr_y_qc__post__man__t2__inhomog_score",
+            "items/mr_y_qc__post__man__t2__mot_score",
+            "items/mr_y_qc__post__man__t2__regist_score",
+            "items/mr_y_qc__post__man__t2__rev__disp_indicator",
+            "items/mr_y_qc__post__man__t2__rev_count",
+            "items/mr_y_qc__post__man__t2_notes",
+            "items/mr_y_qc__post__man__t2_score"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_qc__post__man__t2__artifact_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__t2__artifact_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__t2__contain_type",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__t2__contain_type"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__t2__inhomog_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__t2__inhomog_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__t2__mot_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__t2__mot_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__t2__regist_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__t2__regist_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__t2__rev__disp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__t2__rev__disp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__t2__rev_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__t2__rev_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__t2_notes",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__t2_notes"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__t2_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__t2_score"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

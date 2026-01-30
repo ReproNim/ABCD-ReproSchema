@@ -1,0 +1,143 @@
+{
+    "id": "su_y_nicsre_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_nicsre"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_nicsre_dtt",
+            "items/su_y_nicsre_age",
+            "items/su_y_nicsre_adm",
+            "items/su_y_nicsre__chew_001",
+            "items/su_y_nicsre__chew__neg_001",
+            "items/su_y_nicsre__chew__pos_001",
+            "items/su_y_nicsre__cig_001",
+            "items/su_y_nicsre__cig__neg_001",
+            "items/su_y_nicsre__cig__pos_001",
+            "items/su_y_nicsre__vape_001",
+            "items/su_y_nicsre__vape_001__v01",
+            "items/su_y_nicsre__vape__neg_001",
+            "items/su_y_nicsre__vape__neg_001__v01",
+            "items/su_y_nicsre__vape__pos_001",
+            "items/su_y_nicsre__vape__pos_001__v01",
+            "items/su_y_nicsre__chew_nm",
+            "items/su_y_nicsre__chew_sum",
+            "items/su_y_nicsre__cig_nm",
+            "items/su_y_nicsre__cig_sum",
+            "items/su_y_nicsre__vape_nm",
+            "items/su_y_nicsre__vape_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_nicsre_dtt",
+                "isVis": true,
+                "variableName": "su_y_nicsre_dtt"
+            },
+            {
+                "isAbout": "items/su_y_nicsre_age",
+                "isVis": true,
+                "variableName": "su_y_nicsre_age"
+            },
+            {
+                "isAbout": "items/su_y_nicsre_adm",
+                "isVis": true,
+                "variableName": "su_y_nicsre_adm"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__chew_001",
+                "isVis": true,
+                "variableName": "su_y_nicsre__chew_001"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__chew__neg_001",
+                "isVis": true,
+                "variableName": "su_y_nicsre__chew__neg_001"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__chew__pos_001",
+                "isVis": true,
+                "variableName": "su_y_nicsre__chew__pos_001"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__cig_001",
+                "isVis": true,
+                "variableName": "su_y_nicsre__cig_001"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__cig__neg_001",
+                "isVis": true,
+                "variableName": "su_y_nicsre__cig__neg_001"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__cig__pos_001",
+                "isVis": true,
+                "variableName": "su_y_nicsre__cig__pos_001"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__vape_001",
+                "isVis": true,
+                "variableName": "su_y_nicsre__vape_001"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__vape_001__v01",
+                "isVis": true,
+                "variableName": "su_y_nicsre__vape_001__v01"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__vape__neg_001",
+                "isVis": true,
+                "variableName": "su_y_nicsre__vape__neg_001"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__vape__neg_001__v01",
+                "isVis": true,
+                "variableName": "su_y_nicsre__vape__neg_001__v01"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__vape__pos_001",
+                "isVis": true,
+                "variableName": "su_y_nicsre__vape__pos_001"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__vape__pos_001__v01",
+                "isVis": true,
+                "variableName": "su_y_nicsre__vape__pos_001__v01"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__chew_nm",
+                "isVis": true,
+                "variableName": "su_y_nicsre__chew_nm"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__chew_sum",
+                "isVis": true,
+                "variableName": "su_y_nicsre__chew_sum"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__cig_nm",
+                "isVis": true,
+                "variableName": "su_y_nicsre__cig_nm"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__cig_sum",
+                "isVis": true,
+                "variableName": "su_y_nicsre__cig_sum"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__vape_nm",
+                "isVis": true,
+                "variableName": "su_y_nicsre__vape_nm"
+            },
+            {
+                "isAbout": "items/su_y_nicsre__vape_sum",
+                "isVis": true,
+                "variableName": "su_y_nicsre__vape_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

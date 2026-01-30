@@ -1,0 +1,71 @@
+{
+    "id": "le_l_densbld__addr3_density",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Built Environment"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_rhds01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_d1a"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_densbld"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_densbld__addr3_density"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_densbld_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_densbld"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_densbld__addr3_density"
+    },
+    "question": {
+        "en": "Gross residential density (Address 3) (address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,82 @@
+{
+    "id": "ph_y_phs_005___4",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Biospecimens"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "sph01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "pubertal_hormone_saliva_psyouth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "hormon_sal_notes_y___4"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "hormon_sal_notes_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_phs"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_phs_005___4"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_phs_0042"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_phs"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_phs_005___4"
+    },
+    "question": {
+        "en": "Any concerns about the sample? [Multi-select]: Excessive bubbles"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

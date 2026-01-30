@@ -1,0 +1,131 @@
+{
+    "id": "mh_y_ksads__socanx_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_ksads__socanx"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_ksads__socanx__anx__past_sx",
+            "items/mh_y_ksads__socanx__anx__pres_sx",
+            "items/mh_y_ksads__socanx__avoid__past_sx",
+            "items/mh_y_ksads__socanx__avoid__pres_sx",
+            "items/mh_y_ksads__socanx__clndistrs__past_sx",
+            "items/mh_y_ksads__socanx__clndistrs__pres_sx",
+            "items/mh_y_ksads__socanx__dur6mo__past_sx",
+            "items/mh_y_ksads__socanx__dur6mo__pres_sx",
+            "items/mh_y_ksads__socanx__evntstrsr__pres_sx",
+            "items/mh_y_ksads__socanx__fear__past_sx",
+            "items/mh_y_ksads__socanx__fear__pres_sx",
+            "items/mh_y_ksads__socanx__fearexcess__past_sx",
+            "items/mh_y_ksads__socanx__fearexcess__pres_sx",
+            "items/mh_y_ksads__socanx__impfunct__past_sx",
+            "items/mh_y_ksads__socanx__impfunct__pres_sx",
+            "items/mh_y_ksads__socanx__past_dx",
+            "items/mh_y_ksads__socanx__pres_dx",
+            "items/mh_y_ksads__socanx__oth__mindur__past_dx",
+            "items/mh_y_ksads__socanx__oth__mindur__pres_dx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_ksads__socanx__anx__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__anx__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__anx__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__anx__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__avoid__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__avoid__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__avoid__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__avoid__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__clndistrs__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__clndistrs__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__clndistrs__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__clndistrs__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__dur6mo__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__dur6mo__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__dur6mo__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__dur6mo__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__evntstrsr__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__evntstrsr__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__fear__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__fear__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__fear__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__fear__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__fearexcess__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__fearexcess__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__fearexcess__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__fearexcess__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__impfunct__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__impfunct__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__impfunct__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__impfunct__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__past_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__past_dx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__pres_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__oth__mindur__past_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__oth__mindur__past_dx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__socanx__oth__mindur__pres_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__socanx__oth__mindur__pres_dx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,66 @@
+{
+    "id": "le_l_gi__addr3__hispanic__queen_stat",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Residential Segregation"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_gstat_h_queen"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_gi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_gi__addr3__hispanic__queen_stat"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_gi_0021"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_gi"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_gi__addr3__hispanic__queen_stat"
+    },
+    "question": {
+        "en": "Local Gi* statistic, Hispanic, queen neighborhood tracts [NaNDA; census tract] (Address 3) (address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

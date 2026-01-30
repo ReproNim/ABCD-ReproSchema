@@ -1,0 +1,77 @@
+{
+    "id": "mr_y_qc__raw__dmri__r06__vol__brain_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "cubic millimeters (mm\u00b3)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Quality Control"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "mriqcrp103"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "iqc_dmri_6_brainvol"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_qc.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_qc__raw__dmri__r06__vol__brain_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_qc_raw_dmri_0343"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_qc__raw__dmri"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_qc__raw__dmri__r06__vol__brain_mean"
+    },
+    "question": {
+        "en": "Diffusion MRI (run 6): Volume of brain mask"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

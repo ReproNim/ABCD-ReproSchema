@@ -1,0 +1,76 @@
+{
+    "id": "covid_p_qtn__stim_001__01___3",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_abcd_covid19_questionnaire_part_1"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "fam_essential_cv___3"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fam_essential_cv"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_p_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_p_qtn__stim_001__01___3"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_p_qtn_0104"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_p_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_p_qtn__stim_001__01___3"
+    },
+    "question": {
+        "en": "Did the stimulus payments help your household pay for any of the following? [Multi-select]: Savings, investments, charitable donations, or giving to family members"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

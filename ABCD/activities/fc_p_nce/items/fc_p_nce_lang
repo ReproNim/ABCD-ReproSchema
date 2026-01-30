@@ -1,0 +1,82 @@
+{
+    "id": "fc_p_nce_lang",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Community"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_pxccp01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "phenx_community_cohesion_p"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "comc_phenx_select_language"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "comc_phenx_select_language"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#pfc_p_nce"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_p_nce_lang"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_p_nce_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_p_nce"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_p_nce_lang"
+    },
+    "question": {
+        "en": "Neighborhood Collective Efficacy [Parent]: Language of administration"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

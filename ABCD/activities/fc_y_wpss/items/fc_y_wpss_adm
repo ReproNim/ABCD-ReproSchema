@@ -1,0 +1,82 @@
+{
+    "id": "fc_y_wpss_adm",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Cognition"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ywpss01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_wills_problem_solving_scale_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "wps_admin"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "wps_admin"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_y_wpss"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_wpss_adm"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_wpss_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_wpss"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_wpss_adm"
+    },
+    "question": {
+        "en": "Wills Problem Solving Scale [Youth]: Method of administration"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

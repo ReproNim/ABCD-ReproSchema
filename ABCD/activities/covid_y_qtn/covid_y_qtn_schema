@@ -1,0 +1,1883 @@
+{
+    "id": "covid_y_qtn_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "covid_y_qtn"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/covid_y_qtn_dt",
+            "items/covid_y_qtn_age",
+            "items/covid_y_qtn__school_001",
+            "items/covid_y_qtn__school_002",
+            "items/covid_y_qtn__school_002__01__v1",
+            "items/covid_y_qtn__school_002__02__v1",
+            "items/covid_y_qtn__school_004",
+            "items/covid_y_qtn__school_004__01__v1",
+            "items/covid_y_qtn__school_004__02__v1",
+            "items/covid_y_qtn__school_004__03__v1",
+            "items/covid_y_qtn__school_005",
+            "items/covid_y_qtn__school_005__01__v1",
+            "items/covid_y_qtn__school_005__02__v1",
+            "items/covid_y_qtn__school_006",
+            "items/covid_y_qtn__school_006__v01",
+            "items/covid_y_qtn__school_007",
+            "items/covid_y_qtn__school_007__v01",
+            "items/covid_y_qtn__school_008",
+            "items/covid_y_qtn__school_009",
+            "items/covid_y_qtn__school_010",
+            "items/covid_y_qtn__school_010__v01",
+            "items/covid_y_qtn__edusupp_001",
+            "items/covid_y_qtn__edusupp_001__dk",
+            "items/covid_y_qtn__edusupp_001__v01",
+            "items/covid_y_qtn__edusupp_002",
+            "items/covid_y_qtn__edusupp_002__dk",
+            "items/covid_y_qtn__edusupp_003",
+            "items/covid_y_qtn__edusupp_003__dk",
+            "items/covid_y_qtn__edusupp_004",
+            "items/covid_y_qtn__edusupp_004__dk",
+            "items/covid_y_qtn__edusupp_005",
+            "items/covid_y_qtn__mctq_001",
+            "items/covid_y_qtn__mctq_002",
+            "items/covid_y_qtn__mctq_003",
+            "items/covid_y_qtn__mctq_004",
+            "items/covid_y_qtn__mctq_005",
+            "items/covid_y_qtn__mctq_006",
+            "items/covid_y_qtn__mctq_007",
+            "items/covid_y_qtn__mctq_008",
+            "items/covid_y_qtn__sched_001",
+            "items/covid_y_qtn__sched_002",
+            "items/covid_y_qtn__sched_003",
+            "items/covid_y_qtn__sched_004",
+            "items/covid_y_qtn__sched_005",
+            "items/covid_y_qtn__antimask_001",
+            "items/covid_y_qtn__antimask_001__01",
+            "items/covid_y_qtn__antimask_001__02",
+            "items/covid_y_qtn__antimask_001__03",
+            "items/covid_y_qtn__antimask_001__04",
+            "items/covid_y_qtn__antimask_001__05",
+            "items/covid_y_qtn__antimask_002",
+            "items/covid_y_qtn__antimask_002__01",
+            "items/covid_y_qtn__antimask_002__02",
+            "items/covid_y_qtn__antimask_002__03",
+            "items/covid_y_qtn__antimask_002__04",
+            "items/covid_y_qtn__antimask_002__05",
+            "items/covid_y_qtn__antimask_003",
+            "items/covid_y_qtn__antimask_003__01",
+            "items/covid_y_qtn__antimask_003__01__01",
+            "items/covid_y_qtn__antimask_003__01__02",
+            "items/covid_y_qtn__antimask_003__02",
+            "items/covid_y_qtn__antimask_003__02__01",
+            "items/covid_y_qtn__antimask_003__02__02",
+            "items/covid_y_qtn__antimask_003__03",
+            "items/covid_y_qtn__antimask_003__04",
+            "items/covid_y_qtn__antimask_004",
+            "items/covid_y_qtn__antimask_004__01",
+            "items/covid_y_qtn__antimask_004__02",
+            "items/covid_y_qtn__antimask_004__03",
+            "items/covid_y_qtn__antimask_004__04",
+            "items/covid_y_qtn__antimask_005",
+            "items/covid_y_qtn__antimask_006",
+            "items/covid_y_qtn__antimask_007",
+            "items/covid_y_qtn__antimask_008",
+            "items/covid_y_qtn__blm_001",
+            "items/covid_y_qtn__blm_001__01",
+            "items/covid_y_qtn__blm_001__02",
+            "items/covid_y_qtn__blm_001__03",
+            "items/covid_y_qtn__blm_001__04",
+            "items/covid_y_qtn__blm_001__05",
+            "items/covid_y_qtn__blm_002",
+            "items/covid_y_qtn__blm_002__01",
+            "items/covid_y_qtn__blm_002__02",
+            "items/covid_y_qtn__blm_002__03",
+            "items/covid_y_qtn__blm_002__04",
+            "items/covid_y_qtn__blm_002__05",
+            "items/covid_y_qtn__blm_003",
+            "items/covid_y_qtn__blm_003__01",
+            "items/covid_y_qtn__blm_003__01__01",
+            "items/covid_y_qtn__blm_003__01__02",
+            "items/covid_y_qtn__blm_003__02",
+            "items/covid_y_qtn__blm_003__02__01",
+            "items/covid_y_qtn__blm_003__02__02",
+            "items/covid_y_qtn__blm_003__03",
+            "items/covid_y_qtn__blm_003__04",
+            "items/covid_y_qtn__blm_004",
+            "items/covid_y_qtn__blm_004__01",
+            "items/covid_y_qtn__blm_004__02",
+            "items/covid_y_qtn__blm_004__03",
+            "items/covid_y_qtn__blm_004__04",
+            "items/covid_y_qtn__blm_005",
+            "items/covid_y_qtn__blm_006",
+            "items/covid_y_qtn__blm_007",
+            "items/covid_y_qtn__blm_008",
+            "items/covid_y_qtn__pol_001",
+            "items/covid_y_qtn__pol_001__01",
+            "items/covid_y_qtn__pol_001__02",
+            "items/covid_y_qtn__pol_001__03",
+            "items/covid_y_qtn__pol_001__04",
+            "items/covid_y_qtn__pol_001__05",
+            "items/covid_y_qtn__pol_002",
+            "items/covid_y_qtn__pol_002__01",
+            "items/covid_y_qtn__pol_002__02",
+            "items/covid_y_qtn__pol_002__03",
+            "items/covid_y_qtn__pol_002__04",
+            "items/covid_y_qtn__pol_002__05",
+            "items/covid_y_qtn__pol_003",
+            "items/covid_y_qtn__pol_003__01",
+            "items/covid_y_qtn__pol_003__01__01",
+            "items/covid_y_qtn__pol_003__01__02",
+            "items/covid_y_qtn__pol_003__02",
+            "items/covid_y_qtn__pol_003__02__01",
+            "items/covid_y_qtn__pol_003__02__02",
+            "items/covid_y_qtn__pol_003__03",
+            "items/covid_y_qtn__pol_003__04",
+            "items/covid_y_qtn__pol_004",
+            "items/covid_y_qtn__pol_004__01",
+            "items/covid_y_qtn__pol_004__02",
+            "items/covid_y_qtn__pol_004__03",
+            "items/covid_y_qtn__pol_004__04",
+            "items/covid_y_qtn__pol_005",
+            "items/covid_y_qtn__pol_006",
+            "items/covid_y_qtn__pol_007",
+            "items/covid_y_qtn__pol_008",
+            "items/covid_y_qtn__reopbus_001",
+            "items/covid_y_qtn__reopbus_001__01",
+            "items/covid_y_qtn__reopbus_001__02",
+            "items/covid_y_qtn__reopbus_001__03",
+            "items/covid_y_qtn__reopbus_001__04",
+            "items/covid_y_qtn__reopbus_001__05",
+            "items/covid_y_qtn__reopbus_002",
+            "items/covid_y_qtn__reopbus_002__01",
+            "items/covid_y_qtn__reopbus_002__02",
+            "items/covid_y_qtn__reopbus_002__03",
+            "items/covid_y_qtn__reopbus_002__04",
+            "items/covid_y_qtn__reopbus_002__05",
+            "items/covid_y_qtn__reopbus_003",
+            "items/covid_y_qtn__reopbus_003__01",
+            "items/covid_y_qtn__reopbus_003__01__01",
+            "items/covid_y_qtn__reopbus_003__01__02",
+            "items/covid_y_qtn__reopbus_003__02",
+            "items/covid_y_qtn__reopbus_003__02__01",
+            "items/covid_y_qtn__reopbus_003__02__02",
+            "items/covid_y_qtn__reopbus_003__03",
+            "items/covid_y_qtn__reopbus_003__04",
+            "items/covid_y_qtn__reopbus_004",
+            "items/covid_y_qtn__reopbus_004__01",
+            "items/covid_y_qtn__reopbus_004__02",
+            "items/covid_y_qtn__reopbus_004__03",
+            "items/covid_y_qtn__reopbus_004__04",
+            "items/covid_y_qtn__reopbus_005",
+            "items/covid_y_qtn__reopbus_006",
+            "items/covid_y_qtn__reopbus_007",
+            "items/covid_y_qtn__reopbus_008",
+            "items/covid_y_qtn__comm__bef_001",
+            "items/covid_y_qtn__comm__bef_002",
+            "items/covid_y_qtn__comm__bef_003",
+            "items/covid_y_qtn__comm__bef_004",
+            "items/covid_y_qtn__comm__pastmo_001",
+            "items/covid_y_qtn__comm__pastmo_002",
+            "items/covid_y_qtn__comm__pastmo_003",
+            "items/covid_y_qtn__comm__pastmo_004",
+            "items/covid_y_qtn__comm__bef_005",
+            "items/covid_y_qtn__comm__bef_006",
+            "items/covid_y_qtn__comm__bef_007",
+            "items/covid_y_qtn__famrel_001",
+            "items/covid_y_qtn__famrel_002",
+            "items/covid_y_qtn__famrel_003",
+            "items/covid_y_qtn__famrel_004",
+            "items/covid_y_qtn__famrel_005",
+            "items/covid_y_qtn__famrel_006",
+            "items/covid_y_qtn__famrel_007",
+            "items/covid_y_qtn__famrel_008",
+            "items/covid_y_qtn__famrel_009",
+            "items/covid_y_qtn__cope_001___1",
+            "items/covid_y_qtn__cope_001___2",
+            "items/covid_y_qtn__cope_001___3",
+            "items/covid_y_qtn__cope_001___4",
+            "items/covid_y_qtn__cope_001___5",
+            "items/covid_y_qtn__cope_001___6",
+            "items/covid_y_qtn__cope_001___7",
+            "items/covid_y_qtn__cope_001___8",
+            "items/covid_y_qtn__cope_001___333",
+            "items/covid_y_qtn__emotion_001",
+            "items/covid_y_qtn__emotion_002",
+            "items/covid_y_qtn__feelings_001",
+            "items/covid_y_qtn__feelings_002",
+            "items/covid_y_qtn__feelings_003",
+            "items/covid_y_qtn__feelings_004",
+            "items/covid_y_qtn__feelings_005",
+            "items/covid_y_qtn__feelings_006",
+            "items/covid_y_qtn__feelings_007",
+            "items/covid_y_qtn__feelings_008",
+            "items/covid_y_qtn__feelings_009",
+            "items/covid_y_qtn__feelings_010",
+            "items/covid_y_qtn__feelings_011",
+            "items/covid_y_qtn__feelings_012",
+            "items/covid_y_qtn__feelings_013",
+            "items/covid_y_qtn__feelings_014",
+            "items/covid_y_qtn__feelings_015",
+            "items/covid_y_qtn__feelings_016",
+            "items/covid_y_qtn__feelings_017",
+            "items/covid_y_qtn__feelings_018",
+            "items/covid_y_qtn__feelings_019",
+            "items/covid_y_qtn__feelings_020",
+            "items/covid_y_qtn__feelings_021",
+            "items/covid_y_qtn__feelings_022",
+            "items/covid_y_qtn__feelings_023",
+            "items/covid_y_qtn__feelings_024",
+            "items/covid_y_qtn__feelings_025",
+            "items/covid_y_qtn__feelings_026",
+            "items/covid_y_qtn__feelings_027",
+            "items/covid_y_qtn__feelings_028",
+            "items/covid_y_qtn__feelings_029",
+            "items/covid_y_qtn__feelings_030",
+            "items/covid_y_qtn__feelings_031",
+            "items/covid_y_qtn__feelings_032",
+            "items/covid_y_qtn__feelings_033",
+            "items/covid_y_qtn__feelings_034",
+            "items/covid_y_qtn__feelings_035",
+            "items/covid_y_qtn__feelings_036",
+            "items/covid_y_qtn__feelings_037",
+            "items/covid_y_qtn__feelings_038",
+            "items/covid_y_qtn__feelings_039",
+            "items/covid_y_qtn__feelings_040",
+            "items/covid_y_qtn__frnd_001",
+            "items/covid_y_qtn__screen_001",
+            "items/covid_y_qtn__screen_002",
+            "items/covid_y_qtn__screen_003",
+            "items/covid_y_qtn__screen_004",
+            "items/covid_y_qtn__screen_005",
+            "items/covid_y_qtn__screen_006",
+            "items/covid_y_qtn__screen_007",
+            "items/covid_y_qtn__screen_008",
+            "items/covid_y_qtn__screen_009",
+            "items/covid_y_qtn__screen_010",
+            "items/covid_y_qtn__screen_011",
+            "items/covid_y_qtn__screen_012",
+            "items/covid_y_qtn__screen_013",
+            "items/covid_y_qtn__screen_014",
+            "items/covid_y_qtn__screen_015",
+            "items/covid_y_qtn__screen_016",
+            "items/covid_y_qtn__screen_017",
+            "items/covid_y_qtn__media_001",
+            "items/covid_y_qtn__media_002",
+            "items/covid_y_qtn__media_003",
+            "items/covid_y_qtn__media_004",
+            "items/covid_y_qtn__media_005",
+            "items/covid_y_qtn__pet_001",
+            "items/covid_y_qtn__pet_001__01___1",
+            "items/covid_y_qtn__pet_001__01___2",
+            "items/covid_y_qtn__pet_001__01___3",
+            "items/covid_y_qtn__pet_001__01___4",
+            "items/covid_y_qtn__pet_001__01___5",
+            "items/covid_y_qtn__pet_001__01___6",
+            "items/covid_y_qtn__safety_001",
+            "items/covid_y_qtn__safety_002",
+            "items/covid_y_qtn__safety_003",
+            "items/covid_y_qtn__safety_004",
+            "items/covid_y_qtn__safety_005",
+            "items/covid_y_qtn__safety_006",
+            "items/covid_y_qtn__safety_007",
+            "items/covid_y_qtn__safety_008",
+            "items/covid_y_qtn__safety_009",
+            "items/covid_y_qtn__safety_010",
+            "items/covid_y_qtn__worry_001",
+            "items/covid_y_qtn__worry_002",
+            "items/covid_y_qtn__worry_003",
+            "items/covid_y_qtn__worry_004",
+            "items/covid_y_qtn__worry_005",
+            "items/covid_y_qtn__stress_001",
+            "items/covid_y_qtn__stress_002",
+            "items/covid_y_qtn__sit_001",
+            "items/covid_y_qtn__sit_001__dk",
+            "items/covid_y_qtn__sit_001__v01",
+            "items/covid_y_qtn__activs_001",
+            "items/covid_y_qtn__activs_002__01",
+            "items/covid_y_qtn__activs_002__02",
+            "items/covid_y_qtn__activs_002__v01",
+            "items/covid_y_qtn__walk_001",
+            "items/covid_y_qtn__walk_002__01",
+            "items/covid_y_qtn__walk_002__02",
+            "items/covid_y_qtn__walk_002__v01",
+            "items/covid_y_qtn__su_001",
+            "items/covid_y_qtn__su_001__01",
+            "items/covid_y_qtn__su_002",
+            "items/covid_y_qtn__su__alc_001",
+            "items/covid_y_qtn__su__coc_001",
+            "items/covid_y_qtn__su__inh_001",
+            "items/covid_y_qtn__su__mj_001",
+            "items/covid_y_qtn__su__mj__conc_001",
+            "items/covid_y_qtn__su__mj__conc__pipe_001",
+            "items/covid_y_qtn__su__mj__edbl_001",
+            "items/covid_y_qtn__su__mj__pipe_001",
+            "items/covid_y_qtn__su__mj__vape_001",
+            "items/covid_y_qtn__su__nic__chew_001",
+            "items/covid_y_qtn__su__nic__cig_001",
+            "items/covid_y_qtn__su__nic__pipe_001",
+            "items/covid_y_qtn__su__nic__vape_001",
+            "items/covid_y_qtn__su__rxdrg_001",
+            "items/covid_y_qtn__privacy_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/covid_y_qtn_dt",
+                "isVis": true,
+                "variableName": "covid_y_qtn_dt"
+            },
+            {
+                "isAbout": "items/covid_y_qtn_age",
+                "isVis": true,
+                "variableName": "covid_y_qtn_age"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_002__01__v1",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_002__01__v1"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_002__02__v1",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_002__02__v1"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_004__01__v1",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_004__01__v1"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_004__02__v1",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_004__02__v1"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_004__03__v1",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_004__03__v1"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_005__01__v1",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_005__01__v1"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_005__02__v1",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_005__02__v1"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_006__v01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_006__v01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_007__v01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_007__v01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_009",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_009"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_010",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_010"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__school_010__v01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__school_010__v01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_001__dk",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_001__dk"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_001__v01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_001__v01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_002__dk",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_002__dk"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_003__dk",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_003__dk"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_004__dk",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_004__dk"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__edusupp_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__edusupp_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__mctq_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__mctq_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__mctq_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__mctq_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__mctq_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__mctq_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__mctq_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__mctq_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__mctq_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__mctq_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__mctq_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__mctq_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__mctq_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__mctq_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__mctq_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__mctq_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__sched_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__sched_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__sched_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__sched_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__sched_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__sched_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__sched_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__sched_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__sched_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__sched_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_001__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_001__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_001__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_001__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_001__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_001__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_001__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_001__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_001__05",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_001__05"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_002__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_002__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_002__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_002__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_002__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_002__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_002__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_002__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_002__05",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_002__05"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_003__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_003__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_003__01__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_003__01__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_003__01__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_003__01__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_003__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_003__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_003__02__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_003__02__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_003__02__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_003__02__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_003__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_003__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_003__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_003__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_004__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_004__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_004__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_004__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_004__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_004__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_004__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_004__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__antimask_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__antimask_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_001__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_001__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_001__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_001__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_001__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_001__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_001__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_001__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_001__05",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_001__05"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_002__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_002__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_002__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_002__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_002__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_002__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_002__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_002__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_002__05",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_002__05"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_003__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_003__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_003__01__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_003__01__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_003__01__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_003__01__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_003__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_003__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_003__02__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_003__02__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_003__02__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_003__02__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_003__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_003__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_003__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_003__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_004__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_004__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_004__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_004__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_004__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_004__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_004__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_004__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__blm_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__blm_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_001__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_001__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_001__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_001__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_001__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_001__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_001__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_001__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_001__05",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_001__05"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_002__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_002__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_002__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_002__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_002__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_002__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_002__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_002__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_002__05",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_002__05"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_003__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_003__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_003__01__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_003__01__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_003__01__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_003__01__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_003__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_003__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_003__02__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_003__02__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_003__02__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_003__02__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_003__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_003__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_003__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_003__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_004__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_004__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_004__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_004__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_004__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_004__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_004__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_004__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pol_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pol_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_001__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_001__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_001__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_001__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_001__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_001__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_001__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_001__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_001__05",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_001__05"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_002__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_002__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_002__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_002__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_002__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_002__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_002__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_002__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_002__05",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_002__05"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_003__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_003__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_003__01__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_003__01__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_003__01__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_003__01__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_003__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_003__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_003__02__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_003__02__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_003__02__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_003__02__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_003__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_003__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_003__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_003__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_004__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_004__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_004__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_004__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_004__03",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_004__03"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_004__04",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_004__04"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__reopbus_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__reopbus_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__bef_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__bef_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__bef_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__bef_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__bef_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__bef_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__bef_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__bef_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__pastmo_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__pastmo_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__pastmo_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__pastmo_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__pastmo_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__pastmo_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__pastmo_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__pastmo_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__bef_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__bef_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__bef_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__bef_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__comm__bef_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__comm__bef_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__famrel_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__famrel_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__famrel_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__famrel_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__famrel_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__famrel_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__famrel_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__famrel_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__famrel_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__famrel_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__famrel_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__famrel_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__famrel_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__famrel_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__famrel_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__famrel_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__famrel_009",
+                "isVis": true,
+                "variableName": "covid_y_qtn__famrel_009"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__cope_001___1",
+                "isVis": true,
+                "variableName": "covid_y_qtn__cope_001___1"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__cope_001___2",
+                "isVis": true,
+                "variableName": "covid_y_qtn__cope_001___2"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__cope_001___3",
+                "isVis": true,
+                "variableName": "covid_y_qtn__cope_001___3"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__cope_001___4",
+                "isVis": true,
+                "variableName": "covid_y_qtn__cope_001___4"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__cope_001___5",
+                "isVis": true,
+                "variableName": "covid_y_qtn__cope_001___5"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__cope_001___6",
+                "isVis": true,
+                "variableName": "covid_y_qtn__cope_001___6"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__cope_001___7",
+                "isVis": true,
+                "variableName": "covid_y_qtn__cope_001___7"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__cope_001___8",
+                "isVis": true,
+                "variableName": "covid_y_qtn__cope_001___8"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__cope_001___333",
+                "isVis": true,
+                "variableName": "covid_y_qtn__cope_001___333"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__emotion_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__emotion_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__emotion_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__emotion_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_009",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_009"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_010",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_010"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_011",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_011"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_012",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_012"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_013",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_013"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_014",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_014"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_015",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_015"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_016",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_016"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_017",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_017"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_018",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_018"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_019",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_019"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_020",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_020"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_021",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_021"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_022",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_022"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_023",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_023"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_024",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_024"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_025",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_025"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_026",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_026"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_027",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_027"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_028",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_028"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_029",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_029"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_030",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_030"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_031",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_031"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_032",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_032"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_033",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_033"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_034",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_034"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_035",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_035"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_036",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_036"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_037",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_037"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_038",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_038"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_039",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_039"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__feelings_040",
+                "isVis": true,
+                "variableName": "covid_y_qtn__feelings_040"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__frnd_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__frnd_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_009",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_009"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_010",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_010"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_011",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_011"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_012",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_012"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_013",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_013"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_014",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_014"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_015",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_015"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_016",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_016"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__screen_017",
+                "isVis": true,
+                "variableName": "covid_y_qtn__screen_017"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__media_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__media_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__media_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__media_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__media_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__media_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__media_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__media_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__media_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__media_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pet_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pet_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pet_001__01___1",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pet_001__01___1"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pet_001__01___2",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pet_001__01___2"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pet_001__01___3",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pet_001__01___3"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pet_001__01___4",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pet_001__01___4"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pet_001__01___5",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pet_001__01___5"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__pet_001__01___6",
+                "isVis": true,
+                "variableName": "covid_y_qtn__pet_001__01___6"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_006",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_006"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_007",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_007"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_008",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_008"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_009",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_009"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__safety_010",
+                "isVis": true,
+                "variableName": "covid_y_qtn__safety_010"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__worry_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__worry_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__worry_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__worry_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__worry_003",
+                "isVis": true,
+                "variableName": "covid_y_qtn__worry_003"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__worry_004",
+                "isVis": true,
+                "variableName": "covid_y_qtn__worry_004"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__worry_005",
+                "isVis": true,
+                "variableName": "covid_y_qtn__worry_005"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__stress_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__stress_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__stress_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__stress_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__sit_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__sit_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__sit_001__dk",
+                "isVis": true,
+                "variableName": "covid_y_qtn__sit_001__dk"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__sit_001__v01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__sit_001__v01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__activs_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__activs_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__activs_002__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__activs_002__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__activs_002__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__activs_002__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__activs_002__v01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__activs_002__v01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__walk_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__walk_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__walk_002__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__walk_002__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__walk_002__02",
+                "isVis": true,
+                "variableName": "covid_y_qtn__walk_002__02"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__walk_002__v01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__walk_002__v01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su_001__01",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su_001__01"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su_002",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su_002"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__alc_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__alc_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__coc_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__coc_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__inh_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__inh_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__mj_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__mj_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__mj__conc_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__mj__conc_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__mj__conc__pipe_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__mj__conc__pipe_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__mj__edbl_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__mj__edbl_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__mj__pipe_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__mj__pipe_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__mj__vape_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__mj__vape_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__nic__chew_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__nic__chew_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__nic__cig_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__nic__cig_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__nic__pipe_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__nic__pipe_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__nic__vape_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__nic__vape_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__su__rxdrg_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__su__rxdrg_001"
+            },
+            {
+                "isAbout": "items/covid_y_qtn__privacy_001",
+                "isVis": true,
+                "variableName": "covid_y_qtn__privacy_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,587 @@
+{
+    "id": "nt_p_earsp_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nt_p_earsp"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nt_p_earsp__pre_age",
+            "items/nt_p_earsp__pre_dtt",
+            "items/nt_p_earsp__pre_001",
+            "items/nt_p_earsp__pre_002",
+            "items/nt_p_earsp__pre_003",
+            "items/nt_p_earsp__pre_004",
+            "items/nt_p_earsp__pre_004__01",
+            "items/nt_p_earsp__pre_004__02",
+            "items/nt_p_earsp__pre_004__03",
+            "items/nt_p_earsp__pre_005",
+            "items/nt_p_earsp__pre_005__01",
+            "items/nt_p_earsp__pre_005__02",
+            "items/nt_p_earsp__pre_005__03",
+            "items/nt_p_earsp__pre_005__03__01___1",
+            "items/nt_p_earsp__pre_005__03__01___2",
+            "items/nt_p_earsp__pre_005__03__01___3",
+            "items/nt_p_earsp__pre_005__03__01___4",
+            "items/nt_p_earsp__pre_005__03__01___5",
+            "items/nt_p_earsp__pre_005__03__01___6",
+            "items/nt_p_earsp__pre_005__03__01___999",
+            "items/nt_p_earsp__pre_005__04",
+            "items/nt_p_earsp__pre_005__05",
+            "items/nt_p_earsp__pre__wkdy__hr_001",
+            "items/nt_p_earsp__pre__wkdy__min_001",
+            "items/nt_p_earsp__pre__wkdy__hr_002",
+            "items/nt_p_earsp__pre__wkdy__min_002",
+            "items/nt_p_earsp__pre__wkdy__allow_001",
+            "items/nt_p_earsp__pre__wkdy__allow__hr_001",
+            "items/nt_p_earsp__pre__wkdy__allow__min_001",
+            "items/nt_p_earsp__pre__wkdy__allow_002",
+            "items/nt_p_earsp__pre__wkdy__allow__hr_002",
+            "items/nt_p_earsp__pre__wkdy__allow__min_002",
+            "items/nt_p_earsp__pre__wknd__hr_001",
+            "items/nt_p_earsp__pre__wknd__min_001",
+            "items/nt_p_earsp__pre__wknd__hr_002",
+            "items/nt_p_earsp__pre__wknd__min_002",
+            "items/nt_p_earsp__pre__wknd__allow_001",
+            "items/nt_p_earsp__pre__wknd__allow__hr_001",
+            "items/nt_p_earsp__pre__wknd__allow__min_001",
+            "items/nt_p_earsp__pre__wknd__allow_002",
+            "items/nt_p_earsp__pre__wknd__allow__hr_002",
+            "items/nt_p_earsp__pre__wknd__allow__min_002",
+            "items/nt_p_earsp__post_age",
+            "items/nt_p_earsp__post_dtt",
+            "items/nt_p_earsp__post_001",
+            "items/nt_p_earsp__post_002",
+            "items/nt_p_earsp__post_003",
+            "items/nt_p_earsp__post_004",
+            "items/nt_p_earsp__post_004__01",
+            "items/nt_p_earsp__post_004__02",
+            "items/nt_p_earsp__post_004__03",
+            "items/nt_p_earsp__post_005",
+            "items/nt_p_earsp__post_005__01",
+            "items/nt_p_earsp__post_006",
+            "items/nt_p_earsp__post_007",
+            "items/nt_p_earsp__post_007__01",
+            "items/nt_p_earsp__post_007__01__dk",
+            "items/nt_p_earsp__post_008",
+            "items/nt_p_earsp__post_008__01",
+            "items/nt_p_earsp__post_008__02",
+            "items/nt_p_earsp__post_008__02__dk",
+            "items/nt_p_earsp__post_008__03",
+            "items/nt_p_earsp__post_009",
+            "items/nt_p_earsp__post_009__01",
+            "items/nt_p_earsp__post_010",
+            "items/nt_p_earsp__post_010__01___1",
+            "items/nt_p_earsp__post_010__01___2",
+            "items/nt_p_earsp__post_010__01___3",
+            "items/nt_p_earsp__post_010__01___4",
+            "items/nt_p_earsp__post_010__01___5",
+            "items/nt_p_earsp__post_010__01___999",
+            "items/nt_p_earsp__post_011",
+            "items/nt_p_earsp__post_012",
+            "items/nt_p_earsp__post_013",
+            "items/nt_p_earsp__post_014",
+            "items/nt_p_earsp__post__wkdy__hr_001",
+            "items/nt_p_earsp__post__wkdy__min_001",
+            "items/nt_p_earsp__post__wkdy__hr_002",
+            "items/nt_p_earsp__post__wkdy__min_002",
+            "items/nt_p_earsp__post__wkdy__allow_001",
+            "items/nt_p_earsp__post__wkdy__allow__hr_001",
+            "items/nt_p_earsp__post__wkdy__allow__min_001",
+            "items/nt_p_earsp__post__wkdy__allow_002",
+            "items/nt_p_earsp__post__wkdy__allow__hr_002",
+            "items/nt_p_earsp__post__wkdy__allow__min_002",
+            "items/nt_p_earsp__post__wknd__hr_001",
+            "items/nt_p_earsp__post__wknd__min_001",
+            "items/nt_p_earsp__post__wknd__hr_002",
+            "items/nt_p_earsp__post__wknd__min_002",
+            "items/nt_p_earsp__post__wknd__allow_001",
+            "items/nt_p_earsp__post__wknd__allow__hr_001",
+            "items/nt_p_earsp__post__wknd__allow__min_001",
+            "items/nt_p_earsp__post__wknd__allow_002",
+            "items/nt_p_earsp__post__wknd__allow__hr_002",
+            "items/nt_p_earsp__post__wknd__allow__min_002"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nt_p_earsp__pre_age",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_age"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_dtt",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_dtt"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_003",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_003"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_004",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_004"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_004__01",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_004__01"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_004__02",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_004__02"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_004__03",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_004__03"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__01",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__01"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__02",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__02"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__03",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__03"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__03__01___1",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__03__01___1"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__03__01___2",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__03__01___2"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__03__01___3",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__03__01___3"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__03__01___4",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__03__01___4"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__03__01___5",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__03__01___5"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__03__01___6",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__03__01___6"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__03__01___999",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__03__01___999"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__04",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__04"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre_005__05",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre_005__05"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__min_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__min_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__min_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__allow_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__allow_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__allow__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__allow__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__allow__min_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__allow__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__allow_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__allow_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__allow__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__allow__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wkdy__allow__min_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wkdy__allow__min_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__min_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__min_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__min_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__allow_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__allow_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__allow__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__allow__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__allow__min_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__allow__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__allow_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__allow_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__allow__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__allow__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__pre__wknd__allow__min_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__pre__wknd__allow__min_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_age",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_age"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_dtt",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_dtt"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_003",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_003"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_004",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_004"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_004__01",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_004__01"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_004__02",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_004__02"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_004__03",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_004__03"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_005",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_005"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_005__01",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_005__01"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_006",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_006"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_007",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_007"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_007__01",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_007__01"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_007__01__dk",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_007__01__dk"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_008",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_008"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_008__01",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_008__01"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_008__02",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_008__02"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_008__02__dk",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_008__02__dk"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_008__03",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_008__03"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_009",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_009"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_009__01",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_009__01"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_010",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_010"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_010__01___1",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_010__01___1"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_010__01___2",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_010__01___2"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_010__01___3",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_010__01___3"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_010__01___4",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_010__01___4"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_010__01___5",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_010__01___5"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_010__01___999",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_010__01___999"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_011",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_011"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_012",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_012"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_013",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_013"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post_014",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post_014"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__min_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__min_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__min_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__allow_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__allow_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__allow__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__allow__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__allow__min_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__allow__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__allow_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__allow_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__allow__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__allow__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wkdy__allow__min_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wkdy__allow__min_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__min_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__min_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__min_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__allow_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__allow_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__allow__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__allow__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__allow__min_001",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__allow__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__allow_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__allow_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__allow__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__allow__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_earsp__post__wknd__allow__min_002",
+                "isVis": true,
+                "variableName": "nt_p_earsp__post__wknd__allow__min_002"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

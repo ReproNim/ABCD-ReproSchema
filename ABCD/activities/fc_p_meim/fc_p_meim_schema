@@ -1,0 +1,185 @@
+{
+    "id": "fc_p_meim_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_p_meim"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_p_meim_dtt",
+            "items/fc_p_meim_age",
+            "items/fc_p_meim_lang",
+            "items/fc_p_meim_001",
+            "items/fc_p_meim_001__01___1",
+            "items/fc_p_meim_001__01___2",
+            "items/fc_p_meim_001__01___3",
+            "items/fc_p_meim_001__01___4",
+            "items/fc_p_meim_001__01___5",
+            "items/fc_p_meim_001__01___6",
+            "items/fc_p_meim_001__01___7",
+            "items/fc_p_meim_001__01___8",
+            "items/fc_p_meim_001__01___9",
+            "items/fc_p_meim_001__01___10",
+            "items/fc_p_meim_001__01___11",
+            "items/fc_p_meim_001__01___12",
+            "items/fc_p_meim__commattach_001",
+            "items/fc_p_meim__commattach_002",
+            "items/fc_p_meim__commattach_003",
+            "items/fc_p_meim__explor_001",
+            "items/fc_p_meim__explor_002",
+            "items/fc_p_meim__explor_003",
+            "items/fc_p_meim__commattach_mean",
+            "items/fc_p_meim__commattach_nm",
+            "items/fc_p_meim__explor_mean",
+            "items/fc_p_meim__explor_nm",
+            "items/fc_p_meim_mean",
+            "items/fc_p_meim_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_p_meim_dtt",
+                "isVis": true,
+                "variableName": "fc_p_meim_dtt"
+            },
+            {
+                "isAbout": "items/fc_p_meim_age",
+                "isVis": true,
+                "variableName": "fc_p_meim_age"
+            },
+            {
+                "isAbout": "items/fc_p_meim_lang",
+                "isVis": true,
+                "variableName": "fc_p_meim_lang"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001",
+                "isVis": true,
+                "variableName": "fc_p_meim_001"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___1",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___1"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___2",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___2"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___3",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___3"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___4",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___4"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___5",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___5"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___6",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___6"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___7",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___7"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___8",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___8"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___9",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___9"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___10",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___10"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___11",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___11"
+            },
+            {
+                "isAbout": "items/fc_p_meim_001__01___12",
+                "isVis": true,
+                "variableName": "fc_p_meim_001__01___12"
+            },
+            {
+                "isAbout": "items/fc_p_meim__commattach_001",
+                "isVis": true,
+                "variableName": "fc_p_meim__commattach_001"
+            },
+            {
+                "isAbout": "items/fc_p_meim__commattach_002",
+                "isVis": true,
+                "variableName": "fc_p_meim__commattach_002"
+            },
+            {
+                "isAbout": "items/fc_p_meim__commattach_003",
+                "isVis": true,
+                "variableName": "fc_p_meim__commattach_003"
+            },
+            {
+                "isAbout": "items/fc_p_meim__explor_001",
+                "isVis": true,
+                "variableName": "fc_p_meim__explor_001"
+            },
+            {
+                "isAbout": "items/fc_p_meim__explor_002",
+                "isVis": true,
+                "variableName": "fc_p_meim__explor_002"
+            },
+            {
+                "isAbout": "items/fc_p_meim__explor_003",
+                "isVis": true,
+                "variableName": "fc_p_meim__explor_003"
+            },
+            {
+                "isAbout": "items/fc_p_meim__commattach_mean",
+                "isVis": true,
+                "variableName": "fc_p_meim__commattach_mean"
+            },
+            {
+                "isAbout": "items/fc_p_meim__commattach_nm",
+                "isVis": true,
+                "variableName": "fc_p_meim__commattach_nm"
+            },
+            {
+                "isAbout": "items/fc_p_meim__explor_mean",
+                "isVis": true,
+                "variableName": "fc_p_meim__explor_mean"
+            },
+            {
+                "isAbout": "items/fc_p_meim__explor_nm",
+                "isVis": true,
+                "variableName": "fc_p_meim__explor_nm"
+            },
+            {
+                "isAbout": "items/fc_p_meim_mean",
+                "isVis": true,
+                "variableName": "fc_p_meim_mean"
+            },
+            {
+                "isAbout": "items/fc_p_meim_nm",
+                "isVis": true,
+                "variableName": "fc_p_meim_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,161 @@
+{
+    "id": "le_l_nbhsoc_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_nbhsoc"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_nbhsoc__addr1__aff_score",
+            "items/le_l_nbhsoc__addr1__college_prop",
+            "items/le_l_nbhsoc__addr1__factor1_score",
+            "items/le_l_nbhsoc__addr1__factor3_score",
+            "items/le_l_nbhsoc__addr1__finc100k_prop",
+            "items/le_l_nbhsoc__addr1__finc75k_prop",
+            "items/le_l_nbhsoc__addr1__forborn_prop",
+            "items/le_l_nbhsoc__addr1__unemp_prop",
+            "items/le_l_nbhsoc__addr2__college_prop",
+            "items/le_l_nbhsoc__addr2__factor1_score",
+            "items/le_l_nbhsoc__addr2__factor2_score",
+            "items/le_l_nbhsoc__addr2__factor3_score",
+            "items/le_l_nbhsoc__addr2__finc100k_prop",
+            "items/le_l_nbhsoc__addr2__finc75k_prop",
+            "items/le_l_nbhsoc__addr2__forborn_prop",
+            "items/le_l_nbhsoc__addr2__unemp_prop",
+            "items/le_l_nbhsoc__addr3__college_prop",
+            "items/le_l_nbhsoc__addr3__factor1_score",
+            "items/le_l_nbhsoc__addr3__factor2_score",
+            "items/le_l_nbhsoc__addr3__factor3_score",
+            "items/le_l_nbhsoc__addr3__finc100k_prop",
+            "items/le_l_nbhsoc__addr3__finc75k_prop",
+            "items/le_l_nbhsoc__addr3__forborn_prop",
+            "items/le_l_nbhsoc__addr3__unemp_prop"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_nbhsoc__addr1__aff_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr1__aff_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr1__college_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr1__college_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr1__factor1_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr1__factor1_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr1__factor3_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr1__factor3_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr1__finc100k_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr1__finc100k_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr1__finc75k_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr1__finc75k_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr1__forborn_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr1__forborn_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr1__unemp_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr1__unemp_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr2__college_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr2__college_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr2__factor1_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr2__factor1_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr2__factor2_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr2__factor2_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr2__factor3_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr2__factor3_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr2__finc100k_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr2__finc100k_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr2__finc75k_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr2__finc75k_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr2__forborn_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr2__forborn_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr2__unemp_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr2__unemp_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr3__college_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr3__college_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr3__factor1_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr3__factor1_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr3__factor2_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr3__factor2_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr3__factor3_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr3__factor3_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr3__finc100k_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr3__finc100k_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr3__finc75k_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr3__finc75k_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr3__forborn_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr3__forborn_prop"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr3__unemp_prop",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr3__unemp_prop"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,72 @@
+{
+    "id": "mh_p_eatq_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Temperament/Personality"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "early_adolescent_temperament_questionnaire_parent"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "eatq_start_time_p | early_adolescent_temperament_questionnaire_parent_start_time"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_eatq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_eatq_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_eatq_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_eatq"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_eatq_dtt"
+    },
+    "question": {
+        "en": "Early Adolescent Temperament Questionnaire [Parent]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

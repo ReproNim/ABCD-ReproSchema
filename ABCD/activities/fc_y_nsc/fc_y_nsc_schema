@@ -1,0 +1,149 @@
+{
+    "id": "fc_y_nsc_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_y_nsc"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_y_nsc_dtt",
+            "items/fc_y_nsc_age",
+            "items/fc_y_nsc_adm",
+            "items/fc_y_nsc__ns_003",
+            "items/fc_y_nsc__pol_001a",
+            "items/fc_y_nsc__pol_001a__01",
+            "items/fc_y_nsc__pol_001b",
+            "items/fc_y_nsc__pol_001b__01",
+            "items/fc_y_nsc__pol_002a",
+            "items/fc_y_nsc__pol_002b",
+            "items/fc_y_nsc__pol_003a",
+            "items/fc_y_nsc__pol_003a__01",
+            "items/fc_y_nsc__pol_003b",
+            "items/fc_y_nsc__pol_003b__01",
+            "items/fc_y_nsc__pol_005a",
+            "items/fc_y_nsc__pol_005a__01",
+            "items/fc_y_nsc__pol_005b",
+            "items/fc_y_nsc__pol_005b__01",
+            "items/fc_y_nsc__pol_006a",
+            "items/fc_y_nsc__pol__imp_001",
+            "items/fc_y_nsc__pol__imp_002",
+            "items/fc_y_nsc__pol__imp_003"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_y_nsc_dtt",
+                "isVis": true,
+                "variableName": "fc_y_nsc_dtt"
+            },
+            {
+                "isAbout": "items/fc_y_nsc_age",
+                "isVis": true,
+                "variableName": "fc_y_nsc_age"
+            },
+            {
+                "isAbout": "items/fc_y_nsc_adm",
+                "isVis": true,
+                "variableName": "fc_y_nsc_adm"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__ns_003",
+                "isVis": true,
+                "variableName": "fc_y_nsc__ns_003"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_001a",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_001a"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_001a__01",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_001a__01"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_001b",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_001b"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_001b__01",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_001b__01"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_002a",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_002a"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_002b",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_002b"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_003a",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_003a"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_003a__01",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_003a__01"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_003b",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_003b"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_003b__01",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_003b__01"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_005a",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_005a"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_005a__01",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_005a__01"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_005b",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_005b"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_005b__01",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_005b__01"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol_006a",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol_006a"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol__imp_001",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol__imp_001"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol__imp_002",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol__imp_002"
+            },
+            {
+                "isAbout": "items/fc_y_nsc__pol__imp_003",
+                "isVis": true,
+                "variableName": "fc_y_nsc__pol__imp_003"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,47 @@
+{
+    "id": "mh_y_ksads__dmdd_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_ksads__dmdd"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_ksads__dmdd__dur12mo_sx",
+            "items/mh_y_ksads__dmdd__no3mosymptfree_sx",
+            "items/mh_y_ksads__dmdd__outbrst__3perwk_sx",
+            "items/mh_y_ksads__dmdd__temper__mltset_sx",
+            "items/mh_y_ksads__dmdd__dmdd__pres_dx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_ksads__dmdd__dur12mo_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__dmdd__dur12mo_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__dmdd__no3mosymptfree_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__dmdd__no3mosymptfree_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__dmdd__outbrst__3perwk_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__dmdd__outbrst__3perwk_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__dmdd__temper__mltset_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__dmdd__temper__mltset_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__dmdd__dmdd__pres_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__dmdd__dmdd__pres_dx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

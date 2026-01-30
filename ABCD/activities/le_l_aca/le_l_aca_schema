@@ -1,0 +1,35 @@
+{
+    "id": "le_l_aca_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_aca"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_aca__addr1__acaexpand_indicator",
+            "items/le_l_aca__addr2__acaexpand_indicator",
+            "items/le_l_aca__addr3__acaexpand_indicator"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_aca__addr1__acaexpand_indicator",
+                "isVis": true,
+                "variableName": "le_l_aca__addr1__acaexpand_indicator"
+            },
+            {
+                "isAbout": "items/le_l_aca__addr2__acaexpand_indicator",
+                "isVis": true,
+                "variableName": "le_l_aca__addr2__acaexpand_indicator"
+            },
+            {
+                "isAbout": "items/le_l_aca__addr3__acaexpand_indicator",
+                "isVis": true,
+                "variableName": "le_l_aca__addr3__acaexpand_indicator"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

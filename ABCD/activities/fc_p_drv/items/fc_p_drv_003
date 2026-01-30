@@ -1,0 +1,71 @@
+{
+    "id": "fc_p_drv_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Family"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_youth_driving"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "y_spend_driving"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_p_drv"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_p_drv_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_p_drv_0010"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_p_drv"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_p_drv_003"
+    },
+    "question": {
+        "en": "On average, how much time per day does your child spend driving?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

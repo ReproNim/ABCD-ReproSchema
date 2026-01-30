@@ -1,0 +1,76 @@
+{
+    "id": "nt_y_earsq__wkdy_007",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_ears_post_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ears_post_6_y"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ears_post_6_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_earsq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_earsq__wkdy_007"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_earsq_0017"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_earsq"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_earsq__wkdy_007"
+    },
+    "question": {
+        "en": "On a typical weekday (Monday-Friday): In the past 3 weeks, how much time per day do you spend in total on your smartphone [Post-survey]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

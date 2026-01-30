@@ -1,0 +1,347 @@
+{
+    "id": "mrs_y_hermes_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mrs_y_hermes"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mrs_y_hermes_dt",
+            "items/mrs_y_hermes_age",
+            "items/mrs_y_hermes_site",
+            "items/mrs_y_hermes__delta__f0_mean",
+            "items/mrs_y_hermes__gaba_area",
+            "items/mrs_y_hermes__gaba_fwhm",
+            "items/mrs_y_hermes__gaba_snr",
+            "items/mrs_y_hermes__gaba__fiterr_prcnt",
+            "items/mrs_y_hermes__gaba__h2o__fiterr_prcnt",
+            "items/mrs_y_hermes__gaba__cre__fiterr_prcnt",
+            "items/mrs_y_hermes__gaba__h2o_ratio",
+            "items/mrs_y_hermes__gaba__cre_ratio",
+            "items/mrs_y_hermes__glx_area",
+            "items/mrs_y_hermes__glx_fwhm",
+            "items/mrs_y_hermes__glx_snr",
+            "items/mrs_y_hermes__glx__fiterr_prcnt",
+            "items/mrs_y_hermes__glx__h2o__fiterr_prcnt",
+            "items/mrs_y_hermes__glx__cre__fiterr_prcnt",
+            "items/mrs_y_hermes__glx__h2o_ratio",
+            "items/mrs_y_hermes__glx__cre_ratio",
+            "items/mrs_y_hermes__gsh_area",
+            "items/mrs_y_hermes__gsh_fwhm",
+            "items/mrs_y_hermes__gsh_snr",
+            "items/mrs_y_hermes__gsh__fiterr_prcnt",
+            "items/mrs_y_hermes__gsh__h2o__fiterr_prcnt",
+            "items/mrs_y_hermes__gsh__cre__fiterr_prcnt",
+            "items/mrs_y_hermes__gsh__h2o_ratio",
+            "items/mrs_y_hermes__gsh__cre_ratio",
+            "items/mrs_y_hermes__h2o_area",
+            "items/mrs_y_hermes__h2o_fwhm",
+            "items/mrs_y_hermes__h2o_snr",
+            "items/mrs_y_hermes__h2o__fiterr_prcnt",
+            "items/mrs_y_hermes__cre_area",
+            "items/mrs_y_hermes__cre_fwhm",
+            "items/mrs_y_hermes__cre_snr",
+            "items/mrs_y_hermes__cre__fiterr_prcnt",
+            "items/mrs_y_hermes__naa_area",
+            "items/mrs_y_hermes__naa_fwhm",
+            "items/mrs_y_hermes__naa_snr",
+            "items/mrs_y_hermes__naa__fiterr_prcnt",
+            "items/mrs_y_hermes__gm__voxvol_prop",
+            "items/mrs_y_hermes__wm__voxvol_prop",
+            "items/mrs_y_hermes__csf__voxvol_prop",
+            "items/mrs_y_hermes__gaba__csfcorr_conc",
+            "items/mrs_y_hermes__glx__csfcorr_conc",
+            "items/mrs_y_hermes__gsh__csfcorr_conc",
+            "items/mrs_y_hermes__gaba__tisscorr_conc",
+            "items/mrs_y_hermes__gaba__tisscorr__alpha_conc",
+            "items/mrs_y_hermes__gaba__tisscorr__alpha__scaled_conc",
+            "items/mrs_y_hermes__glx__tisscorr_conc",
+            "items/mrs_y_hermes__glx__tisscorr__alpha_conc",
+            "items/mrs_y_hermes__glx__tisscorr__alpha__scaled_conc",
+            "items/mrs_y_hermes__gsh__tisscorr_conc",
+            "items/mrs_y_hermes__gsh__tisscorr__alpha_conc",
+            "items/mrs_y_hermes__gsh__tisscorr__alpha__scaled_conc"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mrs_y_hermes_dt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes_dt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes_age",
+                "isVis": true,
+                "variableName": "mrs_y_hermes_age"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes_site",
+                "isVis": true,
+                "variableName": "mrs_y_hermes_site"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__delta__f0_mean",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__delta__f0_mean"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba_area",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba_area"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba_fwhm",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba_fwhm"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba_snr",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba_snr"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba__h2o__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba__h2o__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba__cre__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba__cre__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba__h2o_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba__h2o_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx_area",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx_area"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx_fwhm",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx_fwhm"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx_snr",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx_snr"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx__h2o__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx__h2o__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx__cre__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx__cre__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx__h2o_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx__h2o_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh_area",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh_area"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh_fwhm",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh_fwhm"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh_snr",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh_snr"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh__h2o__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh__h2o__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh__cre__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh__cre__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh__h2o_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh__h2o_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__h2o_area",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__h2o_area"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__h2o_fwhm",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__h2o_fwhm"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__h2o_snr",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__h2o_snr"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__h2o__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__h2o__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__cre_area",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__cre_area"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__cre_fwhm",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__cre_fwhm"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__cre_snr",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__cre_snr"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__cre__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__cre__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__naa_area",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__naa_area"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__naa_fwhm",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__naa_fwhm"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__naa_snr",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__naa_snr"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__naa__fiterr_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__naa__fiterr_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gm__voxvol_prop",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gm__voxvol_prop"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__wm__voxvol_prop",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__wm__voxvol_prop"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__csf__voxvol_prop",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__csf__voxvol_prop"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba__csfcorr_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba__csfcorr_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx__csfcorr_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx__csfcorr_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh__csfcorr_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh__csfcorr_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba__tisscorr_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba__tisscorr_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba__tisscorr__alpha_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba__tisscorr__alpha_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gaba__tisscorr__alpha__scaled_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gaba__tisscorr__alpha__scaled_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx__tisscorr_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx__tisscorr_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx__tisscorr__alpha_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx__tisscorr__alpha_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__glx__tisscorr__alpha__scaled_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__glx__tisscorr__alpha__scaled_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh__tisscorr_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh__tisscorr_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh__tisscorr__alpha_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh__tisscorr__alpha_conc"
+            },
+            {
+                "isAbout": "items/mrs_y_hermes__gsh__tisscorr__alpha__scaled_conc",
+                "isVis": true,
+                "variableName": "mrs_y_hermes__gsh__tisscorr__alpha__scaled_conc"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

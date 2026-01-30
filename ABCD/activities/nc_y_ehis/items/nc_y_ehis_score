@@ -1,0 +1,76 @@
+{
+    "id": "nc_y_ehis_score",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Administrative"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ehis01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ehi_y_ss_scoreb"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_y_ehis"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_nc_y_ehis_score.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_y_ehis_score"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_y_ehis_0008"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_y_ehis"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_y_ehis_score"
+    },
+    "question": {
+        "en": "Edinburgh Handedness Inventory [Youth] (Handedness score rating)\n[Validation: No more than 0 missing or declined]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

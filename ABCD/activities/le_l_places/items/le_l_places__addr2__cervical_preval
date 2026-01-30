@@ -1,0 +1,66 @@
+{
+    "id": "le_l_places__addr2__cervical_preval",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Community Health Burden"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr2_PLACES_cervical"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_places"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_places__addr2__cervical_preval"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_places_0036"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_places"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_places__addr2__cervical_preval"
+    },
+    "question": {
+        "en": "Cervical cancer screening among adult women aged 21-65 years; Prevalence [PLACES] (Address 2) (address 2)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,82 @@
+{
+    "id": "su_y_sui_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Patterns"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ysu02 |  |  |"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "substance_use_interviewyouth | y_substance_introduction_and_use_patterns_l | y_substance_introduction_and_use_patterns_l | y_substance_introduction_and_use_patterns_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "su_today |  |  |"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "su_today | sui_start_time | y_substance_introduction_and_use_patterns_l_start_time | su_today_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_sui"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_sui_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_sui_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_sui"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_sui_dtt"
+    },
+    "question": {
+        "en": "Substance Use Interview [Youth]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

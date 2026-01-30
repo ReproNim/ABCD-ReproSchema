@@ -1,0 +1,82 @@
+{
+    "id": "irma_y_qtn_lang",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Hurricane Irma"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Natural Disasters"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_isc01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "substudy_irma_child"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "irmasubirma_child_select_lg_1 | irmasubirma_c2_select_lg_1 | irmasubirma_c3_select_lg_1 | irmasubirma_c4_select_lg_1 | irmasubirma_c5_select_lg_1 | irmasubirma_c6_select_lg_1 | irmasubirma_c7_select_lg_1 | irmasubirma_c8_select_lg_1"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "irma_substudy_irma_child_select_language | irma_substudy_irma_c2_select_language | irma_substudy_irma_c3_select_language | irma_substudy_irma_c4_select_language | irma_substudy_irma_c5_select_language | irma_substudy_irma_c6_select_language | irma_substudy_irma_c7_select_language | irma_substudy_irma_c8_select_language"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/irma.html#irma_y_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "irma_y_qtn_lang"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "irma_y_qtn_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "irma_y_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "irma_y_qtn_lang"
+    },
+    "question": {
+        "en": "Hurricane Irma Experiences [Youth]: Language of administration"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

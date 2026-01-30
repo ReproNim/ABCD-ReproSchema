@@ -1,0 +1,101 @@
+{
+    "id": "ph_y_anthr_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ph_y_anthr"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ph_y_anthr_dtt",
+            "items/ph_y_anthr_age",
+            "items/ph_y_anthr__height__r01_001",
+            "items/ph_y_anthr__height__r02_001",
+            "items/ph_y_anthr__height__r03_001",
+            "items/ph_y_anthr__height_mean",
+            "items/ph_y_anthr__height_nm",
+            "items/ph_y_anthr__weight__cast_001",
+            "items/ph_y_anthr__weight__r01_001",
+            "items/ph_y_anthr__weight__r02_001",
+            "items/ph_y_anthr__weight__r03_001",
+            "items/ph_y_anthr__weight_mean",
+            "items/ph_y_anthr__weight_nm",
+            "items/ph_y_anthr__waist_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ph_y_anthr_dtt",
+                "isVis": true,
+                "variableName": "ph_y_anthr_dtt"
+            },
+            {
+                "isAbout": "items/ph_y_anthr_age",
+                "isVis": true,
+                "variableName": "ph_y_anthr_age"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__height__r01_001",
+                "isVis": true,
+                "variableName": "ph_y_anthr__height__r01_001"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__height__r02_001",
+                "isVis": true,
+                "variableName": "ph_y_anthr__height__r02_001"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__height__r03_001",
+                "isVis": true,
+                "variableName": "ph_y_anthr__height__r03_001"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__height_mean",
+                "isVis": true,
+                "variableName": "ph_y_anthr__height_mean"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__height_nm",
+                "isVis": true,
+                "variableName": "ph_y_anthr__height_nm"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__weight__cast_001",
+                "isVis": true,
+                "variableName": "ph_y_anthr__weight__cast_001"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__weight__r01_001",
+                "isVis": true,
+                "variableName": "ph_y_anthr__weight__r01_001"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__weight__r02_001",
+                "isVis": true,
+                "variableName": "ph_y_anthr__weight__r02_001"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__weight__r03_001",
+                "isVis": true,
+                "variableName": "ph_y_anthr__weight__r03_001"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__weight_mean",
+                "isVis": true,
+                "variableName": "ph_y_anthr__weight_mean"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__weight_nm",
+                "isVis": true,
+                "variableName": "ph_y_anthr__weight_nm"
+            },
+            {
+                "isAbout": "items/ph_y_anthr__waist_001",
+                "isVis": true,
+                "variableName": "ph_y_anthr__waist_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

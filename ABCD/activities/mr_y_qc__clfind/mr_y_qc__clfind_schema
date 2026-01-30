@@ -1,0 +1,29 @@
+{
+    "id": "mr_y_qc__clfind_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_qc__clfind"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_qc__clfind__prev_score",
+            "items/mr_y_qc__clfind_score"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_qc__clfind__prev_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__clfind__prev_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__clfind_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__clfind_score"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,2117 @@
+{
+    "id": "covid_l_geosg_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "covid_l_geosg"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/covid_l_geosg__addr1__devathome1yrp_prop__db0",
+            "items/covid_l_geosg__addr1__devathome1yrp_prop__db1",
+            "items/covid_l_geosg__addr1__devathome1yrp_prop__db2",
+            "items/covid_l_geosg__addr1__devathome1yrp_prop__db3",
+            "items/covid_l_geosg__addr1__devathome1yrp_prop__db4",
+            "items/covid_l_geosg__addr1__devathome1yrp_prop__db5",
+            "items/covid_l_geosg__addr1__devathome1yrp_prop__db6",
+            "items/covid_l_geosg__addr1__devathome_prop__db0",
+            "items/covid_l_geosg__addr1__devathome_prop__db1",
+            "items/covid_l_geosg__addr1__devathome_prop__db2",
+            "items/covid_l_geosg__addr1__devathome_prop__db3",
+            "items/covid_l_geosg__addr1__devathome_prop__db4",
+            "items/covid_l_geosg__addr1__devathome_prop__db5",
+            "items/covid_l_geosg__addr1__devathome_prop__db6",
+            "items/covid_l_geosg__addr1__disttravel1yrp_med__db0",
+            "items/covid_l_geosg__addr1__disttravel1yrp_med__db1",
+            "items/covid_l_geosg__addr1__disttravel1yrp_med__db2",
+            "items/covid_l_geosg__addr1__disttravel1yrp_med__db3",
+            "items/covid_l_geosg__addr1__disttravel1yrp_med__db4",
+            "items/covid_l_geosg__addr1__disttravel1yrp_med__db5",
+            "items/covid_l_geosg__addr1__disttravel1yrp_med__db6",
+            "items/covid_l_geosg__addr1__disttravel_med__db0",
+            "items/covid_l_geosg__addr1__disttravel_med__db1",
+            "items/covid_l_geosg__addr1__disttravel_med__db2",
+            "items/covid_l_geosg__addr1__disttravel_med__db3",
+            "items/covid_l_geosg__addr1__disttravel_med__db4",
+            "items/covid_l_geosg__addr1__disttravel_med__db5",
+            "items/covid_l_geosg__addr1__disttravel_med__db6",
+            "items/covid_l_geosg__addr1__ftwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr1__ftwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr1__ftwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr1__ftwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr1__ftwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr1__ftwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr1__ftwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr1__ftwork_prop__db0",
+            "items/covid_l_geosg__addr1__ftwork_prop__db1",
+            "items/covid_l_geosg__addr1__ftwork_prop__db2",
+            "items/covid_l_geosg__addr1__ftwork_prop__db3",
+            "items/covid_l_geosg__addr1__ftwork_prop__db4",
+            "items/covid_l_geosg__addr1__ftwork_prop__db5",
+            "items/covid_l_geosg__addr1__ftwork_prop__db6",
+            "items/covid_l_geosg__addr1__homedwell1yrp_dur__db0",
+            "items/covid_l_geosg__addr1__homedwell1yrp_dur__db1",
+            "items/covid_l_geosg__addr1__homedwell1yrp_dur__db2",
+            "items/covid_l_geosg__addr1__homedwell1yrp_dur__db3",
+            "items/covid_l_geosg__addr1__homedwell1yrp_dur__db4",
+            "items/covid_l_geosg__addr1__homedwell1yrp_dur__db5",
+            "items/covid_l_geosg__addr1__homedwell1yrp_dur__db6",
+            "items/covid_l_geosg__addr1__homedwell_dur__db0",
+            "items/covid_l_geosg__addr1__homedwell_dur__db1",
+            "items/covid_l_geosg__addr1__homedwell_dur__db2",
+            "items/covid_l_geosg__addr1__homedwell_dur__db3",
+            "items/covid_l_geosg__addr1__homedwell_dur__db4",
+            "items/covid_l_geosg__addr1__homedwell_dur__db5",
+            "items/covid_l_geosg__addr1__homedwell_dur__db6",
+            "items/covid_l_geosg__addr1__ptwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr1__ptwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr1__ptwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr1__ptwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr1__ptwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr1__ptwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr1__ptwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr1__ptwork_prop__db0",
+            "items/covid_l_geosg__addr1__ptwork_prop__db1",
+            "items/covid_l_geosg__addr1__ptwork_prop__db2",
+            "items/covid_l_geosg__addr1__ptwork_prop__db3",
+            "items/covid_l_geosg__addr1__ptwork_prop__db4",
+            "items/covid_l_geosg__addr1__ptwork_prop__db5",
+            "items/covid_l_geosg__addr1__ptwork_prop__db6",
+            "items/covid_l_geosg__addr2__devathome1yrp_prop__db0",
+            "items/covid_l_geosg__addr2__devathome1yrp_prop__db1",
+            "items/covid_l_geosg__addr2__devathome1yrp_prop__db2",
+            "items/covid_l_geosg__addr2__devathome1yrp_prop__db3",
+            "items/covid_l_geosg__addr2__devathome1yrp_prop__db4",
+            "items/covid_l_geosg__addr2__devathome1yrp_prop__db5",
+            "items/covid_l_geosg__addr2__devathome1yrp_prop__db6",
+            "items/covid_l_geosg__addr2__devathome_prop__db0",
+            "items/covid_l_geosg__addr2__devathome_prop__db1",
+            "items/covid_l_geosg__addr2__devathome_prop__db2",
+            "items/covid_l_geosg__addr2__devathome_prop__db3",
+            "items/covid_l_geosg__addr2__devathome_prop__db4",
+            "items/covid_l_geosg__addr2__devathome_prop__db5",
+            "items/covid_l_geosg__addr2__devathome_prop__db6",
+            "items/covid_l_geosg__addr2__disttravel1yrp_med__db0",
+            "items/covid_l_geosg__addr2__disttravel1yrp_med__db1",
+            "items/covid_l_geosg__addr2__disttravel1yrp_med__db2",
+            "items/covid_l_geosg__addr2__disttravel1yrp_med__db3",
+            "items/covid_l_geosg__addr2__disttravel1yrp_med__db4",
+            "items/covid_l_geosg__addr2__disttravel1yrp_med__db5",
+            "items/covid_l_geosg__addr2__disttravel1yrp_med__db6",
+            "items/covid_l_geosg__addr2__disttravel_med__db0",
+            "items/covid_l_geosg__addr2__disttravel_med__db1",
+            "items/covid_l_geosg__addr2__disttravel_med__db2",
+            "items/covid_l_geosg__addr2__disttravel_med__db3",
+            "items/covid_l_geosg__addr2__disttravel_med__db4",
+            "items/covid_l_geosg__addr2__disttravel_med__db5",
+            "items/covid_l_geosg__addr2__disttravel_med__db6",
+            "items/covid_l_geosg__addr2__ftwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr2__ftwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr2__ftwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr2__ftwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr2__ftwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr2__ftwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr2__ftwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr2__ftwork_prop__db0",
+            "items/covid_l_geosg__addr2__ftwork_prop__db1",
+            "items/covid_l_geosg__addr2__ftwork_prop__db2",
+            "items/covid_l_geosg__addr2__ftwork_prop__db3",
+            "items/covid_l_geosg__addr2__ftwork_prop__db4",
+            "items/covid_l_geosg__addr2__ftwork_prop__db5",
+            "items/covid_l_geosg__addr2__ftwork_prop__db6",
+            "items/covid_l_geosg__addr2__homedwell1yrp_dur__db0",
+            "items/covid_l_geosg__addr2__homedwell1yrp_dur__db1",
+            "items/covid_l_geosg__addr2__homedwell1yrp_dur__db2",
+            "items/covid_l_geosg__addr2__homedwell1yrp_dur__db3",
+            "items/covid_l_geosg__addr2__homedwell1yrp_dur__db4",
+            "items/covid_l_geosg__addr2__homedwell1yrp_dur__db5",
+            "items/covid_l_geosg__addr2__homedwell1yrp_dur__db6",
+            "items/covid_l_geosg__addr2__homedwell_dur__db0",
+            "items/covid_l_geosg__addr2__homedwell_dur__db1",
+            "items/covid_l_geosg__addr2__homedwell_dur__db2",
+            "items/covid_l_geosg__addr2__homedwell_dur__db3",
+            "items/covid_l_geosg__addr2__homedwell_dur__db4",
+            "items/covid_l_geosg__addr2__homedwell_dur__db5",
+            "items/covid_l_geosg__addr2__homedwell_dur__db6",
+            "items/covid_l_geosg__addr2__ptwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr2__ptwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr2__ptwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr2__ptwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr2__ptwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr2__ptwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr2__ptwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr2__ptwork_prop__db0",
+            "items/covid_l_geosg__addr2__ptwork_prop__db1",
+            "items/covid_l_geosg__addr2__ptwork_prop__db2",
+            "items/covid_l_geosg__addr2__ptwork_prop__db3",
+            "items/covid_l_geosg__addr2__ptwork_prop__db4",
+            "items/covid_l_geosg__addr2__ptwork_prop__db5",
+            "items/covid_l_geosg__addr2__ptwork_prop__db6",
+            "items/covid_l_geosg__addr3__devathome1yrp_prop__db0",
+            "items/covid_l_geosg__addr3__devathome1yrp_prop__db1",
+            "items/covid_l_geosg__addr3__devathome1yrp_prop__db2",
+            "items/covid_l_geosg__addr3__devathome1yrp_prop__db3",
+            "items/covid_l_geosg__addr3__devathome1yrp_prop__db4",
+            "items/covid_l_geosg__addr3__devathome1yrp_prop__db5",
+            "items/covid_l_geosg__addr3__devathome1yrp_prop__db6",
+            "items/covid_l_geosg__addr3__devathome_prop__db0",
+            "items/covid_l_geosg__addr3__devathome_prop__db1",
+            "items/covid_l_geosg__addr3__devathome_prop__db2",
+            "items/covid_l_geosg__addr3__devathome_prop__db3",
+            "items/covid_l_geosg__addr3__devathome_prop__db4",
+            "items/covid_l_geosg__addr3__devathome_prop__db5",
+            "items/covid_l_geosg__addr3__devathome_prop__db6",
+            "items/covid_l_geosg__addr3__disttravel1yrp_med__db0",
+            "items/covid_l_geosg__addr3__disttravel1yrp_med__db1",
+            "items/covid_l_geosg__addr3__disttravel1yrp_med__db2",
+            "items/covid_l_geosg__addr3__disttravel1yrp_med__db3",
+            "items/covid_l_geosg__addr3__disttravel1yrp_med__db4",
+            "items/covid_l_geosg__addr3__disttravel1yrp_med__db5",
+            "items/covid_l_geosg__addr3__disttravel1yrp_med__db6",
+            "items/covid_l_geosg__addr3__disttravel_med__db0",
+            "items/covid_l_geosg__addr3__disttravel_med__db1",
+            "items/covid_l_geosg__addr3__disttravel_med__db2",
+            "items/covid_l_geosg__addr3__disttravel_med__db3",
+            "items/covid_l_geosg__addr3__disttravel_med__db4",
+            "items/covid_l_geosg__addr3__disttravel_med__db5",
+            "items/covid_l_geosg__addr3__disttravel_med__db6",
+            "items/covid_l_geosg__addr3__ftwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr3__ftwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr3__ftwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr3__ftwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr3__ftwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr3__ftwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr3__ftwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr3__ftwork_prop__db0",
+            "items/covid_l_geosg__addr3__ftwork_prop__db1",
+            "items/covid_l_geosg__addr3__ftwork_prop__db2",
+            "items/covid_l_geosg__addr3__ftwork_prop__db3",
+            "items/covid_l_geosg__addr3__ftwork_prop__db4",
+            "items/covid_l_geosg__addr3__ftwork_prop__db5",
+            "items/covid_l_geosg__addr3__ftwork_prop__db6",
+            "items/covid_l_geosg__addr3__homedwell1yrp_dur__db0",
+            "items/covid_l_geosg__addr3__homedwell1yrp_dur__db1",
+            "items/covid_l_geosg__addr3__homedwell1yrp_dur__db2",
+            "items/covid_l_geosg__addr3__homedwell1yrp_dur__db3",
+            "items/covid_l_geosg__addr3__homedwell1yrp_dur__db4",
+            "items/covid_l_geosg__addr3__homedwell1yrp_dur__db5",
+            "items/covid_l_geosg__addr3__homedwell1yrp_dur__db6",
+            "items/covid_l_geosg__addr3__homedwell_dur__db0",
+            "items/covid_l_geosg__addr3__homedwell_dur__db1",
+            "items/covid_l_geosg__addr3__homedwell_dur__db2",
+            "items/covid_l_geosg__addr3__homedwell_dur__db3",
+            "items/covid_l_geosg__addr3__homedwell_dur__db4",
+            "items/covid_l_geosg__addr3__homedwell_dur__db5",
+            "items/covid_l_geosg__addr3__homedwell_dur__db6",
+            "items/covid_l_geosg__addr3__ptwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr3__ptwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr3__ptwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr3__ptwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr3__ptwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr3__ptwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr3__ptwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr3__ptwork_prop__db0",
+            "items/covid_l_geosg__addr3__ptwork_prop__db1",
+            "items/covid_l_geosg__addr3__ptwork_prop__db2",
+            "items/covid_l_geosg__addr3__ptwork_prop__db3",
+            "items/covid_l_geosg__addr3__ptwork_prop__db4",
+            "items/covid_l_geosg__addr3__ptwork_prop__db5",
+            "items/covid_l_geosg__addr3__ptwork_prop__db6",
+            "items/covid_l_geosg__addr4__devathome1yrp_prop__db0",
+            "items/covid_l_geosg__addr4__devathome1yrp_prop__db1",
+            "items/covid_l_geosg__addr4__devathome1yrp_prop__db2",
+            "items/covid_l_geosg__addr4__devathome1yrp_prop__db3",
+            "items/covid_l_geosg__addr4__devathome1yrp_prop__db4",
+            "items/covid_l_geosg__addr4__devathome1yrp_prop__db5",
+            "items/covid_l_geosg__addr4__devathome1yrp_prop__db6",
+            "items/covid_l_geosg__addr4__devathome_prop__db0",
+            "items/covid_l_geosg__addr4__devathome_prop__db1",
+            "items/covid_l_geosg__addr4__devathome_prop__db2",
+            "items/covid_l_geosg__addr4__devathome_prop__db3",
+            "items/covid_l_geosg__addr4__devathome_prop__db4",
+            "items/covid_l_geosg__addr4__devathome_prop__db5",
+            "items/covid_l_geosg__addr4__devathome_prop__db6",
+            "items/covid_l_geosg__addr4__disttravel1yrp_med__db0",
+            "items/covid_l_geosg__addr4__disttravel1yrp_med__db1",
+            "items/covid_l_geosg__addr4__disttravel1yrp_med__db2",
+            "items/covid_l_geosg__addr4__disttravel1yrp_med__db3",
+            "items/covid_l_geosg__addr4__disttravel1yrp_med__db4",
+            "items/covid_l_geosg__addr4__disttravel1yrp_med__db5",
+            "items/covid_l_geosg__addr4__disttravel1yrp_med__db6",
+            "items/covid_l_geosg__addr4__disttravel_med__db0",
+            "items/covid_l_geosg__addr4__disttravel_med__db1",
+            "items/covid_l_geosg__addr4__disttravel_med__db2",
+            "items/covid_l_geosg__addr4__disttravel_med__db3",
+            "items/covid_l_geosg__addr4__disttravel_med__db4",
+            "items/covid_l_geosg__addr4__disttravel_med__db5",
+            "items/covid_l_geosg__addr4__disttravel_med__db6",
+            "items/covid_l_geosg__addr4__ftwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr4__ftwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr4__ftwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr4__ftwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr4__ftwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr4__ftwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr4__ftwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr4__ftwork_prop__db0",
+            "items/covid_l_geosg__addr4__ftwork_prop__db1",
+            "items/covid_l_geosg__addr4__ftwork_prop__db2",
+            "items/covid_l_geosg__addr4__ftwork_prop__db3",
+            "items/covid_l_geosg__addr4__ftwork_prop__db4",
+            "items/covid_l_geosg__addr4__ftwork_prop__db5",
+            "items/covid_l_geosg__addr4__ftwork_prop__db6",
+            "items/covid_l_geosg__addr4__homedwell1yrp_dur__db0",
+            "items/covid_l_geosg__addr4__homedwell1yrp_dur__db1",
+            "items/covid_l_geosg__addr4__homedwell1yrp_dur__db2",
+            "items/covid_l_geosg__addr4__homedwell1yrp_dur__db3",
+            "items/covid_l_geosg__addr4__homedwell1yrp_dur__db4",
+            "items/covid_l_geosg__addr4__homedwell1yrp_dur__db5",
+            "items/covid_l_geosg__addr4__homedwell1yrp_dur__db6",
+            "items/covid_l_geosg__addr4__homedwell_dur__db0",
+            "items/covid_l_geosg__addr4__homedwell_dur__db1",
+            "items/covid_l_geosg__addr4__homedwell_dur__db2",
+            "items/covid_l_geosg__addr4__homedwell_dur__db3",
+            "items/covid_l_geosg__addr4__homedwell_dur__db4",
+            "items/covid_l_geosg__addr4__homedwell_dur__db5",
+            "items/covid_l_geosg__addr4__homedwell_dur__db6",
+            "items/covid_l_geosg__addr4__ptwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr4__ptwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr4__ptwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr4__ptwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr4__ptwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr4__ptwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr4__ptwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr4__ptwork_prop__db0",
+            "items/covid_l_geosg__addr4__ptwork_prop__db1",
+            "items/covid_l_geosg__addr4__ptwork_prop__db2",
+            "items/covid_l_geosg__addr4__ptwork_prop__db3",
+            "items/covid_l_geosg__addr4__ptwork_prop__db4",
+            "items/covid_l_geosg__addr4__ptwork_prop__db5",
+            "items/covid_l_geosg__addr4__ptwork_prop__db6",
+            "items/covid_l_geosg__addr5__devathome1yrp_prop__db0",
+            "items/covid_l_geosg__addr5__devathome1yrp_prop__db1",
+            "items/covid_l_geosg__addr5__devathome1yrp_prop__db2",
+            "items/covid_l_geosg__addr5__devathome1yrp_prop__db3",
+            "items/covid_l_geosg__addr5__devathome1yrp_prop__db4",
+            "items/covid_l_geosg__addr5__devathome1yrp_prop__db5",
+            "items/covid_l_geosg__addr5__devathome1yrp_prop__db6",
+            "items/covid_l_geosg__addr5__devathome_prop__db0",
+            "items/covid_l_geosg__addr5__devathome_prop__db1",
+            "items/covid_l_geosg__addr5__devathome_prop__db2",
+            "items/covid_l_geosg__addr5__devathome_prop__db3",
+            "items/covid_l_geosg__addr5__devathome_prop__db4",
+            "items/covid_l_geosg__addr5__devathome_prop__db5",
+            "items/covid_l_geosg__addr5__devathome_prop__db6",
+            "items/covid_l_geosg__addr5__disttravel1yrp_med__db0",
+            "items/covid_l_geosg__addr5__disttravel1yrp_med__db1",
+            "items/covid_l_geosg__addr5__disttravel1yrp_med__db2",
+            "items/covid_l_geosg__addr5__disttravel1yrp_med__db3",
+            "items/covid_l_geosg__addr5__disttravel1yrp_med__db4",
+            "items/covid_l_geosg__addr5__disttravel1yrp_med__db5",
+            "items/covid_l_geosg__addr5__disttravel1yrp_med__db6",
+            "items/covid_l_geosg__addr5__disttravel_med__db0",
+            "items/covid_l_geosg__addr5__disttravel_med__db1",
+            "items/covid_l_geosg__addr5__disttravel_med__db2",
+            "items/covid_l_geosg__addr5__disttravel_med__db3",
+            "items/covid_l_geosg__addr5__disttravel_med__db4",
+            "items/covid_l_geosg__addr5__disttravel_med__db5",
+            "items/covid_l_geosg__addr5__disttravel_med__db6",
+            "items/covid_l_geosg__addr5__ftwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr5__ftwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr5__ftwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr5__ftwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr5__ftwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr5__ftwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr5__ftwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr5__ftwork_prop__db0",
+            "items/covid_l_geosg__addr5__ftwork_prop__db1",
+            "items/covid_l_geosg__addr5__ftwork_prop__db2",
+            "items/covid_l_geosg__addr5__ftwork_prop__db3",
+            "items/covid_l_geosg__addr5__ftwork_prop__db4",
+            "items/covid_l_geosg__addr5__ftwork_prop__db5",
+            "items/covid_l_geosg__addr5__ftwork_prop__db6",
+            "items/covid_l_geosg__addr5__homedwell1yrp_dur__db0",
+            "items/covid_l_geosg__addr5__homedwell1yrp_dur__db1",
+            "items/covid_l_geosg__addr5__homedwell1yrp_dur__db2",
+            "items/covid_l_geosg__addr5__homedwell1yrp_dur__db3",
+            "items/covid_l_geosg__addr5__homedwell1yrp_dur__db4",
+            "items/covid_l_geosg__addr5__homedwell1yrp_dur__db5",
+            "items/covid_l_geosg__addr5__homedwell1yrp_dur__db6",
+            "items/covid_l_geosg__addr5__homedwell_dur__db0",
+            "items/covid_l_geosg__addr5__homedwell_dur__db1",
+            "items/covid_l_geosg__addr5__homedwell_dur__db2",
+            "items/covid_l_geosg__addr5__homedwell_dur__db3",
+            "items/covid_l_geosg__addr5__homedwell_dur__db4",
+            "items/covid_l_geosg__addr5__homedwell_dur__db5",
+            "items/covid_l_geosg__addr5__homedwell_dur__db6",
+            "items/covid_l_geosg__addr5__ptwork1yrp_prop__db0",
+            "items/covid_l_geosg__addr5__ptwork1yrp_prop__db1",
+            "items/covid_l_geosg__addr5__ptwork1yrp_prop__db2",
+            "items/covid_l_geosg__addr5__ptwork1yrp_prop__db3",
+            "items/covid_l_geosg__addr5__ptwork1yrp_prop__db4",
+            "items/covid_l_geosg__addr5__ptwork1yrp_prop__db5",
+            "items/covid_l_geosg__addr5__ptwork1yrp_prop__db6",
+            "items/covid_l_geosg__addr5__ptwork_prop__db0",
+            "items/covid_l_geosg__addr5__ptwork_prop__db1",
+            "items/covid_l_geosg__addr5__ptwork_prop__db2",
+            "items/covid_l_geosg__addr5__ptwork_prop__db3",
+            "items/covid_l_geosg__addr5__ptwork_prop__db4",
+            "items/covid_l_geosg__addr5__ptwork_prop__db5",
+            "items/covid_l_geosg__addr5__ptwork_prop__db6"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__devathome_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__devathome_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel1yrp_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel1yrp_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel1yrp_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel1yrp_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel1yrp_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel1yrp_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel1yrp_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel1yrp_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel1yrp_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel1yrp_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel1yrp_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel1yrp_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel1yrp_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel1yrp_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__disttravel_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__disttravel_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ftwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ftwork_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell1yrp_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell1yrp_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell1yrp_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell1yrp_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell1yrp_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell1yrp_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell1yrp_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell1yrp_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell1yrp_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell1yrp_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell1yrp_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell1yrp_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell1yrp_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell1yrp_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__homedwell_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__homedwell_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr1__ptwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr1__ptwork_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__devathome_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__devathome_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel1yrp_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel1yrp_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel1yrp_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel1yrp_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel1yrp_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel1yrp_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel1yrp_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel1yrp_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel1yrp_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel1yrp_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel1yrp_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel1yrp_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel1yrp_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel1yrp_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__disttravel_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__disttravel_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ftwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ftwork_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell1yrp_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell1yrp_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell1yrp_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell1yrp_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell1yrp_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell1yrp_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell1yrp_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell1yrp_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell1yrp_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell1yrp_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell1yrp_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell1yrp_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell1yrp_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell1yrp_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__homedwell_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__homedwell_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr2__ptwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr2__ptwork_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__devathome_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__devathome_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel1yrp_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel1yrp_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel1yrp_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel1yrp_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel1yrp_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel1yrp_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel1yrp_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel1yrp_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel1yrp_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel1yrp_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel1yrp_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel1yrp_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel1yrp_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel1yrp_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__disttravel_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__disttravel_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ftwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ftwork_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell1yrp_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell1yrp_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell1yrp_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell1yrp_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell1yrp_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell1yrp_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell1yrp_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell1yrp_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell1yrp_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell1yrp_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell1yrp_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell1yrp_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell1yrp_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell1yrp_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__homedwell_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__homedwell_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr3__ptwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr3__ptwork_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__devathome_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__devathome_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel1yrp_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel1yrp_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel1yrp_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel1yrp_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel1yrp_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel1yrp_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel1yrp_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel1yrp_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel1yrp_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel1yrp_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel1yrp_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel1yrp_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel1yrp_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel1yrp_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__disttravel_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__disttravel_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ftwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ftwork_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell1yrp_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell1yrp_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell1yrp_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell1yrp_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell1yrp_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell1yrp_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell1yrp_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell1yrp_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell1yrp_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell1yrp_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell1yrp_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell1yrp_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell1yrp_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell1yrp_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__homedwell_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__homedwell_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr4__ptwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr4__ptwork_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__devathome_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__devathome_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel1yrp_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel1yrp_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel1yrp_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel1yrp_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel1yrp_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel1yrp_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel1yrp_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel1yrp_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel1yrp_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel1yrp_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel1yrp_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel1yrp_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel1yrp_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel1yrp_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel_med__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel_med__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel_med__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel_med__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel_med__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel_med__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel_med__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel_med__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel_med__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel_med__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel_med__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel_med__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__disttravel_med__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__disttravel_med__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ftwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ftwork_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell1yrp_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell1yrp_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell1yrp_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell1yrp_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell1yrp_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell1yrp_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell1yrp_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell1yrp_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell1yrp_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell1yrp_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell1yrp_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell1yrp_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell1yrp_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell1yrp_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell_dur__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell_dur__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell_dur__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell_dur__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell_dur__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell_dur__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell_dur__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell_dur__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell_dur__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell_dur__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell_dur__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell_dur__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__homedwell_dur__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__homedwell_dur__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork1yrp_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork1yrp_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork1yrp_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork1yrp_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork1yrp_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork1yrp_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork1yrp_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork1yrp_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork1yrp_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork1yrp_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork1yrp_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork1yrp_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork1yrp_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork1yrp_prop__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork_prop__db0",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork_prop__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork_prop__db1",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork_prop__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork_prop__db2",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork_prop__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork_prop__db3",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork_prop__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork_prop__db4",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork_prop__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork_prop__db5",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork_prop__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geosg__addr5__ptwork_prop__db6",
+                "isVis": true,
+                "variableName": "covid_l_geosg__addr5__ptwork_prop__db6"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

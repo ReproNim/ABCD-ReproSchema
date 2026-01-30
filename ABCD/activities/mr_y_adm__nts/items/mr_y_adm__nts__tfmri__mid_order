@@ -1,0 +1,82 @@
+{
+    "id": "mr_y_adm__nts__tfmri__mid_order",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Administrative"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ra01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "ra_scanning_checklist_and_notes"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ra_scan_check_list_mido"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ra_scan_check_list_mido"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/adm.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_adm__nts__tfmri__mid_order"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_adm_nts_0006"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_adm__nts"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_adm__nts__tfmri__mid_order"
+    },
+    "question": {
+        "en": "Task fMRI - Monetary Incentive Delay task: Order"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,86 @@
+{
+    "id": "ecb_y_ecb_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "RA: note time, in hours; 30 minutes=0.5; 12 hours max"
+        },
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "hours (h)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Endocannabinoid"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "ecb_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ecbq_drink"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ecbq_drink"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/ecb.html#ecb_y_ecb"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ecb_y_ecb_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ecb_y_ecb_0005"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ecb_y_ecb"
+        }
+    ],
+    "prefLabel": {
+        "en": "ecb_y_ecb_002"
+    },
+    "question": {
+        "en": "Endocannabinoid Substudy: How long ago did you last have a drink besides water, such as juice, milk, or non-diet soda?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

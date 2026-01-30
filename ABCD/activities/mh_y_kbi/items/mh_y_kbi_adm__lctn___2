@@ -1,0 +1,72 @@
+{
+    "id": "mh_y_kbi_adm__lctn___2",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosocial"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "ksads_admin"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "kbi_admin_room_6yr"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_kbi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_kbi_adm__lctn___2"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_kbi_0005"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_kbi"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_kbi_adm__lctn___2"
+    },
+    "question": {
+        "en": "KSADS Module: Location of administration (In- person visit) [Multi-select]: Different room"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

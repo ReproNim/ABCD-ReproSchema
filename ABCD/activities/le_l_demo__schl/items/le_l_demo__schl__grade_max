@@ -1,0 +1,71 @@
+{
+    "id": "le_l_demo__schl__grade_max",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "School (Demographics)"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "led_school_part_101"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "led_sch_seda_s_maxgrd"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#SEDA"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_demo__schl__grade_max"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_demo_schl_0011"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_demo__schl"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_demo__schl__grade_max"
+    },
+    "question": {
+        "en": "Max grade (of grades 3-8) [SEDA (CCD, 2018); School]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

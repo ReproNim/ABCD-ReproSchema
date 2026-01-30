@@ -1,0 +1,35 @@
+{
+    "id": "le_l_elevation_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_elevation"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_elevation__addr1__elevation_m",
+            "items/le_l_elevation__addr2__elevation_m",
+            "items/le_l_elevation__addr3__elevation_m"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_elevation__addr1__elevation_m",
+                "isVis": true,
+                "variableName": "le_l_elevation__addr1__elevation_m"
+            },
+            {
+                "isAbout": "items/le_l_elevation__addr2__elevation_m",
+                "isVis": true,
+                "variableName": "le_l_elevation__addr2__elevation_m"
+            },
+            {
+                "isAbout": "items/le_l_elevation__addr3__elevation_m",
+                "isVis": true,
+                "variableName": "le_l_elevation__addr3__elevation_m"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,86 @@
+{
+    "id": "ph_p_ipaq_004__02",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "minutes (min)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Physical Activity"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "internat_physical_activ01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "international_physical_activity_q"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ipaq_inactive_min"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ipaq_inactive_min"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_ipaq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_ipaq_004__02"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_ipaq_0018"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_ipaq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_ipaq_004__02"
+    },
+    "question": {
+        "en": "During the last 7 days, how much time did you spend sitting on a week day: Minutes?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

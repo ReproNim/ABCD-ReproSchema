@@ -1,0 +1,71 @@
+{
+    "id": "le_l_pool__metro__ols__neg_diff",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "School (Math & Reading)"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "led_school_part_501"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ledsch_seda_m_mn_mth_ol_neg"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#SEDA"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_pool__metro__ols__neg_diff"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_pool_metro_0133"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_pool__metro"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_pool__metro__ols__neg_diff"
+    },
+    "question": {
+        "en": "Difference in mean test-based achievement, Math & RLA (pool), OLS, non-economically disadvantaged-economically disadvantaged gap [SEDA (HLM using SEDA HETOP est); Metro]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

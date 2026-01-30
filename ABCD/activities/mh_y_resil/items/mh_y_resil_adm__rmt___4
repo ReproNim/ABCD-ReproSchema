@@ -1,0 +1,82 @@
+{
+    "id": "mh_y_resil_adm__rmt___4",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Peers"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ysr01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "youth_resiliency_scale_yrsyouth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "resiliency_remote___4"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "resiliency_remote"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_resil"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_resil_adm__rmt___4"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_resil_0010"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_resil"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_resil_adm__rmt___4"
+    },
+    "question": {
+        "en": "Other Resilience: Method of administration (Remote visit) [Multi-select]: In Person"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,173 @@
+{
+    "id": "le_l_demo__schl_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_demo__schl"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_demo__schl__asian_prop",
+            "items/le_l_demo__schl__black_prop",
+            "items/le_l_demo__schl__disab_prop",
+            "items/le_l_demo__schl__disabidea_prop",
+            "items/le_l_demo__schl__ecd_prop",
+            "items/le_l_demo__schl__enrl_mean",
+            "items/le_l_demo__schl__fl_prop",
+            "items/le_l_demo__schl__frl_prop",
+            "items/le_l_demo__schl__gifted_indicator",
+            "items/le_l_demo__schl__gifted_prop",
+            "items/le_l_demo__schl__grade_max",
+            "items/le_l_demo__schl__grade_min",
+            "items/le_l_demo__schl__hisp_prop",
+            "items/le_l_demo__schl__lep_indicator",
+            "items/le_l_demo__schl__lep_prop",
+            "items/le_l_demo__schl__ntvam_prop",
+            "items/le_l_demo__schl__rl_prop",
+            "items/le_l_demo__schl__schlspeced_indicator",
+            "items/le_l_demo__schl__speced_indicator",
+            "items/le_l_demo__schl__specedidea_indicator",
+            "items/le_l_demo__schl__urbanicity_locale",
+            "items/le_l_demo__schl__white_prop",
+            "items/le_l_demo__schl_charter",
+            "items/le_l_demo__schl_level",
+            "items/le_l_demo__schl_magnet",
+            "items/le_l_demo__schl_type"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_demo__schl__asian_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__asian_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__black_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__black_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__disab_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__disab_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__disabidea_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__disabidea_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__ecd_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__ecd_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__enrl_mean",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__enrl_mean"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__fl_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__fl_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__frl_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__frl_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__gifted_indicator",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__gifted_indicator"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__gifted_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__gifted_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__grade_max",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__grade_max"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__grade_min",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__grade_min"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__hisp_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__hisp_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__lep_indicator",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__lep_indicator"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__lep_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__lep_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__ntvam_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__ntvam_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__rl_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__rl_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__schlspeced_indicator",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__schlspeced_indicator"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__speced_indicator",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__speced_indicator"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__specedidea_indicator",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__specedidea_indicator"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__urbanicity_locale",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__urbanicity_locale"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl__white_prop",
+                "isVis": true,
+                "variableName": "le_l_demo__schl__white_prop"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl_charter",
+                "isVis": true,
+                "variableName": "le_l_demo__schl_charter"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl_level",
+                "isVis": true,
+                "variableName": "le_l_demo__schl_level"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl_magnet",
+                "isVis": true,
+                "variableName": "le_l_demo__schl_magnet"
+            },
+            {
+                "isAbout": "items/le_l_demo__schl_type",
+                "isVis": true,
+                "variableName": "le_l_demo__schl_type"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

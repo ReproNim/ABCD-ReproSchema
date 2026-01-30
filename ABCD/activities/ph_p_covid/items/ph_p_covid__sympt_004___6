@@ -1,0 +1,71 @@
+{
+    "id": "ph_p_covid__sympt_004___6",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_abcd_covid19_questionnaire_annual"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "covid_child_symp_med_list"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_covid"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_covid__sympt_004___6"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_covid_0148"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_covid"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_covid__sympt_004___6"
+    },
+    "question": {
+        "en": "Did you child ever take medications to help decrease the symptoms of COVID? [Multi-select]: Oral steroids at home"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

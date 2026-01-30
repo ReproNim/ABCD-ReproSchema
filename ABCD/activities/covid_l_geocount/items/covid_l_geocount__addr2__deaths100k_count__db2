@@ -1,0 +1,66 @@
+{
+    "id": "covid_l_geocount__addr2__deaths100k_count__db2",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Geocoded Data"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr2_covidgeo_jhu_deaths100k_db2"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_l_geocount"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_l_geocount__addr2__deaths100k_count__db2"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_l_geocount_0087"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_l_geocount"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_l_geocount__addr2__deaths100k_count__db2"
+    },
+    "question": {
+        "en": "Johns Hopkins COVID-19 cumulative death count normalized by population (per 100k) county-level. 2 days before questionnaire dissemenation date (Address 2)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

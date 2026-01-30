@@ -1,0 +1,701 @@
+{
+    "id": "mr_y_qc__mot_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_qc__mot"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_qc__mot__dmri__mot_mean",
+            "items/mr_y_qc__mot__dmri__rotat_mean",
+            "items/mr_y_qc__mot__dmri__trans_mean",
+            "items/mr_y_qc__mot__rsfmri__frame_count",
+            "items/mr_y_qc__mot__rsfmri__mot_max",
+            "items/mr_y_qc__mot__rsfmri__mot_mean",
+            "items/mr_y_qc__mot__rsfmri__point_count",
+            "items/mr_y_qc__mot__rsfmri__rotat_max",
+            "items/mr_y_qc__mot__rsfmri__rotat_mean",
+            "items/mr_y_qc__mot__rsfmri__tr_mean",
+            "items/mr_y_qc__mot__rsfmri__trans_max",
+            "items/mr_y_qc__mot__rsfmri__trans_mean",
+            "items/mr_y_qc__mot__rsfmri__vol__fdsub__contig_count",
+            "items/mr_y_qc__mot__rsfmri__vol__fdsub_count",
+            "items/mr_y_qc__mot__rsfmri__vol_count",
+            "items/mr_y_qc__mot__tfmri__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__mid__frame_count",
+            "items/mr_y_qc__mot__tfmri__mid__r01__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__mid__r01__frame_count",
+            "items/mr_y_qc__mot__tfmri__mid__r01__mot_max",
+            "items/mr_y_qc__mot__tfmri__mid__r01__mot_mean",
+            "items/mr_y_qc__mot__tfmri__mid__r01__rotat_max",
+            "items/mr_y_qc__mot__tfmri__mid__r01__rotat_mean",
+            "items/mr_y_qc__mot__tfmri__mid__r01__trans_max",
+            "items/mr_y_qc__mot__tfmri__mid__r01__trans_mean",
+            "items/mr_y_qc__mot__tfmri__mid__r01__vol_count",
+            "items/mr_y_qc__mot__tfmri__mid__r01_dof",
+            "items/mr_y_qc__mot__tfmri__mid__r01_tr",
+            "items/mr_y_qc__mot__tfmri__mid__r02__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__mid__r02__frame_count",
+            "items/mr_y_qc__mot__tfmri__mid__r02__mot_max",
+            "items/mr_y_qc__mot__tfmri__mid__r02__mot_mean",
+            "items/mr_y_qc__mot__tfmri__mid__r02__rotat_max",
+            "items/mr_y_qc__mot__tfmri__mid__r02__rotat_mean",
+            "items/mr_y_qc__mot__tfmri__mid__r02__trans_max",
+            "items/mr_y_qc__mot__tfmri__mid__r02__trans_mean",
+            "items/mr_y_qc__mot__tfmri__mid__r02__vol_count",
+            "items/mr_y_qc__mot__tfmri__mid__r02_dof",
+            "items/mr_y_qc__mot__tfmri__mid__r02_tr",
+            "items/mr_y_qc__mot__tfmri__mid__tr_mean",
+            "items/mr_y_qc__mot__tfmri__mid__trans_max",
+            "items/mr_y_qc__mot__tfmri__mid__trans_mean",
+            "items/mr_y_qc__mot__tfmri__mid__vol_count",
+            "items/mr_y_qc__mot__tfmri__mid_dof",
+            "items/mr_y_qc__mot__tfmri__mot_max",
+            "items/mr_y_qc__mot__tfmri__mot_mean",
+            "items/mr_y_qc__mot__tfmri__nback__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__nback__frame_count",
+            "items/mr_y_qc__mot__tfmri__nback__mot_max",
+            "items/mr_y_qc__mot__tfmri__nback__mot_mean",
+            "items/mr_y_qc__mot__tfmri__nback__r01__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__nback__r01__frame_count",
+            "items/mr_y_qc__mot__tfmri__nback__r01__mot_max",
+            "items/mr_y_qc__mot__tfmri__nback__r01__mot_mean",
+            "items/mr_y_qc__mot__tfmri__nback__r01__rotat_max",
+            "items/mr_y_qc__mot__tfmri__nback__r01__rotat_mean",
+            "items/mr_y_qc__mot__tfmri__nback__r01__trans_max",
+            "items/mr_y_qc__mot__tfmri__nback__r01__trans_mean",
+            "items/mr_y_qc__mot__tfmri__nback__r01__vol_count",
+            "items/mr_y_qc__mot__tfmri__nback__r01_dof",
+            "items/mr_y_qc__mot__tfmri__nback__r01_tr",
+            "items/mr_y_qc__mot__tfmri__nback__r02__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__nback__r02__frame_count",
+            "items/mr_y_qc__mot__tfmri__nback__r02__mot_max",
+            "items/mr_y_qc__mot__tfmri__nback__r02__mot_mean",
+            "items/mr_y_qc__mot__tfmri__nback__r02__rotat_max",
+            "items/mr_y_qc__mot__tfmri__nback__r02__rotat_mean",
+            "items/mr_y_qc__mot__tfmri__nback__r02__trans_max",
+            "items/mr_y_qc__mot__tfmri__nback__r02__trans_mean",
+            "items/mr_y_qc__mot__tfmri__nback__r02__vol_count",
+            "items/mr_y_qc__mot__tfmri__nback__r02_dof",
+            "items/mr_y_qc__mot__tfmri__nback__r02_tr",
+            "items/mr_y_qc__mot__tfmri__nback__rotat_max",
+            "items/mr_y_qc__mot__tfmri__nback__rotat_mean",
+            "items/mr_y_qc__mot__tfmri__nback__tr_mean",
+            "items/mr_y_qc__mot__tfmri__nback__trans_max",
+            "items/mr_y_qc__mot__tfmri__nback__trans_mean",
+            "items/mr_y_qc__mot__tfmri__nback__vol_count",
+            "items/mr_y_qc__mot__tfmri__nback_dof",
+            "items/mr_y_qc__mot__tfmri__rotat_max",
+            "items/mr_y_qc__mot__tfmri__rotat_mean",
+            "items/mr_y_qc__mot__tfmri__sst__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__sst__frame_count",
+            "items/mr_y_qc__mot__tfmri__sst__mot_max",
+            "items/mr_y_qc__mot__tfmri__sst__mot_mean",
+            "items/mr_y_qc__mot__tfmri__sst__r01__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__sst__r01__frame_count",
+            "items/mr_y_qc__mot__tfmri__sst__r01__mot_max",
+            "items/mr_y_qc__mot__tfmri__sst__r01__mot_mean",
+            "items/mr_y_qc__mot__tfmri__sst__r01__rotat_max",
+            "items/mr_y_qc__mot__tfmri__sst__r01__rotat_mean",
+            "items/mr_y_qc__mot__tfmri__sst__r01__trans_max",
+            "items/mr_y_qc__mot__tfmri__sst__r01__trans_mean",
+            "items/mr_y_qc__mot__tfmri__sst__r01__vol_count",
+            "items/mr_y_qc__mot__tfmri__sst__r01_dof",
+            "items/mr_y_qc__mot__tfmri__sst__r01_tr",
+            "items/mr_y_qc__mot__tfmri__sst__r02__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__sst__r02__frame_count",
+            "items/mr_y_qc__mot__tfmri__sst__r02__mot_max",
+            "items/mr_y_qc__mot__tfmri__sst__r02__mot_mean",
+            "items/mr_y_qc__mot__tfmri__sst__r02__rotat_max",
+            "items/mr_y_qc__mot__tfmri__sst__r02__rotat_mean",
+            "items/mr_y_qc__mot__tfmri__sst__r02__trans_max",
+            "items/mr_y_qc__mot__tfmri__sst__r02__trans_mean",
+            "items/mr_y_qc__mot__tfmri__sst__r02__vol_count",
+            "items/mr_y_qc__mot__tfmri__sst__r02_dof",
+            "items/mr_y_qc__mot__tfmri__sst__r02_tr",
+            "items/mr_y_qc__mot__tfmri__sst__rotat_max",
+            "items/mr_y_qc__mot__tfmri__sst__rotat_mean",
+            "items/mr_y_qc__mot__tfmri__sst__tr_mean",
+            "items/mr_y_qc__mot__tfmri__sst__trans_max",
+            "items/mr_y_qc__mot__tfmri__sst__trans_mean",
+            "items/mr_y_qc__mot__tfmri__sst__vol_count",
+            "items/mr_y_qc__mot__tfmri__sst_dof"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_qc__mot__dmri__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__dmri__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__dmri__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__dmri__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__dmri__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__dmri__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__point_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__point_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__tr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__tr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__vol__fdsub__contig_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__vol__fdsub__contig_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__vol__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__vol__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01_dof",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01_dof"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r01_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r01_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02_dof",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02_dof"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__r02_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__r02_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__tr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__tr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid_dof",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mid_dof"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01_dof",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01_dof"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r01_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r01_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02_dof",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02_dof"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__r02_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__r02_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__tr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__tr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__nback_dof",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__nback_dof"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01_dof",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01_dof"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r01_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r01_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02__fdsub_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02__fdsub_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02__mot_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02__mot_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02_dof",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02_dof"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__r02_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__r02_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__rotat_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__rotat_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__rotat_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__rotat_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__tr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__tr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__trans_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__trans_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__trans_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst__vol_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst__vol_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__tfmri__sst_dof",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__tfmri__sst_dof"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

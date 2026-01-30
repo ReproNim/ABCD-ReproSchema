@@ -1,0 +1,81 @@
+{
+    "id": "irma_y_qtn__bef_008",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Hurricane Irma"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Natural Disasters"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_isc01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "substudy_irma_child"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "irma_hurtec_b14"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "irma_hurtec_b14"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/irma.html#irma_y_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "irma_y_qtn__bef_008"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "irma_y_qtn_0034"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "irma_y_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "irma_y_qtn__bef_008"
+    },
+    "question": {
+        "en": "Overall, how safe do you think your parent(s) felt before the hurricane?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "ph_p_saiq__skatebd_006__l",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Physical Activity"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_lpsaiq01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sports_activities_involvement_saiqparent_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "sai_p_skate_private_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sai_p_skate_private_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_saiq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_saiq__skatebd_006__l"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_saiq_0689"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_saiq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_saiq__skatebd_006__l"
+    },
+    "question": {
+        "en": "Skateboarding, roller skating: Did your child receive individual private instruction? [Parent; Longitudinal]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "su_y_alctox__r02_001__dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Drug Toxicology"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "yalcs01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "bal_testyouth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "bal21_dot_y"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "bal21_dot_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_alctox"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_alctox__r02_001__dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_alctox_0014"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_alctox"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_alctox__r02_001__dtt"
+    },
+    "question": {
+        "en": "Breathalyzer (Day 2; Test 1): Date Completed"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:date"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

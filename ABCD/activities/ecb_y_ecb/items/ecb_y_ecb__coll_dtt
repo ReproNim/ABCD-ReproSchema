@@ -1,0 +1,77 @@
+{
+    "id": "ecb_y_ecb__coll_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Endocannabinoid"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "ecb_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ecbq_blood_time_stamp"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ecbq_blood_time_stamp"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/ecb.html#ecb_y_ecb"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ecb_y_ecb__coll_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ecb_y_ecb_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ecb_y_ecb"
+        }
+    ],
+    "prefLabel": {
+        "en": "ecb_y_ecb__coll_dtt"
+    },
+    "question": {
+        "en": "Endocannabinoid Substudy [Youth]: Date/time of collection"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

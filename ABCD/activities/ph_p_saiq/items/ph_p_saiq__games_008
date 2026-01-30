@@ -1,0 +1,86 @@
+{
+    "id": "ph_p_saiq__games_008",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Physical Activity"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_saiq02"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sports_activities_involvement_saiqparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "saip2_chess_nyr"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sai_p_chess_nyr"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_saiq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_saiq__games_008"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_saiq_0389"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_saiq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_saiq__games_008"
+    },
+    "question": {
+        "en": "Competitive Games like Chess, Cards, or Darts: For how many years did your child participate in this activity? [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

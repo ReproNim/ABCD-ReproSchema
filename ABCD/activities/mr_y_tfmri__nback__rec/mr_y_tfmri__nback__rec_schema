@@ -1,0 +1,287 @@
+{
+    "id": "mr_y_tfmri__nback__rec_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_tfmri__nback__rec"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_tfmri__nback__rec__0b__neg_acc",
+            "items/mr_y_tfmri__nback__rec__0b__neg_flsalrm",
+            "items/mr_y_tfmri__nback__rec__0b__neut_acc",
+            "items/mr_y_tfmri__nback__rec__0b__neut_flsalrm",
+            "items/mr_y_tfmri__nback__rec__0b__place_acc",
+            "items/mr_y_tfmri__nback__rec__0b__place_flsalrm",
+            "items/mr_y_tfmri__nback__rec__0b__pos_acc",
+            "items/mr_y_tfmri__nback__rec__0b__pos_flsalrm",
+            "items/mr_y_tfmri__nback__rec__2b__neg_acc",
+            "items/mr_y_tfmri__nback__rec__2b__neg_flsalrm",
+            "items/mr_y_tfmri__nback__rec__2b__neut_acc",
+            "items/mr_y_tfmri__nback__rec__2b__neut_flsalrm",
+            "items/mr_y_tfmri__nback__rec__2b__place_acc",
+            "items/mr_y_tfmri__nback__rec__2b__place_flsalrm",
+            "items/mr_y_tfmri__nback__rec__2b__pos_acc",
+            "items/mr_y_tfmri__nback__rec__2b__pos_flsalrm",
+            "items/mr_y_tfmri__nback__rec__neg__corr_acc",
+            "items/mr_y_tfmri__nback__rec__neg__new_acc",
+            "items/mr_y_tfmri__nback__rec__neg__new_flsalrm",
+            "items/mr_y_tfmri__nback__rec__neg_acc",
+            "items/mr_y_tfmri__nback__rec__neg_bias",
+            "items/mr_y_tfmri__nback__rec__neg_dprime",
+            "items/mr_y_tfmri__nback__rec__neg_flsalrm",
+            "items/mr_y_tfmri__nback__rec__neut__corr_acc",
+            "items/mr_y_tfmri__nback__rec__neut__new_acc",
+            "items/mr_y_tfmri__nback__rec__neut__new_flsalrm",
+            "items/mr_y_tfmri__nback__rec__neut_acc",
+            "items/mr_y_tfmri__nback__rec__neut_bias",
+            "items/mr_y_tfmri__nback__rec__neut_dprime",
+            "items/mr_y_tfmri__nback__rec__neut_flsalrm",
+            "items/mr_y_tfmri__nback__rec__place__corr_acc",
+            "items/mr_y_tfmri__nback__rec__place__new_acc",
+            "items/mr_y_tfmri__nback__rec__place__new_flsalrm",
+            "items/mr_y_tfmri__nback__rec__place_acc",
+            "items/mr_y_tfmri__nback__rec__place_bias",
+            "items/mr_y_tfmri__nback__rec__place_dprime",
+            "items/mr_y_tfmri__nback__rec__place_flsalrm",
+            "items/mr_y_tfmri__nback__rec__pos__corr_acc",
+            "items/mr_y_tfmri__nback__rec__pos__new_acc",
+            "items/mr_y_tfmri__nback__rec__pos__new_flsalrm",
+            "items/mr_y_tfmri__nback__rec__pos_acc",
+            "items/mr_y_tfmri__nback__rec__pos_bias",
+            "items/mr_y_tfmri__nback__rec__pos_dprime",
+            "items/mr_y_tfmri__nback__rec__pos_flsalrm",
+            "items/mr_y_tfmri__nback__rec__switch_indicator"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__0b__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__0b__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__0b__neg_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__0b__neg_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__0b__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__0b__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__0b__neut_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__0b__neut_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__0b__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__0b__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__0b__place_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__0b__place_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__0b__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__0b__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__0b__pos_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__0b__pos_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__2b__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__2b__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__2b__neg_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__2b__neg_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__2b__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__2b__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__2b__neut_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__2b__neut_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__2b__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__2b__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__2b__place_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__2b__place_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__2b__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__2b__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__2b__pos_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__2b__pos_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neg__corr_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neg__corr_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neg__new_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neg__new_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neg__new_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neg__new_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neg_bias",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neg_bias"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neg_dprime",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neg_dprime"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neg_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neg_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neut__corr_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neut__corr_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neut__new_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neut__new_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neut__new_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neut__new_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neut_bias",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neut_bias"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neut_dprime",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neut_dprime"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__neut_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__neut_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__place__corr_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__place__corr_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__place__new_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__place__new_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__place__new_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__place__new_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__place_bias",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__place_bias"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__place_dprime",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__place_dprime"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__place_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__place_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__pos__corr_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__pos__corr_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__pos__new_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__pos__new_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__pos__new_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__pos__new_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__pos_bias",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__pos_bias"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__pos_dprime",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__pos_dprime"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__pos_flsalrm",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__pos_flsalrm"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__rec__switch_indicator",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__rec__switch_indicator"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

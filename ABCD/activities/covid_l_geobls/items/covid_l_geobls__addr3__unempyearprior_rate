@@ -1,0 +1,66 @@
+{
+    "id": "covid_l_geobls__addr3__unempyearprior_rate",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Geocoded Data"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_covidgeo_bls_unemploymentYearPrior"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_l_geobls"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_l_geobls__addr3__unempyearprior_rate"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_l_geobls_0006"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_l_geobls"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_l_geobls__addr3__unempyearprior_rate"
+    },
+    "question": {
+        "en": "Bureau of Labor Statistics (1 year prior) monthly unemployment rate (not seasonally adjusted) county-level (Address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "su_y_nicsre__vape_sum",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "res_tobacco_total_ecig | res_tobacco_total_ecig_i"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_nicsre"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_su_y_nicsre__vape_sum.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_nicsre__vape_sum"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_nicsre_0021"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_nicsre"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_nicsre__vape_sum"
+    },
+    "question": {
+        "en": "Nicotine Subjective Response and Effects [Youth] (Intensity of positive and negative effects of first vape use): Sum - Negative score inverted [Validation: None missing or declined]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

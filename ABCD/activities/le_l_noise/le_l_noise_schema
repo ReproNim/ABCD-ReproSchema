@@ -1,0 +1,179 @@
+{
+    "id": "le_l_noise_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_noise"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_noise__addr1__24hleq__total_soundlvl",
+            "items/le_l_noise__addr1__24hmean__total_soundlvl",
+            "items/le_l_noise__addr1__l10d__anthro_soundlvl",
+            "items/le_l_noise__addr1__l10d__total_soundlvl",
+            "items/le_l_noise__addr1__l50d__anthro_soundlvl",
+            "items/le_l_noise__addr1__l50d__total_soundlvl",
+            "items/le_l_noise__addr1__l90d__anthro_soundlvl",
+            "items/le_l_noise__addr1__l90d__total_soundlvl",
+            "items/le_l_noise__addr1__lnmean__total_soundlvl",
+            "items/le_l_noise__addr2__24hleq__total_soundlvl",
+            "items/le_l_noise__addr2__24hmean__total_soundlvl",
+            "items/le_l_noise__addr2__l10d__anthro_soundlvl",
+            "items/le_l_noise__addr2__l10d__total_soundlvl",
+            "items/le_l_noise__addr2__l50d__anthro_soundlvl",
+            "items/le_l_noise__addr2__l50d__total_soundlvl",
+            "items/le_l_noise__addr2__l90d__anthro_soundlvl",
+            "items/le_l_noise__addr2__l90d__total_soundlvl",
+            "items/le_l_noise__addr2__lnmean__total_soundlvl",
+            "items/le_l_noise__addr3__24hleq__total_soundlvl",
+            "items/le_l_noise__addr3__24hmean__total_soundlvl",
+            "items/le_l_noise__addr3__l10d__anthro_soundlvl",
+            "items/le_l_noise__addr3__l10d__total_soundlvl",
+            "items/le_l_noise__addr3__l50d__anthro_soundlvl",
+            "items/le_l_noise__addr3__l50d__total_soundlvl",
+            "items/le_l_noise__addr3__l90d__anthro_soundlvl",
+            "items/le_l_noise__addr3__l90d__total_soundlvl",
+            "items/le_l_noise__addr3__lnmean__total_soundlvl"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_noise__addr1__24hleq__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr1__24hleq__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr1__24hmean__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr1__24hmean__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr1__l10d__anthro_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr1__l10d__anthro_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr1__l10d__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr1__l10d__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr1__l50d__anthro_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr1__l50d__anthro_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr1__l50d__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr1__l50d__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr1__l90d__anthro_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr1__l90d__anthro_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr1__l90d__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr1__l90d__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr1__lnmean__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr1__lnmean__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr2__24hleq__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr2__24hleq__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr2__24hmean__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr2__24hmean__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr2__l10d__anthro_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr2__l10d__anthro_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr2__l10d__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr2__l10d__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr2__l50d__anthro_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr2__l50d__anthro_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr2__l50d__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr2__l50d__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr2__l90d__anthro_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr2__l90d__anthro_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr2__l90d__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr2__l90d__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr2__lnmean__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr2__lnmean__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr3__24hleq__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr3__24hleq__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr3__24hmean__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr3__24hmean__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr3__l10d__anthro_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr3__l10d__anthro_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr3__l10d__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr3__l10d__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr3__l50d__anthro_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr3__l50d__anthro_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr3__l50d__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr3__l50d__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr3__l90d__anthro_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr3__l90d__anthro_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr3__l90d__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr3__l90d__total_soundlvl"
+            },
+            {
+                "isAbout": "items/le_l_noise__addr3__lnmean__total_soundlvl",
+                "isVis": true,
+                "variableName": "le_l_noise__addr3__lnmean__total_soundlvl"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "mr_y_adm__qtn__post__r02_008",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Administrative"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ypsq201"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "post_scan_questionnaireyouth_2"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "postscan_tired_2"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "postscan_tired_2"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/adm.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_adm__qtn__post__r02_008"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_adm_qtn_0046"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_adm__qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_adm__qtn__post__r02_008"
+    },
+    "question": {
+        "en": "Imaging Event - Post scan (run 2): This is a list of words that describe different feelings and emotions. Indicate how much you feel this way now: tired"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

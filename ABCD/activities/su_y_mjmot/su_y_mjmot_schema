@@ -1,0 +1,185 @@
+{
+    "id": "su_y_mjmot_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_mjmot"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_mjmot_dtt",
+            "items/su_y_mjmot_age",
+            "items/su_y_mjmot_adm",
+            "items/su_y_mjmot_001",
+            "items/su_y_mjmot_002",
+            "items/su_y_mjmot_003",
+            "items/su_y_mjmot_004",
+            "items/su_y_mjmot_005",
+            "items/su_y_mjmot_006",
+            "items/su_y_mjmot_007",
+            "items/su_y_mjmot_008",
+            "items/su_y_mjmot_009",
+            "items/su_y_mjmot_010",
+            "items/su_y_mjmot_011",
+            "items/su_y_mjmot_012",
+            "items/su_y_mjmot_013",
+            "items/su_y_mjmot_014",
+            "items/su_y_mjmot_015",
+            "items/su_y_mjmot_016",
+            "items/su_y_mjmot_017",
+            "items/su_y_mjmot_018",
+            "items/su_y_mjmot_019",
+            "items/su_y_mjmot_020",
+            "items/su_y_mjmot_021",
+            "items/su_y_mjmot_022",
+            "items/su_y_mjmot_023",
+            "items/su_y_mjmot_024",
+            "items/su_y_mjmot_025"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_mjmot_dtt",
+                "isVis": true,
+                "variableName": "su_y_mjmot_dtt"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_age",
+                "isVis": true,
+                "variableName": "su_y_mjmot_age"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_adm",
+                "isVis": true,
+                "variableName": "su_y_mjmot_adm"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_001",
+                "isVis": true,
+                "variableName": "su_y_mjmot_001"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_002",
+                "isVis": true,
+                "variableName": "su_y_mjmot_002"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_003",
+                "isVis": true,
+                "variableName": "su_y_mjmot_003"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_004",
+                "isVis": true,
+                "variableName": "su_y_mjmot_004"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_005",
+                "isVis": true,
+                "variableName": "su_y_mjmot_005"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_006",
+                "isVis": true,
+                "variableName": "su_y_mjmot_006"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_007",
+                "isVis": true,
+                "variableName": "su_y_mjmot_007"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_008",
+                "isVis": true,
+                "variableName": "su_y_mjmot_008"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_009",
+                "isVis": true,
+                "variableName": "su_y_mjmot_009"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_010",
+                "isVis": true,
+                "variableName": "su_y_mjmot_010"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_011",
+                "isVis": true,
+                "variableName": "su_y_mjmot_011"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_012",
+                "isVis": true,
+                "variableName": "su_y_mjmot_012"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_013",
+                "isVis": true,
+                "variableName": "su_y_mjmot_013"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_014",
+                "isVis": true,
+                "variableName": "su_y_mjmot_014"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_015",
+                "isVis": true,
+                "variableName": "su_y_mjmot_015"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_016",
+                "isVis": true,
+                "variableName": "su_y_mjmot_016"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_017",
+                "isVis": true,
+                "variableName": "su_y_mjmot_017"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_018",
+                "isVis": true,
+                "variableName": "su_y_mjmot_018"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_019",
+                "isVis": true,
+                "variableName": "su_y_mjmot_019"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_020",
+                "isVis": true,
+                "variableName": "su_y_mjmot_020"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_021",
+                "isVis": true,
+                "variableName": "su_y_mjmot_021"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_022",
+                "isVis": true,
+                "variableName": "su_y_mjmot_022"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_023",
+                "isVis": true,
+                "variableName": "su_y_mjmot_023"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_024",
+                "isVis": true,
+                "variableName": "su_y_mjmot_024"
+            },
+            {
+                "isAbout": "items/su_y_mjmot_025",
+                "isVis": true,
+                "variableName": "su_y_mjmot_025"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,815 @@
+{
+    "id": "su_y_mysu_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_mysu"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_mysu_dtt",
+            "items/su_y_mysu_age",
+            "items/su_y_mysu__hrd__alc_001",
+            "items/su_y_mysu__hrd__inh_001",
+            "items/su_y_mysu__hrd__mj_001",
+            "items/su_y_mysu__hrd__nic_001",
+            "items/su_y_mysu__hrd__nic__chew_001",
+            "items/su_y_mysu__hrd__rx_001",
+            "items/su_y_mysu__use__alc_001",
+            "items/su_y_mysu__use__alc__1mo_001",
+            "items/su_y_mysu__use__alc__1wk_001",
+            "items/su_y_mysu__use__alc__6mo_001",
+            "items/su_y_mysu__use__alc__6mo_002",
+            "items/su_y_mysu__use__alc__first_001",
+            "items/su_y_mysu__use__alc__sip_001",
+            "items/su_y_mysu__use__alc__sip__1mo_001",
+            "items/su_y_mysu__use__alc__sip__1wk_001",
+            "items/su_y_mysu__use__alc__sip__6mo_001",
+            "items/su_y_mysu__use__alc__sip__6mo_002",
+            "items/su_y_mysu__use__cath__6mo_001",
+            "items/su_y_mysu__use__cath__first_001",
+            "items/su_y_mysu__use__cbd_001",
+            "items/su_y_mysu__use__cbd__1mo_001",
+            "items/su_y_mysu__use__coc__6mo_001",
+            "items/su_y_mysu__use__coc__first_001",
+            "items/su_y_mysu__use__dxm__1mo_001",
+            "items/su_y_mysu__use__dxm__1wk_001",
+            "items/su_y_mysu__use__dxm__6mo_001",
+            "items/su_y_mysu__use__dxm__6mo_002",
+            "items/su_y_mysu__use__dxm__first_001",
+            "items/su_y_mysu__use__ghb__6mo_001",
+            "items/su_y_mysu__use__ghb__first_001",
+            "items/su_y_mysu__use__hall__6mo_001",
+            "items/su_y_mysu__use__hall__first_001",
+            "items/su_y_mysu__use__illdrg_001",
+            "items/su_y_mysu__use__illdrg__1mo_001",
+            "items/su_y_mysu__use__illdrg__1wk_001",
+            "items/su_y_mysu__use__illdrg__6mo_001",
+            "items/su_y_mysu__use__illdrg__6mo_002",
+            "items/su_y_mysu__use__inh__1mo_001",
+            "items/su_y_mysu__use__inh__1wk_001",
+            "items/su_y_mysu__use__inh__6mo_001",
+            "items/su_y_mysu__use__inh__6mo_002",
+            "items/su_y_mysu__use__inh__first_001",
+            "items/su_y_mysu__use__ket__6mo_001",
+            "items/su_y_mysu__use__ket__first_001",
+            "items/su_y_mysu__use__mdma__6mo_001",
+            "items/su_y_mysu__use__mdma__first_001",
+            "items/su_y_mysu__use__meth__6mo_001",
+            "items/su_y_mysu__use__meth__first_001",
+            "items/su_y_mysu__use__mj__1mo_001",
+            "items/su_y_mysu__use__mj__6mo_001",
+            "items/su_y_mysu__use__mj__conc__1mo_001",
+            "items/su_y_mysu__use__mj__conc__1wk_001",
+            "items/su_y_mysu__use__mj__conc__6mo_002",
+            "items/su_y_mysu__use__mj__conc__pipe__6mo_001",
+            "items/su_y_mysu__use__mj__conc__pipe__first_001",
+            "items/su_y_mysu__use__mj__conc__vape__6mo_001",
+            "items/su_y_mysu__use__mj__conc__vape__first_001",
+            "items/su_y_mysu__use__mj__drink__tinc__1mo_001",
+            "items/su_y_mysu__use__mj__drink__tinc__1wk_001",
+            "items/su_y_mysu__use__mj__drink__tinc__6mo_001",
+            "items/su_y_mysu__use__mj__drink__tinc__6mo_002",
+            "items/su_y_mysu__use__mj__drink__tinc__first_001",
+            "items/su_y_mysu__use__mj__edbl__1mo_001",
+            "items/su_y_mysu__use__mj__edbl__1wk_001",
+            "items/su_y_mysu__use__mj__edbl__6mo_001",
+            "items/su_y_mysu__use__mj__edbl__6mo_002",
+            "items/su_y_mysu__use__mj__edbl__first_001",
+            "items/su_y_mysu__use__mj__smoke__1mo_001",
+            "items/su_y_mysu__use__mj__smoke__1wk_001",
+            "items/su_y_mysu__use__mj__smoke__6mo_001",
+            "items/su_y_mysu__use__mj__smoke__6mo_002",
+            "items/su_y_mysu__use__mj__smoke__first_001",
+            "items/su_y_mysu__use__mj__synth__1mo_001",
+            "items/su_y_mysu__use__mj__synth__1wk_001",
+            "items/su_y_mysu__use__mj__synth__6mo_001",
+            "items/su_y_mysu__use__mj__synth__6mo_002",
+            "items/su_y_mysu__use__mj__synth__first_001",
+            "items/su_y_mysu__use__mj__vape__6mo_001",
+            "items/su_y_mysu__use__mj__vape__first_001",
+            "items/su_y_mysu__use__nic_001",
+            "items/su_y_mysu__use__nic__1mo_001",
+            "items/su_y_mysu__use__nic__1wk_001",
+            "items/su_y_mysu__use__nic__6mo_001",
+            "items/su_y_mysu__use__nic__6mo_002",
+            "items/su_y_mysu__use__nic__chew__1mo_001",
+            "items/su_y_mysu__use__nic__chew__1wk_001",
+            "items/su_y_mysu__use__nic__chew__6mo_001",
+            "items/su_y_mysu__use__nic__chew__6mo_002",
+            "items/su_y_mysu__use__nic__chew__first_001",
+            "items/su_y_mysu__use__nic__cig__1mo_001",
+            "items/su_y_mysu__use__nic__cig__6mo_001",
+            "items/su_y_mysu__use__nic__cig__first_001",
+            "items/su_y_mysu__use__nic__cigar__6mo_001",
+            "items/su_y_mysu__use__nic__cigar__first_001",
+            "items/su_y_mysu__use__nic__oth_001",
+            "items/su_y_mysu__use__nic__oth__1mo_001",
+            "items/su_y_mysu__use__nic__puff_001",
+            "items/su_y_mysu__use__nic__puff__1mo_001",
+            "items/su_y_mysu__use__nic__puff__1wk_001",
+            "items/su_y_mysu__use__nic__puff__6mo_001",
+            "items/su_y_mysu__use__nic__puff__6mo_002",
+            "items/su_y_mysu__use__nic__vape__1mo_001",
+            "items/su_y_mysu__use__nic__vape__6mo_001",
+            "items/su_y_mysu__use__nic__vape__first_001",
+            "items/su_y_mysu__use__opi__6mo_001",
+            "items/su_y_mysu__use__opi__first_001",
+            "items/su_y_mysu__use__qc__6mo_001",
+            "items/su_y_mysu__use__qc__first_001",
+            "items/su_y_mysu__use__roid__6mo_001",
+            "items/su_y_mysu__use__roid__first_001",
+            "items/su_y_mysu__use__rxopi__1mo_001",
+            "items/su_y_mysu__use__rxopi__1wk_001",
+            "items/su_y_mysu__use__rxopi__6mo_001",
+            "items/su_y_mysu__use__rxopi__6mo_002",
+            "items/su_y_mysu__use__rxopi__first_001",
+            "items/su_y_mysu__use__rxsed__1mo_001",
+            "items/su_y_mysu__use__rxsed__1wk_001",
+            "items/su_y_mysu__use__rxsed__6mo_001",
+            "items/su_y_mysu__use__rxsed__6mo_002",
+            "items/su_y_mysu__use__rxsed__first_001",
+            "items/su_y_mysu__use__rxstim__1mo_001",
+            "items/su_y_mysu__use__rxstim__1wk_001",
+            "items/su_y_mysu__use__rxstim__6mo_001",
+            "items/su_y_mysu__use__rxstim__6mo_002",
+            "items/su_y_mysu__use__rxstim__first_001",
+            "items/su_y_mysu__use__salv__6mo_001",
+            "items/su_y_mysu__use__salv__first_001",
+            "items/su_y_mysu__use__shroom__6mo_001",
+            "items/su_y_mysu__use__shroom__first_001",
+            "items/su_y_mysu__use__vape__flav__6mo_001",
+            "items/su_y_mysu__use__vape__flav__first_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_mysu_dtt",
+                "isVis": true,
+                "variableName": "su_y_mysu_dtt"
+            },
+            {
+                "isAbout": "items/su_y_mysu_age",
+                "isVis": true,
+                "variableName": "su_y_mysu_age"
+            },
+            {
+                "isAbout": "items/su_y_mysu__hrd__alc_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__hrd__alc_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__hrd__inh_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__hrd__inh_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__hrd__mj_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__hrd__mj_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__hrd__nic_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__hrd__nic_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__hrd__nic__chew_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__hrd__nic__chew_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__hrd__rx_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__hrd__rx_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__sip_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__sip_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__sip__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__sip__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__sip__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__sip__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__sip__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__sip__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__sip__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__sip__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__cath__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__cath__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__cath__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__cath__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__cbd_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__cbd_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__cbd__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__cbd__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__coc__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__coc__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__coc__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__coc__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__dxm__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__dxm__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__dxm__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__dxm__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__dxm__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__dxm__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__dxm__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__dxm__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__dxm__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__dxm__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__ghb__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__ghb__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__ghb__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__ghb__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__hall__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__hall__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__hall__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__hall__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__illdrg_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__illdrg_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__illdrg__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__illdrg__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__illdrg__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__illdrg__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__illdrg__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__illdrg__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__illdrg__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__illdrg__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__inh__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__inh__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__inh__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__inh__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__inh__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__inh__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__inh__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__inh__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__inh__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__inh__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__ket__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__ket__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__ket__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__ket__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mdma__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mdma__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mdma__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mdma__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__meth__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__meth__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__meth__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__meth__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__conc__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__conc__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__conc__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__conc__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__conc__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__conc__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__conc__pipe__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__conc__pipe__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__conc__pipe__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__conc__pipe__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__conc__vape__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__conc__vape__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__conc__vape__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__conc__vape__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__drink__tinc__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__drink__tinc__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__drink__tinc__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__drink__tinc__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__drink__tinc__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__drink__tinc__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__drink__tinc__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__drink__tinc__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__drink__tinc__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__drink__tinc__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__edbl__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__edbl__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__edbl__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__edbl__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__edbl__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__edbl__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__edbl__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__edbl__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__edbl__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__edbl__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__smoke__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__smoke__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__smoke__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__smoke__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__smoke__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__smoke__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__smoke__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__smoke__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__smoke__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__smoke__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__synth__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__synth__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__synth__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__synth__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__synth__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__synth__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__synth__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__synth__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__synth__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__synth__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__vape__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__vape__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__vape__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__vape__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__chew__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__chew__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__chew__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__chew__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__chew__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__chew__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__chew__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__chew__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__chew__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__chew__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__cig__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__cig__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__cig__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__cig__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__cig__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__cig__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__cigar__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__cigar__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__cigar__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__cigar__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__oth_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__oth_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__oth__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__oth__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__puff_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__puff_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__puff__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__puff__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__puff__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__puff__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__puff__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__puff__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__puff__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__puff__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__vape__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__vape__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__vape__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__vape__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__vape__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__vape__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__opi__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__opi__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__opi__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__opi__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__qc__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__qc__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__qc__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__qc__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__roid__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__roid__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__roid__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__roid__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxopi__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxopi__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxopi__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxopi__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxopi__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxopi__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxopi__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxopi__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxopi__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxopi__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxsed__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxsed__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxsed__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxsed__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxsed__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxsed__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxsed__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxsed__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxsed__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxsed__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxstim__1mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxstim__1mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxstim__1wk_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxstim__1wk_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxstim__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxstim__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxstim__6mo_002",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxstim__6mo_002"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__rxstim__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__rxstim__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__salv__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__salv__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__salv__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__salv__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__shroom__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__shroom__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__shroom__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__shroom__first_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__vape__flav__6mo_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__vape__flav__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__vape__flav__first_001",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__vape__flav__first_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "nt_y_earsp__post_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_mtpay01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "mobil_tech_postassessment_y"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "mtpo_6"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "mtpo_6"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_earsp"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_earsp__post_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_earsp_0028"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_earsp"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_earsp__post_002"
+    },
+    "question": {
+        "en": "In your opinion, do you do think the amount of time you spend on your device is healthy? [Pilot; Post-survey]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

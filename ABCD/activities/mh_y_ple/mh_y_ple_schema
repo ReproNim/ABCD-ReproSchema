@@ -1,0 +1,1325 @@
+{
+    "id": "mh_y_ple_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_ple"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_ple_dtt",
+            "items/mh_y_ple_age",
+            "items/mh_y_ple_adm",
+            "items/mh_y_ple_001",
+            "items/mh_y_ple_001__01",
+            "items/mh_y_ple_001__02___1",
+            "items/mh_y_ple_001__02___2",
+            "items/mh_y_ple_001__02___3",
+            "items/mh_y_ple_001__02___4",
+            "items/mh_y_ple_001__02___5",
+            "items/mh_y_ple_001__02___6",
+            "items/mh_y_ple_001__02___7",
+            "items/mh_y_ple_001__02___8",
+            "items/mh_y_ple_001__02___9",
+            "items/mh_y_ple_001__02___10",
+            "items/mh_y_ple_001__02___11",
+            "items/mh_y_ple_001__02___12",
+            "items/mh_y_ple_001__02___13",
+            "items/mh_y_ple__exp_001",
+            "items/mh_y_ple__severity_001",
+            "items/mh_y_ple_002",
+            "items/mh_y_ple_002__01",
+            "items/mh_y_ple__exp_002",
+            "items/mh_y_ple__severity_002",
+            "items/mh_y_ple_003",
+            "items/mh_y_ple_003__01",
+            "items/mh_y_ple__exp_003",
+            "items/mh_y_ple__severity_003",
+            "items/mh_y_ple_004",
+            "items/mh_y_ple_004__01",
+            "items/mh_y_ple__exp_004",
+            "items/mh_y_ple__severity_004",
+            "items/mh_y_ple_005",
+            "items/mh_y_ple_005__01",
+            "items/mh_y_ple__exp_005",
+            "items/mh_y_ple__severity_005",
+            "items/mh_y_ple_006",
+            "items/mh_y_ple_006__01",
+            "items/mh_y_ple__exp_006",
+            "items/mh_y_ple__severity_006",
+            "items/mh_y_ple_007",
+            "items/mh_y_ple_007__01",
+            "items/mh_y_ple__exp_007",
+            "items/mh_y_ple__severity_007",
+            "items/mh_y_ple_008",
+            "items/mh_y_ple_008__01",
+            "items/mh_y_ple__exp_008",
+            "items/mh_y_ple__severity_008",
+            "items/mh_y_ple_009",
+            "items/mh_y_ple_009__01",
+            "items/mh_y_ple__exp_009",
+            "items/mh_y_ple__severity_009",
+            "items/mh_y_ple_010",
+            "items/mh_y_ple_010__01",
+            "items/mh_y_ple__exp_010",
+            "items/mh_y_ple__severity_010",
+            "items/mh_y_ple_011",
+            "items/mh_y_ple_011__01",
+            "items/mh_y_ple__exp_011",
+            "items/mh_y_ple__severity_011",
+            "items/mh_y_ple_012",
+            "items/mh_y_ple_012__01",
+            "items/mh_y_ple__exp_012",
+            "items/mh_y_ple__severity_012",
+            "items/mh_y_ple_013",
+            "items/mh_y_ple_013__01",
+            "items/mh_y_ple__exp_013",
+            "items/mh_y_ple__severity_013",
+            "items/mh_y_ple_014",
+            "items/mh_y_ple_014__01",
+            "items/mh_y_ple_014__02___1",
+            "items/mh_y_ple_014__02___2",
+            "items/mh_y_ple_014__02___3",
+            "items/mh_y_ple_014__02___4",
+            "items/mh_y_ple_014__02___5",
+            "items/mh_y_ple_014__02___6",
+            "items/mh_y_ple_014__02___7",
+            "items/mh_y_ple_014__02___8",
+            "items/mh_y_ple_014__02___9",
+            "items/mh_y_ple_014__02___10",
+            "items/mh_y_ple_014__02___11",
+            "items/mh_y_ple_014__02___12",
+            "items/mh_y_ple_014__02___13",
+            "items/mh_y_ple_014__02___14",
+            "items/mh_y_ple__exp_014",
+            "items/mh_y_ple__severity_014",
+            "items/mh_y_ple_015",
+            "items/mh_y_ple_015__01",
+            "items/mh_y_ple__exp_015",
+            "items/mh_y_ple__severity_015",
+            "items/mh_y_ple_016",
+            "items/mh_y_ple_016__01",
+            "items/mh_y_ple__exp_016",
+            "items/mh_y_ple__severity_016",
+            "items/mh_y_ple_017",
+            "items/mh_y_ple_017__01",
+            "items/mh_y_ple__exp_017",
+            "items/mh_y_ple__severity_017",
+            "items/mh_y_ple_018",
+            "items/mh_y_ple_018__01",
+            "items/mh_y_ple__exp_018",
+            "items/mh_y_ple__severity_018",
+            "items/mh_y_ple_019",
+            "items/mh_y_ple_019__01",
+            "items/mh_y_ple__exp_019",
+            "items/mh_y_ple__severity_019",
+            "items/mh_y_ple_020",
+            "items/mh_y_ple_020__01",
+            "items/mh_y_ple__exp_020",
+            "items/mh_y_ple__severity_020",
+            "items/mh_y_ple_021",
+            "items/mh_y_ple_021__01",
+            "items/mh_y_ple__exp_021",
+            "items/mh_y_ple__severity_021",
+            "items/mh_y_ple_022",
+            "items/mh_y_ple_022__01",
+            "items/mh_y_ple__exp_022",
+            "items/mh_y_ple__severity_022",
+            "items/mh_y_ple_023",
+            "items/mh_y_ple_023__01",
+            "items/mh_y_ple__exp_023",
+            "items/mh_y_ple__severity_023",
+            "items/mh_y_ple_024",
+            "items/mh_y_ple_024__01",
+            "items/mh_y_ple__exp_024",
+            "items/mh_y_ple__severity_024",
+            "items/mh_y_ple_025",
+            "items/mh_y_ple_025__01",
+            "items/mh_y_ple__exp_025",
+            "items/mh_y_ple__severity_025",
+            "items/mh_y_ple_026",
+            "items/mh_y_ple_026__01",
+            "items/mh_y_ple__exp_026",
+            "items/mh_y_ple__severity_026",
+            "items/mh_y_ple_027",
+            "items/mh_y_ple_027__01",
+            "items/mh_y_ple__exp_027",
+            "items/mh_y_ple__severity_027",
+            "items/mh_y_ple_028",
+            "items/mh_y_ple_028__01",
+            "items/mh_y_ple_028__02",
+            "items/mh_y_ple__exp_028",
+            "items/mh_y_ple__severity_028",
+            "items/mh_y_ple_029",
+            "items/mh_y_ple_029__01",
+            "items/mh_y_ple__exp_029",
+            "items/mh_y_ple__severity_029",
+            "items/mh_y_ple_030",
+            "items/mh_y_ple_030__01",
+            "items/mh_y_ple__exp_030",
+            "items/mh_y_ple__severity_030",
+            "items/mh_y_ple_031",
+            "items/mh_y_ple_031__01",
+            "items/mh_y_ple__exp_031",
+            "items/mh_y_ple__severity_031",
+            "items/mh_y_ple_032",
+            "items/mh_y_ple_032__01",
+            "items/mh_y_ple__exp_032",
+            "items/mh_y_ple__severity_032",
+            "items/mh_y_ple_033",
+            "items/mh_y_ple_033__01",
+            "items/mh_y_ple__exp_033",
+            "items/mh_y_ple__severity_033",
+            "items/mh_y_ple_034",
+            "items/mh_y_ple_034__01___1",
+            "items/mh_y_ple_034__01___2",
+            "items/mh_y_ple_034__01___3",
+            "items/mh_y_ple_034__01",
+            "items/mh_y_ple_034__02",
+            "items/mh_y_ple__severity_034",
+            "items/mh_y_ple_count",
+            "items/mh_y_ple_nm",
+            "items/mh_y_ple__exp__bad_count",
+            "items/mh_y_ple__exp__good_count",
+            "items/mh_y_ple__exp_nm",
+            "items/mh_y_ple__severity_mean",
+            "items/mh_y_ple__severity_nm",
+            "items/mh_y_ple__severity_sum",
+            "items/mh_y_ple__severity__bad_mean",
+            "items/mh_y_ple__severity__bad_sum",
+            "items/mh_y_ple__severity__good_mean",
+            "items/mh_y_ple__severity__good_sum",
+            "items/mh_y_ple_count__v01",
+            "items/mh_y_ple_nm__v01",
+            "items/mh_y_ple__exp__bad_count__v01",
+            "items/mh_y_ple__exp__good_count__v01",
+            "items/mh_y_ple__exp_nm__v01",
+            "items/mh_y_ple__severity_mean__v01",
+            "items/mh_y_ple__severity_nm__v01",
+            "items/mh_y_ple__severity_sum__v01",
+            "items/mh_y_ple__severity__bad_mean__v01",
+            "items/mh_y_ple__severity__bad_sum__v01",
+            "items/mh_y_ple__severity__good_mean__v01",
+            "items/mh_y_ple__severity__good_sum__v01",
+            "items/mh_y_ple_count__v02",
+            "items/mh_y_ple_nm__v02",
+            "items/mh_y_ple__exp__bad_count__v02",
+            "items/mh_y_ple__exp__good_count__v02",
+            "items/mh_y_ple__exp_nm__v02",
+            "items/mh_y_ple__severity_mean__v02",
+            "items/mh_y_ple__severity_nm__v02",
+            "items/mh_y_ple__severity_sum__v02",
+            "items/mh_y_ple__severity__bad_mean__v02",
+            "items/mh_y_ple__severity__bad_sum__v02",
+            "items/mh_y_ple__severity__good_mean__v02",
+            "items/mh_y_ple__severity__good_sum__v02",
+            "items/mh_y_ple_count__v03",
+            "items/mh_y_ple_nm__v03",
+            "items/mh_y_ple__exp__bad_count__v03",
+            "items/mh_y_ple__exp__good_count__v03",
+            "items/mh_y_ple__exp_nm__v03",
+            "items/mh_y_ple__severity__bad_mean__v03",
+            "items/mh_y_ple__severity__bad_sum__v03",
+            "items/mh_y_ple__severity__good_mean__v03",
+            "items/mh_y_ple__severity__good_sum__v03",
+            "items/mh_y_ple__severity_mean__v03",
+            "items/mh_y_ple__severity_nm__v03",
+            "items/mh_y_ple__severity_sum__v03"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_ple_dtt",
+                "isVis": true,
+                "variableName": "mh_y_ple_dtt"
+            },
+            {
+                "isAbout": "items/mh_y_ple_age",
+                "isVis": true,
+                "variableName": "mh_y_ple_age"
+            },
+            {
+                "isAbout": "items/mh_y_ple_adm",
+                "isVis": true,
+                "variableName": "mh_y_ple_adm"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001",
+                "isVis": true,
+                "variableName": "mh_y_ple_001"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___1",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___1"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___2",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___2"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___3",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___3"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___4",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___4"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___5",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___5"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___6",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___6"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___7",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___7"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___8",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___8"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___9",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___9"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___10",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___10"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___11",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___11"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___12",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___12"
+            },
+            {
+                "isAbout": "items/mh_y_ple_001__02___13",
+                "isVis": true,
+                "variableName": "mh_y_ple_001__02___13"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_001",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_001"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_001",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_001"
+            },
+            {
+                "isAbout": "items/mh_y_ple_002",
+                "isVis": true,
+                "variableName": "mh_y_ple_002"
+            },
+            {
+                "isAbout": "items/mh_y_ple_002__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_002__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_002",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_002"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_002",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_002"
+            },
+            {
+                "isAbout": "items/mh_y_ple_003",
+                "isVis": true,
+                "variableName": "mh_y_ple_003"
+            },
+            {
+                "isAbout": "items/mh_y_ple_003__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_003__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_003",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_003"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_003",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_003"
+            },
+            {
+                "isAbout": "items/mh_y_ple_004",
+                "isVis": true,
+                "variableName": "mh_y_ple_004"
+            },
+            {
+                "isAbout": "items/mh_y_ple_004__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_004__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_004",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_004"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_004",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_004"
+            },
+            {
+                "isAbout": "items/mh_y_ple_005",
+                "isVis": true,
+                "variableName": "mh_y_ple_005"
+            },
+            {
+                "isAbout": "items/mh_y_ple_005__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_005__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_005",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_005"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_005",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_005"
+            },
+            {
+                "isAbout": "items/mh_y_ple_006",
+                "isVis": true,
+                "variableName": "mh_y_ple_006"
+            },
+            {
+                "isAbout": "items/mh_y_ple_006__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_006__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_006",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_006"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_006",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_006"
+            },
+            {
+                "isAbout": "items/mh_y_ple_007",
+                "isVis": true,
+                "variableName": "mh_y_ple_007"
+            },
+            {
+                "isAbout": "items/mh_y_ple_007__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_007__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_007",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_007"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_007",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_007"
+            },
+            {
+                "isAbout": "items/mh_y_ple_008",
+                "isVis": true,
+                "variableName": "mh_y_ple_008"
+            },
+            {
+                "isAbout": "items/mh_y_ple_008__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_008__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_008",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_008"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_008",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_008"
+            },
+            {
+                "isAbout": "items/mh_y_ple_009",
+                "isVis": true,
+                "variableName": "mh_y_ple_009"
+            },
+            {
+                "isAbout": "items/mh_y_ple_009__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_009__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_009",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_009"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_009",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_009"
+            },
+            {
+                "isAbout": "items/mh_y_ple_010",
+                "isVis": true,
+                "variableName": "mh_y_ple_010"
+            },
+            {
+                "isAbout": "items/mh_y_ple_010__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_010__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_010",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_010"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_010",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_010"
+            },
+            {
+                "isAbout": "items/mh_y_ple_011",
+                "isVis": true,
+                "variableName": "mh_y_ple_011"
+            },
+            {
+                "isAbout": "items/mh_y_ple_011__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_011__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_011",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_011"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_011",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_011"
+            },
+            {
+                "isAbout": "items/mh_y_ple_012",
+                "isVis": true,
+                "variableName": "mh_y_ple_012"
+            },
+            {
+                "isAbout": "items/mh_y_ple_012__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_012__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_012",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_012"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_012",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_012"
+            },
+            {
+                "isAbout": "items/mh_y_ple_013",
+                "isVis": true,
+                "variableName": "mh_y_ple_013"
+            },
+            {
+                "isAbout": "items/mh_y_ple_013__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_013__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_013",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_013"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_013",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_013"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014",
+                "isVis": true,
+                "variableName": "mh_y_ple_014"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___1",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___1"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___2",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___2"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___3",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___3"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___4",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___4"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___5",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___5"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___6",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___6"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___7",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___7"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___8",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___8"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___9",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___9"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___10",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___10"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___11",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___11"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___12",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___12"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___13",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___13"
+            },
+            {
+                "isAbout": "items/mh_y_ple_014__02___14",
+                "isVis": true,
+                "variableName": "mh_y_ple_014__02___14"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_014",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_014"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_014",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_014"
+            },
+            {
+                "isAbout": "items/mh_y_ple_015",
+                "isVis": true,
+                "variableName": "mh_y_ple_015"
+            },
+            {
+                "isAbout": "items/mh_y_ple_015__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_015__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_015",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_015"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_015",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_015"
+            },
+            {
+                "isAbout": "items/mh_y_ple_016",
+                "isVis": true,
+                "variableName": "mh_y_ple_016"
+            },
+            {
+                "isAbout": "items/mh_y_ple_016__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_016__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_016",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_016"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_016",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_016"
+            },
+            {
+                "isAbout": "items/mh_y_ple_017",
+                "isVis": true,
+                "variableName": "mh_y_ple_017"
+            },
+            {
+                "isAbout": "items/mh_y_ple_017__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_017__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_017",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_017"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_017",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_017"
+            },
+            {
+                "isAbout": "items/mh_y_ple_018",
+                "isVis": true,
+                "variableName": "mh_y_ple_018"
+            },
+            {
+                "isAbout": "items/mh_y_ple_018__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_018__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_018",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_018"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_018",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_018"
+            },
+            {
+                "isAbout": "items/mh_y_ple_019",
+                "isVis": true,
+                "variableName": "mh_y_ple_019"
+            },
+            {
+                "isAbout": "items/mh_y_ple_019__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_019__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_019",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_019"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_019",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_019"
+            },
+            {
+                "isAbout": "items/mh_y_ple_020",
+                "isVis": true,
+                "variableName": "mh_y_ple_020"
+            },
+            {
+                "isAbout": "items/mh_y_ple_020__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_020__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_020",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_020"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_020",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_020"
+            },
+            {
+                "isAbout": "items/mh_y_ple_021",
+                "isVis": true,
+                "variableName": "mh_y_ple_021"
+            },
+            {
+                "isAbout": "items/mh_y_ple_021__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_021__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_021",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_021"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_021",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_021"
+            },
+            {
+                "isAbout": "items/mh_y_ple_022",
+                "isVis": true,
+                "variableName": "mh_y_ple_022"
+            },
+            {
+                "isAbout": "items/mh_y_ple_022__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_022__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_022",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_022"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_022",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_022"
+            },
+            {
+                "isAbout": "items/mh_y_ple_023",
+                "isVis": true,
+                "variableName": "mh_y_ple_023"
+            },
+            {
+                "isAbout": "items/mh_y_ple_023__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_023__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_023",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_023"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_023",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_023"
+            },
+            {
+                "isAbout": "items/mh_y_ple_024",
+                "isVis": true,
+                "variableName": "mh_y_ple_024"
+            },
+            {
+                "isAbout": "items/mh_y_ple_024__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_024__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_024",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_024"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_024",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_024"
+            },
+            {
+                "isAbout": "items/mh_y_ple_025",
+                "isVis": true,
+                "variableName": "mh_y_ple_025"
+            },
+            {
+                "isAbout": "items/mh_y_ple_025__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_025__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_025",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_025"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_025",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_025"
+            },
+            {
+                "isAbout": "items/mh_y_ple_026",
+                "isVis": true,
+                "variableName": "mh_y_ple_026"
+            },
+            {
+                "isAbout": "items/mh_y_ple_026__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_026__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_026",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_026"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_026",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_026"
+            },
+            {
+                "isAbout": "items/mh_y_ple_027",
+                "isVis": true,
+                "variableName": "mh_y_ple_027"
+            },
+            {
+                "isAbout": "items/mh_y_ple_027__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_027__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_027",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_027"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_027",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_027"
+            },
+            {
+                "isAbout": "items/mh_y_ple_028",
+                "isVis": true,
+                "variableName": "mh_y_ple_028"
+            },
+            {
+                "isAbout": "items/mh_y_ple_028__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_028__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple_028__02",
+                "isVis": true,
+                "variableName": "mh_y_ple_028__02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_028",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_028"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_028",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_028"
+            },
+            {
+                "isAbout": "items/mh_y_ple_029",
+                "isVis": true,
+                "variableName": "mh_y_ple_029"
+            },
+            {
+                "isAbout": "items/mh_y_ple_029__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_029__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_029",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_029"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_029",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_029"
+            },
+            {
+                "isAbout": "items/mh_y_ple_030",
+                "isVis": true,
+                "variableName": "mh_y_ple_030"
+            },
+            {
+                "isAbout": "items/mh_y_ple_030__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_030__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_030",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_030"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_030",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_030"
+            },
+            {
+                "isAbout": "items/mh_y_ple_031",
+                "isVis": true,
+                "variableName": "mh_y_ple_031"
+            },
+            {
+                "isAbout": "items/mh_y_ple_031__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_031__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_031",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_031"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_031",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_031"
+            },
+            {
+                "isAbout": "items/mh_y_ple_032",
+                "isVis": true,
+                "variableName": "mh_y_ple_032"
+            },
+            {
+                "isAbout": "items/mh_y_ple_032__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_032__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_032",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_032"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_032",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_032"
+            },
+            {
+                "isAbout": "items/mh_y_ple_033",
+                "isVis": true,
+                "variableName": "mh_y_ple_033"
+            },
+            {
+                "isAbout": "items/mh_y_ple_033__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_033__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_033",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_033"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_033",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_033"
+            },
+            {
+                "isAbout": "items/mh_y_ple_034",
+                "isVis": true,
+                "variableName": "mh_y_ple_034"
+            },
+            {
+                "isAbout": "items/mh_y_ple_034__01___1",
+                "isVis": true,
+                "variableName": "mh_y_ple_034__01___1"
+            },
+            {
+                "isAbout": "items/mh_y_ple_034__01___2",
+                "isVis": true,
+                "variableName": "mh_y_ple_034__01___2"
+            },
+            {
+                "isAbout": "items/mh_y_ple_034__01___3",
+                "isVis": true,
+                "variableName": "mh_y_ple_034__01___3"
+            },
+            {
+                "isAbout": "items/mh_y_ple_034__01",
+                "isVis": true,
+                "variableName": "mh_y_ple_034__01"
+            },
+            {
+                "isAbout": "items/mh_y_ple_034__02",
+                "isVis": true,
+                "variableName": "mh_y_ple_034__02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_034",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_034"
+            },
+            {
+                "isAbout": "items/mh_y_ple_count",
+                "isVis": true,
+                "variableName": "mh_y_ple_count"
+            },
+            {
+                "isAbout": "items/mh_y_ple_nm",
+                "isVis": true,
+                "variableName": "mh_y_ple_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp__bad_count",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp__bad_count"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp__good_count",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp__good_count"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_nm",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_mean",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_mean"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_nm",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_sum",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__bad_mean",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__bad_mean"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__bad_sum",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__bad_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__good_mean",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__good_mean"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__good_sum",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__good_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ple_count__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple_count__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple_nm__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple_nm__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp__bad_count__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp__bad_count__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp__good_count__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp__good_count__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_nm__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_nm__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_mean__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_mean__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_nm__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_nm__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_sum__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_sum__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__bad_mean__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__bad_mean__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__bad_sum__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__bad_sum__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__good_mean__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__good_mean__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__good_sum__v01",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__good_sum__v01"
+            },
+            {
+                "isAbout": "items/mh_y_ple_count__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple_count__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple_nm__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple_nm__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp__bad_count__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp__bad_count__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp__good_count__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp__good_count__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_nm__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_nm__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_mean__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_mean__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_nm__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_nm__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_sum__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_sum__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__bad_mean__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__bad_mean__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__bad_sum__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__bad_sum__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__good_mean__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__good_mean__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__good_sum__v02",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__good_sum__v02"
+            },
+            {
+                "isAbout": "items/mh_y_ple_count__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple_count__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple_nm__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple_nm__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp__bad_count__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp__bad_count__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp__good_count__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp__good_count__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__exp_nm__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__exp_nm__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__bad_mean__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__bad_mean__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__bad_sum__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__bad_sum__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__good_mean__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__good_mean__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity__good_sum__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity__good_sum__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_mean__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_mean__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_nm__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_nm__v03"
+            },
+            {
+                "isAbout": "items/mh_y_ple__severity_sum__v03",
+                "isVis": true,
+                "variableName": "mh_y_ple__severity_sum__v03"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

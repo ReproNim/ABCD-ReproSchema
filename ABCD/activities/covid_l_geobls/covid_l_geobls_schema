@@ -1,0 +1,77 @@
+{
+    "id": "covid_l_geobls_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "covid_l_geobls"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/covid_l_geobls__addr1__unemp_rate",
+            "items/covid_l_geobls__addr1__unempyearprior_rate",
+            "items/covid_l_geobls__addr2__unemp_rate",
+            "items/covid_l_geobls__addr2__unempyearprior_rate",
+            "items/covid_l_geobls__addr3__unemp_rate",
+            "items/covid_l_geobls__addr3__unempyearprior_rate",
+            "items/covid_l_geobls__addr4__unemp_rate",
+            "items/covid_l_geobls__addr4__unempyearprior_rate",
+            "items/covid_l_geobls__addr5__unemp_rate",
+            "items/covid_l_geobls__addr5__unempyearprior_rate"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/covid_l_geobls__addr1__unemp_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr1__unemp_rate"
+            },
+            {
+                "isAbout": "items/covid_l_geobls__addr1__unempyearprior_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr1__unempyearprior_rate"
+            },
+            {
+                "isAbout": "items/covid_l_geobls__addr2__unemp_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr2__unemp_rate"
+            },
+            {
+                "isAbout": "items/covid_l_geobls__addr2__unempyearprior_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr2__unempyearprior_rate"
+            },
+            {
+                "isAbout": "items/covid_l_geobls__addr3__unemp_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr3__unemp_rate"
+            },
+            {
+                "isAbout": "items/covid_l_geobls__addr3__unempyearprior_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr3__unempyearprior_rate"
+            },
+            {
+                "isAbout": "items/covid_l_geobls__addr4__unemp_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr4__unemp_rate"
+            },
+            {
+                "isAbout": "items/covid_l_geobls__addr4__unempyearprior_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr4__unempyearprior_rate"
+            },
+            {
+                "isAbout": "items/covid_l_geobls__addr5__unemp_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr5__unemp_rate"
+            },
+            {
+                "isAbout": "items/covid_l_geobls__addr5__unempyearprior_rate",
+                "isVis": true,
+                "variableName": "covid_l_geobls__addr5__unempyearprior_rate"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

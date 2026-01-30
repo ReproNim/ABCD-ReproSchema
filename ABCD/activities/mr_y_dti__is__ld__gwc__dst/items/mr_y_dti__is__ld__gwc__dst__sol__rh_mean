@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_dti__is__ld__gwc__dst__sol__rh_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "square millimeters per second (mm\u00b2/s)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Diffusion MRI (DTI)"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Longitudinal Diffusivity"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Destrieux"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ddtidp201"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ddtidp_1646"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_dmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_dti__is__ld__gwc__dst__sol__rh_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_dti_is_ld_gwc_dst_0133"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_dti__is__ld__gwc__dst"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_dti__is__ld__gwc__dst__sol__rh_mean"
+    },
+    "question": {
+        "en": "Average longitudinal diffusivity (inner shell DTI; gray/white contrast) in Destrieux ROI: lateral orbital sulcus (right hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

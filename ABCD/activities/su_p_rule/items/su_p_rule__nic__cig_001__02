@@ -1,0 +1,81 @@
+{
+    "id": "su_p_rule__nic__cig_001__02",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Environment"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "prq01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_parent_rules_pr"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "parent_rules_q6"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "parent_rules_q6"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_p_rule"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_p_rule__nic__cig_001__02"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_p_rule_0013"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_p_rule"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_p_rule__nic__cig_001__02"
+    },
+    "question": {
+        "en": "Do you enforce penalties for violating family rules about smoking?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

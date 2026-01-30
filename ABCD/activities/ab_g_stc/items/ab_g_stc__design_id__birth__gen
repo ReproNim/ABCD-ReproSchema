@@ -1,0 +1,67 @@
+{
+    "id": "ab_g_stc__design_id__birth__gen",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "Participants from the same family who were born together share a birth event ID"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Standard Variables"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "General"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_g_stc"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_g_stc__design_id__birth__gen"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_g_stc_0004"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_g_stc"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_g_stc__design_id__birth__gen"
+    },
+    "question": {
+        "en": "Design/nesting: Birth event ID - Participants from the same family who were born together share a birth event ID (derived based on genetic information)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

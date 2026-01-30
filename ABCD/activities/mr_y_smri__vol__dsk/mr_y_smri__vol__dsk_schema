@@ -1,0 +1,443 @@
+{
+    "id": "mr_y_smri__vol__dsk_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_smri__vol__dsk"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_smri__vol__dsk__bstmps__lh_sum",
+            "items/mr_y_smri__vol__dsk__cac__lh_sum",
+            "items/mr_y_smri__vol__dsk__cmfrt__lh_sum",
+            "items/mr_y_smri__vol__dsk__cn__lh_sum",
+            "items/mr_y_smri__vol__dsk__er__lh_sum",
+            "items/mr_y_smri__vol__dsk__ff__lh_sum",
+            "items/mr_y_smri__vol__dsk__ic__lh_sum",
+            "items/mr_y_smri__vol__dsk__ins__lh_sum",
+            "items/mr_y_smri__vol__dsk__iprt__lh_sum",
+            "items/mr_y_smri__vol__dsk__itmp__lh_sum",
+            "items/mr_y_smri__vol__dsk__lg__lh_sum",
+            "items/mr_y_smri__vol__dsk__lobfrt__lh_sum",
+            "items/mr_y_smri__vol__dsk__locc__lh_sum",
+            "items/mr_y_smri__vol__dsk__mobfrt__lh_sum",
+            "items/mr_y_smri__vol__dsk__mtmp__lh_sum",
+            "items/mr_y_smri__vol__dsk__pactr__lh_sum",
+            "items/mr_y_smri__vol__dsk__pcc__lh_sum",
+            "items/mr_y_smri__vol__dsk__pcg__lh_sum",
+            "items/mr_y_smri__vol__dsk__pfrt__lh_sum",
+            "items/mr_y_smri__vol__dsk__ph__lh_sum",
+            "items/mr_y_smri__vol__dsk__pob__lh_sum",
+            "items/mr_y_smri__vol__dsk__poctr__lh_sum",
+            "items/mr_y_smri__vol__dsk__pop__lh_sum",
+            "items/mr_y_smri__vol__dsk__prcn__lh_sum",
+            "items/mr_y_smri__vol__dsk__prctr__lh_sum",
+            "items/mr_y_smri__vol__dsk__ptg__lh_sum",
+            "items/mr_y_smri__vol__dsk__ptmp__lh_sum",
+            "items/mr_y_smri__vol__dsk__rac__lh_sum",
+            "items/mr_y_smri__vol__dsk__rmfrt__lh_sum",
+            "items/mr_y_smri__vol__dsk__sfrt__lh_sum",
+            "items/mr_y_smri__vol__dsk__sm__lh_sum",
+            "items/mr_y_smri__vol__dsk__sprt__lh_sum",
+            "items/mr_y_smri__vol__dsk__stmp__lh_sum",
+            "items/mr_y_smri__vol__dsk__ttmp__lh_sum",
+            "items/mr_y_smri__vol__dsk__bstmps__rh_sum",
+            "items/mr_y_smri__vol__dsk__cac__rh_sum",
+            "items/mr_y_smri__vol__dsk__cmfrt__rh_sum",
+            "items/mr_y_smri__vol__dsk__cn__rh_sum",
+            "items/mr_y_smri__vol__dsk__er__rh_sum",
+            "items/mr_y_smri__vol__dsk__ff__rh_sum",
+            "items/mr_y_smri__vol__dsk__ic__rh_sum",
+            "items/mr_y_smri__vol__dsk__ins__rh_sum",
+            "items/mr_y_smri__vol__dsk__iprt__rh_sum",
+            "items/mr_y_smri__vol__dsk__itmp__rh_sum",
+            "items/mr_y_smri__vol__dsk__lg__rh_sum",
+            "items/mr_y_smri__vol__dsk__lobfrt__rh_sum",
+            "items/mr_y_smri__vol__dsk__locc__rh_sum",
+            "items/mr_y_smri__vol__dsk__mobfrt__rh_sum",
+            "items/mr_y_smri__vol__dsk__mtmp__rh_sum",
+            "items/mr_y_smri__vol__dsk__pactr__rh_sum",
+            "items/mr_y_smri__vol__dsk__pcc__rh_sum",
+            "items/mr_y_smri__vol__dsk__pcg__rh_sum",
+            "items/mr_y_smri__vol__dsk__pfrt__rh_sum",
+            "items/mr_y_smri__vol__dsk__ph__rh_sum",
+            "items/mr_y_smri__vol__dsk__pob__rh_sum",
+            "items/mr_y_smri__vol__dsk__poctr__rh_sum",
+            "items/mr_y_smri__vol__dsk__pop__rh_sum",
+            "items/mr_y_smri__vol__dsk__prcn__rh_sum",
+            "items/mr_y_smri__vol__dsk__prctr__rh_sum",
+            "items/mr_y_smri__vol__dsk__ptg__rh_sum",
+            "items/mr_y_smri__vol__dsk__ptmp__rh_sum",
+            "items/mr_y_smri__vol__dsk__rac__rh_sum",
+            "items/mr_y_smri__vol__dsk__rmfrt__rh_sum",
+            "items/mr_y_smri__vol__dsk__sfrt__rh_sum",
+            "items/mr_y_smri__vol__dsk__sm__rh_sum",
+            "items/mr_y_smri__vol__dsk__sprt__rh_sum",
+            "items/mr_y_smri__vol__dsk__stmp__rh_sum",
+            "items/mr_y_smri__vol__dsk__ttmp__rh_sum",
+            "items/mr_y_smri__vol__dsk__lh_sum",
+            "items/mr_y_smri__vol__dsk__rh_sum",
+            "items/mr_y_smri__vol__dsk_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__bstmps__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__bstmps__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__cac__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__cac__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__cmfrt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__cmfrt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__cn__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__cn__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__er__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__er__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ff__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ff__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ic__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ic__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ins__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ins__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__iprt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__iprt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__itmp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__itmp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__lg__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__lg__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__lobfrt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__lobfrt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__locc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__locc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__mobfrt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__mobfrt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__mtmp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__mtmp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pactr__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pactr__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pcc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pcc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pcg__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pcg__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pfrt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pfrt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ph__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ph__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pob__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pob__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__poctr__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__poctr__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pop__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pop__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__prcn__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__prcn__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__prctr__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__prctr__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ptg__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ptg__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ptmp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ptmp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__rac__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__rac__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__rmfrt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__rmfrt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__sfrt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__sfrt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__sm__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__sm__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__sprt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__sprt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__stmp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__stmp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ttmp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ttmp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__bstmps__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__bstmps__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__cac__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__cac__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__cmfrt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__cmfrt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__cn__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__cn__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__er__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__er__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ff__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ff__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ic__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ic__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ins__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ins__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__iprt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__iprt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__itmp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__itmp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__lg__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__lg__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__lobfrt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__lobfrt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__locc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__locc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__mobfrt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__mobfrt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__mtmp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__mtmp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pactr__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pactr__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pcc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pcc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pcg__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pcg__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pfrt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pfrt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ph__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ph__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pob__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pob__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__poctr__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__poctr__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__pop__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__pop__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__prcn__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__prcn__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__prctr__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__prctr__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ptg__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ptg__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ptmp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ptmp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__rac__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__rac__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__rmfrt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__rmfrt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__sfrt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__sfrt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__sm__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__sm__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__sprt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__sprt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__stmp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__stmp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__ttmp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__ttmp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__vol__dsk_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__vol__dsk_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "sdev_p_nbh_013__l",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Community"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "soc_dev_fu_neighbor_p01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_follow_up_parent_neighborhood"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "socialdev_pneigh_13_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_pneigh_13_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/sdev.html#sdev_p_nbh"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_p_nbh_013__l"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_p_nbh_0028"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_p_nbh"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_p_nbh_013__l"
+    },
+    "question": {
+        "en": "Vandalism is common in my neighborhood. [Parent; Longitudinal]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

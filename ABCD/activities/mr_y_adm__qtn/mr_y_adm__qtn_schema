@@ -1,0 +1,305 @@
+{
+    "id": "mr_y_adm__qtn_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_adm__qtn"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_adm__qtn__pre__r01_dtt",
+            "items/mr_y_adm__qtn__pre__r01_age",
+            "items/mr_y_adm__qtn__pre__r01_001",
+            "items/mr_y_adm__qtn__pre__r01_002",
+            "items/mr_y_adm__qtn__pre__r01_003",
+            "items/mr_y_adm__qtn__pre__r01_004",
+            "items/mr_y_adm__qtn__pre__r01_005",
+            "items/mr_y_adm__qtn__pre__r01_006",
+            "items/mr_y_adm__qtn__pre__r01_007",
+            "items/mr_y_adm__qtn__pre__r01_008",
+            "items/mr_y_adm__qtn__pre__r01_009",
+            "items/mr_y_adm__qtn__pre__r01_010",
+            "items/mr_y_adm__qtn__pre__r02_dtt",
+            "items/mr_y_adm__qtn__pre__r02_age",
+            "items/mr_y_adm__qtn__pre__r02_001",
+            "items/mr_y_adm__qtn__pre__r02_002",
+            "items/mr_y_adm__qtn__pre__r02_003",
+            "items/mr_y_adm__qtn__pre__r02_004",
+            "items/mr_y_adm__qtn__pre__r02_005",
+            "items/mr_y_adm__qtn__pre__r02_006",
+            "items/mr_y_adm__qtn__pre__r02_007",
+            "items/mr_y_adm__qtn__pre__r02_008",
+            "items/mr_y_adm__qtn__pre__r02_009",
+            "items/mr_y_adm__qtn__pre__r02_010",
+            "items/mr_y_adm__qtn__post__r01_dtt",
+            "items/mr_y_adm__qtn__post__r01_age",
+            "items/mr_y_adm__qtn__post__r01_001",
+            "items/mr_y_adm__qtn__post__r01_002",
+            "items/mr_y_adm__qtn__post__r01_003",
+            "items/mr_y_adm__qtn__post__r01_004",
+            "items/mr_y_adm__qtn__post__r01_005",
+            "items/mr_y_adm__qtn__post__r01_006",
+            "items/mr_y_adm__qtn__post__r01_007",
+            "items/mr_y_adm__qtn__post__r01_008",
+            "items/mr_y_adm__qtn__post__r01_009",
+            "items/mr_y_adm__qtn__post__r01_010",
+            "items/mr_y_adm__qtn__post__r02_dtt",
+            "items/mr_y_adm__qtn__post__r02_age",
+            "items/mr_y_adm__qtn__post__r02_001",
+            "items/mr_y_adm__qtn__post__r02_002",
+            "items/mr_y_adm__qtn__post__r02_003",
+            "items/mr_y_adm__qtn__post__r02_004",
+            "items/mr_y_adm__qtn__post__r02_005",
+            "items/mr_y_adm__qtn__post__r02_006",
+            "items/mr_y_adm__qtn__post__r02_007",
+            "items/mr_y_adm__qtn__post__r02_008",
+            "items/mr_y_adm__qtn__post__r02_009",
+            "items/mr_y_adm__qtn__post__r02_010"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_dtt",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_dtt"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_age",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_age"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_001",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_001"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_002",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_002"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_003",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_003"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_004",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_004"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_005",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_005"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_006",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_006"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_007",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_007"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_008",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_008"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_009",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_009"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r01_010",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r01_010"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_dtt",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_dtt"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_age",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_age"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_001",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_001"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_002",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_002"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_003",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_003"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_004",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_004"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_005",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_005"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_006",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_006"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_007",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_007"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_008",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_008"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_009",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_009"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__pre__r02_010",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__pre__r02_010"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_dtt",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_dtt"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_age",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_age"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_001",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_001"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_002",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_002"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_003",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_003"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_004",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_004"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_005",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_005"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_006",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_006"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_007",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_007"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_008",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_008"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_009",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_009"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r01_010",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r01_010"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_dtt",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_dtt"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_age",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_age"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_001",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_001"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_002",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_002"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_003",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_003"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_004",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_004"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_005",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_005"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_006",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_006"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_007",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_007"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_008",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_008"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_009",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_009"
+            },
+            {
+                "isAbout": "items/mr_y_adm__qtn__post__r02_010",
+                "isVis": true,
+                "variableName": "mr_y_adm__qtn__post__r02_010"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

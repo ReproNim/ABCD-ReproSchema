@@ -1,0 +1,81 @@
+{
+    "id": "mr_y_tfmri__sst__beh__r01__go__incrct_rt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Stop Signal Task"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Behavior"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_sst02"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tfmri_sst_r1_beh_incrgo_mrt"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_tfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__sst__beh__r01__go__incrct_rt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_tfmri_sst_beh_0036"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__sst__beh"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_tfmri__sst__beh__r01__go__incrct_rt"
+    },
+    "question": {
+        "en": "Task fMRI - Stop Signal Task - Behavioral: Mean response time for all incorrect Go trials in run 1"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

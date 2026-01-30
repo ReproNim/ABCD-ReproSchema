@@ -1,0 +1,3497 @@
+{
+    "id": "mr_y_tfmri__nback__beh_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_tfmri__nback__beh"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_tfmri__nback__beh__0b__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__neg__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__neg__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__neg__lure_acc",
+            "items/mr_y_tfmri__nback__beh__0b__neg__lure_count",
+            "items/mr_y_tfmri__nback__beh__0b__neg__lure_rt",
+            "items/mr_y_tfmri__nback__beh__0b__neg__lure_std",
+            "items/mr_y_tfmri__nback__beh__0b__neg__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__neg__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__0b__neg__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__0b__neg__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__0b__neg__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__0b__neg__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__neg__target_acc",
+            "items/mr_y_tfmri__nback__beh__0b__neg__target_count",
+            "items/mr_y_tfmri__nback__beh__0b__neg__target_rt",
+            "items/mr_y_tfmri__nback__beh__0b__neg__target_std",
+            "items/mr_y_tfmri__nback__beh__0b__neg_acc",
+            "items/mr_y_tfmri__nback__beh__0b__neg_count",
+            "items/mr_y_tfmri__nback__beh__0b__neg_rt",
+            "items/mr_y_tfmri__nback__beh__0b__neg_std",
+            "items/mr_y_tfmri__nback__beh__0b__neut__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__neut__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__neut__lure_acc",
+            "items/mr_y_tfmri__nback__beh__0b__neut__lure_count",
+            "items/mr_y_tfmri__nback__beh__0b__neut__lure_rt",
+            "items/mr_y_tfmri__nback__beh__0b__neut__lure_std",
+            "items/mr_y_tfmri__nback__beh__0b__neut__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__neut__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__0b__neut__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__0b__neut__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__0b__neut__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__0b__neut__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__neut__target_acc",
+            "items/mr_y_tfmri__nback__beh__0b__neut__target_count",
+            "items/mr_y_tfmri__nback__beh__0b__neut__target_rt",
+            "items/mr_y_tfmri__nback__beh__0b__neut__target_std",
+            "items/mr_y_tfmri__nback__beh__0b__neut_acc",
+            "items/mr_y_tfmri__nback__beh__0b__neut_count",
+            "items/mr_y_tfmri__nback__beh__0b__neut_rt",
+            "items/mr_y_tfmri__nback__beh__0b__neut_std",
+            "items/mr_y_tfmri__nback__beh__0b__place__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__place__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__place__lure_acc",
+            "items/mr_y_tfmri__nback__beh__0b__place__lure_count",
+            "items/mr_y_tfmri__nback__beh__0b__place__lure_rt",
+            "items/mr_y_tfmri__nback__beh__0b__place__lure_std",
+            "items/mr_y_tfmri__nback__beh__0b__place__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__place__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__0b__place__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__0b__place__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__0b__place__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__0b__place__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__place__target_acc",
+            "items/mr_y_tfmri__nback__beh__0b__place__target_count",
+            "items/mr_y_tfmri__nback__beh__0b__place__target_rt",
+            "items/mr_y_tfmri__nback__beh__0b__place__target_std",
+            "items/mr_y_tfmri__nback__beh__0b__place_acc",
+            "items/mr_y_tfmri__nback__beh__0b__place_count",
+            "items/mr_y_tfmri__nback__beh__0b__place_rt",
+            "items/mr_y_tfmri__nback__beh__0b__place_std",
+            "items/mr_y_tfmri__nback__beh__0b__pos__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__pos__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__pos__lure_acc",
+            "items/mr_y_tfmri__nback__beh__0b__pos__lure_count",
+            "items/mr_y_tfmri__nback__beh__0b__pos__lure_rt",
+            "items/mr_y_tfmri__nback__beh__0b__pos__lure_std",
+            "items/mr_y_tfmri__nback__beh__0b__pos__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__pos__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__0b__pos__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__0b__pos__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__0b__pos__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__0b__pos__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__0b__pos__target_acc",
+            "items/mr_y_tfmri__nback__beh__0b__pos__target_count",
+            "items/mr_y_tfmri__nback__beh__0b__pos__target_rt",
+            "items/mr_y_tfmri__nback__beh__0b__pos__target_std",
+            "items/mr_y_tfmri__nback__beh__0b__pos_acc",
+            "items/mr_y_tfmri__nback__beh__0b__pos_count",
+            "items/mr_y_tfmri__nback__beh__0b__pos_rt",
+            "items/mr_y_tfmri__nback__beh__0b__pos_std",
+            "items/mr_y_tfmri__nback__beh__0b_acc",
+            "items/mr_y_tfmri__nback__beh__0b_count",
+            "items/mr_y_tfmri__nback__beh__0b_rt",
+            "items/mr_y_tfmri__nback__beh__0b_std",
+            "items/mr_y_tfmri__nback__beh__2b__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__neg__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__neg__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__neg__lure_acc",
+            "items/mr_y_tfmri__nback__beh__2b__neg__lure_count",
+            "items/mr_y_tfmri__nback__beh__2b__neg__lure_rt",
+            "items/mr_y_tfmri__nback__beh__2b__neg__lure_std",
+            "items/mr_y_tfmri__nback__beh__2b__neg__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__neg__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__2b__neg__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__2b__neg__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__2b__neg__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__2b__neg__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__neg__target_acc",
+            "items/mr_y_tfmri__nback__beh__2b__neg__target_count",
+            "items/mr_y_tfmri__nback__beh__2b__neg__target_rt",
+            "items/mr_y_tfmri__nback__beh__2b__neg__target_std",
+            "items/mr_y_tfmri__nback__beh__2b__neg_acc",
+            "items/mr_y_tfmri__nback__beh__2b__neg_count",
+            "items/mr_y_tfmri__nback__beh__2b__neg_rt",
+            "items/mr_y_tfmri__nback__beh__2b__neg_std",
+            "items/mr_y_tfmri__nback__beh__2b__neut__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__neut__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__neut__lure_acc",
+            "items/mr_y_tfmri__nback__beh__2b__neut__lure_count",
+            "items/mr_y_tfmri__nback__beh__2b__neut__lure_rt",
+            "items/mr_y_tfmri__nback__beh__2b__neut__lure_std",
+            "items/mr_y_tfmri__nback__beh__2b__neut__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__neut__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__2b__neut__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__2b__neut__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__2b__neut__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__2b__neut__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__neut__target_acc",
+            "items/mr_y_tfmri__nback__beh__2b__neut__target_count",
+            "items/mr_y_tfmri__nback__beh__2b__neut__target_rt",
+            "items/mr_y_tfmri__nback__beh__2b__neut__target_std",
+            "items/mr_y_tfmri__nback__beh__2b__neut_acc",
+            "items/mr_y_tfmri__nback__beh__2b__neut_count",
+            "items/mr_y_tfmri__nback__beh__2b__neut_rt",
+            "items/mr_y_tfmri__nback__beh__2b__neut_std",
+            "items/mr_y_tfmri__nback__beh__2b__place__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__place__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__place__lure_acc",
+            "items/mr_y_tfmri__nback__beh__2b__place__lure_count",
+            "items/mr_y_tfmri__nback__beh__2b__place__lure_rt",
+            "items/mr_y_tfmri__nback__beh__2b__place__lure_std",
+            "items/mr_y_tfmri__nback__beh__2b__place__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__place__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__2b__place__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__2b__place__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__2b__place__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__2b__place__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__place__target_acc",
+            "items/mr_y_tfmri__nback__beh__2b__place__target_count",
+            "items/mr_y_tfmri__nback__beh__2b__place__target_rt",
+            "items/mr_y_tfmri__nback__beh__2b__place__target_std",
+            "items/mr_y_tfmri__nback__beh__2b__place_acc",
+            "items/mr_y_tfmri__nback__beh__2b__place_count",
+            "items/mr_y_tfmri__nback__beh__2b__place_rt",
+            "items/mr_y_tfmri__nback__beh__2b__place_std",
+            "items/mr_y_tfmri__nback__beh__2b__pos__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__pos__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__pos__lure_acc",
+            "items/mr_y_tfmri__nback__beh__2b__pos__lure_count",
+            "items/mr_y_tfmri__nback__beh__2b__pos__lure_rt",
+            "items/mr_y_tfmri__nback__beh__2b__pos__lure_std",
+            "items/mr_y_tfmri__nback__beh__2b__pos__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__pos__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__2b__pos__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__2b__pos__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__2b__pos__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__2b__pos__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__2b__pos__target_acc",
+            "items/mr_y_tfmri__nback__beh__2b__pos__target_count",
+            "items/mr_y_tfmri__nback__beh__2b__pos__target_rt",
+            "items/mr_y_tfmri__nback__beh__2b__pos__target_std",
+            "items/mr_y_tfmri__nback__beh__2b__pos_acc",
+            "items/mr_y_tfmri__nback__beh__2b__pos_count",
+            "items/mr_y_tfmri__nback__beh__2b__pos_rt",
+            "items/mr_y_tfmri__nback__beh__2b__pos_std",
+            "items/mr_y_tfmri__nback__beh__2b_acc",
+            "items/mr_y_tfmri__nback__beh__2b_count",
+            "items/mr_y_tfmri__nback__beh__2b_rt",
+            "items/mr_y_tfmri__nback__beh__2b_std",
+            "items/mr_y_tfmri__nback__beh__crct_count",
+            "items/mr_y_tfmri__nback__beh__neg__crct_count",
+            "items/mr_y_tfmri__nback__beh__neg_acc",
+            "items/mr_y_tfmri__nback__beh__neg_count",
+            "items/mr_y_tfmri__nback__beh__neg_rt",
+            "items/mr_y_tfmri__nback__beh__neg_std",
+            "items/mr_y_tfmri__nback__beh__neut__crct_count",
+            "items/mr_y_tfmri__nback__beh__neut_acc",
+            "items/mr_y_tfmri__nback__beh__neut_count",
+            "items/mr_y_tfmri__nback__beh__neut_rt",
+            "items/mr_y_tfmri__nback__beh__neut_std",
+            "items/mr_y_tfmri__nback__beh__place__crct_count",
+            "items/mr_y_tfmri__nback__beh__place_acc",
+            "items/mr_y_tfmri__nback__beh__place_count",
+            "items/mr_y_tfmri__nback__beh__place_rt",
+            "items/mr_y_tfmri__nback__beh__place_std",
+            "items/mr_y_tfmri__nback__beh__pos__crct_count",
+            "items/mr_y_tfmri__nback__beh__pos_acc",
+            "items/mr_y_tfmri__nback__beh__pos_count",
+            "items/mr_y_tfmri__nback__beh__pos_rt",
+            "items/mr_y_tfmri__nback__beh__pos_std",
+            "items/mr_y_tfmri__nback__beh__qc_indicator",
+            "items/mr_y_tfmri__nback__beh__r01__0b__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__target_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__target_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__target_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg__target_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neg_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__target_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__target_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__target_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut__target_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__neut_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__lure_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__lure_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__target_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__target_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__target_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place__target_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__place_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__target_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__target_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__target_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos__target_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b__pos_std",
+            "items/mr_y_tfmri__nback__beh__r01__0b_acc",
+            "items/mr_y_tfmri__nback__beh__r01__0b_count",
+            "items/mr_y_tfmri__nback__beh__r01__0b_rt",
+            "items/mr_y_tfmri__nback__beh__r01__0b_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__target_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__target_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__target_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg__target_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neg_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__target_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__target_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__target_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut__target_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__neut_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__lure_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__lure_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__target_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__target_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__target_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place__target_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__place_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__target_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__target_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__target_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos__target_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b__pos_std",
+            "items/mr_y_tfmri__nback__beh__r01__2b_acc",
+            "items/mr_y_tfmri__nback__beh__r01__2b_count",
+            "items/mr_y_tfmri__nback__beh__r01__2b_rt",
+            "items/mr_y_tfmri__nback__beh__r01__2b_std",
+            "items/mr_y_tfmri__nback__beh__r01__neg__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__neg_acc",
+            "items/mr_y_tfmri__nback__beh__r01__neg_count",
+            "items/mr_y_tfmri__nback__beh__r01__neg_rt",
+            "items/mr_y_tfmri__nback__beh__r01__neg_std",
+            "items/mr_y_tfmri__nback__beh__r01__neut__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__neut_acc",
+            "items/mr_y_tfmri__nback__beh__r01__neut_count",
+            "items/mr_y_tfmri__nback__beh__r01__neut_rt",
+            "items/mr_y_tfmri__nback__beh__r01__neut_std",
+            "items/mr_y_tfmri__nback__beh__r01__place__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__place_acc",
+            "items/mr_y_tfmri__nback__beh__r01__place_count",
+            "items/mr_y_tfmri__nback__beh__r01__place_rt",
+            "items/mr_y_tfmri__nback__beh__r01__place_std",
+            "items/mr_y_tfmri__nback__beh__r01__pos__crct_count",
+            "items/mr_y_tfmri__nback__beh__r01__pos_acc",
+            "items/mr_y_tfmri__nback__beh__r01__pos_count",
+            "items/mr_y_tfmri__nback__beh__r01__pos_rt",
+            "items/mr_y_tfmri__nback__beh__r01__pos_std",
+            "items/mr_y_tfmri__nback__beh__r01__trial_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__target_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__target_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__target_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg__target_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neg_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__target_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__target_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__target_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut__target_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__neut_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__lure_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__lure_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__target_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__target_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__target_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place__target_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__place_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__target_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__target_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__target_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos__target_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b__pos_std",
+            "items/mr_y_tfmri__nback__beh__r02__0b_acc",
+            "items/mr_y_tfmri__nback__beh__r02__0b_count",
+            "items/mr_y_tfmri__nback__beh__r02__0b_rt",
+            "items/mr_y_tfmri__nback__beh__r02__0b_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__target_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__target_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__target_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg__target_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neg_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__target_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__target_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__target_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut__target_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__neut_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__lure_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__lure_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__target_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__target_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__target_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place__target_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__place_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__target__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__target_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__target_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__target_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos__target_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b__pos_std",
+            "items/mr_y_tfmri__nback__beh__r02__2b_acc",
+            "items/mr_y_tfmri__nback__beh__r02__2b_count",
+            "items/mr_y_tfmri__nback__beh__r02__2b_rt",
+            "items/mr_y_tfmri__nback__beh__r02__2b_std",
+            "items/mr_y_tfmri__nback__beh__r02__neg__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__neg_acc",
+            "items/mr_y_tfmri__nback__beh__r02__neg_count",
+            "items/mr_y_tfmri__nback__beh__r02__neg_rt",
+            "items/mr_y_tfmri__nback__beh__r02__neg_std",
+            "items/mr_y_tfmri__nback__beh__r02__neut__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__neut_acc",
+            "items/mr_y_tfmri__nback__beh__r02__neut_count",
+            "items/mr_y_tfmri__nback__beh__r02__neut_rt",
+            "items/mr_y_tfmri__nback__beh__r02__neut_std",
+            "items/mr_y_tfmri__nback__beh__r02__place__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__place_acc",
+            "items/mr_y_tfmri__nback__beh__r02__place_count",
+            "items/mr_y_tfmri__nback__beh__r02__place_rt",
+            "items/mr_y_tfmri__nback__beh__r02__place_std",
+            "items/mr_y_tfmri__nback__beh__r02__pos__crct_count",
+            "items/mr_y_tfmri__nback__beh__r02__pos_acc",
+            "items/mr_y_tfmri__nback__beh__r02__pos_count",
+            "items/mr_y_tfmri__nback__beh__r02__pos_rt",
+            "items/mr_y_tfmri__nback__beh__r02__pos_std",
+            "items/mr_y_tfmri__nback__beh__r02__trial_count",
+            "items/mr_y_tfmri__nback__beh__run_count",
+            "items/mr_y_tfmri__nback__beh__switch_indicator",
+            "items/mr_y_tfmri__nback__beh__trial_count",
+            "items/mr_y_tfmri__nback__beh_acc",
+            "items/mr_y_tfmri__nback__beh_rt",
+            "items/mr_y_tfmri__nback__beh_std"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__place_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__place_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b__pos_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b__pos_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__0b_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__0b_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__place_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__place_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b__pos_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b__pos_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__2b_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__2b_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__place__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__place__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__place_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__place_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__place_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__place_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__place_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__place_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__pos__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__pos__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__pos_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__pos_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__pos_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__pos_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__pos_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__pos_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__qc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__qc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__place_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__place_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b__pos_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b__pos_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__0b_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__0b_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__place_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__place_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b__pos_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b__pos_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__2b_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__2b_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__place__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__place__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__place_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__place_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__place_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__place_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__place_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__place_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__pos__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__pos__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__pos_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__pos_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__pos_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__pos_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__pos_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__pos_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r01__trial_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r01__trial_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__place_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__place_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b__pos_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b__pos_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__0b_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__0b_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__place_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__place_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__lure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__lure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__lure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__lure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__lure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__lure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__nonlure__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__nonlure_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__target__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__target__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__target_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__target_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__target_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__target_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__target_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__target_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos__target_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos__target_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b__pos_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b__pos_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__2b_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__2b_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neg_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neg_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neut_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neut_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__place__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__place__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__place_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__place_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__place_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__place_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__place_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__place_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__place_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__place_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__pos__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__pos__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__pos_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__pos_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__pos_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__pos_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__pos_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__pos_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__pos_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__pos_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__r02__trial_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__r02__trial_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__run_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__run_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__switch_indicator",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__switch_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh__trial_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh__trial_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh_acc",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh_acc"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__beh_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__beh_std"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

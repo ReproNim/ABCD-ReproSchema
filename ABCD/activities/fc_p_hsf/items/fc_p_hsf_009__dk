@@ -1,0 +1,66 @@
+{
+    "id": "fc_p_hsf_009__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Parenting"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_p_hsf"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_p_hsf_009__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_p_hsf_0015"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_p_hsf"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_p_hsf_009__dk"
+    },
+    "question": {
+        "en": "Before age 5, during a typical week, how many days did all the family members who lived in the household eat a meal together with your child? [Non-response]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "le_l_temp__addr2__temp_max__db2",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "degrees Celsius (\u00b0C)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Meteorology and Exposures"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_rhds01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr2_scanweektemp_t2"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_temp"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_temp__addr2__temp_max__db2"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_temp_0010"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_temp"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_temp__addr2__temp_max__db2"
+    },
+    "question": {
+        "en": "Maximum temperature at residence 2 days prior (t-2) to date of study visit (Address 2) (address 2)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

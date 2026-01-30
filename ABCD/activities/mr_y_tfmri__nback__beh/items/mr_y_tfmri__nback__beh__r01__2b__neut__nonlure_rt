@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_rt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "seconds (sec)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Emotional N-Back"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Behavior"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_mrinback02"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tfmri_nb_r1_beh_c2bnfnl_mrt"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_tfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_rt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_tfmri_nback_beh_0308"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__nback__beh"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_tfmri__nback__beh__r01__2b__neut__nonlure_rt"
+    },
+    "question": {
+        "en": "Task fMRI - Emotional N-Back task - Behavioral (run 1): Average reaction time for all correct responses to 2 back with neutral face nonlure stimuli during run 1"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

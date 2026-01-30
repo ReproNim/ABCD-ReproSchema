@@ -1,0 +1,35 @@
+{
+    "id": "le_l_urban_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_urban"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_urban__addr1_urbanclassification",
+            "items/le_l_urban__addr2_urbanclassification",
+            "items/le_l_urban__addr3_urbanclassification"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_urban__addr1_urbanclassification",
+                "isVis": true,
+                "variableName": "le_l_urban__addr1_urbanclassification"
+            },
+            {
+                "isAbout": "items/le_l_urban__addr2_urbanclassification",
+                "isVis": true,
+                "variableName": "le_l_urban__addr2_urbanclassification"
+            },
+            {
+                "isAbout": "items/le_l_urban__addr3_urbanclassification",
+                "isVis": true,
+                "variableName": "le_l_urban__addr3_urbanclassification"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,149 @@
+{
+    "id": "su_y_cigmot_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_cigmot"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_cigmot_dtt",
+            "items/su_y_cigmot_age",
+            "items/su_y_cigmot_adm",
+            "items/su_y_cigmot_001",
+            "items/su_y_cigmot_002",
+            "items/su_y_cigmot_003",
+            "items/su_y_cigmot_004",
+            "items/su_y_cigmot_005",
+            "items/su_y_cigmot_006",
+            "items/su_y_cigmot_007",
+            "items/su_y_cigmot_008",
+            "items/su_y_cigmot_009",
+            "items/su_y_cigmot_010",
+            "items/su_y_cigmot_011",
+            "items/su_y_cigmot_012",
+            "items/su_y_cigmot_013",
+            "items/su_y_cigmot_014",
+            "items/su_y_cigmot_015",
+            "items/su_y_cigmot_016",
+            "items/su_y_cigmot_017",
+            "items/su_y_cigmot_018",
+            "items/su_y_cigmot_019"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_cigmot_dtt",
+                "isVis": true,
+                "variableName": "su_y_cigmot_dtt"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_age",
+                "isVis": true,
+                "variableName": "su_y_cigmot_age"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_adm",
+                "isVis": true,
+                "variableName": "su_y_cigmot_adm"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_001",
+                "isVis": true,
+                "variableName": "su_y_cigmot_001"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_002",
+                "isVis": true,
+                "variableName": "su_y_cigmot_002"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_003",
+                "isVis": true,
+                "variableName": "su_y_cigmot_003"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_004",
+                "isVis": true,
+                "variableName": "su_y_cigmot_004"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_005",
+                "isVis": true,
+                "variableName": "su_y_cigmot_005"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_006",
+                "isVis": true,
+                "variableName": "su_y_cigmot_006"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_007",
+                "isVis": true,
+                "variableName": "su_y_cigmot_007"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_008",
+                "isVis": true,
+                "variableName": "su_y_cigmot_008"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_009",
+                "isVis": true,
+                "variableName": "su_y_cigmot_009"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_010",
+                "isVis": true,
+                "variableName": "su_y_cigmot_010"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_011",
+                "isVis": true,
+                "variableName": "su_y_cigmot_011"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_012",
+                "isVis": true,
+                "variableName": "su_y_cigmot_012"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_013",
+                "isVis": true,
+                "variableName": "su_y_cigmot_013"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_014",
+                "isVis": true,
+                "variableName": "su_y_cigmot_014"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_015",
+                "isVis": true,
+                "variableName": "su_y_cigmot_015"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_016",
+                "isVis": true,
+                "variableName": "su_y_cigmot_016"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_017",
+                "isVis": true,
+                "variableName": "su_y_cigmot_017"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_018",
+                "isVis": true,
+                "variableName": "su_y_cigmot_018"
+            },
+            {
+                "isAbout": "items/su_y_cigmot_019",
+                "isVis": true,
+                "variableName": "su_y_cigmot_019"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

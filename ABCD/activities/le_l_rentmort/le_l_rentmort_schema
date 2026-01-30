@@ -1,0 +1,107 @@
+{
+    "id": "le_l_rentmort_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_rentmort"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_rentmort__addr1__homevalue_med",
+            "items/le_l_rentmort__addr1__ownership_prcnt",
+            "items/le_l_rentmort__addr1__rent_med",
+            "items/le_l_rentmort__addr1__rentburden__sev_prcnt",
+            "items/le_l_rentmort__addr1__rentburden_prcnt",
+            "items/le_l_rentmort__addr2__homevalue_med",
+            "items/le_l_rentmort__addr2__ownership_prcnt",
+            "items/le_l_rentmort__addr2__rent_med",
+            "items/le_l_rentmort__addr2__rentburden__sev_prcnt",
+            "items/le_l_rentmort__addr2__rentburden_prcnt",
+            "items/le_l_rentmort__addr3__homevalue_med",
+            "items/le_l_rentmort__addr3__ownership_prcnt",
+            "items/le_l_rentmort__addr3__rent_med",
+            "items/le_l_rentmort__addr3__rentburden__sev_prcnt",
+            "items/le_l_rentmort__addr3__rentburden_prcnt"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_rentmort__addr1__homevalue_med",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr1__homevalue_med"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr1__ownership_prcnt",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr1__ownership_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr1__rent_med",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr1__rent_med"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr1__rentburden__sev_prcnt",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr1__rentburden__sev_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr1__rentburden_prcnt",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr1__rentburden_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr2__homevalue_med",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr2__homevalue_med"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr2__ownership_prcnt",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr2__ownership_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr2__rent_med",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr2__rent_med"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr2__rentburden__sev_prcnt",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr2__rentburden__sev_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr2__rentburden_prcnt",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr2__rentburden_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr3__homevalue_med",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr3__homevalue_med"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr3__ownership_prcnt",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr3__ownership_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr3__rent_med",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr3__rent_med"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr3__rentburden__sev_prcnt",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr3__rentburden__sev_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_rentmort__addr3__rentburden_prcnt",
+                "isVis": true,
+                "variableName": "le_l_rentmort__addr3__rentburden_prcnt"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

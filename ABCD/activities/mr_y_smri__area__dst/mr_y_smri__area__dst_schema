@@ -1,0 +1,923 @@
+{
+    "id": "mr_y_smri__area__dst_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_smri__area__dst"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_smri__area__dst__gcn__lh_sum",
+            "items/mr_y_smri__area__dst__gcpd__lh_sum",
+            "items/mr_y_smri__area__dst__gcpv__lh_sum",
+            "items/mr_y_smri__area__dst__gfio__lh_sum",
+            "items/mr_y_smri__area__dst__gfiob__lh_sum",
+            "items/mr_y_smri__area__dst__gfit__lh_sum",
+            "items/mr_y_smri__area__dst__gfm__lh_sum",
+            "items/mr_y_smri__area__dst__gfs__lh_sum",
+            "items/mr_y_smri__area__dst__gilsci__lh_sum",
+            "items/mr_y_smri__area__dst__gis__lh_sum",
+            "items/mr_y_smri__area__dst__go__lh_sum",
+            "items/mr_y_smri__area__dst__gom__lh_sum",
+            "items/mr_y_smri__area__dst__gos__lh_sum",
+            "items/mr_y_smri__area__dst__gotlf__lh_sum",
+            "items/mr_y_smri__area__dst__gotml__lh_sum",
+            "items/mr_y_smri__area__dst__gotmp__lh_sum",
+            "items/mr_y_smri__area__dst__gpc__lh_sum",
+            "items/mr_y_smri__area__dst__gpia__lh_sum",
+            "items/mr_y_smri__area__dst__gpis__lh_sum",
+            "items/mr_y_smri__area__dst__gprcn__lh_sum",
+            "items/mr_y_smri__area__dst__gprct__lh_sum",
+            "items/mr_y_smri__area__dst__gps__lh_sum",
+            "items/mr_y_smri__area__dst__gr__lh_sum",
+            "items/mr_y_smri__area__dst__gs__lh_sum",
+            "items/mr_y_smri__area__dst__gsca__lh_sum",
+            "items/mr_y_smri__area__dst__gscma__lh_sum",
+            "items/mr_y_smri__area__dst__gscmp__lh_sum",
+            "items/mr_y_smri__area__dst__gsfm__lh_sum",
+            "items/mr_y_smri__area__dst__gsoi__lh_sum",
+            "items/mr_y_smri__area__dst__gspc__lh_sum",
+            "items/mr_y_smri__area__dst__gssc__lh_sum",
+            "items/mr_y_smri__area__dst__gstf__lh_sum",
+            "items/mr_y_smri__area__dst__gti__lh_sum",
+            "items/mr_y_smri__area__dst__gtm__lh_sum",
+            "items/mr_y_smri__area__dst__gtsgtt__lh_sum",
+            "items/mr_y_smri__area__dst__gtsl__lh_sum",
+            "items/mr_y_smri__area__dst__gtspp__lh_sum",
+            "items/mr_y_smri__area__dst__gtspt__lh_sum",
+            "items/mr_y_smri__area__dst__lfah__lh_sum",
+            "items/mr_y_smri__area__dst__lfav__lh_sum",
+            "items/mr_y_smri__area__dst__lfp__lh_sum",
+            "items/mr_y_smri__area__dst__pocc__lh_sum",
+            "items/mr_y_smri__area__dst__ptmp__lh_sum",
+            "items/mr_y_smri__area__dst__sc__lh_sum",
+            "items/mr_y_smri__area__dst__scc__lh_sum",
+            "items/mr_y_smri__area__dst__scia__lh_sum",
+            "items/mr_y_smri__area__dst__scii__lh_sum",
+            "items/mr_y_smri__area__dst__scis__lh_sum",
+            "items/mr_y_smri__area__dst__scm__lh_sum",
+            "items/mr_y_smri__area__dst__scta__lh_sum",
+            "items/mr_y_smri__area__dst__sctp__lh_sum",
+            "items/mr_y_smri__area__dst__sfi__lh_sum",
+            "items/mr_y_smri__area__dst__sfm__lh_sum",
+            "items/mr_y_smri__area__dst__sfs__lh_sum",
+            "items/mr_y_smri__area__dst__sipj__lh_sum",
+            "items/mr_y_smri__area__dst__sipt__lh_sum",
+            "items/mr_y_smri__area__dst__soa__lh_sum",
+            "items/mr_y_smri__area__dst__sohs__lh_sum",
+            "items/mr_y_smri__area__dst__sol__lh_sum",
+            "items/mr_y_smri__area__dst__soml__lh_sum",
+            "items/mr_y_smri__area__dst__somo__lh_sum",
+            "items/mr_y_smri__area__dst__sost__lh_sum",
+            "items/mr_y_smri__area__dst__sotl__lh_sum",
+            "items/mr_y_smri__area__dst__sotml__lh_sum",
+            "items/mr_y_smri__area__dst__spc__lh_sum",
+            "items/mr_y_smri__area__dst__spct__lh_sum",
+            "items/mr_y_smri__area__dst__spo__lh_sum",
+            "items/mr_y_smri__area__dst__sprip__lh_sum",
+            "items/mr_y_smri__area__dst__sprsp__lh_sum",
+            "items/mr_y_smri__area__dst__sso__lh_sum",
+            "items/mr_y_smri__area__dst__ssp__lh_sum",
+            "items/mr_y_smri__area__dst__sti__lh_sum",
+            "items/mr_y_smri__area__dst__sts__lh_sum",
+            "items/mr_y_smri__area__dst__stt__lh_sum",
+            "items/mr_y_smri__area__dst__gcn__rh_sum",
+            "items/mr_y_smri__area__dst__gcpd__rh_sum",
+            "items/mr_y_smri__area__dst__gcpv__rh_sum",
+            "items/mr_y_smri__area__dst__gfio__rh_sum",
+            "items/mr_y_smri__area__dst__gfiob__rh_sum",
+            "items/mr_y_smri__area__dst__gfit__rh_sum",
+            "items/mr_y_smri__area__dst__gfm__rh_sum",
+            "items/mr_y_smri__area__dst__gfs__rh_sum",
+            "items/mr_y_smri__area__dst__gilsci__rh_sum",
+            "items/mr_y_smri__area__dst__gis__rh_sum",
+            "items/mr_y_smri__area__dst__go__rh_sum",
+            "items/mr_y_smri__area__dst__gom__rh_sum",
+            "items/mr_y_smri__area__dst__gos__rh_sum",
+            "items/mr_y_smri__area__dst__gotlf__rh_sum",
+            "items/mr_y_smri__area__dst__gotml__rh_sum",
+            "items/mr_y_smri__area__dst__gotmp__rh_sum",
+            "items/mr_y_smri__area__dst__gpc__rh_sum",
+            "items/mr_y_smri__area__dst__gpia__rh_sum",
+            "items/mr_y_smri__area__dst__gpis__rh_sum",
+            "items/mr_y_smri__area__dst__gprcn__rh_sum",
+            "items/mr_y_smri__area__dst__gprct__rh_sum",
+            "items/mr_y_smri__area__dst__gps__rh_sum",
+            "items/mr_y_smri__area__dst__gr__rh_sum",
+            "items/mr_y_smri__area__dst__gs__rh_sum",
+            "items/mr_y_smri__area__dst__gsca__rh_sum",
+            "items/mr_y_smri__area__dst__gscma__rh_sum",
+            "items/mr_y_smri__area__dst__gscmp__rh_sum",
+            "items/mr_y_smri__area__dst__gsfm__rh_sum",
+            "items/mr_y_smri__area__dst__gsoi__rh_sum",
+            "items/mr_y_smri__area__dst__gspc__rh_sum",
+            "items/mr_y_smri__area__dst__gssc__rh_sum",
+            "items/mr_y_smri__area__dst__gstf__rh_sum",
+            "items/mr_y_smri__area__dst__gti__rh_sum",
+            "items/mr_y_smri__area__dst__gtm__rh_sum",
+            "items/mr_y_smri__area__dst__gtsgtt__rh_sum",
+            "items/mr_y_smri__area__dst__gtsl__rh_sum",
+            "items/mr_y_smri__area__dst__gtspp__rh_sum",
+            "items/mr_y_smri__area__dst__gtspt__rh_sum",
+            "items/mr_y_smri__area__dst__lfah__rh_sum",
+            "items/mr_y_smri__area__dst__lfav__rh_sum",
+            "items/mr_y_smri__area__dst__lfp__rh_sum",
+            "items/mr_y_smri__area__dst__pocc__rh_sum",
+            "items/mr_y_smri__area__dst__ptmp__rh_sum",
+            "items/mr_y_smri__area__dst__sc__rh_sum",
+            "items/mr_y_smri__area__dst__scc__rh_sum",
+            "items/mr_y_smri__area__dst__scia__rh_sum",
+            "items/mr_y_smri__area__dst__scii__rh_sum",
+            "items/mr_y_smri__area__dst__scis__rh_sum",
+            "items/mr_y_smri__area__dst__scm__rh_sum",
+            "items/mr_y_smri__area__dst__scta__rh_sum",
+            "items/mr_y_smri__area__dst__sctp__rh_sum",
+            "items/mr_y_smri__area__dst__sfi__rh_sum",
+            "items/mr_y_smri__area__dst__sfm__rh_sum",
+            "items/mr_y_smri__area__dst__sfs__rh_sum",
+            "items/mr_y_smri__area__dst__sipj__rh_sum",
+            "items/mr_y_smri__area__dst__sipt__rh_sum",
+            "items/mr_y_smri__area__dst__soa__rh_sum",
+            "items/mr_y_smri__area__dst__sohs__rh_sum",
+            "items/mr_y_smri__area__dst__sol__rh_sum",
+            "items/mr_y_smri__area__dst__soml__rh_sum",
+            "items/mr_y_smri__area__dst__somo__rh_sum",
+            "items/mr_y_smri__area__dst__sost__rh_sum",
+            "items/mr_y_smri__area__dst__sotl__rh_sum",
+            "items/mr_y_smri__area__dst__sotml__rh_sum",
+            "items/mr_y_smri__area__dst__spc__rh_sum",
+            "items/mr_y_smri__area__dst__spct__rh_sum",
+            "items/mr_y_smri__area__dst__spo__rh_sum",
+            "items/mr_y_smri__area__dst__sprip__rh_sum",
+            "items/mr_y_smri__area__dst__sprsp__rh_sum",
+            "items/mr_y_smri__area__dst__sso__rh_sum",
+            "items/mr_y_smri__area__dst__ssp__rh_sum",
+            "items/mr_y_smri__area__dst__sti__rh_sum",
+            "items/mr_y_smri__area__dst__sts__rh_sum",
+            "items/mr_y_smri__area__dst__stt__rh_sum",
+            "items/mr_y_smri__area__dst__lh_sum",
+            "items/mr_y_smri__area__dst__rh_sum",
+            "items/mr_y_smri__area__dst_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gcn__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gcn__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gcpd__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gcpd__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gcpv__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gcpv__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfio__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfio__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfiob__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfiob__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfit__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfit__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfm__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfm__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfs__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfs__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gilsci__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gilsci__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gis__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gis__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__go__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__go__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gom__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gom__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gos__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gos__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gotlf__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gotlf__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gotml__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gotml__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gotmp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gotmp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gpc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gpc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gpia__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gpia__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gpis__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gpis__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gprcn__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gprcn__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gprct__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gprct__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gps__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gps__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gr__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gr__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gs__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gs__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gsca__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gsca__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gscma__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gscma__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gscmp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gscmp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gsfm__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gsfm__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gsoi__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gsoi__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gspc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gspc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gssc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gssc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gstf__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gstf__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gti__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gti__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtm__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtm__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtsgtt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtsgtt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtsl__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtsl__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtspp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtspp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtspt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtspt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__lfah__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__lfah__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__lfav__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__lfav__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__lfp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__lfp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__pocc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__pocc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__ptmp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__ptmp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scia__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scia__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scii__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scii__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scis__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scis__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scm__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scm__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scta__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scta__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sctp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sctp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sfi__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sfi__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sfm__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sfm__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sfs__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sfs__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sipj__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sipj__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sipt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sipt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__soa__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__soa__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sohs__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sohs__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sol__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sol__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__soml__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__soml__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__somo__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__somo__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sost__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sost__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sotl__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sotl__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sotml__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sotml__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__spc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__spc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__spct__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__spct__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__spo__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__spo__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sprip__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sprip__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sprsp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sprsp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sso__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sso__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__ssp__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__ssp__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sti__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sti__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sts__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sts__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__stt__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__stt__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gcn__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gcn__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gcpd__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gcpd__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gcpv__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gcpv__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfio__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfio__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfiob__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfiob__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfit__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfit__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfm__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfm__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gfs__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gfs__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gilsci__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gilsci__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gis__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gis__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__go__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__go__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gom__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gom__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gos__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gos__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gotlf__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gotlf__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gotml__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gotml__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gotmp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gotmp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gpc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gpc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gpia__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gpia__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gpis__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gpis__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gprcn__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gprcn__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gprct__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gprct__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gps__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gps__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gr__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gr__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gs__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gs__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gsca__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gsca__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gscma__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gscma__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gscmp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gscmp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gsfm__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gsfm__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gsoi__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gsoi__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gspc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gspc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gssc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gssc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gstf__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gstf__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gti__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gti__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtm__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtm__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtsgtt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtsgtt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtsl__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtsl__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtspp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtspp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__gtspt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__gtspt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__lfah__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__lfah__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__lfav__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__lfav__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__lfp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__lfp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__pocc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__pocc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__ptmp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__ptmp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scia__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scia__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scii__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scii__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scis__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scis__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scm__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scm__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__scta__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__scta__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sctp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sctp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sfi__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sfi__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sfm__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sfm__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sfs__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sfs__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sipj__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sipj__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sipt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sipt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__soa__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__soa__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sohs__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sohs__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sol__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sol__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__soml__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__soml__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__somo__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__somo__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sost__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sost__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sotl__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sotl__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sotml__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sotml__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__spc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__spc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__spct__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__spct__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__spo__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__spo__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sprip__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sprip__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sprsp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sprsp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sso__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sso__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__ssp__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__ssp__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sti__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sti__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__sts__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__sts__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__stt__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__stt__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_smri__area__dst_sum",
+                "isVis": true,
+                "variableName": "mr_y_smri__area__dst_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,131 @@
+{
+    "id": "su_y_perc_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_perc"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_perc_dtt",
+            "items/su_y_perc_age",
+            "items/su_y_perc_adm",
+            "items/su_y_perc__alc_001",
+            "items/su_y_perc__alc_002",
+            "items/su_y_perc__alc_003",
+            "items/su_y_perc__illdrg_001",
+            "items/su_y_perc__inh_001",
+            "items/su_y_perc__mj_001",
+            "items/su_y_perc__mj_002",
+            "items/su_y_perc__mj_003",
+            "items/su_y_perc__nic__chew_001",
+            "items/su_y_perc__nic__cig_001",
+            "items/su_y_perc__nic__cig_002",
+            "items/su_y_perc__nic__cig_003",
+            "items/su_y_perc__nic__vape_001",
+            "items/su_y_perc__rxopi_001",
+            "items/su_y_perc__rxsed_001",
+            "items/su_y_perc__rxstim_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_perc_dtt",
+                "isVis": true,
+                "variableName": "su_y_perc_dtt"
+            },
+            {
+                "isAbout": "items/su_y_perc_age",
+                "isVis": true,
+                "variableName": "su_y_perc_age"
+            },
+            {
+                "isAbout": "items/su_y_perc_adm",
+                "isVis": true,
+                "variableName": "su_y_perc_adm"
+            },
+            {
+                "isAbout": "items/su_y_perc__alc_001",
+                "isVis": true,
+                "variableName": "su_y_perc__alc_001"
+            },
+            {
+                "isAbout": "items/su_y_perc__alc_002",
+                "isVis": true,
+                "variableName": "su_y_perc__alc_002"
+            },
+            {
+                "isAbout": "items/su_y_perc__alc_003",
+                "isVis": true,
+                "variableName": "su_y_perc__alc_003"
+            },
+            {
+                "isAbout": "items/su_y_perc__illdrg_001",
+                "isVis": true,
+                "variableName": "su_y_perc__illdrg_001"
+            },
+            {
+                "isAbout": "items/su_y_perc__inh_001",
+                "isVis": true,
+                "variableName": "su_y_perc__inh_001"
+            },
+            {
+                "isAbout": "items/su_y_perc__mj_001",
+                "isVis": true,
+                "variableName": "su_y_perc__mj_001"
+            },
+            {
+                "isAbout": "items/su_y_perc__mj_002",
+                "isVis": true,
+                "variableName": "su_y_perc__mj_002"
+            },
+            {
+                "isAbout": "items/su_y_perc__mj_003",
+                "isVis": true,
+                "variableName": "su_y_perc__mj_003"
+            },
+            {
+                "isAbout": "items/su_y_perc__nic__chew_001",
+                "isVis": true,
+                "variableName": "su_y_perc__nic__chew_001"
+            },
+            {
+                "isAbout": "items/su_y_perc__nic__cig_001",
+                "isVis": true,
+                "variableName": "su_y_perc__nic__cig_001"
+            },
+            {
+                "isAbout": "items/su_y_perc__nic__cig_002",
+                "isVis": true,
+                "variableName": "su_y_perc__nic__cig_002"
+            },
+            {
+                "isAbout": "items/su_y_perc__nic__cig_003",
+                "isVis": true,
+                "variableName": "su_y_perc__nic__cig_003"
+            },
+            {
+                "isAbout": "items/su_y_perc__nic__vape_001",
+                "isVis": true,
+                "variableName": "su_y_perc__nic__vape_001"
+            },
+            {
+                "isAbout": "items/su_y_perc__rxopi_001",
+                "isVis": true,
+                "variableName": "su_y_perc__rxopi_001"
+            },
+            {
+                "isAbout": "items/su_y_perc__rxsed_001",
+                "isVis": true,
+                "variableName": "su_y_perc__rxsed_001"
+            },
+            {
+                "isAbout": "items/su_y_perc__rxstim_001",
+                "isVis": true,
+                "variableName": "su_y_perc__rxstim_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

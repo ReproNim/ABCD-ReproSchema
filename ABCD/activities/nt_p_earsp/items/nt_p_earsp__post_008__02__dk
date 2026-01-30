@@ -1,0 +1,66 @@
+{
+    "id": "nt_p_earsp__post_008__02__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_p_earsp"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_p_earsp__post_008__02__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_p_earsp_0061"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_p_earsp"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_p_earsp__post_008__02__dk"
+    },
+    "question": {
+        "en": "And for approximately how many days were they not in school as usual? [Non-response] [Pilot; Post-survey]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

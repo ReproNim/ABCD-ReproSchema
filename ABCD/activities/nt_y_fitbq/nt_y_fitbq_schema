@@ -1,0 +1,155 @@
+{
+    "id": "nt_y_fitbq_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nt_y_fitbq"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nt_y_fitbq__pre_age",
+            "items/nt_y_fitbq__pre_dtt",
+            "items/nt_y_fitbq__pre_adm",
+            "items/nt_y_fitbq__pre_001",
+            "items/nt_y_fitbq__pre_002",
+            "items/nt_y_fitbq__pre_003",
+            "items/nt_y_fitbq__pre_004",
+            "items/nt_y_fitbq__pre_005",
+            "items/nt_y_fitbq__pre_006",
+            "items/nt_y_fitbq__post_age",
+            "items/nt_y_fitbq__post_dtt",
+            "items/nt_y_fitbq__post_001",
+            "items/nt_y_fitbq__post_002",
+            "items/nt_y_fitbq__post_003",
+            "items/nt_y_fitbq__post_004",
+            "items/nt_y_fitbq__post_005",
+            "items/nt_y_fitbq__post_006",
+            "items/nt_y_fitbq__post_007",
+            "items/nt_y_fitbq__post_008",
+            "items/nt_y_fitbq__post_008__01",
+            "items/nt_y_fitbq__post_008__02",
+            "items/nt_y_fitbq__post_008__03",
+            "items/nt_y_fitbq__post_009"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nt_y_fitbq__pre_age",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__pre_age"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__pre_dtt",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__pre_dtt"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__pre_adm",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__pre_adm"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__pre_001",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__pre_001"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__pre_002",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__pre_002"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__pre_003",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__pre_003"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__pre_004",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__pre_004"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__pre_005",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__pre_005"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__pre_006",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__pre_006"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_age",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_age"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_dtt",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_dtt"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_001",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_001"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_002",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_002"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_003",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_003"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_004",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_004"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_005",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_005"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_006",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_006"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_007",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_007"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_008",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_008"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_008__01",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_008__01"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_008__02",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_008__02"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_008__03",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_008__03"
+            },
+            {
+                "isAbout": "items/nt_y_fitbq__post_009",
+                "isVis": true,
+                "variableName": "nt_y_fitbq__post_009"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

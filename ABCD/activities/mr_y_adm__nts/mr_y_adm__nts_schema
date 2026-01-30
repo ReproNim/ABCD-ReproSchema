@@ -1,0 +1,143 @@
+{
+    "id": "mr_y_adm__nts_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_adm__nts"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_adm__nts__sess_count",
+            "items/mr_y_adm__nts__tfmri_order",
+            "items/mr_y_adm__nts__tfmri__nonrand_indicator",
+            "items/mr_y_adm__nts__tfmri__nonrand_order",
+            "items/mr_y_adm__nts__tfmri__ver_order",
+            "items/mr_y_adm__nts__tfmri__mid_order",
+            "items/mr_y_adm__nts__tfmri__mid__nonrand_order",
+            "items/mr_y_adm__nts__tfmri__mid_ver",
+            "items/mr_y_adm__nts__tfmri__mid_indicator",
+            "items/mr_y_adm__nts__tfmri__mid__run_count",
+            "items/mr_y_adm__nts__tfmri__mid__prac_rt",
+            "items/mr_y_adm__nts__tfmri__mid__earn_count",
+            "items/mr_y_adm__nts__tfmri__nback_order",
+            "items/mr_y_adm__nts__tfmri__nback__nonrand_order",
+            "items/mr_y_adm__nts__tfmri__nback_ver",
+            "items/mr_y_adm__nts__tfmri__nback_indicator",
+            "items/mr_y_adm__nts__tfmri__nback__run_count",
+            "items/mr_y_adm__nts__tfmri__sst_order",
+            "items/mr_y_adm__nts__tfmri__sst__nonrand_order",
+            "items/mr_y_adm__nts__tfmri__sst_indicator",
+            "items/mr_y_adm__nts__tfmri__sst__run_count"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_adm__nts__sess_count",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__sess_count"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand_indicator",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nonrand_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nonrand_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__ver_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__ver_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__mid_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__mid_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__mid__nonrand_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__mid__nonrand_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__mid_ver",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__mid_ver"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__mid_indicator",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__mid_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__mid__run_count",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__mid__run_count"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__mid__prac_rt",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__mid__prac_rt"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__mid__earn_count",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__mid__earn_count"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nback_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nback_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nback__nonrand_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nback__nonrand_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nback_ver",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nback_ver"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nback_indicator",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nback_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nback__run_count",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nback__run_count"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__sst_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__sst_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__sst__nonrand_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__sst__nonrand_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__sst_indicator",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__sst_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__sst__run_count",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__sst__run_count"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

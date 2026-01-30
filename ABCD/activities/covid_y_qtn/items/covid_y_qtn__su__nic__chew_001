@@ -1,0 +1,81 @@
+{
+    "id": "covid_y_qtn__su__nic__chew_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "yabcdcovid19questionnaire01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_abcd_covid19_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "su_tobacco_chew_cv"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "su_tobacco_chew_cv"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_y_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_y_qtn__su__nic__chew_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_y_qtn_0306"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_y_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_y_qtn__su__nic__chew_001"
+    },
+    "question": {
+        "en": "Used smokeless tobacco, chew, or snus?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

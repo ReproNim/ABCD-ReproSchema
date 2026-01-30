@@ -1,0 +1,635 @@
+{
+    "id": "su_p_plus_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_p_plus"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_p_plus_lang",
+            "items/su_p_plus__r02_compl",
+            "items/su_p_plus__r02_dtt",
+            "items/su_p_plus__r02_age",
+            "items/su_p_plus__caff__r02_001",
+            "items/su_p_plus__caff__r02_001__01",
+            "items/su_p_plus__cbd__r02_001",
+            "items/su_p_plus__cbd__r02_001__01",
+            "items/su_p_plus__cbd__r02_001__02___1",
+            "items/su_p_plus__cbd__r02_001__02___2",
+            "items/su_p_plus__cbd__r02_001__02___3",
+            "items/su_p_plus__cbd__r02_001__02___4",
+            "items/su_p_plus__cbd__r02_001__02___5",
+            "items/su_p_plus__cbd__r02_001__02___999",
+            "items/su_p_plus__otc__rx__r02_001",
+            "items/su_p_plus__otc__rx__id__r02_001",
+            "items/su_p_plus__otc__rx__label__r02_001",
+            "items/su_p_plus__otc__rx__r02_001__01",
+            "items/su_p_plus__otc__rx__r02_001__02",
+            "items/su_p_plus__otc__rx__id__r02_002",
+            "items/su_p_plus__otc__rx__label__r02_002",
+            "items/su_p_plus__otc__rx__r02_002__01",
+            "items/su_p_plus__otc__rx__r02_002__02",
+            "items/su_p_plus__otc__rx__id__r02_003",
+            "items/su_p_plus__otc__rx__label__r02_003",
+            "items/su_p_plus__otc__rx__r02_003__01",
+            "items/su_p_plus__otc__rx__r02_003__02",
+            "items/su_p_plus__otc__rx__id__r02_004",
+            "items/su_p_plus__otc__rx__label__r02_004",
+            "items/su_p_plus__otc__rx__r02_004__01",
+            "items/su_p_plus__otc__rx__r02_004__02",
+            "items/su_p_plus__otc__rx__id__r02_005",
+            "items/su_p_plus__otc__rx__label__r02_005",
+            "items/su_p_plus__otc__rx__r02_005__01",
+            "items/su_p_plus__otc__rx__r02_005__02",
+            "items/su_p_plus__r03_compl",
+            "items/su_p_plus__r03_dtt",
+            "items/su_p_plus__r03_age",
+            "items/su_p_plus__caff__r03_001",
+            "items/su_p_plus__caff__r03_001__01",
+            "items/su_p_plus__cbd__r03_001",
+            "items/su_p_plus__cbd__r03_001__01",
+            "items/su_p_plus__cbd__r03_001__02___1",
+            "items/su_p_plus__cbd__r03_001__02___2",
+            "items/su_p_plus__cbd__r03_001__02___3",
+            "items/su_p_plus__cbd__r03_001__02___4",
+            "items/su_p_plus__cbd__r03_001__02___5",
+            "items/su_p_plus__cbd__r03_001__02___999",
+            "items/su_p_plus__otc__rx__r03_001",
+            "items/su_p_plus__otc__rx__id__r03_001",
+            "items/su_p_plus__otc__rx__label__r03_001",
+            "items/su_p_plus__otc__rx__r03_001__01",
+            "items/su_p_plus__otc__rx__r03_001__02",
+            "items/su_p_plus__otc__rx__id__r03_002",
+            "items/su_p_plus__otc__rx__label__r03_002",
+            "items/su_p_plus__otc__rx__r03_002__01",
+            "items/su_p_plus__otc__rx__r03_002__02",
+            "items/su_p_plus__otc__rx__id__r03_003",
+            "items/su_p_plus__otc__rx__label__r03_003",
+            "items/su_p_plus__otc__rx__r03_003__01",
+            "items/su_p_plus__otc__rx__r03_003__02",
+            "items/su_p_plus__otc__rx__id__r03_004",
+            "items/su_p_plus__otc__rx__label__r03_004",
+            "items/su_p_plus__otc__rx__r03_004__01",
+            "items/su_p_plus__otc__rx__r03_004__02",
+            "items/su_p_plus__otc__rx__id__r03_005",
+            "items/su_p_plus__otc__rx__label__r03_005",
+            "items/su_p_plus__otc__rx__r03_005__01",
+            "items/su_p_plus__otc__rx__r03_005__02",
+            "items/su_p_plus__r04_compl",
+            "items/su_p_plus__r04_dtt",
+            "items/su_p_plus__r04_age",
+            "items/su_p_plus__caff__r04_001",
+            "items/su_p_plus__caff__r04_001__01",
+            "items/su_p_plus__cbd__r04_001",
+            "items/su_p_plus__cbd__r04_001__01",
+            "items/su_p_plus__cbd__r04_001__02___1",
+            "items/su_p_plus__cbd__r04_001__02___2",
+            "items/su_p_plus__cbd__r04_001__02___3",
+            "items/su_p_plus__cbd__r04_001__02___4",
+            "items/su_p_plus__cbd__r04_001__02___5",
+            "items/su_p_plus__cbd__r04_001__02___999",
+            "items/su_p_plus__otc__rx__r04_001",
+            "items/su_p_plus__otc__rx__id__r04_001",
+            "items/su_p_plus__otc__rx__label__r04_001",
+            "items/su_p_plus__otc__rx__r04_001__01",
+            "items/su_p_plus__otc__rx__r04_001__02",
+            "items/su_p_plus__otc__rx__id__r04_002",
+            "items/su_p_plus__otc__rx__label__r04_002",
+            "items/su_p_plus__otc__rx__r04_002__01",
+            "items/su_p_plus__otc__rx__r04_002__02",
+            "items/su_p_plus__otc__rx__id__r04_003",
+            "items/su_p_plus__otc__rx__label__r04_003",
+            "items/su_p_plus__otc__rx__r04_003__01",
+            "items/su_p_plus__otc__rx__r04_003__02",
+            "items/su_p_plus__otc__rx__id__r04_004",
+            "items/su_p_plus__otc__rx__label__r04_004",
+            "items/su_p_plus__otc__rx__r04_004__01",
+            "items/su_p_plus__otc__rx__r04_004__02",
+            "items/su_p_plus__otc__rx__id__r04_005",
+            "items/su_p_plus__otc__rx__label__r04_005",
+            "items/su_p_plus__otc__rx__r04_005__01",
+            "items/su_p_plus__otc__rx__r04_005__02"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_p_plus_lang",
+                "isVis": true,
+                "variableName": "su_p_plus_lang"
+            },
+            {
+                "isAbout": "items/su_p_plus__r02_compl",
+                "isVis": true,
+                "variableName": "su_p_plus__r02_compl"
+            },
+            {
+                "isAbout": "items/su_p_plus__r02_dtt",
+                "isVis": true,
+                "variableName": "su_p_plus__r02_dtt"
+            },
+            {
+                "isAbout": "items/su_p_plus__r02_age",
+                "isVis": true,
+                "variableName": "su_p_plus__r02_age"
+            },
+            {
+                "isAbout": "items/su_p_plus__caff__r02_001",
+                "isVis": true,
+                "variableName": "su_p_plus__caff__r02_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__caff__r02_001__01",
+                "isVis": true,
+                "variableName": "su_p_plus__caff__r02_001__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r02_001",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r02_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r02_001__01",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r02_001__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r02_001__02___1",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r02_001__02___1"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r02_001__02___2",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r02_001__02___2"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r02_001__02___3",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r02_001__02___3"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r02_001__02___4",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r02_001__02___4"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r02_001__02___5",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r02_001__02___5"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r02_001__02___999",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r02_001__02___999"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_001",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r02_001",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r02_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r02_001",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r02_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_001__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_001__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_001__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_001__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r02_002",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r02_002"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r02_002",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r02_002"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_002__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_002__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_002__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_002__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r02_003",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r02_003"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r02_003",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r02_003"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_003__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_003__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_003__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_003__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r02_004",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r02_004"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r02_004",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r02_004"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_004__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_004__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_004__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_004__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r02_005",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r02_005"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r02_005",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r02_005"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_005__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_005__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r02_005__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r02_005__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__r03_compl",
+                "isVis": true,
+                "variableName": "su_p_plus__r03_compl"
+            },
+            {
+                "isAbout": "items/su_p_plus__r03_dtt",
+                "isVis": true,
+                "variableName": "su_p_plus__r03_dtt"
+            },
+            {
+                "isAbout": "items/su_p_plus__r03_age",
+                "isVis": true,
+                "variableName": "su_p_plus__r03_age"
+            },
+            {
+                "isAbout": "items/su_p_plus__caff__r03_001",
+                "isVis": true,
+                "variableName": "su_p_plus__caff__r03_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__caff__r03_001__01",
+                "isVis": true,
+                "variableName": "su_p_plus__caff__r03_001__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r03_001",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r03_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r03_001__01",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r03_001__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r03_001__02___1",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r03_001__02___1"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r03_001__02___2",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r03_001__02___2"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r03_001__02___3",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r03_001__02___3"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r03_001__02___4",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r03_001__02___4"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r03_001__02___5",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r03_001__02___5"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r03_001__02___999",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r03_001__02___999"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_001",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r03_001",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r03_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r03_001",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r03_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_001__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_001__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_001__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_001__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r03_002",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r03_002"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r03_002",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r03_002"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_002__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_002__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_002__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_002__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r03_003",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r03_003"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r03_003",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r03_003"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_003__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_003__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_003__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_003__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r03_004",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r03_004"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r03_004",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r03_004"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_004__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_004__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_004__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_004__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r03_005",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r03_005"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r03_005",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r03_005"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_005__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_005__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r03_005__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r03_005__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__r04_compl",
+                "isVis": true,
+                "variableName": "su_p_plus__r04_compl"
+            },
+            {
+                "isAbout": "items/su_p_plus__r04_dtt",
+                "isVis": true,
+                "variableName": "su_p_plus__r04_dtt"
+            },
+            {
+                "isAbout": "items/su_p_plus__r04_age",
+                "isVis": true,
+                "variableName": "su_p_plus__r04_age"
+            },
+            {
+                "isAbout": "items/su_p_plus__caff__r04_001",
+                "isVis": true,
+                "variableName": "su_p_plus__caff__r04_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__caff__r04_001__01",
+                "isVis": true,
+                "variableName": "su_p_plus__caff__r04_001__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r04_001",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r04_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r04_001__01",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r04_001__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r04_001__02___1",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r04_001__02___1"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r04_001__02___2",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r04_001__02___2"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r04_001__02___3",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r04_001__02___3"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r04_001__02___4",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r04_001__02___4"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r04_001__02___5",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r04_001__02___5"
+            },
+            {
+                "isAbout": "items/su_p_plus__cbd__r04_001__02___999",
+                "isVis": true,
+                "variableName": "su_p_plus__cbd__r04_001__02___999"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_001",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r04_001",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r04_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r04_001",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r04_001"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_001__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_001__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_001__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_001__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r04_002",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r04_002"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r04_002",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r04_002"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_002__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_002__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_002__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_002__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r04_003",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r04_003"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r04_003",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r04_003"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_003__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_003__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_003__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_003__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r04_004",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r04_004"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r04_004",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r04_004"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_004__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_004__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_004__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_004__02"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__id__r04_005",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__id__r04_005"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__label__r04_005",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__label__r04_005"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_005__01",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_005__01"
+            },
+            {
+                "isAbout": "items/su_p_plus__otc__rx__r04_005__02",
+                "isVis": true,
+                "variableName": "su_p_plus__otc__rx__r04_005__02"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

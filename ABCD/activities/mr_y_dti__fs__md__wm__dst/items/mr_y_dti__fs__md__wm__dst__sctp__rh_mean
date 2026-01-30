@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_dti__fs__md__wm__dst__sctp__rh_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "square millimeters per second (mm\u00b2/s)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Diffusion MRI (DTI)"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Mean Diffusivity"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Destrieux"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ddtifp101"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ddtifp_276"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_dmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_dti__fs__md__wm__dst__sctp__rh_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_dti_fs_md_wm_dst_0125"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_dti__fs__md__wm__dst"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_dti__fs__md__wm__dst__sctp__rh_mean"
+    },
+    "question": {
+        "en": "Average mean diffusivity (full shell DTI; white matter) in Destrieux ROI: posterior transverse collateral sulcus (right hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

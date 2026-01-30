@@ -1,0 +1,317 @@
+{
+    "id": "mh_p_ksads__adhd_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_ksads__adhd"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_ksads__adhd__avoid__task__past_sx",
+            "items/mh_p_ksads__adhd__avoid__task__pres_sx",
+            "items/mh_p_ksads__adhd__blurt__past_sx",
+            "items/mh_p_ksads__adhd__blurt__pres_sx",
+            "items/mh_p_ksads__adhd__distract__1schlyr__past_sx",
+            "items/mh_p_ksads__adhd__distract__grdschl__pres_sx",
+            "items/mh_p_ksads__adhd__fidget__past_sx",
+            "items/mh_p_ksads__adhd__fidget__pres_sx",
+            "items/mh_p_ksads__adhd__flwinstr__past_sx",
+            "items/mh_p_ksads__adhd__flwinstr__pres_sx",
+            "items/mh_p_ksads__adhd__forget__past_sx",
+            "items/mh_p_ksads__adhd__forget__pres_sx",
+            "items/mh_p_ksads__adhd__hypractv__past_sx",
+            "items/mh_p_ksads__adhd__hypractv__pres_sx",
+            "items/mh_p_ksads__adhd__impfunct__past_sx",
+            "items/mh_p_ksads__adhd__impfunct__pres_sx",
+            "items/mh_p_ksads__adhd__impuls__past_sx",
+            "items/mh_p_ksads__adhd__impuls__pres_sx",
+            "items/mh_p_ksads__adhd__interrupt__past_sx",
+            "items/mh_p_ksads__adhd__interrupt__pres_sx",
+            "items/mh_p_ksads__adhd__loses__past_sx",
+            "items/mh_p_ksads__adhd__loses__pres_sx",
+            "items/mh_p_ksads__adhd__mistake__past_sx",
+            "items/mh_p_ksads__adhd__mistake__pres_sx",
+            "items/mh_p_ksads__adhd__motor__past_sx",
+            "items/mh_p_ksads__adhd__motor__pres_sx",
+            "items/mh_p_ksads__adhd__notlisten__past_sx",
+            "items/mh_p_ksads__adhd__notlisten__pres_sx",
+            "items/mh_p_ksads__adhd__orgtask__past_sx",
+            "items/mh_p_ksads__adhd__orgtask__pres_sx",
+            "items/mh_p_ksads__adhd__quiet__past_sx",
+            "items/mh_p_ksads__adhd__quiet__pres_sx",
+            "items/mh_p_ksads__adhd__ruleoutgad__past_sx",
+            "items/mh_p_ksads__adhd__ruleoutgad__pres_sx",
+            "items/mh_p_ksads__adhd__seat__1schlyr__past_sx",
+            "items/mh_p_ksads__adhd__seat__grdschl__pres_sx",
+            "items/mh_p_ksads__adhd__sustattn__1schlyr__past_sx",
+            "items/mh_p_ksads__adhd__sustattn__grdschl__pres_sx",
+            "items/mh_p_ksads__adhd__symptmulti__before12__past_sx",
+            "items/mh_p_ksads__adhd__symptmulti__before12__pres_sx",
+            "items/mh_p_ksads__adhd__talkexcess__past_sx",
+            "items/mh_p_ksads__adhd__talkexcess__pres_sx",
+            "items/mh_p_ksads__adhd__wait__past_sx",
+            "items/mh_p_ksads__adhd__wait__pres_sx",
+            "items/mh_p_ksads__adhd__past_dx",
+            "items/mh_p_ksads__adhd__pres_dx",
+            "items/mh_p_ksads__adhd__fullrem_dx",
+            "items/mh_p_ksads__adhd__partrem_dx",
+            "items/mh_p_ksads__adhd__unspec_dx",
+            "items/mh_p_ksads__adhd__oth_dx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__adhd__avoid__task__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__avoid__task__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__avoid__task__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__avoid__task__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__blurt__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__blurt__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__blurt__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__blurt__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__distract__1schlyr__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__distract__1schlyr__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__distract__grdschl__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__distract__grdschl__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__fidget__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__fidget__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__fidget__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__fidget__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__flwinstr__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__flwinstr__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__flwinstr__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__flwinstr__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__forget__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__forget__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__forget__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__forget__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__hypractv__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__hypractv__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__hypractv__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__hypractv__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__impfunct__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__impfunct__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__impfunct__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__impfunct__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__impuls__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__impuls__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__impuls__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__impuls__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__interrupt__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__interrupt__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__interrupt__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__interrupt__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__loses__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__loses__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__loses__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__loses__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__mistake__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__mistake__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__mistake__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__mistake__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__motor__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__motor__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__motor__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__motor__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__notlisten__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__notlisten__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__notlisten__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__notlisten__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__orgtask__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__orgtask__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__orgtask__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__orgtask__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__quiet__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__quiet__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__quiet__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__quiet__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__ruleoutgad__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__ruleoutgad__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__ruleoutgad__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__ruleoutgad__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__seat__1schlyr__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__seat__1schlyr__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__seat__grdschl__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__seat__grdschl__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__sustattn__1schlyr__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__sustattn__1schlyr__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__sustattn__grdschl__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__sustattn__grdschl__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__symptmulti__before12__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__symptmulti__before12__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__symptmulti__before12__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__symptmulti__before12__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__talkexcess__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__talkexcess__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__talkexcess__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__talkexcess__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__wait__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__wait__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__wait__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__wait__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__fullrem_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__fullrem_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__partrem_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__partrem_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__unspec_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__unspec_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__adhd__oth_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__adhd__oth_dx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

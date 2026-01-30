@@ -1,0 +1,173 @@
+{
+    "id": "fc_y_srpf_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_y_srpf"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_y_srpf_dtt",
+            "items/fc_y_srpf_age",
+            "items/fc_y_srpf_adm",
+            "items/fc_y_srpf_adm__rmt___1",
+            "items/fc_y_srpf_adm__rmt___2",
+            "items/fc_y_srpf_adm__rmt___3",
+            "items/fc_y_srpf_adm__rmt___4",
+            "items/fc_y_srpf_dev",
+            "items/fc_y_srpf__dis_001",
+            "items/fc_y_srpf__dis_002",
+            "items/fc_y_srpf__env_001",
+            "items/fc_y_srpf__env_002",
+            "items/fc_y_srpf__env_003",
+            "items/fc_y_srpf__env_004",
+            "items/fc_y_srpf__env_005",
+            "items/fc_y_srpf__env_006",
+            "items/fc_y_srpf__involv_001",
+            "items/fc_y_srpf__involv_002",
+            "items/fc_y_srpf__involv_003",
+            "items/fc_y_srpf__involv_004",
+            "items/fc_y_srpf__dis_mean",
+            "items/fc_y_srpf__dis_nm",
+            "items/fc_y_srpf__env_mean",
+            "items/fc_y_srpf__env_nm",
+            "items/fc_y_srpf__involv_mean",
+            "items/fc_y_srpf__involv_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_y_srpf_dtt",
+                "isVis": true,
+                "variableName": "fc_y_srpf_dtt"
+            },
+            {
+                "isAbout": "items/fc_y_srpf_age",
+                "isVis": true,
+                "variableName": "fc_y_srpf_age"
+            },
+            {
+                "isAbout": "items/fc_y_srpf_adm",
+                "isVis": true,
+                "variableName": "fc_y_srpf_adm"
+            },
+            {
+                "isAbout": "items/fc_y_srpf_adm__rmt___1",
+                "isVis": true,
+                "variableName": "fc_y_srpf_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/fc_y_srpf_adm__rmt___2",
+                "isVis": true,
+                "variableName": "fc_y_srpf_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/fc_y_srpf_adm__rmt___3",
+                "isVis": true,
+                "variableName": "fc_y_srpf_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/fc_y_srpf_adm__rmt___4",
+                "isVis": true,
+                "variableName": "fc_y_srpf_adm__rmt___4"
+            },
+            {
+                "isAbout": "items/fc_y_srpf_dev",
+                "isVis": true,
+                "variableName": "fc_y_srpf_dev"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__dis_001",
+                "isVis": true,
+                "variableName": "fc_y_srpf__dis_001"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__dis_002",
+                "isVis": true,
+                "variableName": "fc_y_srpf__dis_002"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__env_001",
+                "isVis": true,
+                "variableName": "fc_y_srpf__env_001"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__env_002",
+                "isVis": true,
+                "variableName": "fc_y_srpf__env_002"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__env_003",
+                "isVis": true,
+                "variableName": "fc_y_srpf__env_003"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__env_004",
+                "isVis": true,
+                "variableName": "fc_y_srpf__env_004"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__env_005",
+                "isVis": true,
+                "variableName": "fc_y_srpf__env_005"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__env_006",
+                "isVis": true,
+                "variableName": "fc_y_srpf__env_006"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__involv_001",
+                "isVis": true,
+                "variableName": "fc_y_srpf__involv_001"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__involv_002",
+                "isVis": true,
+                "variableName": "fc_y_srpf__involv_002"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__involv_003",
+                "isVis": true,
+                "variableName": "fc_y_srpf__involv_003"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__involv_004",
+                "isVis": true,
+                "variableName": "fc_y_srpf__involv_004"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__dis_mean",
+                "isVis": true,
+                "variableName": "fc_y_srpf__dis_mean"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__dis_nm",
+                "isVis": true,
+                "variableName": "fc_y_srpf__dis_nm"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__env_mean",
+                "isVis": true,
+                "variableName": "fc_y_srpf__env_mean"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__env_nm",
+                "isVis": true,
+                "variableName": "fc_y_srpf__env_nm"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__involv_mean",
+                "isVis": true,
+                "variableName": "fc_y_srpf__involv_mean"
+            },
+            {
+                "isAbout": "items/fc_y_srpf__involv_nm",
+                "isVis": true,
+                "variableName": "fc_y_srpf__involv_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "covid_p_qtn__su__mj__vape_001__01___5",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "pabcdcovid19questionnaire01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_abcd_covid19_questionnaire_part_1"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "su_p_mj_vape_loc_cv___5"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "su_p_mj_vape_loc_cv"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_p_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_p_qtn__su__mj__vape_001__01___5"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_p_qtn_0275"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_p_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_p_qtn__su__mj__vape_001__01___5"
+    },
+    "question": {
+        "en": "Where did you vape a marijuana or cannabis product [Multi-select]: Other"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,233 @@
+{
+    "id": "mh_y_bisbas_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_bisbas"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_bisbas_dtt",
+            "items/mh_y_bisbas_age",
+            "items/mh_y_bisbas_adm",
+            "items/mh_y_bisbas__bas__dr_001",
+            "items/mh_y_bisbas__bas__dr_002",
+            "items/mh_y_bisbas__bas__dr_003",
+            "items/mh_y_bisbas__bas__dr_004",
+            "items/mh_y_bisbas__bas__fs_001",
+            "items/mh_y_bisbas__bas__fs_002",
+            "items/mh_y_bisbas__bas__fs_003",
+            "items/mh_y_bisbas__bas__fs_004",
+            "items/mh_y_bisbas__bas__rr_001",
+            "items/mh_y_bisbas__bas__rr_002",
+            "items/mh_y_bisbas__bas__rr_003",
+            "items/mh_y_bisbas__bas__rr_004",
+            "items/mh_y_bisbas__bas__rr_005",
+            "items/mh_y_bisbas__bis_001",
+            "items/mh_y_bisbas__bis_002",
+            "items/mh_y_bisbas__bis_003",
+            "items/mh_y_bisbas__bis_004",
+            "items/mh_y_bisbas__bis_005",
+            "items/mh_y_bisbas__bis_005__v01",
+            "items/mh_y_bisbas__bis_006",
+            "items/mh_y_bisbas__bis_007",
+            "items/mh_y_bisbas__bas__dr_nm",
+            "items/mh_y_bisbas__bas__dr_sum",
+            "items/mh_y_bisbas__bas__fs_nm",
+            "items/mh_y_bisbas__bas__fs_sum",
+            "items/mh_y_bisbas__bas__rr_nm",
+            "items/mh_y_bisbas__bas__rr_nm__v01",
+            "items/mh_y_bisbas__bas__rr_sum",
+            "items/mh_y_bisbas__bas__rr_sum__v01",
+            "items/mh_y_bisbas__bis_nm",
+            "items/mh_y_bisbas__bis_nm__v01",
+            "items/mh_y_bisbas__bis_sum",
+            "items/mh_y_bisbas__bis_sum__v01"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_bisbas_dtt",
+                "isVis": true,
+                "variableName": "mh_y_bisbas_dtt"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas_age",
+                "isVis": true,
+                "variableName": "mh_y_bisbas_age"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas_adm",
+                "isVis": true,
+                "variableName": "mh_y_bisbas_adm"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__dr_001",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__dr_001"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__dr_002",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__dr_002"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__dr_003",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__dr_003"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__dr_004",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__dr_004"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__fs_001",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__fs_001"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__fs_002",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__fs_002"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__fs_003",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__fs_003"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__fs_004",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__fs_004"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__rr_001",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__rr_001"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__rr_002",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__rr_002"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__rr_003",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__rr_003"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__rr_004",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__rr_004"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__rr_005",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__rr_005"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_001",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_001"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_002",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_002"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_003",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_003"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_004",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_004"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_005",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_005"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_005__v01",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_005__v01"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_006",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_006"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_007",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_007"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__dr_nm",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__dr_nm"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__dr_sum",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__dr_sum"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__fs_nm",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__fs_nm"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__fs_sum",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__fs_sum"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__rr_nm",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__rr_nm"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__rr_nm__v01",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__rr_nm__v01"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__rr_sum",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__rr_sum"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bas__rr_sum__v01",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bas__rr_sum__v01"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_nm",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_nm"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_nm__v01",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_nm__v01"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_sum",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_sum"
+            },
+            {
+                "isAbout": "items/mh_y_bisbas__bis_sum__v01",
+                "isVis": true,
+                "variableName": "mh_y_bisbas__bis_sum__v01"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

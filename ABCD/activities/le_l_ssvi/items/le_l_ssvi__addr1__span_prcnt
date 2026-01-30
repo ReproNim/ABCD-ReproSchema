@@ -1,0 +1,66 @@
+{
+    "id": "le_l_ssvi__addr1__span_prcnt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Neighhorhood Composite Measures"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr1_mhsvi_span_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_ssvi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_ssvi__addr1__span_prcnt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_ssvi_0014"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_ssvi"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_ssvi__addr1__span_prcnt"
+    },
+    "question": {
+        "en": "Percentage population estimate Spanish speakers who \"speak English less than 'very well'\" [Supplemental SVI] (Address 1) (address 1)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

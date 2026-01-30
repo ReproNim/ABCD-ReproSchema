@@ -1,0 +1,167 @@
+{
+    "id": "fc_y_fes_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_y_fes"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_y_fes_dtt",
+            "items/fc_y_fes_age",
+            "items/fc_y_fes_adm",
+            "items/fc_y_fes__cohes_001",
+            "items/fc_y_fes__cohes_002",
+            "items/fc_y_fes__cohes_003",
+            "items/fc_y_fes__cohes_004",
+            "items/fc_y_fes__cohes_005",
+            "items/fc_y_fes__cohes_006",
+            "items/fc_y_fes__cohes_007",
+            "items/fc_y_fes__cohes_008",
+            "items/fc_y_fes__cohes_009",
+            "items/fc_y_fes__confl_001",
+            "items/fc_y_fes__confl_002",
+            "items/fc_y_fes__confl_003",
+            "items/fc_y_fes__confl_004",
+            "items/fc_y_fes__confl_005",
+            "items/fc_y_fes__confl_006",
+            "items/fc_y_fes__confl_007",
+            "items/fc_y_fes__confl_008",
+            "items/fc_y_fes__confl_009",
+            "items/fc_y_fes__cohes_mean",
+            "items/fc_y_fes__cohes_nm",
+            "items/fc_y_fes__confl_mean",
+            "items/fc_y_fes__confl_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_y_fes_dtt",
+                "isVis": true,
+                "variableName": "fc_y_fes_dtt"
+            },
+            {
+                "isAbout": "items/fc_y_fes_age",
+                "isVis": true,
+                "variableName": "fc_y_fes_age"
+            },
+            {
+                "isAbout": "items/fc_y_fes_adm",
+                "isVis": true,
+                "variableName": "fc_y_fes_adm"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_001",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_001"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_002",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_002"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_003",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_003"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_004",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_004"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_005",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_005"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_006",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_006"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_007",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_007"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_008",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_008"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_009",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_009"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_001",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_001"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_002",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_002"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_003",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_003"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_004",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_004"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_005",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_005"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_006",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_006"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_007",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_007"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_008",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_008"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_009",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_009"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_mean",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_mean"
+            },
+            {
+                "isAbout": "items/fc_y_fes__cohes_nm",
+                "isVis": true,
+                "variableName": "fc_y_fes__cohes_nm"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_mean",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_mean"
+            },
+            {
+                "isAbout": "items/fc_y_fes__confl_nm",
+                "isVis": true,
+                "variableName": "fc_y_fes__confl_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

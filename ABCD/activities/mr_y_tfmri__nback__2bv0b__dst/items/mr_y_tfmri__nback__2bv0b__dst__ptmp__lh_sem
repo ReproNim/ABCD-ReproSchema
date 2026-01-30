@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_tfmri__nback__2bv0b__dst__ptmp__lh_sem",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "percent signal change (psc)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Emotional N-Back"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Destrieux"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_tnbasemdp101"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tnbasemdp_635"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_tfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__nback__2bv0b__dst__ptmp__lh_sem"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_tfmr_nb_2bv0b_dst_0191"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__nback__2bv0b__dst"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_tfmri__nback__2bv0b__dst__ptmp__lh_sem"
+    },
+    "question": {
+        "en": "Average standard error of the mean for Emotional N-back task (contrast: 2-back vs. 0-back; all runs) in Destrieux ROI: temporal pole (left hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "le_l_prenatal__addr1__pm25_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "parts per billion (ppb)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Air Pollution"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr1_pm25_prenatal_avg"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_prenatal"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_prenatal__addr1__pm25_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_prenatal_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_prenatal"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_prenatal__addr1__pm25_mean"
+    },
+    "question": {
+        "en": "9 month average PM2.5 ppb (parts per billion) exposure during birth year (Address 1) (address 1)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

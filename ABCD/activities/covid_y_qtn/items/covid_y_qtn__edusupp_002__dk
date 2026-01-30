@@ -1,0 +1,66 @@
+{
+    "id": "covid_y_qtn__edusupp_002__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_y_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_y_qtn__edusupp_002__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_y_qtn_0026"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_y_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_y_qtn__edusupp_002__dk"
+    },
+    "question": {
+        "en": "How many days (0 to 7) did your parents: Check homework and assignments with you [Non-response]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

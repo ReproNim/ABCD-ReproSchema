@@ -1,0 +1,76 @@
+{
+    "id": "ph_y_mctq__sleep_loss",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Sleep"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_mcqc01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "mctq_slossweek_calc"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_mctq"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_ph_y_mctq__sleep_loss.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_mctq__sleep_loss"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_mctq_0117"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_mctq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_mctq__sleep_loss"
+    },
+    "question": {
+        "en": "Munich Chronotype Questionnaire [Youth] (Sleep): Loss"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

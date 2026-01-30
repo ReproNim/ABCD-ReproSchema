@@ -1,0 +1,66 @@
+{
+    "id": "su_y_hairtox__rslt__mj__cbn_scrn",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Drug Toxicology"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "su_y_hair_scr_can_003"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_hairtox"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_hairtox__rslt__mj__cbn_scrn"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_hairtox_0081"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_hairtox"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_hairtox__rslt__mj__cbn_scrn"
+    },
+    "question": {
+        "en": "Cannabinoids (THC, CBD, CBN, THCV) assay (sent directly to mass spectrometry regardless of screen results)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

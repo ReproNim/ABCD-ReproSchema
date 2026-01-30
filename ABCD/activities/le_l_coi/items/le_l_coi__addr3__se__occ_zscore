@@ -1,0 +1,71 @@
+{
+    "id": "le_l_coi__addr3__se__occ_zscore",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Neighhorhood Composite Measures"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_rhds01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_coi_zse_occ"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_coi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_coi__addr3__se__occ_zscore"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_coi_0248"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_coi"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_coi__addr3__se__occ_zscore"
+    },
+    "question": {
+        "en": "High-skill employment z-score [Social and economic domain] (Address 3) (address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

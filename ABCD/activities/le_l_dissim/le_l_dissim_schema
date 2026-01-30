@@ -1,0 +1,89 @@
+{
+    "id": "le_l_dissim_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_dissim"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_dissim__addr1__aw__metro_score",
+            "items/le_l_dissim__addr1__bw__metro_score",
+            "items/le_l_dissim__addr1__hw__metro_score",
+            "items/le_l_dissim__addr1__nww__metro_score",
+            "items/le_l_dissim__addr2__aw__metro_score",
+            "items/le_l_dissim__addr2__bw__metro_score",
+            "items/le_l_dissim__addr2__hw__metro_score",
+            "items/le_l_dissim__addr2__nww__metro_score",
+            "items/le_l_dissim__addr3__aw__metro_score",
+            "items/le_l_dissim__addr3__bw__metro_score",
+            "items/le_l_dissim__addr3__hw__metro_score",
+            "items/le_l_dissim__addr3__nww__metro_score"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_dissim__addr1__aw__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr1__aw__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr1__bw__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr1__bw__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr1__hw__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr1__hw__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr1__nww__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr1__nww__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr2__aw__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr2__aw__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr2__bw__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr2__bw__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr2__hw__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr2__hw__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr2__nww__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr2__nww__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr3__aw__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr3__aw__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr3__bw__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr3__bw__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr3__hw__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr3__hw__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_dissim__addr3__nww__metro_score",
+                "isVis": true,
+                "variableName": "le_l_dissim__addr3__nww__metro_score"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

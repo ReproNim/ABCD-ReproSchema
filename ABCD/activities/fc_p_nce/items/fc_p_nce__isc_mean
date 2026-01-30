@@ -1,0 +1,76 @@
+{
+    "id": "fc_p_nce__isc_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Community"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_sscep01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "comc_ss_control_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#pfc_p_nce"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_fc_p_nce__isc_mean.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_p_nce__isc_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_p_nce_0016"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_p_nce"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_p_nce__isc_mean"
+    },
+    "question": {
+        "en": "Neighborhood Collective Efficacy [Parent] (Informal social control): Mean [Validation: No more than 1 missing or declined]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

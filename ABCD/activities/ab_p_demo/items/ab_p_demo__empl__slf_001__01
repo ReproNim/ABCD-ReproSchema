@@ -1,0 +1,81 @@
+{
+    "id": "ab_p_demo__empl__slf_001__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Demographics"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "pdem02"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "demographicsdem_parent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "demo_prnt_empl_time"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_prnt_empl_time"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_p_demo"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_p_demo__empl__slf_001__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_p_demo_0047"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_p_demo"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_p_demo__empl__slf_001__01"
+    },
+    "question": {
+        "en": "Are you working full time or part time?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

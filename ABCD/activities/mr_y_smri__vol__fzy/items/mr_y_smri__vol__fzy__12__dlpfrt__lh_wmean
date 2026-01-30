@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_smri__vol__fzy__12__dlpfrt__lh_wmean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "cubic millimeters (mm\u00b3)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Structural MRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Volume"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Fuzzy Clustering"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_smrip102"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "smri_vol_cf12_dlprefrlh"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_smri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_smri__vol__fzy__12__dlpfrt__lh_wmean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_smri_vol_fzy_0009"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_smri__vol__fzy"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_smri__vol__fzy__12__dlpfrt__lh_wmean"
+    },
+    "question": {
+        "en": "Weighted average volume of genetically derived parcellation with 12 clusters: dorsolateral prefrontal (left hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,72 @@
+{
+    "id": "ph_p_saiq__sarm_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Physical Activity"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sports_activities_read_music_parent"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sai_yr_3_start_time_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_saiq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_saiq__sarm_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_saiq_0835"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_saiq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_saiq__sarm_dtt"
+    },
+    "question": {
+        "en": "Sports and Activities Involvement Questionnaire - Reading and Music [Parent]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

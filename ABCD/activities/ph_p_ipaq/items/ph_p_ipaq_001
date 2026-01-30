@@ -1,0 +1,91 @@
+{
+    "id": "ph_p_ipaq_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "days per week"
+        },
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Physical Activity"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "internat_physical_activ01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "international_physical_activity_q"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ipaq_vig_acts"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ipaq_vig_acts"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_ipaq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_ipaq_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_ipaq_0004"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_ipaq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_ipaq_001"
+    },
+    "question": {
+        "en": "During the last 7 days, on how many days did you do vigorous physical activities like heavy lifting, digging, aerobics, or fast bicycling?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,66 @@
+{
+    "id": "ph_y_phs__lastmeal_hr",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "hours (h)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Biospecimens"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_phs"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_phs__lastmeal_hr"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_phs_0011"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_phs"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_phs__lastmeal_hr"
+    },
+    "question": {
+        "en": "Time since participant last ate"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

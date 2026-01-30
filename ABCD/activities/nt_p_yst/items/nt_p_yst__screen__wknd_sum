@@ -1,0 +1,66 @@
+{
+    "id": "nt_p_yst__screen__wknd_sum",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_p_yst"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_nt_p_yst__screen__wknd_sum.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_p_yst__screen__wknd_sum"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_p_yst_0054"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_p_yst"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_p_yst__screen__wknd_sum"
+    },
+    "question": {
+        "en": "Youth Screen time [Parent] (weekend): Sum"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

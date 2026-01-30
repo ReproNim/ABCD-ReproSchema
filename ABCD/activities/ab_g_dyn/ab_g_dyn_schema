@@ -1,0 +1,161 @@
+{
+    "id": "ab_g_dyn_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ab_g_dyn"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ab_g_dyn__visit_dtt",
+            "items/ab_g_dyn__visit_age",
+            "items/ab_g_dyn__visit_type",
+            "items/ab_g_dyn__visit_days",
+            "items/ab_g_dyn__visit__day1_dt",
+            "items/ab_g_dyn__visit__day2_dt",
+            "items/ab_g_dyn__visit__day3_dt",
+            "items/ab_g_dyn__visit__day4_dt",
+            "items/ab_g_dyn__visit__day1_inform",
+            "items/ab_g_dyn__visit__day2_inform",
+            "items/ab_g_dyn__visit__day3_inform",
+            "items/ab_g_dyn__visit__day4_inform",
+            "items/ab_g_dyn__design_site",
+            "items/ab_g_dyn__design_id__school",
+            "items/ab_g_dyn__design_id__district",
+            "items/ab_g_dyn__design_mr__serial",
+            "items/ab_g_dyn__design_mr__manufact",
+            "items/ab_g_dyn__design_mr__software",
+            "items/ab_g_dyn__design_mr__model",
+            "items/ab_g_dyn__cohort_grade",
+            "items/ab_g_dyn__cohort_edu__cgs",
+            "items/ab_g_dyn__cohort_prtnrshp__employ",
+            "items/ab_g_dyn__cohort_income__hhold__3lvl",
+            "items/ab_g_dyn__cohort_income__hhold__6lvl"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ab_g_dyn__visit_dtt",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit_dtt"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit_age",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit_age"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit_type",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit_type"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit_days",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit_days"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit__day1_dt",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit__day1_dt"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit__day2_dt",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit__day2_dt"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit__day3_dt",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit__day3_dt"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit__day4_dt",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit__day4_dt"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit__day1_inform",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit__day1_inform"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit__day2_inform",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit__day2_inform"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit__day3_inform",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit__day3_inform"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__visit__day4_inform",
+                "isVis": true,
+                "variableName": "ab_g_dyn__visit__day4_inform"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__design_site",
+                "isVis": true,
+                "variableName": "ab_g_dyn__design_site"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__design_id__school",
+                "isVis": true,
+                "variableName": "ab_g_dyn__design_id__school"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__design_id__district",
+                "isVis": true,
+                "variableName": "ab_g_dyn__design_id__district"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__design_mr__serial",
+                "isVis": true,
+                "variableName": "ab_g_dyn__design_mr__serial"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__design_mr__manufact",
+                "isVis": true,
+                "variableName": "ab_g_dyn__design_mr__manufact"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__design_mr__software",
+                "isVis": true,
+                "variableName": "ab_g_dyn__design_mr__software"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__design_mr__model",
+                "isVis": true,
+                "variableName": "ab_g_dyn__design_mr__model"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__cohort_grade",
+                "isVis": true,
+                "variableName": "ab_g_dyn__cohort_grade"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__cohort_edu__cgs",
+                "isVis": true,
+                "variableName": "ab_g_dyn__cohort_edu__cgs"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__cohort_prtnrshp__employ",
+                "isVis": true,
+                "variableName": "ab_g_dyn__cohort_prtnrshp__employ"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__cohort_income__hhold__3lvl",
+                "isVis": true,
+                "variableName": "ab_g_dyn__cohort_income__hhold__3lvl"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__cohort_income__hhold__6lvl",
+                "isVis": true,
+                "variableName": "ab_g_dyn__cohort_income__hhold__6lvl"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "nt_y_earskey__mins__wkdy__andr__libraries_sum",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "minutes (min)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "nt_y_ears_kb_min_and_libraries_wkd_sum"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_earskey"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_earskey__mins__wkdy__andr__libraries_sum"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_earskey_0695"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_earskey"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_earskey__mins__wkdy__andr__libraries_sum"
+    },
+    "question": {
+        "en": "Total number of minutes using the keyboard on weekdays for apps in Google Play Store category: Libraries and Demo"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

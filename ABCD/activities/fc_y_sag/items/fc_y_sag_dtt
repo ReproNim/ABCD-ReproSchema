@@ -1,0 +1,72 @@
+{
+    "id": "fc_y_sag_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Work & School"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_school_attendance_and_grades"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sag_start_time | y_school_attendance_and_grades_start_time"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_y_sag"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_sag_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_sag_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_sag"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_sag_dtt"
+    },
+    "question": {
+        "en": "School Attendance & Grades [Youth]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,95 @@
+{
+    "id": "mh_p_pss_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_pss"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_pss_dtt",
+            "items/mh_p_pss_age",
+            "items/mh_p_pss_lang",
+            "items/mh_p_pss_001",
+            "items/mh_p_pss_002",
+            "items/mh_p_pss_003",
+            "items/mh_p_pss_004",
+            "items/mh_p_pss_005",
+            "items/mh_p_pss_006",
+            "items/mh_p_pss_007",
+            "items/mh_p_pss_008",
+            "items/mh_p_pss_009",
+            "items/mh_p_pss_010"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_pss_dtt",
+                "isVis": true,
+                "variableName": "mh_p_pss_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_pss_age",
+                "isVis": true,
+                "variableName": "mh_p_pss_age"
+            },
+            {
+                "isAbout": "items/mh_p_pss_lang",
+                "isVis": true,
+                "variableName": "mh_p_pss_lang"
+            },
+            {
+                "isAbout": "items/mh_p_pss_001",
+                "isVis": true,
+                "variableName": "mh_p_pss_001"
+            },
+            {
+                "isAbout": "items/mh_p_pss_002",
+                "isVis": true,
+                "variableName": "mh_p_pss_002"
+            },
+            {
+                "isAbout": "items/mh_p_pss_003",
+                "isVis": true,
+                "variableName": "mh_p_pss_003"
+            },
+            {
+                "isAbout": "items/mh_p_pss_004",
+                "isVis": true,
+                "variableName": "mh_p_pss_004"
+            },
+            {
+                "isAbout": "items/mh_p_pss_005",
+                "isVis": true,
+                "variableName": "mh_p_pss_005"
+            },
+            {
+                "isAbout": "items/mh_p_pss_006",
+                "isVis": true,
+                "variableName": "mh_p_pss_006"
+            },
+            {
+                "isAbout": "items/mh_p_pss_007",
+                "isVis": true,
+                "variableName": "mh_p_pss_007"
+            },
+            {
+                "isAbout": "items/mh_p_pss_008",
+                "isVis": true,
+                "variableName": "mh_p_pss_008"
+            },
+            {
+                "isAbout": "items/mh_p_pss_009",
+                "isVis": true,
+                "variableName": "mh_p_pss_009"
+            },
+            {
+                "isAbout": "items/mh_p_pss_010",
+                "isVis": true,
+                "variableName": "mh_p_pss_010"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

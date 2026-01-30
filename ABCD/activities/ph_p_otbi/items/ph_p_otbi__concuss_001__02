@@ -1,0 +1,76 @@
+{
+    "id": "ph_p_otbi__concuss_001__02",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_tbi_screenmodified_ohio_state_screen_tbiparent_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "tbi_8b"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_otbi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_otbi__concuss_001__02"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_otbi_0036"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_otbi"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_otbi__concuss_001__02"
+    },
+    "question": {
+        "en": "Thinking about the most serious concussion your child experienced since we last saw on you, approximately how many days of school did your child miss, if any, due to the effects of the concussion?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

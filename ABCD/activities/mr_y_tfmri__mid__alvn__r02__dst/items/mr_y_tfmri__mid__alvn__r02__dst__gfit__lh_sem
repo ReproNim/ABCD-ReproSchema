@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_tfmri__mid__alvn__r02__dst__gfit__lh_sem",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "percent signal change (psc)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Monetary Incentive Delay"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Destrieux"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_tr2semdp101"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tr2semdp_162"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_tfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__mid__alvn__r02__dst__gfit__lh_sem"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_tfmr_md_alvn_r2_dst_0154"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__mid__alvn__r02__dst"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_tfmri__mid__alvn__r02__dst__gfit__lh_sem"
+    },
+    "question": {
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: anticipated loss vs. neutral; run 2) in Destrieux ROI: triangular part of the inferior frontal gyrus (left hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

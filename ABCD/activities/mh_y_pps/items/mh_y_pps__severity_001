@@ -1,0 +1,81 @@
+{
+    "id": "mh_y_pps__severity_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "pps01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "prodromal_psychosis_scale_pps_youth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "prodromal_1b_y"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "prodromal_1b_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_pps"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_pps__severity_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_pps_0006"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_pps"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_pps__severity_001"
+    },
+    "question": {
+        "en": "Did places that you know well, such as your bedroom, or other rooms in your home, your classroom or school yard, suddenly seem weird, strange or confusing to you; like not the real world: How much did that bother you when it happened?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

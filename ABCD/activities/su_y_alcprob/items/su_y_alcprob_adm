@@ -1,0 +1,82 @@
+{
+    "id": "su_y_alcprob_adm",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_yam01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_alcohol_measures_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "su_alc_admin"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "su_alc_admin"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_alcprob"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_alcprob_adm"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_alcprob_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_alcprob"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_alcprob_adm"
+    },
+    "question": {
+        "en": "Alcohol Problem Index (RAPI) [Youth]: Method of administration"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

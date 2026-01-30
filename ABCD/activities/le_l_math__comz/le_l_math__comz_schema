@@ -1,0 +1,647 @@
+{
+    "id": "le_l_math__comz_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_math__comz"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_math__comz__all__asmts_count",
+            "items/le_l_math__comz__all__asmts_mean",
+            "items/le_l_math__comz__cell__all_count",
+            "items/le_l_math__comz__cell__ecd_count",
+            "items/le_l_math__comz__cell__fem_count",
+            "items/le_l_math__comz__cell__mal_count",
+            "items/le_l_math__comz__cell__mfg_count",
+            "items/le_l_math__comz__cell__nec_count",
+            "items/le_l_math__comz__cell__neg_count",
+            "items/le_l_math__comz__eb__all__coh__slope_se",
+            "items/le_l_math__comz__eb__all__coh_slope",
+            "items/le_l_math__comz__eb__all__grd__slope_se",
+            "items/le_l_math__comz__eb__all__grd_slope",
+            "items/le_l_math__comz__eb__all__mean_se",
+            "items/le_l_math__comz__eb__all_mean",
+            "items/le_l_math__comz__eb__ecd__coh__slope_se",
+            "items/le_l_math__comz__eb__ecd__coh_slope",
+            "items/le_l_math__comz__eb__ecd__grd__slope_se",
+            "items/le_l_math__comz__eb__ecd__grd_slope",
+            "items/le_l_math__comz__eb__ecd__mean_se",
+            "items/le_l_math__comz__eb__ecd_mean",
+            "items/le_l_math__comz__eb__fem__coh__slope_se",
+            "items/le_l_math__comz__eb__fem__coh_slope",
+            "items/le_l_math__comz__eb__fem__grd__slope_se",
+            "items/le_l_math__comz__eb__fem__grd_slope",
+            "items/le_l_math__comz__eb__fem__mean_se",
+            "items/le_l_math__comz__eb__fem_mean",
+            "items/le_l_math__comz__eb__mal__coh__slope_se",
+            "items/le_l_math__comz__eb__mal__coh_slope",
+            "items/le_l_math__comz__eb__mal__grd__slope_se",
+            "items/le_l_math__comz__eb__mal__grd_slope",
+            "items/le_l_math__comz__eb__mal__mean_se",
+            "items/le_l_math__comz__eb__mal_mean",
+            "items/le_l_math__comz__eb__mfg__coh__slope_se",
+            "items/le_l_math__comz__eb__mfg__coh_slope",
+            "items/le_l_math__comz__eb__mfg__grd__slope_se",
+            "items/le_l_math__comz__eb__mfg__grd_slope",
+            "items/le_l_math__comz__eb__mfg__mean_se",
+            "items/le_l_math__comz__eb__mfg_mean",
+            "items/le_l_math__comz__eb__nec__coh__slope_se",
+            "items/le_l_math__comz__eb__nec__coh_slope",
+            "items/le_l_math__comz__eb__nec__grd__slope_se",
+            "items/le_l_math__comz__eb__nec__grd_slope",
+            "items/le_l_math__comz__eb__nec__mean_se",
+            "items/le_l_math__comz__eb__nec_mean",
+            "items/le_l_math__comz__eb__neg__coh__slope_se",
+            "items/le_l_math__comz__eb__neg__coh_slope",
+            "items/le_l_math__comz__eb__neg__grd__slope_se",
+            "items/le_l_math__comz__eb__neg__grd_slope",
+            "items/le_l_math__comz__eb__neg__mean_se",
+            "items/le_l_math__comz__eb__neg_mean",
+            "items/le_l_math__comz__ecd__asmts_count",
+            "items/le_l_math__comz__ecd__asmts_mean",
+            "items/le_l_math__comz__fem__asmts_count",
+            "items/le_l_math__comz__fem__asmts_mean",
+            "items/le_l_math__comz__mal__asmts_count",
+            "items/le_l_math__comz__mal__asmts_mean",
+            "items/le_l_math__comz__mfg__asmts_count",
+            "items/le_l_math__comz__mfg__asmts_mean",
+            "items/le_l_math__comz__nec__asmts_count",
+            "items/le_l_math__comz__nec__asmts_mean",
+            "items/le_l_math__comz__neg__asmts_count",
+            "items/le_l_math__comz__neg__asmts_mean",
+            "items/le_l_math__comz__ols__all__coh__slope_se",
+            "items/le_l_math__comz__ols__all__coh_slope",
+            "items/le_l_math__comz__ols__all__grd__slope_se",
+            "items/le_l_math__comz__ols__all__grd_slope",
+            "items/le_l_math__comz__ols__all__mean_se",
+            "items/le_l_math__comz__ols__all_mean",
+            "items/le_l_math__comz__ols__ecd__coh__slope_se",
+            "items/le_l_math__comz__ols__ecd__coh_slope",
+            "items/le_l_math__comz__ols__ecd__grd__slope_se",
+            "items/le_l_math__comz__ols__ecd__grd_slope",
+            "items/le_l_math__comz__ols__ecd__mean_se",
+            "items/le_l_math__comz__ols__ecd_mean",
+            "items/le_l_math__comz__ols__fem__coh__slope_se",
+            "items/le_l_math__comz__ols__fem__coh_slope",
+            "items/le_l_math__comz__ols__fem__grd__slope_se",
+            "items/le_l_math__comz__ols__fem__grd_slope",
+            "items/le_l_math__comz__ols__fem__mean_se",
+            "items/le_l_math__comz__ols__fem_mean",
+            "items/le_l_math__comz__ols__mal__coh__slope_se",
+            "items/le_l_math__comz__ols__mal__coh_slope",
+            "items/le_l_math__comz__ols__mal__grd__slope_se",
+            "items/le_l_math__comz__ols__mal__grd_slope",
+            "items/le_l_math__comz__ols__mal__mean_se",
+            "items/le_l_math__comz__ols__mal_mean",
+            "items/le_l_math__comz__ols__mfg__coh__slope_se",
+            "items/le_l_math__comz__ols__mfg__coh_slope",
+            "items/le_l_math__comz__ols__mfg__grd__slope_se",
+            "items/le_l_math__comz__ols__mfg__grd_slope",
+            "items/le_l_math__comz__ols__mfg__mean_se",
+            "items/le_l_math__comz__ols__mfg_mean",
+            "items/le_l_math__comz__ols__nec__coh__slope_se",
+            "items/le_l_math__comz__ols__nec__coh_slope",
+            "items/le_l_math__comz__ols__nec__grd__slope_se",
+            "items/le_l_math__comz__ols__nec__grd_slope",
+            "items/le_l_math__comz__ols__nec__mean_se",
+            "items/le_l_math__comz__ols__nec_mean",
+            "items/le_l_math__comz__ols__neg__coh__slope_se",
+            "items/le_l_math__comz__ols__neg__coh_slope",
+            "items/le_l_math__comz__ols__neg__grd__slope_se",
+            "items/le_l_math__comz__ols__neg__grd_slope",
+            "items/le_l_math__comz__ols__neg__mean_se",
+            "items/le_l_math__comz__ols__neg_mean"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_math__comz__all__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__all__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__all__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__all__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__cell__all_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__cell__all_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__cell__ecd_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__cell__ecd_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__cell__fem_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__cell__fem_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__cell__mal_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__cell__mal_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__cell__mfg_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__cell__mfg_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__cell__nec_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__cell__nec_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__cell__neg_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__cell__neg_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__all__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__all__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__all__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__all__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__all__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__all__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__all__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__all__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__all__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__all__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__all_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__all_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__ecd__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__ecd__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__ecd__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__ecd__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__ecd__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__ecd__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__ecd__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__ecd__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__ecd__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__ecd__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__ecd_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__ecd_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__fem__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__fem__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__fem__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__fem__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__fem__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__fem__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__fem__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__fem__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__fem__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__fem__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__fem_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__fem_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mal__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mal__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mal__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mal__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mal__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mal__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mal__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mal__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mal__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mal__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mal_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mal_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mfg__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mfg__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mfg__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mfg__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mfg__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mfg__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mfg__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mfg__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mfg__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mfg__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__mfg_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__mfg_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__nec__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__nec__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__nec__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__nec__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__nec__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__nec__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__nec__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__nec__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__nec__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__nec__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__nec_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__nec_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__neg__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__neg__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__neg__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__neg__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__neg__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__neg__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__neg__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__neg__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__neg__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__neg__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__eb__neg_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__eb__neg_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ecd__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ecd__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ecd__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ecd__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__fem__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__fem__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__fem__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__fem__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__mal__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__mal__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__mal__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__mal__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__mfg__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__mfg__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__mfg__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__mfg__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__nec__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__nec__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__nec__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__nec__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__neg__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_math__comz__neg__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__neg__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__neg__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__all__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__all__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__all__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__all__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__all__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__all__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__all__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__all__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__all__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__all__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__all_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__all_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__ecd__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__ecd__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__ecd__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__ecd__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__ecd__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__ecd__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__ecd__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__ecd__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__ecd__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__ecd__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__ecd_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__ecd_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__fem__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__fem__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__fem__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__fem__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__fem__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__fem__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__fem__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__fem__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__fem__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__fem__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__fem_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__fem_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mal__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mal__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mal__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mal__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mal__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mal__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mal__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mal__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mal__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mal__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mal_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mal_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mfg__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mfg__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mfg__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mfg__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mfg__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mfg__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mfg__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mfg__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mfg__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mfg__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__mfg_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__mfg_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__nec__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__nec__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__nec__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__nec__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__nec__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__nec__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__nec__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__nec__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__nec__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__nec__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__nec_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__nec_mean"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__neg__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__neg__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__neg__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__neg__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__neg__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__neg__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__neg__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__neg__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__neg__mean_se",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__neg__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_math__comz__ols__neg_mean",
+                "isVis": true,
+                "variableName": "le_l_math__comz__ols__neg_mean"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

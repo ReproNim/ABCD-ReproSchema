@@ -1,0 +1,86 @@
+{
+    "id": "su_p_des__hh3__nic__vape__yth_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "(Number of Youth (less than 18 years old))"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Environment"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_pssudse01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "su_density_exposure_storage"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "su_des_h3_ecig_youth_p"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "su_des_h3_ecig_youth_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_p_des"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_p_des__hh3__nic__vape__yth_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_p_des_0337"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_p_des"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_p_des__hh3__nic__vape__yth_001"
+    },
+    "question": {
+        "en": "Third household: How many of the youth who live or stay in the household used the following drugs in the past year: Electronic nicotine or vaping products, such as e-cigarettes, vape pens, or Juuls?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

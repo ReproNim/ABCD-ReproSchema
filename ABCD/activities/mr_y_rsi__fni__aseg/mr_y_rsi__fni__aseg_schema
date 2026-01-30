@@ -1,0 +1,197 @@
+{
+    "id": "mr_y_rsi__fni__aseg_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_rsi__fni__aseg"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_rsi__fni__aseg__ab__lh_mean",
+            "items/mr_y_rsi__fni__aseg__ag__lh_mean",
+            "items/mr_y_rsi__fni__aseg__cbc__lh_mean",
+            "items/mr_y_rsi__fni__aseg__cbwm__lh_mean",
+            "items/mr_y_rsi__fni__aseg__cd__lh_mean",
+            "items/mr_y_rsi__fni__aseg__cwm__lh_mean",
+            "items/mr_y_rsi__fni__aseg__hc__lh_mean",
+            "items/mr_y_rsi__fni__aseg__ilv__lh_mean",
+            "items/mr_y_rsi__fni__aseg__lv__lh_mean",
+            "items/mr_y_rsi__fni__aseg__pl__lh_mean",
+            "items/mr_y_rsi__fni__aseg__pt__lh_mean",
+            "items/mr_y_rsi__fni__aseg__th__lh_mean",
+            "items/mr_y_rsi__fni__aseg__vdc__lh_mean",
+            "items/mr_y_rsi__fni__aseg__ab__rh_mean",
+            "items/mr_y_rsi__fni__aseg__ag__rh_mean",
+            "items/mr_y_rsi__fni__aseg__cbc__rh_mean",
+            "items/mr_y_rsi__fni__aseg__cbwm__rh_mean",
+            "items/mr_y_rsi__fni__aseg__cd__rh_mean",
+            "items/mr_y_rsi__fni__aseg__cwm__rh_mean",
+            "items/mr_y_rsi__fni__aseg__hc__rh_mean",
+            "items/mr_y_rsi__fni__aseg__ilv__rh_mean",
+            "items/mr_y_rsi__fni__aseg__lv__rh_mean",
+            "items/mr_y_rsi__fni__aseg__pl__rh_mean",
+            "items/mr_y_rsi__fni__aseg__pt__rh_mean",
+            "items/mr_y_rsi__fni__aseg__th__rh_mean",
+            "items/mr_y_rsi__fni__aseg__vdc__rh_mean",
+            "items/mr_y_rsi__fni__aseg__3rdv_mean",
+            "items/mr_y_rsi__fni__aseg__4thv_mean",
+            "items/mr_y_rsi__fni__aseg__bs_mean",
+            "items/mr_y_rsi__fni__aseg__csf_mean"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__ab__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__ab__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__ag__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__ag__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__cbc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__cbc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__cbwm__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__cbwm__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__cd__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__cd__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__cwm__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__cwm__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__hc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__hc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__ilv__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__ilv__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__lv__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__lv__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__pl__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__pl__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__pt__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__pt__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__th__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__th__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__vdc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__vdc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__ab__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__ab__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__ag__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__ag__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__cbc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__cbc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__cbwm__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__cbwm__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__cd__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__cd__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__cwm__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__cwm__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__hc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__hc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__ilv__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__ilv__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__lv__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__lv__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__pl__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__pl__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__pt__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__pt__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__th__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__th__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__vdc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__vdc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__3rdv_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__3rdv_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__4thv_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__4thv_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__bs_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__bs_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__fni__aseg__csf_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__fni__aseg__csf_mean"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

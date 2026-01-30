@@ -1,0 +1,82 @@
+{
+    "id": "nt_y_stq_adm",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_stq01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "screen_time_styouth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "screentime_admin"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "screentime_admin"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_stq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_stq_adm"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_stq_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_stq"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_stq_adm"
+    },
+    "question": {
+        "en": "Screen time Questionnaire [Youth]: Method of administration"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,125 @@
+{
+    "id": "le_l_medmj_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_medmj"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_medmj__addr1__disprec_indicator",
+            "items/le_l_medmj__addr1__highcbd_indicator",
+            "items/le_l_medmj__addr1__medlegdisp_indicator",
+            "items/le_l_medmj__addr1__mjdecrim_indicator",
+            "items/le_l_medmj__addr1__mml_indicator",
+            "items/le_l_medmj__addr1__rec_indicator",
+            "items/le_l_medmj__addr2__disprec_indicator",
+            "items/le_l_medmj__addr2__highcbd_indicator",
+            "items/le_l_medmj__addr2__medlegdisp_indicator",
+            "items/le_l_medmj__addr2__mjdecrim_indicator",
+            "items/le_l_medmj__addr2__mml_indicator",
+            "items/le_l_medmj__addr2__rec_indicator",
+            "items/le_l_medmj__addr3__disprec_indicator",
+            "items/le_l_medmj__addr3__highcbd_indicator",
+            "items/le_l_medmj__addr3__medlegdisp_indicator",
+            "items/le_l_medmj__addr3__mjdecrim_indicator",
+            "items/le_l_medmj__addr3__mml_indicator",
+            "items/le_l_medmj__addr3__rec_indicator"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_medmj__addr1__disprec_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr1__disprec_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr1__highcbd_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr1__highcbd_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr1__medlegdisp_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr1__medlegdisp_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr1__mjdecrim_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr1__mjdecrim_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr1__mml_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr1__mml_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr1__rec_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr1__rec_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr2__disprec_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr2__disprec_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr2__highcbd_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr2__highcbd_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr2__medlegdisp_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr2__medlegdisp_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr2__mjdecrim_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr2__mjdecrim_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr2__mml_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr2__mml_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr2__rec_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr2__rec_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr3__disprec_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr3__disprec_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr3__highcbd_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr3__highcbd_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr3__medlegdisp_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr3__medlegdisp_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr3__mjdecrim_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr3__mjdecrim_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr3__mml_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr3__mml_indicator"
+            },
+            {
+                "isAbout": "items/le_l_medmj__addr3__rec_indicator",
+                "isVis": true,
+                "variableName": "le_l_medmj__addr3__rec_indicator"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

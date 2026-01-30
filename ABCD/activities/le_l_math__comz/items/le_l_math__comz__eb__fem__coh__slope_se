@@ -1,0 +1,71 @@
+{
+    "id": "le_l_math__comz__eb__fem__coh__slope_se",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "School (Math)"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "led_school_part_401"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ledsch_seda_zs_mncoh_m_ebsefem"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#SEDA"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_math__comz__eb__fem__coh__slope_se"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_math_comz_0022"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_math__comz"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_math__comz__eb__fem__coh__slope_se"
+    },
+    "question": {
+        "en": "Standard Error (SE) of cohort slope of mean test-based achievement, Math, EB, Female students [SEDA (HLM using SEDA HETOP est); Commuting Zone]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

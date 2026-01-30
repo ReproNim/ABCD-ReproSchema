@@ -1,0 +1,71 @@
+{
+    "id": "ab_g_stc__cohort_ethn",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "Based on baseline response; missingness filled in from longitudinal responses"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Standard Variables"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "General"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_g_stc"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_ab_g_stc__cohort_ethn.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_g_stc__cohort_ethn"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_g_stc_0010"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_g_stc"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_g_stc__cohort_ethn"
+    },
+    "question": {
+        "en": "Cohort description: Ethnicity (Hispanic or not Hispanic) [Based on baseline response; missingness filled in from longitudinal responses]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

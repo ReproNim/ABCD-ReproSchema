@@ -1,0 +1,461 @@
+{
+    "id": "ph_y_sex_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ph_y_sex"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ph_y_sex_dtt",
+            "items/ph_y_sex_age",
+            "items/ph_y_sex_adm___1",
+            "items/ph_y_sex_adm___2",
+            "items/ph_y_sex_adm___3",
+            "items/ph_y_sex_adm___4",
+            "items/ph_y_sex_dev",
+            "items/ph_y_sex__attr_001",
+            "items/ph_y_sex__attr_001a__v01",
+            "items/ph_y_sex__attr_001b__v01",
+            "items/ph_y_sex__beh_001",
+            "items/ph_y_sex__beh_002a",
+            "items/ph_y_sex__beh_002b",
+            "items/ph_y_sex__beh_003",
+            "items/ph_y_sex__beh_003__01",
+            "items/ph_y_sex__beh_004a",
+            "items/ph_y_sex__beh_004a__01",
+            "items/ph_y_sex__beh_004b",
+            "items/ph_y_sex__beh_004b__01",
+            "items/ph_y_sex__beh_005",
+            "items/ph_y_sex__beh_005__01",
+            "items/ph_y_sex__beh_005__02",
+            "items/ph_y_sex__beh_005__03",
+            "items/ph_y_sex__beh_005__03__01___1",
+            "items/ph_y_sex__beh_005__03__01___2",
+            "items/ph_y_sex__beh_005__03__01___3",
+            "items/ph_y_sex__beh_005__03__01___4",
+            "items/ph_y_sex__beh_005__03__01___5",
+            "items/ph_y_sex__beh_005__03__01___6",
+            "items/ph_y_sex__beh_005__03__01___7",
+            "items/ph_y_sex__beh_005__03__01___8",
+            "items/ph_y_sex__beh_005__03__01___9",
+            "items/ph_y_sex__beh_005__03__01___10",
+            "items/ph_y_sex__beh_005__03__01___11",
+            "items/ph_y_sex__beh_005__03__01___13",
+            "items/ph_y_sex__beh_005__03__01___12",
+            "items/ph_y_sex__beh_005__03__02",
+            "items/ph_y_sex__beh_006",
+            "items/ph_y_sex__beh_006__01",
+            "items/ph_y_sex__beh_006__02",
+            "items/ph_y_sex__beh_006__03",
+            "items/ph_y_sex__beh_006__03__01___1",
+            "items/ph_y_sex__beh_006__03__01___2",
+            "items/ph_y_sex__beh_006__03__01___4",
+            "items/ph_y_sex__beh_006__03__01___3",
+            "items/ph_y_sex__beh_006__03__02",
+            "items/ph_y_sex__cnvs_001",
+            "items/ph_y_sex__cnvs_002",
+            "items/ph_y_sex__cnvs_003",
+            "items/ph_y_sex__patt_001",
+            "items/ph_y_sex__patt_002",
+            "items/ph_y_sex__patt_003a",
+            "items/ph_y_sex__patt_003b",
+            "items/ph_y_sex__pbeh_001",
+            "items/ph_y_sex__pbeh_002",
+            "items/ph_y_sex__pbeh_003a",
+            "items/ph_y_sex__pbeh_003b",
+            "items/ph_y_sex__rode_001",
+            "items/ph_y_sex__rore_001",
+            "items/ph_y_sex__rore_003",
+            "items/ph_y_sex__rore_003__01",
+            "items/ph_y_sex__rore_003__02",
+            "items/ph_y_sex__rore_003__03",
+            "items/ph_y_sex__rore_003__04",
+            "items/ph_y_sex__rore_003__05",
+            "items/ph_y_sex__rore_003__06",
+            "items/ph_y_sex__so_001__01a",
+            "items/ph_y_sex__so_001__01b",
+            "items/ph_y_sex__so_001__01c",
+            "items/ph_y_sex__so_001__02",
+            "items/ph_y_sex__so_001__v01",
+            "items/ph_y_sex__so__kbi_001",
+            "items/ph_y_sex__so__kbi_001__02",
+            "items/ph_y_sex__eut_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ph_y_sex_dtt",
+                "isVis": true,
+                "variableName": "ph_y_sex_dtt"
+            },
+            {
+                "isAbout": "items/ph_y_sex_age",
+                "isVis": true,
+                "variableName": "ph_y_sex_age"
+            },
+            {
+                "isAbout": "items/ph_y_sex_adm___1",
+                "isVis": true,
+                "variableName": "ph_y_sex_adm___1"
+            },
+            {
+                "isAbout": "items/ph_y_sex_adm___2",
+                "isVis": true,
+                "variableName": "ph_y_sex_adm___2"
+            },
+            {
+                "isAbout": "items/ph_y_sex_adm___3",
+                "isVis": true,
+                "variableName": "ph_y_sex_adm___3"
+            },
+            {
+                "isAbout": "items/ph_y_sex_adm___4",
+                "isVis": true,
+                "variableName": "ph_y_sex_adm___4"
+            },
+            {
+                "isAbout": "items/ph_y_sex_dev",
+                "isVis": true,
+                "variableName": "ph_y_sex_dev"
+            },
+            {
+                "isAbout": "items/ph_y_sex__attr_001",
+                "isVis": true,
+                "variableName": "ph_y_sex__attr_001"
+            },
+            {
+                "isAbout": "items/ph_y_sex__attr_001a__v01",
+                "isVis": true,
+                "variableName": "ph_y_sex__attr_001a__v01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__attr_001b__v01",
+                "isVis": true,
+                "variableName": "ph_y_sex__attr_001b__v01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_001",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_001"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_002a",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_002a"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_002b",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_002b"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_003",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_003"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_003__01",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_003__01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_004a",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_004a"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_004a__01",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_004a__01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_004b",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_004b"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_004b__01",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_004b__01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__01",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__02",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__02"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___1",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___1"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___2",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___2"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___3",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___3"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___4",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___4"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___5",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___5"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___6",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___6"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___7",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___7"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___8",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___8"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___9",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___9"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___10",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___10"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___11",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___11"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___13",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___13"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__01___12",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__01___12"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_005__03__02",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_005__03__02"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_006",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_006"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_006__01",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_006__01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_006__02",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_006__02"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_006__03",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_006__03"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_006__03__01___1",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_006__03__01___1"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_006__03__01___2",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_006__03__01___2"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_006__03__01___4",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_006__03__01___4"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_006__03__01___3",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_006__03__01___3"
+            },
+            {
+                "isAbout": "items/ph_y_sex__beh_006__03__02",
+                "isVis": true,
+                "variableName": "ph_y_sex__beh_006__03__02"
+            },
+            {
+                "isAbout": "items/ph_y_sex__cnvs_001",
+                "isVis": true,
+                "variableName": "ph_y_sex__cnvs_001"
+            },
+            {
+                "isAbout": "items/ph_y_sex__cnvs_002",
+                "isVis": true,
+                "variableName": "ph_y_sex__cnvs_002"
+            },
+            {
+                "isAbout": "items/ph_y_sex__cnvs_003",
+                "isVis": true,
+                "variableName": "ph_y_sex__cnvs_003"
+            },
+            {
+                "isAbout": "items/ph_y_sex__patt_001",
+                "isVis": true,
+                "variableName": "ph_y_sex__patt_001"
+            },
+            {
+                "isAbout": "items/ph_y_sex__patt_002",
+                "isVis": true,
+                "variableName": "ph_y_sex__patt_002"
+            },
+            {
+                "isAbout": "items/ph_y_sex__patt_003a",
+                "isVis": true,
+                "variableName": "ph_y_sex__patt_003a"
+            },
+            {
+                "isAbout": "items/ph_y_sex__patt_003b",
+                "isVis": true,
+                "variableName": "ph_y_sex__patt_003b"
+            },
+            {
+                "isAbout": "items/ph_y_sex__pbeh_001",
+                "isVis": true,
+                "variableName": "ph_y_sex__pbeh_001"
+            },
+            {
+                "isAbout": "items/ph_y_sex__pbeh_002",
+                "isVis": true,
+                "variableName": "ph_y_sex__pbeh_002"
+            },
+            {
+                "isAbout": "items/ph_y_sex__pbeh_003a",
+                "isVis": true,
+                "variableName": "ph_y_sex__pbeh_003a"
+            },
+            {
+                "isAbout": "items/ph_y_sex__pbeh_003b",
+                "isVis": true,
+                "variableName": "ph_y_sex__pbeh_003b"
+            },
+            {
+                "isAbout": "items/ph_y_sex__rode_001",
+                "isVis": true,
+                "variableName": "ph_y_sex__rode_001"
+            },
+            {
+                "isAbout": "items/ph_y_sex__rore_001",
+                "isVis": true,
+                "variableName": "ph_y_sex__rore_001"
+            },
+            {
+                "isAbout": "items/ph_y_sex__rore_003",
+                "isVis": true,
+                "variableName": "ph_y_sex__rore_003"
+            },
+            {
+                "isAbout": "items/ph_y_sex__rore_003__01",
+                "isVis": true,
+                "variableName": "ph_y_sex__rore_003__01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__rore_003__02",
+                "isVis": true,
+                "variableName": "ph_y_sex__rore_003__02"
+            },
+            {
+                "isAbout": "items/ph_y_sex__rore_003__03",
+                "isVis": true,
+                "variableName": "ph_y_sex__rore_003__03"
+            },
+            {
+                "isAbout": "items/ph_y_sex__rore_003__04",
+                "isVis": true,
+                "variableName": "ph_y_sex__rore_003__04"
+            },
+            {
+                "isAbout": "items/ph_y_sex__rore_003__05",
+                "isVis": true,
+                "variableName": "ph_y_sex__rore_003__05"
+            },
+            {
+                "isAbout": "items/ph_y_sex__rore_003__06",
+                "isVis": true,
+                "variableName": "ph_y_sex__rore_003__06"
+            },
+            {
+                "isAbout": "items/ph_y_sex__so_001__01a",
+                "isVis": true,
+                "variableName": "ph_y_sex__so_001__01a"
+            },
+            {
+                "isAbout": "items/ph_y_sex__so_001__01b",
+                "isVis": true,
+                "variableName": "ph_y_sex__so_001__01b"
+            },
+            {
+                "isAbout": "items/ph_y_sex__so_001__01c",
+                "isVis": true,
+                "variableName": "ph_y_sex__so_001__01c"
+            },
+            {
+                "isAbout": "items/ph_y_sex__so_001__02",
+                "isVis": true,
+                "variableName": "ph_y_sex__so_001__02"
+            },
+            {
+                "isAbout": "items/ph_y_sex__so_001__v01",
+                "isVis": true,
+                "variableName": "ph_y_sex__so_001__v01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__so__kbi_001",
+                "isVis": true,
+                "variableName": "ph_y_sex__so__kbi_001"
+            },
+            {
+                "isAbout": "items/ph_y_sex__so__kbi_001__02",
+                "isVis": true,
+                "variableName": "ph_y_sex__so__kbi_001__02"
+            },
+            {
+                "isAbout": "items/ph_y_sex__eut_001",
+                "isVis": true,
+                "variableName": "ph_y_sex__eut_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

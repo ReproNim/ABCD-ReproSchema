@@ -1,0 +1,101 @@
+{
+    "id": "gn_y_genrel_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "gn_y_genrel"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/gn_y_genrel_id__fam",
+            "items/gn_y_genrel_id__birth",
+            "items/gn_y_genrel_id__paired__01",
+            "items/gn_y_genrel_id__paired__02",
+            "items/gn_y_genrel_id__paired__03",
+            "items/gn_y_genrel_id__paired__04",
+            "items/gn_y_genrel_pihat__01",
+            "items/gn_y_genrel_pihat__02",
+            "items/gn_y_genrel_pihat__03",
+            "items/gn_y_genrel_pihat__04",
+            "items/gn_y_genrel_zyg__01",
+            "items/gn_y_genrel_zyg__02",
+            "items/gn_y_genrel_zyg__03",
+            "items/gn_y_genrel_zyg__04"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/gn_y_genrel_id__fam",
+                "isVis": true,
+                "variableName": "gn_y_genrel_id__fam"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_id__birth",
+                "isVis": true,
+                "variableName": "gn_y_genrel_id__birth"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_id__paired__01",
+                "isVis": true,
+                "variableName": "gn_y_genrel_id__paired__01"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_id__paired__02",
+                "isVis": true,
+                "variableName": "gn_y_genrel_id__paired__02"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_id__paired__03",
+                "isVis": true,
+                "variableName": "gn_y_genrel_id__paired__03"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_id__paired__04",
+                "isVis": true,
+                "variableName": "gn_y_genrel_id__paired__04"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_pihat__01",
+                "isVis": true,
+                "variableName": "gn_y_genrel_pihat__01"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_pihat__02",
+                "isVis": true,
+                "variableName": "gn_y_genrel_pihat__02"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_pihat__03",
+                "isVis": true,
+                "variableName": "gn_y_genrel_pihat__03"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_pihat__04",
+                "isVis": true,
+                "variableName": "gn_y_genrel_pihat__04"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_zyg__01",
+                "isVis": true,
+                "variableName": "gn_y_genrel_zyg__01"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_zyg__02",
+                "isVis": true,
+                "variableName": "gn_y_genrel_zyg__02"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_zyg__03",
+                "isVis": true,
+                "variableName": "gn_y_genrel_zyg__03"
+            },
+            {
+                "isAbout": "items/gn_y_genrel_zyg__04",
+                "isVis": true,
+                "variableName": "gn_y_genrel_zyg__04"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

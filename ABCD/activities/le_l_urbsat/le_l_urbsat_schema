@@ -1,0 +1,215 @@
+{
+    "id": "le_l_urbsat_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_urbsat"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_urbsat__addr1__built_prop",
+            "items/le_l_urbsat__addr1__crop_prop",
+            "items/le_l_urbsat__addr1__forest_prop",
+            "items/le_l_urbsat__addr1__grass_prop",
+            "items/le_l_urbsat__addr1__ndbi_mean",
+            "items/le_l_urbsat__addr1__ndvi_prop",
+            "items/le_l_urbsat__addr1__ndwi_prop",
+            "items/le_l_urbsat__addr1__ntl_mean",
+            "items/le_l_urbsat__addr1__pop_density",
+            "items/le_l_urbsat__addr1__pwat_prop",
+            "items/le_l_urbsat__addr1__swat_prop",
+            "items/le_l_urbsat__addr2__built_prop",
+            "items/le_l_urbsat__addr2__crop_prop",
+            "items/le_l_urbsat__addr2__forest_prop",
+            "items/le_l_urbsat__addr2__grass_prop",
+            "items/le_l_urbsat__addr2__ndbi_mean",
+            "items/le_l_urbsat__addr2__ndvi_prop",
+            "items/le_l_urbsat__addr2__ndwi_prop",
+            "items/le_l_urbsat__addr2__ntl_mean",
+            "items/le_l_urbsat__addr2__pop_density",
+            "items/le_l_urbsat__addr2__pwat_prop",
+            "items/le_l_urbsat__addr2__swat_prop",
+            "items/le_l_urbsat__addr3__built_prop",
+            "items/le_l_urbsat__addr3__crop_prop",
+            "items/le_l_urbsat__addr3__forest_prop",
+            "items/le_l_urbsat__addr3__grass_prop",
+            "items/le_l_urbsat__addr3__ndbi_mean",
+            "items/le_l_urbsat__addr3__ndvi_prop",
+            "items/le_l_urbsat__addr3__ndwi_prop",
+            "items/le_l_urbsat__addr3__ntl_mean",
+            "items/le_l_urbsat__addr3__pop_density",
+            "items/le_l_urbsat__addr3__pwat_prop",
+            "items/le_l_urbsat__addr3__swat_prop"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_urbsat__addr1__built_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__built_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__crop_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__crop_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__forest_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__forest_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__grass_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__grass_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__ndbi_mean",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__ndbi_mean"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__ndvi_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__ndvi_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__ndwi_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__ndwi_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__ntl_mean",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__ntl_mean"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__pop_density",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__pop_density"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__pwat_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__pwat_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr1__swat_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr1__swat_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__built_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__built_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__crop_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__crop_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__forest_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__forest_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__grass_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__grass_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__ndbi_mean",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__ndbi_mean"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__ndvi_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__ndvi_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__ndwi_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__ndwi_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__ntl_mean",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__ntl_mean"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__pop_density",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__pop_density"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__pwat_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__pwat_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr2__swat_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr2__swat_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__built_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__built_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__crop_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__crop_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__forest_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__forest_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__grass_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__grass_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__ndbi_mean",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__ndbi_mean"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__ndvi_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__ndvi_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__ndwi_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__ndwi_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__ntl_mean",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__ntl_mean"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__pop_density",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__pop_density"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__pwat_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__pwat_prop"
+            },
+            {
+                "isAbout": "items/le_l_urbsat__addr3__swat_prop",
+                "isVis": true,
+                "variableName": "le_l_urbsat__addr3__swat_prop"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

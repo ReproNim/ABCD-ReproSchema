@@ -1,0 +1,61 @@
+{
+    "id": "ph_p_meds__rx__label_006__v01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_meds"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_meds__rx__label_006__v01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_meds_0255"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_meds"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_meds__rx__label_006__v01"
+    },
+    "question": {
+        "en": "Prescription - Medication 6: Name (RxNorm label) [Parent; Version 1]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

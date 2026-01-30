@@ -1,0 +1,76 @@
+{
+    "id": "ecb_y_ecb_005",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Endocannabinoid"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "ecb_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ecbq_stress"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ecbq_stress"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/ecb.html#ecb_y_ecb"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ecb_y_ecb_005"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ecb_y_ecb_0009"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ecb_y_ecb"
+        }
+    ],
+    "prefLabel": {
+        "en": "ecb_y_ecb_005"
+    },
+    "question": {
+        "en": "Endocannabinoid Substudy: On a scale of 0 to 10, with 0 being no stress and 10 being worst stress possible, what number best describes your level of stress right now?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

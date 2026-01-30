@@ -1,0 +1,86 @@
+{
+    "id": "ab_p_screen__med_010",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "If born at or after 28 weeks, mark No."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screener"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_screen01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "screener"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "scrn_gestage"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "scrn_gestage"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_p_screen"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_p_screen__med_010"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_p_screen_0029"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_p_screen"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_p_screen__med_010"
+    },
+    "question": {
+        "en": "Was your child born less than 28 weeks of gestation, or in other words, was your child born more than 12 weeks premature?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

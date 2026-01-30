@@ -1,0 +1,71 @@
+{
+    "id": "ab_p_demo__race_001__v01___18",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Demographics"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_demographicsdem_parent_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_race_youth_acs_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_p_demo"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_p_demo__race_001__v01___18"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_p_demo_0176"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_p_demo"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_p_demo__race_001__v01___18"
+    },
+    "question": {
+        "en": "What race do you consider the child to be? [Multi-select]: Korean [Version 1]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "nc_y_sit__cond1__diff_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_siss01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "sit_scr_expr_mratdiff1"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_y_sit"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_y_sit__cond1__diff_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_y_sit_0016"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_y_sit"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_y_sit__cond1__diff_mean"
+    },
+    "question": {
+        "en": "Social Influence Task (SIT): The mean difference in ratings for peer rating condition '-4'"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

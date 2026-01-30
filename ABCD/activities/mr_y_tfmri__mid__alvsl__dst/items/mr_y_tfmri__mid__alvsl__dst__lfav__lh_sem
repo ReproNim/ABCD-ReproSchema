@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_tfmri__mid__alvsl__dst__lfav__lh_sem",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "percent signal change (psc)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Monetary Incentive Delay"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Destrieux"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_midasemdp202"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "midasemdp1221"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_tfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__mid__alvsl__dst__lfav__lh_sem"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_tfmri_mid_alvsl_dst_0188"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__mid__alvsl__dst"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_tfmri__mid__alvsl__dst__lfav__lh_sem"
+    },
+    "question": {
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: anticipated large vs. small loss; all runs) in Destrieux ROI: vertical ramus of the anterior segment of the lateral sulcus (left hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

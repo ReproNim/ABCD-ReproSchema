@@ -1,0 +1,66 @@
+{
+    "id": "covid_l_geopolicy__addr3__gengathban_code__08",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Geocoded Data"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_general_gb_order_codes"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_l_geopolicy"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_l_geopolicy__addr3__gengathban_code__08"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_l_geopolicy_0451"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_l_geopolicy"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_l_geopolicy__addr3__gengathban_code__08"
+    },
+    "question": {
+        "en": "General Gathering Ban Order code (Address 3; Policy change 8)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

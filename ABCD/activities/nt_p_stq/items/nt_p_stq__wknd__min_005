@@ -1,0 +1,86 @@
+{
+    "id": "nt_p_stq__wknd__min_005",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "minutes (min)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "screentime_psq_p01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "screentime_parent_psq"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "stp_5_wkend_min_p"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "stp_5_wkend_min_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_p_stq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_p_stq__wknd__min_005"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_p_stq_0043"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_p_stq"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_p_stq__wknd__min_005"
+    },
+    "question": {
+        "en": "On a typical weekend, how much time per day do you: Text on a cell phone, tablet, computer, iPod, or other electronic device (e.g., GChat, Whatsapp, Kik etc.)?: Minutes [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

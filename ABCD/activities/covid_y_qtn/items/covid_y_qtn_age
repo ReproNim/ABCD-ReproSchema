@@ -1,0 +1,67 @@
+{
+    "id": "covid_y_qtn_age",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_y_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_y_qtn_age"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_y_qtn_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_y_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_y_qtn_age"
+    },
+    "question": {
+        "en": "COVID-19 - Questionnaire [Youth]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

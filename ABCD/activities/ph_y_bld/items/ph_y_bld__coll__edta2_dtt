@@ -1,0 +1,72 @@
+{
+    "id": "ph_y_bld__coll__edta2_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Biospecimens"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_blood_draw"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "biospec_blood_tube3_dot"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_bld"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_bld__coll__edta2_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_bld_0005"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_bld"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_bld__coll__edta2_dtt"
+    },
+    "question": {
+        "en": "Blood draw - EDTA 2ml [Youth]: Blood draw sample date and time collected"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

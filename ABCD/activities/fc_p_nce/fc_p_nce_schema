@@ -1,0 +1,131 @@
+{
+    "id": "fc_p_nce_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_p_nce"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_p_nce_dtt",
+            "items/fc_p_nce_age",
+            "items/fc_p_nce_lang",
+            "items/fc_p_nce__cc_001",
+            "items/fc_p_nce__cc_002",
+            "items/fc_p_nce__cc_003",
+            "items/fc_p_nce__cc_004",
+            "items/fc_p_nce__cc_005",
+            "items/fc_p_nce__isc_001",
+            "items/fc_p_nce__isc_002",
+            "items/fc_p_nce__isc_003",
+            "items/fc_p_nce__isc_004",
+            "items/fc_p_nce__isc_005",
+            "items/fc_p_nce__cc_mean",
+            "items/fc_p_nce__cc_nm",
+            "items/fc_p_nce__isc_mean",
+            "items/fc_p_nce__isc_nm",
+            "items/fc_p_nce_mean",
+            "items/fc_p_nce_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_p_nce_dtt",
+                "isVis": true,
+                "variableName": "fc_p_nce_dtt"
+            },
+            {
+                "isAbout": "items/fc_p_nce_age",
+                "isVis": true,
+                "variableName": "fc_p_nce_age"
+            },
+            {
+                "isAbout": "items/fc_p_nce_lang",
+                "isVis": true,
+                "variableName": "fc_p_nce_lang"
+            },
+            {
+                "isAbout": "items/fc_p_nce__cc_001",
+                "isVis": true,
+                "variableName": "fc_p_nce__cc_001"
+            },
+            {
+                "isAbout": "items/fc_p_nce__cc_002",
+                "isVis": true,
+                "variableName": "fc_p_nce__cc_002"
+            },
+            {
+                "isAbout": "items/fc_p_nce__cc_003",
+                "isVis": true,
+                "variableName": "fc_p_nce__cc_003"
+            },
+            {
+                "isAbout": "items/fc_p_nce__cc_004",
+                "isVis": true,
+                "variableName": "fc_p_nce__cc_004"
+            },
+            {
+                "isAbout": "items/fc_p_nce__cc_005",
+                "isVis": true,
+                "variableName": "fc_p_nce__cc_005"
+            },
+            {
+                "isAbout": "items/fc_p_nce__isc_001",
+                "isVis": true,
+                "variableName": "fc_p_nce__isc_001"
+            },
+            {
+                "isAbout": "items/fc_p_nce__isc_002",
+                "isVis": true,
+                "variableName": "fc_p_nce__isc_002"
+            },
+            {
+                "isAbout": "items/fc_p_nce__isc_003",
+                "isVis": true,
+                "variableName": "fc_p_nce__isc_003"
+            },
+            {
+                "isAbout": "items/fc_p_nce__isc_004",
+                "isVis": true,
+                "variableName": "fc_p_nce__isc_004"
+            },
+            {
+                "isAbout": "items/fc_p_nce__isc_005",
+                "isVis": true,
+                "variableName": "fc_p_nce__isc_005"
+            },
+            {
+                "isAbout": "items/fc_p_nce__cc_mean",
+                "isVis": true,
+                "variableName": "fc_p_nce__cc_mean"
+            },
+            {
+                "isAbout": "items/fc_p_nce__cc_nm",
+                "isVis": true,
+                "variableName": "fc_p_nce__cc_nm"
+            },
+            {
+                "isAbout": "items/fc_p_nce__isc_mean",
+                "isVis": true,
+                "variableName": "fc_p_nce__isc_mean"
+            },
+            {
+                "isAbout": "items/fc_p_nce__isc_nm",
+                "isVis": true,
+                "variableName": "fc_p_nce__isc_nm"
+            },
+            {
+                "isAbout": "items/fc_p_nce_mean",
+                "isVis": true,
+                "variableName": "fc_p_nce_mean"
+            },
+            {
+                "isAbout": "items/fc_p_nce_nm",
+                "isVis": true,
+                "variableName": "fc_p_nce_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

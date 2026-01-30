@@ -1,0 +1,71 @@
+{
+    "id": "ph_y_saiq__activs__dance_001__v01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Physical Activity"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sports_activities_read_music_youth"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sai_activities"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_saiq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_saiq__activs__dance_001__v01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_saiq_0019"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_saiq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_saiq__activs__dance_001__v01"
+    },
+    "question": {
+        "en": "Since we last saw you, please indicate whether you have participated in any of the following sports or activities regularly (e.g. a season in sports, or multiple lessons on your own or as part of a group etc) [Multi-select]: Ballet, dance, color guard [Youth; Version 1]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

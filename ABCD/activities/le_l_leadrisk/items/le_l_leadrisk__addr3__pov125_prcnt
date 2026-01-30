@@ -1,0 +1,71 @@
+{
+    "id": "le_l_leadrisk__addr3__pov125_prcnt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Built Environment"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_rhds01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_leadrisk_poverty"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_leadrisk"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_leadrisk__addr3__pov125_prcnt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_leadrisk_0008"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_leadrisk"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_leadrisk__addr3__pov125_prcnt"
+    },
+    "question": {
+        "en": "Percentage of individuals below -125 percent of poverty level [census tract] (Address 3) (address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

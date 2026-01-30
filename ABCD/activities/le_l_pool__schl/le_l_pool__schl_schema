@@ -1,0 +1,137 @@
+{
+    "id": "le_l_pool__schl_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_pool__schl"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_pool__schl__asmts_count",
+            "items/le_l_pool__schl__asmts_mean",
+            "items/le_l_pool__schl__cell_count",
+            "items/le_l_pool__schl__eb__coh_slope",
+            "items/le_l_pool__schl__eb__diff_se",
+            "items/le_l_pool__schl__eb__grd__slope_se",
+            "items/le_l_pool__schl__eb__grd_slope",
+            "items/le_l_pool__schl__eb__mean_se",
+            "items/le_l_pool__schl__eb__slope_se",
+            "items/le_l_pool__schl__eb_diff",
+            "items/le_l_pool__schl__eb_mean",
+            "items/le_l_pool__schl__mn__ols_mean",
+            "items/le_l_pool__schl__ols__coh__slope_se",
+            "items/le_l_pool__schl__ols__coh_slope",
+            "items/le_l_pool__schl__ols__diff_se",
+            "items/le_l_pool__schl__ols__grd__slope_se",
+            "items/le_l_pool__schl__ols__grd_slope",
+            "items/le_l_pool__schl__ols__mean_se",
+            "items/le_l_pool__schl__ols_diff",
+            "items/le_l_pool__schl_grdcenter"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_pool__schl__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__cell_count",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__cell_count"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__eb__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__eb__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__eb__diff_se",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__eb__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__eb__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__eb__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__eb__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__eb__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__eb__mean_se",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__eb__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__eb__slope_se",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__eb__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__eb_diff",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__eb_diff"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__eb_mean",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__eb_mean"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__mn__ols_mean",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__mn__ols_mean"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__ols__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__ols__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__ols__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__ols__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__ols__diff_se",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__ols__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__ols__grd__slope_se",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__ols__grd__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__ols__grd_slope",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__ols__grd_slope"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__ols__mean_se",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__ols__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl__ols_diff",
+                "isVis": true,
+                "variableName": "le_l_pool__schl__ols_diff"
+            },
+            {
+                "isAbout": "items/le_l_pool__schl_grdcenter",
+                "isVis": true,
+                "variableName": "le_l_pool__schl_grdcenter"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

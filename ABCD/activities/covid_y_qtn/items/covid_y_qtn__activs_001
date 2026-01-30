@@ -1,0 +1,86 @@
+{
+    "id": "covid_y_qtn__activs_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "yabcdcovid19questionnaire01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_abcd_covid19_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "physical_activities_hr_cv"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "physical_activities_hr_cv"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_y_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_y_qtn__activs_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_y_qtn_0286"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_y_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_y_qtn__activs_001"
+    },
+    "question": {
+        "en": "During the past week, on how many days did you do moderate\u00a0or vigorous\u00a0physical activities like heavy lifting, running, aerobics, or bicycling? (Moderate\u00a0or\u00a0vigorous\u00a0physical activities refer to activities that take moderate\u00a0to hard physical effort and make you breathe harder than normal)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

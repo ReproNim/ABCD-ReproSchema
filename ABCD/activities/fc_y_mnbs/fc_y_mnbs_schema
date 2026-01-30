@@ -1,0 +1,119 @@
+{
+    "id": "fc_y_mnbs_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_y_mnbs"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_y_mnbs_dtt",
+            "items/fc_y_mnbs_age",
+            "items/fc_y_mnbs_adm",
+            "items/fc_y_mnbs__edusupp_001",
+            "items/fc_y_mnbs__edusupp_002",
+            "items/fc_y_mnbs__edusupp_003",
+            "items/fc_y_mnbs__superv_001",
+            "items/fc_y_mnbs__superv_002",
+            "items/fc_y_mnbs__superv_003",
+            "items/fc_y_mnbs__superv_004",
+            "items/fc_y_mnbs__superv_005",
+            "items/fc_y_mnbs__edusupp_mean",
+            "items/fc_y_mnbs__edusupp_nm",
+            "items/fc_y_mnbs__superv_mean",
+            "items/fc_y_mnbs__superv_nm",
+            "items/fc_y_mnbs_mean",
+            "items/fc_y_mnbs_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_y_mnbs_dtt",
+                "isVis": true,
+                "variableName": "fc_y_mnbs_dtt"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs_age",
+                "isVis": true,
+                "variableName": "fc_y_mnbs_age"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs_adm",
+                "isVis": true,
+                "variableName": "fc_y_mnbs_adm"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__edusupp_001",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__edusupp_001"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__edusupp_002",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__edusupp_002"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__edusupp_003",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__edusupp_003"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__superv_001",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__superv_001"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__superv_002",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__superv_002"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__superv_003",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__superv_003"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__superv_004",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__superv_004"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__superv_005",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__superv_005"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__edusupp_mean",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__edusupp_mean"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__edusupp_nm",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__edusupp_nm"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__superv_mean",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__superv_mean"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs__superv_nm",
+                "isVis": true,
+                "variableName": "fc_y_mnbs__superv_nm"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs_mean",
+                "isVis": true,
+                "variableName": "fc_y_mnbs_mean"
+            },
+            {
+                "isAbout": "items/fc_y_mnbs_nm",
+                "isVis": true,
+                "variableName": "fc_y_mnbs_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "covid_y_fitbqtn_016",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Actigraphy"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "covid19_fitbit_survey01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_post_fitbit_covid19_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "fitpo_woken_up"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fitpo_woken_up"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_y_fitbqtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_y_fitbqtn_016"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_y_fitbqtn_0025"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_y_fitbqtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_y_fitbqtn_016"
+    },
+    "question": {
+        "en": "How has your waking changed over the past 3 weeks?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

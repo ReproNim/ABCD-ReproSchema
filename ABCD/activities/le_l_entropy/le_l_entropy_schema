@@ -1,0 +1,71 @@
+{
+    "id": "le_l_entropy_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_entropy"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_entropy__addr1__metro_idx",
+            "items/le_l_entropy__addr1__metro_score",
+            "items/le_l_entropy__addr1_score",
+            "items/le_l_entropy__addr2__metro_idx",
+            "items/le_l_entropy__addr2__metro_score",
+            "items/le_l_entropy__addr2_score",
+            "items/le_l_entropy__addr3__metro_idx",
+            "items/le_l_entropy__addr3__metro_score",
+            "items/le_l_entropy__addr3_score"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_entropy__addr1__metro_idx",
+                "isVis": true,
+                "variableName": "le_l_entropy__addr1__metro_idx"
+            },
+            {
+                "isAbout": "items/le_l_entropy__addr1__metro_score",
+                "isVis": true,
+                "variableName": "le_l_entropy__addr1__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_entropy__addr1_score",
+                "isVis": true,
+                "variableName": "le_l_entropy__addr1_score"
+            },
+            {
+                "isAbout": "items/le_l_entropy__addr2__metro_idx",
+                "isVis": true,
+                "variableName": "le_l_entropy__addr2__metro_idx"
+            },
+            {
+                "isAbout": "items/le_l_entropy__addr2__metro_score",
+                "isVis": true,
+                "variableName": "le_l_entropy__addr2__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_entropy__addr2_score",
+                "isVis": true,
+                "variableName": "le_l_entropy__addr2_score"
+            },
+            {
+                "isAbout": "items/le_l_entropy__addr3__metro_idx",
+                "isVis": true,
+                "variableName": "le_l_entropy__addr3__metro_idx"
+            },
+            {
+                "isAbout": "items/le_l_entropy__addr3__metro_score",
+                "isVis": true,
+                "variableName": "le_l_entropy__addr3__metro_score"
+            },
+            {
+                "isAbout": "items/le_l_entropy__addr3_score",
+                "isVis": true,
+                "variableName": "le_l_entropy__addr3_score"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

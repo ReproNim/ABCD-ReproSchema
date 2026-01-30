@@ -1,0 +1,81 @@
+{
+    "id": "nt_p_yst__pmum_004",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "stq01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "screen_time_stparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "screentime_pmum_short_4_p"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "screentime_pmum_short_4_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_p_yst"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_p_yst__pmum_004"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_p_yst_0035"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_p_yst"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_p_yst__pmum_004"
+    },
+    "question": {
+        "en": "When my child has had a bad day, screen media seems to be the only thing that helps them feel better."
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

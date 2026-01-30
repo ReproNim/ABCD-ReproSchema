@@ -1,0 +1,66 @@
+{
+    "id": "nc_p_bdefs_nm",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Questionnaire"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_p_bdefs"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_nc_p_bdefs_nm.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_p_bdefs_nm"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_p_bdefs_0025"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_p_bdefs"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_p_bdefs_nm"
+    },
+    "question": {
+        "en": "Barkley Deficits in Executive Functioning Scale [Parent] (EF Summary Score): Number missing"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

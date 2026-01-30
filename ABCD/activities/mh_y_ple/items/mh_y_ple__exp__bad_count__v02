@@ -1,0 +1,66 @@
+{
+    "id": "mh_y_ple__exp__bad_count__v02",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Stress"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_ple"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_mh_y_ple__exp__bad_count__v02.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_ple__exp__bad_count__v02"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_ple_0197"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_ple"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_ple__exp__bad_count__v02"
+    },
+    "question": {
+        "en": "Life Events [Youth] (Experience Bad Events): Count - Version 2 (Year 4 and Year 5) [Validation: No more than 6 events missing and no experience items missing or declined]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

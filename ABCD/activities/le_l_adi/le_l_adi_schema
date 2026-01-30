@@ -1,0 +1,359 @@
+{
+    "id": "le_l_adi_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_adi"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_adi__addr1__crowding_prcnt",
+            "items/le_l_adi__addr1__eduhs_prcnt",
+            "items/le_l_adi__addr1__edulths_prcnt",
+            "items/le_l_adi__addr1__homeowner_prcnt",
+            "items/le_l_adi__addr1__homevalue_med",
+            "items/le_l_adi__addr1__income__disparity_score",
+            "items/le_l_adi__addr1__income_med",
+            "items/le_l_adi__addr1__mortgage_med",
+            "items/le_l_adi__addr1__national_prcnt",
+            "items/le_l_adi__addr1__nocar_prcnt",
+            "items/le_l_adi__addr1__nophone_prcnt",
+            "items/le_l_adi__addr1__noplumbing_prcnt",
+            "items/le_l_adi__addr1__poverty__below138_prcnt",
+            "items/le_l_adi__addr1__poverty_prcnt",
+            "items/le_l_adi__addr1__rent_med",
+            "items/le_l_adi__addr1__singlehousehold_prcnt",
+            "items/le_l_adi__addr1__unemployment_prcnt",
+            "items/le_l_adi__addr1__workwhitecollar_prcnt",
+            "items/le_l_adi__addr1_wsum",
+            "items/le_l_adi__addr2__crowding_prcnt",
+            "items/le_l_adi__addr2__eduhs_prcnt",
+            "items/le_l_adi__addr2__edulths_prcnt",
+            "items/le_l_adi__addr2__homeowner_prcnt",
+            "items/le_l_adi__addr2__homevalue_med",
+            "items/le_l_adi__addr2__income__disparity_score",
+            "items/le_l_adi__addr2__income_med",
+            "items/le_l_adi__addr2__mortgage_med",
+            "items/le_l_adi__addr2__national_prcnt",
+            "items/le_l_adi__addr2__nocar_prcnt",
+            "items/le_l_adi__addr2__nophone_prcnt",
+            "items/le_l_adi__addr2__noplumbing_prcnt",
+            "items/le_l_adi__addr2__poverty__below138_prcnt",
+            "items/le_l_adi__addr2__poverty_prcnt",
+            "items/le_l_adi__addr2__rent_med",
+            "items/le_l_adi__addr2__singlehousehold_prcnt",
+            "items/le_l_adi__addr2__unemployment_prcnt",
+            "items/le_l_adi__addr2__workwhitecollar_prcnt",
+            "items/le_l_adi__addr2_wsum",
+            "items/le_l_adi__addr3__crowding_prcnt",
+            "items/le_l_adi__addr3__eduhs_prcnt",
+            "items/le_l_adi__addr3__edulths_prcnt",
+            "items/le_l_adi__addr3__homeowner_prcnt",
+            "items/le_l_adi__addr3__homevalue_med",
+            "items/le_l_adi__addr3__income__disparity_score",
+            "items/le_l_adi__addr3__income_med",
+            "items/le_l_adi__addr3__mortgage_med",
+            "items/le_l_adi__addr3__national_prcnt",
+            "items/le_l_adi__addr3__nocar_prcnt",
+            "items/le_l_adi__addr3__nophone_prcnt",
+            "items/le_l_adi__addr3__noplumbing_prcnt",
+            "items/le_l_adi__addr3__poverty__below138_prcnt",
+            "items/le_l_adi__addr3__poverty_prcnt",
+            "items/le_l_adi__addr3__rent_med",
+            "items/le_l_adi__addr3__singlehousehold_prcnt",
+            "items/le_l_adi__addr3__unemployment_prcnt",
+            "items/le_l_adi__addr3__workwhitecollar_prcnt",
+            "items/le_l_adi__addr3_wsum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_adi__addr1__crowding_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__crowding_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__eduhs_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__eduhs_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__edulths_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__edulths_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__homeowner_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__homeowner_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__homevalue_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__homevalue_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__income__disparity_score",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__income__disparity_score"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__income_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__income_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__mortgage_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__mortgage_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__national_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__national_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__nocar_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__nocar_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__nophone_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__nophone_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__noplumbing_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__noplumbing_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__poverty__below138_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__poverty__below138_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__poverty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__poverty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__rent_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__rent_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__singlehousehold_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__singlehousehold_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__unemployment_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__unemployment_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1__workwhitecollar_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1__workwhitecollar_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr1_wsum",
+                "isVis": true,
+                "variableName": "le_l_adi__addr1_wsum"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__crowding_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__crowding_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__eduhs_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__eduhs_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__edulths_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__edulths_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__homeowner_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__homeowner_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__homevalue_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__homevalue_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__income__disparity_score",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__income__disparity_score"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__income_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__income_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__mortgage_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__mortgage_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__national_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__national_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__nocar_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__nocar_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__nophone_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__nophone_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__noplumbing_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__noplumbing_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__poverty__below138_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__poverty__below138_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__poverty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__poverty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__rent_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__rent_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__singlehousehold_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__singlehousehold_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__unemployment_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__unemployment_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2__workwhitecollar_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2__workwhitecollar_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr2_wsum",
+                "isVis": true,
+                "variableName": "le_l_adi__addr2_wsum"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__crowding_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__crowding_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__eduhs_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__eduhs_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__edulths_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__edulths_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__homeowner_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__homeowner_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__homevalue_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__homevalue_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__income__disparity_score",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__income__disparity_score"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__income_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__income_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__mortgage_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__mortgage_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__national_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__national_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__nocar_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__nocar_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__nophone_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__nophone_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__noplumbing_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__noplumbing_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__poverty__below138_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__poverty__below138_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__poverty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__poverty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__rent_med",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__rent_med"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__singlehousehold_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__singlehousehold_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__unemployment_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__unemployment_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3__workwhitecollar_prcnt",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3__workwhitecollar_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_adi__addr3_wsum",
+                "isVis": true,
+                "variableName": "le_l_adi__addr3_wsum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

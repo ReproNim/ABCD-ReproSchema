@@ -1,0 +1,731 @@
+{
+    "id": "su_y_hairtox_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_hairtox"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_hairtox__coll_dtt",
+            "items/su_y_hairtox__coll_age",
+            "items/su_y_hairtox__coll_001___1",
+            "items/su_y_hairtox__coll_001___2",
+            "items/su_y_hairtox__coll_001___3",
+            "items/su_y_hairtox__coll_001___4",
+            "items/su_y_hairtox__coll_001___5",
+            "items/su_y_hairtox__coll_001___6",
+            "items/su_y_hairtox__coll_001___7",
+            "items/su_y_hairtox__coll_002",
+            "items/su_y_hairtox_lab",
+            "items/su_y_hairtox__lab__acc_dtt",
+            "items/su_y_hairtox__lab_len",
+            "items/su_y_hairtox__lab_weight",
+            "items/su_y_hairtox__rslt__alc__gcms_cnf",
+            "items/su_y_hairtox__rslt__alc__gcms_qnt",
+            "items/su_y_hairtox__rslt__alc__lcms_cnf",
+            "items/su_y_hairtox__rslt__alc__lcms_qnt",
+            "items/su_y_hairtox__rslt__alc_scrn",
+            "items/su_y_hairtox__rslt__amp__mda_cnf",
+            "items/su_y_hairtox__rslt__amp__mda_qnt",
+            "items/su_y_hairtox__rslt__amp__mdea_cnf",
+            "items/su_y_hairtox__rslt__amp__mdea_qnt",
+            "items/su_y_hairtox__rslt__amp__mdma_cnf",
+            "items/su_y_hairtox__rslt__amp__mdma_qnt",
+            "items/su_y_hairtox__rslt__amp__meth_cnf",
+            "items/su_y_hairtox__rslt__amp__meth_qnt",
+            "items/su_y_hairtox__rslt__amp_cnf",
+            "items/su_y_hairtox__rslt__amp_qnt",
+            "items/su_y_hairtox__rslt__amp_scrn",
+            "items/su_y_hairtox__rslt__bzo__alp_cnf",
+            "items/su_y_hairtox__rslt__bzo__alp_qnt",
+            "items/su_y_hairtox__rslt__bzo__clon_cnf",
+            "items/su_y_hairtox__rslt__bzo__clon_qnt",
+            "items/su_y_hairtox__rslt__bzo__diaz_cnf",
+            "items/su_y_hairtox__rslt__bzo__diaz_qnt",
+            "items/su_y_hairtox__rslt__bzo__flun_cnf",
+            "items/su_y_hairtox__rslt__bzo__flun_qnt",
+            "items/su_y_hairtox__rslt__bzo__loraz_cnf",
+            "items/su_y_hairtox__rslt__bzo__loraz_qnt",
+            "items/su_y_hairtox__rslt__bzo__midaz_cnf",
+            "items/su_y_hairtox__rslt__bzo__midaz_qnt",
+            "items/su_y_hairtox__rslt__bzo__nord_cnf",
+            "items/su_y_hairtox__rslt__bzo__nord_qnt",
+            "items/su_y_hairtox__rslt__bzo__oxaz_cnf",
+            "items/su_y_hairtox__rslt__bzo__oxaz_qnt",
+            "items/su_y_hairtox__rslt__bzo__phenaz_cnf",
+            "items/su_y_hairtox__rslt__bzo__phenaz_qnt",
+            "items/su_y_hairtox__rslt__bzo__temaz_cnf",
+            "items/su_y_hairtox__rslt__bzo__temaz_qnt",
+            "items/su_y_hairtox__rslt__bzo_scrn",
+            "items/su_y_hairtox__rslt__coc__bzo_cnf",
+            "items/su_y_hairtox__rslt__coc__bzo_qnt",
+            "items/su_y_hairtox__rslt__coc__cae_cnf",
+            "items/su_y_hairtox__rslt__coc__cae_qnt",
+            "items/su_y_hairtox__rslt__coc__mhydrx_cnf",
+            "items/su_y_hairtox__rslt__coc__mhydrx_qnt",
+            "items/su_y_hairtox__rslt__coc__norc_cnf",
+            "items/su_y_hairtox__rslt__coc__norc_qnt",
+            "items/su_y_hairtox__rslt__coc__ohydrx_cnf",
+            "items/su_y_hairtox__rslt__coc__ohydrx_qnt",
+            "items/su_y_hairtox__rslt__coc__phydrx_cnf",
+            "items/su_y_hairtox__rslt__coc__phydrx_qnt",
+            "items/su_y_hairtox__rslt__coc_cnf",
+            "items/su_y_hairtox__rslt__coc_qnt",
+            "items/su_y_hairtox__rslt__coc_scrn",
+            "items/su_y_hairtox__rslt__fent__acetyl_cnf",
+            "items/su_y_hairtox__rslt__fent__acetyl_qnt",
+            "items/su_y_hairtox__rslt__fent__anor_cnf",
+            "items/su_y_hairtox__rslt__fent__anor_qnt",
+            "items/su_y_hairtox__rslt__fent_cnf",
+            "items/su_y_hairtox__rslt__fent_qnt",
+            "items/su_y_hairtox__rslt__fent_scrn",
+            "items/su_y_hairtox__rslt__mj__cbd_cnf",
+            "items/su_y_hairtox__rslt__mj__cbd_qnt",
+            "items/su_y_hairtox__rslt__mj__cbn_cnf",
+            "items/su_y_hairtox__rslt__mj__cbn_qnt",
+            "items/su_y_hairtox__rslt__mj__cbn_scrn",
+            "items/su_y_hairtox__rslt__mj__thc__delt10_cnf",
+            "items/su_y_hairtox__rslt__mj__thc__delt10_qnt",
+            "items/su_y_hairtox__rslt__mj__thc__delt8_cnf",
+            "items/su_y_hairtox__rslt__mj__thc__delt8_qnt",
+            "items/su_y_hairtox__rslt__mj__thc_cnf",
+            "items/su_y_hairtox__rslt__mj__thc_qnt",
+            "items/su_y_hairtox__rslt__mj__thccooh_cnf",
+            "items/su_y_hairtox__rslt__mj__thccooh_qnt",
+            "items/su_y_hairtox__rslt__mj__thcv_cnf",
+            "items/su_y_hairtox__rslt__mj__thcv_qnt",
+            "items/su_y_hairtox__rslt__mj_scrn",
+            "items/su_y_hairtox__rslt__mj_scrn__01",
+            "items/su_y_hairtox__rslt__nic__cot_cnf",
+            "items/su_y_hairtox__rslt__nic__cot_qnt",
+            "items/su_y_hairtox__rslt__nic__t3hc_cnf",
+            "items/su_y_hairtox__rslt__nic__t3hc_qnt",
+            "items/su_y_hairtox__rslt__nic_cnf",
+            "items/su_y_hairtox__rslt__nic_qnt",
+            "items/su_y_hairtox__rslt__nic_scrn",
+            "items/su_y_hairtox__rslt__opi__6mam_cnf",
+            "items/su_y_hairtox__rslt__opi__6mam_qnt",
+            "items/su_y_hairtox__rslt__opi__cod_cnf",
+            "items/su_y_hairtox__rslt__opi__cod_qnt",
+            "items/su_y_hairtox__rslt__opi__hc_cnf",
+            "items/su_y_hairtox__rslt__opi__hc_qnt",
+            "items/su_y_hairtox__rslt__opi__hm_cnf",
+            "items/su_y_hairtox__rslt__opi__hm_qnt",
+            "items/su_y_hairtox__rslt__opi__mor_cnf",
+            "items/su_y_hairtox__rslt__opi__mor_qnt",
+            "items/su_y_hairtox__rslt__opi__nhc_cnf",
+            "items/su_y_hairtox__rslt__opi__nhc_qnt",
+            "items/su_y_hairtox__rslt__opi__noc_cnf",
+            "items/su_y_hairtox__rslt__opi__noc_qnt",
+            "items/su_y_hairtox__rslt__opi__oc_cnf",
+            "items/su_y_hairtox__rslt__opi__oc_qnt",
+            "items/su_y_hairtox__rslt__opi__om_cnf",
+            "items/su_y_hairtox__rslt__opi__om_qnt",
+            "items/su_y_hairtox__rslt__opi_scrn",
+            "items/su_y_hairtox__rslt__pcp_cnf",
+            "items/su_y_hairtox__rslt__pcp_qnt",
+            "items/su_y_hairtox__rslt__pcp_scrn"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_hairtox__coll_dtt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_dtt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__coll_age",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_age"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__coll_001___1",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_001___1"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__coll_001___2",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_001___2"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__coll_001___3",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_001___3"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__coll_001___4",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_001___4"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__coll_001___5",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_001___5"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__coll_001___6",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_001___6"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__coll_001___7",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_001___7"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__coll_002",
+                "isVis": true,
+                "variableName": "su_y_hairtox__coll_002"
+            },
+            {
+                "isAbout": "items/su_y_hairtox_lab",
+                "isVis": true,
+                "variableName": "su_y_hairtox_lab"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__lab__acc_dtt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__lab__acc_dtt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__lab_len",
+                "isVis": true,
+                "variableName": "su_y_hairtox__lab_len"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__lab_weight",
+                "isVis": true,
+                "variableName": "su_y_hairtox__lab_weight"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__alc__gcms_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__alc__gcms_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__alc__gcms_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__alc__gcms_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__alc__lcms_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__alc__lcms_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__alc__lcms_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__alc__lcms_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__alc_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__alc_scrn"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp__mda_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp__mda_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp__mda_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp__mda_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp__mdea_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp__mdea_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp__mdea_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp__mdea_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp__mdma_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp__mdma_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp__mdma_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp__mdma_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp__meth_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp__meth_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp__meth_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp__meth_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__amp_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__amp_scrn"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__alp_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__alp_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__alp_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__alp_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__clon_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__clon_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__clon_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__clon_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__diaz_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__diaz_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__diaz_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__diaz_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__flun_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__flun_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__flun_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__flun_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__loraz_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__loraz_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__loraz_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__loraz_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__midaz_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__midaz_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__midaz_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__midaz_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__nord_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__nord_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__nord_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__nord_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__oxaz_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__oxaz_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__oxaz_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__oxaz_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__phenaz_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__phenaz_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__phenaz_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__phenaz_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__temaz_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__temaz_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo__temaz_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo__temaz_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__bzo_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__bzo_scrn"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__bzo_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__bzo_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__bzo_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__bzo_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__cae_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__cae_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__cae_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__cae_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__mhydrx_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__mhydrx_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__mhydrx_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__mhydrx_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__norc_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__norc_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__norc_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__norc_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__ohydrx_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__ohydrx_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__ohydrx_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__ohydrx_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__phydrx_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__phydrx_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc__phydrx_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc__phydrx_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__coc_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__coc_scrn"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__fent__acetyl_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__fent__acetyl_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__fent__acetyl_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__fent__acetyl_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__fent__anor_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__fent__anor_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__fent__anor_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__fent__anor_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__fent_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__fent_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__fent_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__fent_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__fent_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__fent_scrn"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__cbd_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__cbd_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__cbd_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__cbd_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__cbn_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__cbn_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__cbn_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__cbn_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__cbn_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__cbn_scrn"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thc__delt10_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thc__delt10_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thc__delt10_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thc__delt10_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thc__delt8_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thc__delt8_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thc__delt8_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thc__delt8_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thc_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thc_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thc_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thc_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thccooh_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thccooh_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thccooh_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thccooh_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thcv_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thcv_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj__thcv_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj__thcv_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj_scrn"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__mj_scrn__01",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__mj_scrn__01"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__nic__cot_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__nic__cot_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__nic__cot_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__nic__cot_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__nic__t3hc_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__nic__t3hc_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__nic__t3hc_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__nic__t3hc_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__nic_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__nic_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__nic_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__nic_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__nic_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__nic_scrn"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__6mam_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__6mam_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__6mam_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__6mam_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__cod_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__cod_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__cod_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__cod_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__hc_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__hc_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__hc_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__hc_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__hm_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__hm_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__hm_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__hm_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__mor_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__mor_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__mor_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__mor_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__nhc_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__nhc_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__nhc_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__nhc_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__noc_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__noc_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__noc_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__noc_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__oc_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__oc_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__oc_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__oc_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__om_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__om_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi__om_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi__om_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__opi_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__opi_scrn"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__pcp_cnf",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__pcp_cnf"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__pcp_qnt",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__pcp_qnt"
+            },
+            {
+                "isAbout": "items/su_y_hairtox__rslt__pcp_scrn",
+                "isVis": true,
+                "variableName": "su_y_hairtox__rslt__pcp_scrn"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,185 @@
+{
+    "id": "mh_p_ksads__odd_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_ksads__odd"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_ksads__odd__6mofree__past_sx",
+            "items/mh_p_ksads__odd__alcuse__past_sx",
+            "items/mh_p_ksads__odd__angry__past_sx",
+            "items/mh_p_ksads__odd__angry__pres_sx",
+            "items/mh_p_ksads__odd__argue__past_sx",
+            "items/mh_p_ksads__odd__argue__pres_sx",
+            "items/mh_p_ksads__odd__blame__past_sx",
+            "items/mh_p_ksads__odd__blame__pres_sx",
+            "items/mh_p_ksads__odd__causeprob__past_sx",
+            "items/mh_p_ksads__odd__causeprob__pres_sx",
+            "items/mh_p_ksads__odd__delibannoy__past_sx",
+            "items/mh_p_ksads__odd__delibannoy__pres_sx",
+            "items/mh_p_ksads__odd__disobey__past_sx",
+            "items/mh_p_ksads__odd__disobey__pres_sx",
+            "items/mh_p_ksads__odd__dur6mo__past_sx",
+            "items/mh_p_ksads__odd__dur6mo__past_sx__v01",
+            "items/mh_p_ksads__odd__dur6mo__pres_sx",
+            "items/mh_p_ksads__odd__evntstrsr__pres_sx",
+            "items/mh_p_ksads__odd__irrit__expl__past_sx",
+            "items/mh_p_ksads__odd__irrit__expl__pres_sx",
+            "items/mh_p_ksads__odd__temper__past_sx",
+            "items/mh_p_ksads__odd__temper__pres_sx",
+            "items/mh_p_ksads__odd__touchy__past_sx",
+            "items/mh_p_ksads__odd__touchy__pres_sx",
+            "items/mh_p_ksads__odd__vindict__past_sx",
+            "items/mh_p_ksads__odd__vindict__pres_sx",
+            "items/mh_p_ksads__odd__past_dx",
+            "items/mh_p_ksads__odd__pres_dx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__odd__6mofree__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__6mofree__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__alcuse__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__alcuse__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__angry__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__angry__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__angry__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__angry__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__argue__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__argue__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__argue__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__argue__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__blame__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__blame__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__blame__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__blame__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__causeprob__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__causeprob__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__causeprob__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__causeprob__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__delibannoy__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__delibannoy__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__delibannoy__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__delibannoy__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__disobey__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__disobey__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__disobey__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__disobey__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__dur6mo__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__dur6mo__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__dur6mo__past_sx__v01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__dur6mo__past_sx__v01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__dur6mo__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__dur6mo__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__evntstrsr__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__evntstrsr__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__irrit__expl__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__irrit__expl__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__irrit__expl__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__irrit__expl__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__temper__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__temper__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__temper__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__temper__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__touchy__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__touchy__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__touchy__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__touchy__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__vindict__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__vindict__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__vindict__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__vindict__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__odd__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__odd__pres_dx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

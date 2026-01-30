@@ -1,0 +1,71 @@
+{
+    "id": "ph_p_otbi__loc_count",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tbi_ss_ntbiloc | tbi_ss_ntbiloc_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_otbi"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_ph_p_otbi__loc_count.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_otbi__loc_count"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_otbi_0093"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_otbi"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_otbi__loc_count"
+    },
+    "question": {
+        "en": "Ohio State Traumatic Brain Injury Screen [Parent] (Loss of consciousness): Count [Validation: At least 1 gating item was endorsed]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

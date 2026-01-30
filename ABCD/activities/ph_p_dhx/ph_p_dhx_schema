@@ -1,0 +1,1469 @@
+{
+    "id": "ph_p_dhx_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ph_p_dhx"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ph_p_dhx_dtt",
+            "items/ph_p_dhx_age",
+            "items/ph_p_dhx_lang",
+            "items/ph_p_dhx_001",
+            "items/ph_p_dhx_002__01",
+            "items/ph_p_dhx_002__01__dk",
+            "items/ph_p_dhx_002__02",
+            "items/ph_p_dhx_002__02__dk",
+            "items/ph_p_dhx_birthweight",
+            "items/ph_p_dhx_003__01",
+            "items/ph_p_dhx_003__01__dk",
+            "items/ph_p_dhx_004__01",
+            "items/ph_p_dhx_004__01__dk",
+            "items/ph_p_dhx_005",
+            "items/ph_p_dhx_006",
+            "items/ph_p_dhx_007__01",
+            "items/ph_p_dhx_007__01__dk",
+            "items/ph_p_dhx_008",
+            "items/ph_p_dhx_008__dk",
+            "items/ph_p_dhx_009",
+            "items/ph_p_dhx_009__dk",
+            "items/ph_p_dhx_010",
+            "items/ph_p_dhx_010__dk",
+            "items/ph_p_dhx_011",
+            "items/ph_p_dhx_011__dk",
+            "items/ph_p_dhx_012",
+            "items/ph_p_dhx_012__dk",
+            "items/ph_p_dhx_013",
+            "items/ph_p_dhx_014",
+            "items/ph_p_dhx_015",
+            "items/ph_p_dhx_016",
+            "items/ph_p_dhx__birth_001",
+            "items/ph_p_dhx__birth_001__01",
+            "items/ph_p_dhx__birth_002",
+            "items/ph_p_dhx__birth_003",
+            "items/ph_p_dhx__birth_004",
+            "items/ph_p_dhx__birth_005",
+            "items/ph_p_dhx__birth_006",
+            "items/ph_p_dhx__birth_007",
+            "items/ph_p_dhx__birth_008",
+            "items/ph_p_dhx__birth_009",
+            "items/ph_p_dhx__birth_010",
+            "items/ph_p_dhx__first_001",
+            "items/ph_p_dhx__first_001__dk",
+            "items/ph_p_dhx__first_002",
+            "items/ph_p_dhx__first_002__dk",
+            "items/ph_p_dhx__first_003",
+            "items/ph_p_dhx__first_003__dk",
+            "items/ph_p_dhx__first_004",
+            "items/ph_p_dhx__first_004__dk",
+            "items/ph_p_dhx__med_001",
+            "items/ph_p_dhx__med_002",
+            "items/ph_p_dhx__med_003",
+            "items/ph_p_dhx__med_004",
+            "items/ph_p_dhx__med_005",
+            "items/ph_p_dhx__med_006",
+            "items/ph_p_dhx__med_007",
+            "items/ph_p_dhx__med_008",
+            "items/ph_p_dhx__med_009",
+            "items/ph_p_dhx__med_010",
+            "items/ph_p_dhx__med_011",
+            "items/ph_p_dhx__med_012",
+            "items/ph_p_dhx__med_013",
+            "items/ph_p_dhx__med_014",
+            "items/ph_p_dhx__med_015",
+            "items/ph_p_dhx__med_016",
+            "items/ph_p_dhx__alc_001a",
+            "items/ph_p_dhx__alc_001a__01",
+            "items/ph_p_dhx__alc_001a__01__dk",
+            "items/ph_p_dhx__alc_001a__02",
+            "items/ph_p_dhx__alc_001a__02__dk",
+            "items/ph_p_dhx__alc_001a__03",
+            "items/ph_p_dhx__alc_001a__03__dk",
+            "items/ph_p_dhx__alc_001b",
+            "items/ph_p_dhx__alc_001b__01",
+            "items/ph_p_dhx__alc_001b__01__dk",
+            "items/ph_p_dhx__alc_001b__02",
+            "items/ph_p_dhx__alc_001b__02__dk",
+            "items/ph_p_dhx__alc_001b__03",
+            "items/ph_p_dhx__alc_001b__03__dk",
+            "items/ph_p_dhx__caff_001",
+            "items/ph_p_dhx__caff_001__01",
+            "items/ph_p_dhx__caff_001__01__dk",
+            "items/ph_p_dhx__caff_001__02",
+            "items/ph_p_dhx__caff_001__02__dk",
+            "items/ph_p_dhx__caff_001__03",
+            "items/ph_p_dhx__caff_001__03__dk",
+            "items/ph_p_dhx__coc_001a",
+            "items/ph_p_dhx__coc_001a__01",
+            "items/ph_p_dhx__coc_001a__01__dk",
+            "items/ph_p_dhx__coc_001b",
+            "items/ph_p_dhx__coc_001b__01",
+            "items/ph_p_dhx__coc_001b__01__dk",
+            "items/ph_p_dhx__drg_001a",
+            "items/ph_p_dhx__drg_001a__01",
+            "items/ph_p_dhx__drg_001a__01__dk",
+            "items/ph_p_dhx__drg_001a__02",
+            "items/ph_p_dhx__drg_001a__02__dk",
+            "items/ph_p_dhx__drg_001a__03",
+            "items/ph_p_dhx__drg_001b",
+            "items/ph_p_dhx__drg_001b__01",
+            "items/ph_p_dhx__drg_001b__01__dk",
+            "items/ph_p_dhx__drg_001b__02",
+            "items/ph_p_dhx__drg_001b__02__dk",
+            "items/ph_p_dhx__drg_001b__03",
+            "items/ph_p_dhx__drg_002a",
+            "items/ph_p_dhx__drg_002a__01",
+            "items/ph_p_dhx__drg_002a__01__dk",
+            "items/ph_p_dhx__drg_002a__02",
+            "items/ph_p_dhx__drg_002a__02__dk",
+            "items/ph_p_dhx__drg_002a__03",
+            "items/ph_p_dhx__drg_002b",
+            "items/ph_p_dhx__drg_002b__01",
+            "items/ph_p_dhx__drg_002b__01__dk",
+            "items/ph_p_dhx__drg_002b__02",
+            "items/ph_p_dhx__drg_002b__02__dk",
+            "items/ph_p_dhx__drg_002b__03",
+            "items/ph_p_dhx__drg_003a",
+            "items/ph_p_dhx__drg_003a__01",
+            "items/ph_p_dhx__drg_003a__01__dk",
+            "items/ph_p_dhx__drg_003a__02",
+            "items/ph_p_dhx__drg_003a__02__dk",
+            "items/ph_p_dhx__drg_003a__03",
+            "items/ph_p_dhx__drg_003b",
+            "items/ph_p_dhx__drg_003b__01",
+            "items/ph_p_dhx__drg_003b__01__dk",
+            "items/ph_p_dhx__drg_003b__02",
+            "items/ph_p_dhx__drg_003b__02__dk",
+            "items/ph_p_dhx__drg_003b__03",
+            "items/ph_p_dhx__drg_004a",
+            "items/ph_p_dhx__drg_004a__01",
+            "items/ph_p_dhx__drg_004a__01__dk",
+            "items/ph_p_dhx__drg_004a__02",
+            "items/ph_p_dhx__drg_004a__02__dk",
+            "items/ph_p_dhx__drg_004a__03",
+            "items/ph_p_dhx__drg_004b",
+            "items/ph_p_dhx__drg_004b__01",
+            "items/ph_p_dhx__drg_004b__01__dk",
+            "items/ph_p_dhx__drg_004b__02",
+            "items/ph_p_dhx__drg_004b__02__dk",
+            "items/ph_p_dhx__drg_004b__03",
+            "items/ph_p_dhx__drg_005a",
+            "items/ph_p_dhx__drg_005a__01",
+            "items/ph_p_dhx__drg_005a__01__dk",
+            "items/ph_p_dhx__drg_005a__02",
+            "items/ph_p_dhx__drg_005a__02__dk",
+            "items/ph_p_dhx__drg_005a__03",
+            "items/ph_p_dhx__drg_005b",
+            "items/ph_p_dhx__drg_005b__01",
+            "items/ph_p_dhx__drg_005b__01__dk",
+            "items/ph_p_dhx__drg_005b__02",
+            "items/ph_p_dhx__drg_005b__02__dk",
+            "items/ph_p_dhx__drg_005b__03",
+            "items/ph_p_dhx__mj_001a",
+            "items/ph_p_dhx__mj_001a__01",
+            "items/ph_p_dhx__mj_001a__01__dk",
+            "items/ph_p_dhx__mj_001b",
+            "items/ph_p_dhx__mj_001b__01",
+            "items/ph_p_dhx__mj_001b__01__dk",
+            "items/ph_p_dhx__nic_001a",
+            "items/ph_p_dhx__nic_001a__01",
+            "items/ph_p_dhx__nic_001a__01__dk",
+            "items/ph_p_dhx__nic_001b",
+            "items/ph_p_dhx__nic_001b__01",
+            "items/ph_p_dhx__nic_001b__01__dk",
+            "items/ph_p_dhx__opi_001a",
+            "items/ph_p_dhx__opi_001a__01",
+            "items/ph_p_dhx__opi_001a__01__dk",
+            "items/ph_p_dhx__opi_001b",
+            "items/ph_p_dhx__opi_001b__01",
+            "items/ph_p_dhx__opi_001b__01__dk",
+            "items/ph_p_dhx__rx_001a__01",
+            "items/ph_p_dhx__rx_001a__02",
+            "items/ph_p_dhx__rx_001a__02__dk",
+            "items/ph_p_dhx__rx_001a__03",
+            "items/ph_p_dhx__rx_001a__03__dk",
+            "items/ph_p_dhx__rx_001a__04",
+            "items/ph_p_dhx__rx_001b__01",
+            "items/ph_p_dhx__rx_001b__02",
+            "items/ph_p_dhx__rx_001b__02__dk",
+            "items/ph_p_dhx__rx_001b__03",
+            "items/ph_p_dhx__rx_001b__03__dk",
+            "items/ph_p_dhx__rx_001b__04",
+            "items/ph_p_dhx__rx_002a__01",
+            "items/ph_p_dhx__rx_002a__02",
+            "items/ph_p_dhx__rx_002a__02__dk",
+            "items/ph_p_dhx__rx_002a__03",
+            "items/ph_p_dhx__rx_002a__03__dk",
+            "items/ph_p_dhx__rx_002a__04",
+            "items/ph_p_dhx__rx_002b__01",
+            "items/ph_p_dhx__rx_002b__02",
+            "items/ph_p_dhx__rx_002b__02__dk",
+            "items/ph_p_dhx__rx_002b__03",
+            "items/ph_p_dhx__rx_002b__03__dk",
+            "items/ph_p_dhx__rx_002b__04",
+            "items/ph_p_dhx__rx_003a__01",
+            "items/ph_p_dhx__rx_003a__02",
+            "items/ph_p_dhx__rx_003a__02__dk",
+            "items/ph_p_dhx__rx_003a__03",
+            "items/ph_p_dhx__rx_003a__03__dk",
+            "items/ph_p_dhx__rx_003a__04",
+            "items/ph_p_dhx__rx_003b__01",
+            "items/ph_p_dhx__rx_003b__02",
+            "items/ph_p_dhx__rx_003b__02__dk",
+            "items/ph_p_dhx__rx_003b__03",
+            "items/ph_p_dhx__rx_003b__03__dk",
+            "items/ph_p_dhx__rx_003b__04",
+            "items/ph_p_dhx__rx_004a__01",
+            "items/ph_p_dhx__rx_004a__02",
+            "items/ph_p_dhx__rx_004a__02__dk",
+            "items/ph_p_dhx__rx_004a__03",
+            "items/ph_p_dhx__rx_004a__03__dk",
+            "items/ph_p_dhx__rx_004a__04",
+            "items/ph_p_dhx__rx_004b__01",
+            "items/ph_p_dhx__rx_004b__02",
+            "items/ph_p_dhx__rx_004b__02__dk",
+            "items/ph_p_dhx__rx_004b__03",
+            "items/ph_p_dhx__rx_004b__03__dk",
+            "items/ph_p_dhx__rx_004b__04",
+            "items/ph_p_dhx__rx__id_001a",
+            "items/ph_p_dhx__rx__id_001b",
+            "items/ph_p_dhx__rx__id_002a",
+            "items/ph_p_dhx__rx__id_002b",
+            "items/ph_p_dhx__rx__id_003a",
+            "items/ph_p_dhx__rx__id_003b",
+            "items/ph_p_dhx__rx__id_004a",
+            "items/ph_p_dhx__rx__id_004b",
+            "items/ph_p_dhx__rx__label_001a",
+            "items/ph_p_dhx__rx__label_001b",
+            "items/ph_p_dhx__rx__label_002a",
+            "items/ph_p_dhx__rx__label_002b",
+            "items/ph_p_dhx__rx__label_003a",
+            "items/ph_p_dhx__rx__label_003b",
+            "items/ph_p_dhx__rx__label_004a",
+            "items/ph_p_dhx__rx__label_004b",
+            "items/ph_p_dhx__rxpain_001a",
+            "items/ph_p_dhx__rxpain_001a__01",
+            "items/ph_p_dhx__rxpain_001a__01__dk",
+            "items/ph_p_dhx__rxpain_001b",
+            "items/ph_p_dhx__rxpain_001b__01",
+            "items/ph_p_dhx__rxpain_001b__01__dk",
+            "items/ph_p_dhx__vit_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ph_p_dhx_dtt",
+                "isVis": true,
+                "variableName": "ph_p_dhx_dtt"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_age",
+                "isVis": true,
+                "variableName": "ph_p_dhx_age"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_lang",
+                "isVis": true,
+                "variableName": "ph_p_dhx_lang"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_001",
+                "isVis": true,
+                "variableName": "ph_p_dhx_001"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_002__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx_002__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_002__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_002__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_002__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx_002__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_002__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_002__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_birthweight",
+                "isVis": true,
+                "variableName": "ph_p_dhx_birthweight"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_003__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx_003__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_003__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_003__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_004__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx_004__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_004__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_004__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_005",
+                "isVis": true,
+                "variableName": "ph_p_dhx_005"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_006",
+                "isVis": true,
+                "variableName": "ph_p_dhx_006"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_007__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx_007__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_007__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_007__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_008",
+                "isVis": true,
+                "variableName": "ph_p_dhx_008"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_008__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_008__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_009",
+                "isVis": true,
+                "variableName": "ph_p_dhx_009"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_009__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_009__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_010",
+                "isVis": true,
+                "variableName": "ph_p_dhx_010"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_010__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_010__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_011",
+                "isVis": true,
+                "variableName": "ph_p_dhx_011"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_011__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_011__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_012",
+                "isVis": true,
+                "variableName": "ph_p_dhx_012"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_012__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx_012__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_013",
+                "isVis": true,
+                "variableName": "ph_p_dhx_013"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_014",
+                "isVis": true,
+                "variableName": "ph_p_dhx_014"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_015",
+                "isVis": true,
+                "variableName": "ph_p_dhx_015"
+            },
+            {
+                "isAbout": "items/ph_p_dhx_016",
+                "isVis": true,
+                "variableName": "ph_p_dhx_016"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_001",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_001"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_001__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_001__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_002",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_002"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_003",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_003"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_004",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_004"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_005",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_005"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_006",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_006"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_007",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_007"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_008",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_008"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_009",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_009"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__birth_010",
+                "isVis": true,
+                "variableName": "ph_p_dhx__birth_010"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__first_001",
+                "isVis": true,
+                "variableName": "ph_p_dhx__first_001"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__first_001__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__first_001__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__first_002",
+                "isVis": true,
+                "variableName": "ph_p_dhx__first_002"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__first_002__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__first_002__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__first_003",
+                "isVis": true,
+                "variableName": "ph_p_dhx__first_003"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__first_003__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__first_003__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__first_004",
+                "isVis": true,
+                "variableName": "ph_p_dhx__first_004"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__first_004__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__first_004__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_001",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_001"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_002",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_002"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_003",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_003"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_004",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_004"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_005",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_005"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_006",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_006"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_007",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_007"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_008",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_008"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_009",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_009"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_010",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_010"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_011",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_011"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_012",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_012"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_013",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_013"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_014",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_014"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_015",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_015"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__med_016",
+                "isVis": true,
+                "variableName": "ph_p_dhx__med_016"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001a__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001a__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__alc_001b__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__alc_001b__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__caff_001",
+                "isVis": true,
+                "variableName": "ph_p_dhx__caff_001"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__caff_001__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__caff_001__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__caff_001__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__caff_001__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__caff_001__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__caff_001__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__caff_001__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__caff_001__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__caff_001__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__caff_001__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__caff_001__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__caff_001__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__coc_001a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__coc_001a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__coc_001a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__coc_001a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__coc_001a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__coc_001a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__coc_001b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__coc_001b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__coc_001b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__coc_001b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__coc_001b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__coc_001b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_001b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_001b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_002b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_002b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_003b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_003b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_004b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_004b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__drg_005b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__drg_005b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__mj_001a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__mj_001a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__mj_001a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__mj_001a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__mj_001a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__mj_001a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__mj_001b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__mj_001b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__mj_001b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__mj_001b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__mj_001b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__mj_001b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__nic_001a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__nic_001a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__nic_001a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__nic_001a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__nic_001a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__nic_001a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__nic_001b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__nic_001b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__nic_001b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__nic_001b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__nic_001b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__nic_001b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__opi_001a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__opi_001a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__opi_001a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__opi_001a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__opi_001a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__opi_001a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__opi_001b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__opi_001b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__opi_001b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__opi_001b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__opi_001b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__opi_001b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001a__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001a__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001a__04",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001a__04"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001b__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001b__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_001b__04",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_001b__04"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002a__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002a__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002a__04",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002a__04"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002b__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002b__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_002b__04",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_002b__04"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003a__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003a__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003a__04",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003a__04"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003b__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003b__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_003b__04",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_003b__04"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004a__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004a__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004a__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004a__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004a__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004a__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004a__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004a__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004a__04",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004a__04"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004b__02",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004b__02"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004b__02__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004b__02__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004b__03",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004b__03"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004b__03__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004b__03__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx_004b__04",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx_004b__04"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__id_001a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__id_001a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__id_001b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__id_001b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__id_002a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__id_002a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__id_002b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__id_002b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__id_003a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__id_003a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__id_003b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__id_003b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__id_004a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__id_004a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__id_004b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__id_004b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__label_001a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__label_001a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__label_001b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__label_001b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__label_002a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__label_002a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__label_002b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__label_002b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__label_003a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__label_003a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__label_003b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__label_003b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__label_004a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__label_004a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rx__label_004b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rx__label_004b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rxpain_001a",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rxpain_001a"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rxpain_001a__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rxpain_001a__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rxpain_001a__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rxpain_001a__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rxpain_001b",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rxpain_001b"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rxpain_001b__01",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rxpain_001b__01"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__rxpain_001b__01__dk",
+                "isVis": true,
+                "variableName": "ph_p_dhx__rxpain_001b__01__dk"
+            },
+            {
+                "isAbout": "items/ph_p_dhx__vit_001",
+                "isVis": true,
+                "variableName": "ph_p_dhx__vit_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

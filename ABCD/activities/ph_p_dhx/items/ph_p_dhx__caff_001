@@ -1,0 +1,81 @@
+{
+    "id": "ph_p_dhx__caff_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Development"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "dhx01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "developmental_history_questionnaire_devhxparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "devhx_caffeine_11"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "devhx_caffeine_11"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_dhx"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_dhx__caff_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_dhx_0081"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_dhx"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_dhx__caff_001"
+    },
+    "question": {
+        "en": "Did you/biological mother have any caffeine during pregnancy (from conception until delivery)?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

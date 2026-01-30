@@ -1,0 +1,72 @@
+{
+    "id": "ph_p_bkfs_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Nutrition"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_block_kids_food_screen"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "bkfs_start_time_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_bkfs"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_bkfs_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_bkfs_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_bkfs"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_bkfs_dtt"
+    },
+    "question": {
+        "en": "Block Kids Food Screener [Parent]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

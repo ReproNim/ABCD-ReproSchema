@@ -1,0 +1,81 @@
+{
+    "id": "mh_y_sup_005",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Mood"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_y7mi01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_7_up_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "sup_5_y"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sup_5_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_sup"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_sup_005"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_sup_0008"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_sup"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_sup_005"
+    },
+    "question": {
+        "en": "Have there been periods of several days or more when your thinking was so clear and quick that it was much better than most other people's?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

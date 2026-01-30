@@ -1,0 +1,62 @@
+{
+    "id": "irma_y_qtn_dt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Hurricane Irma"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Natural Disasters"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/irma.html#irma_y_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "irma_y_qtn_dt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "irma_y_qtn_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "irma_y_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "irma_y_qtn_dt"
+    },
+    "question": {
+        "en": "Hurricane Irma Experiences [Youth]: Date when collection was completed"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:date"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

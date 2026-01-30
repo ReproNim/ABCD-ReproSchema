@@ -1,0 +1,35 @@
+{
+    "id": "nc_y_cct_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nc_y_cct"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nc_y_cct_dtt",
+            "items/nc_y_cct_age",
+            "items/nc_y_cct_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nc_y_cct_dtt",
+                "isVis": true,
+                "variableName": "nc_y_cct_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_cct_age",
+                "isVis": true,
+                "variableName": "nc_y_cct_age"
+            },
+            {
+                "isAbout": "items/nc_y_cct_001",
+                "isVis": true,
+                "variableName": "nc_y_cct_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "nt_p_fitbq__pre_005__03___5",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Actigraphy"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_fbprp01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "fitbit_preassessment_parent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "fitpr_remove_p___5"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fitpr_remove_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_p_fitbq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_p_fitbq__pre_005__03___5"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_p_fitbq_0015"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_p_fitbq"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_p_fitbq__pre_005__03___5"
+    },
+    "question": {
+        "en": "When did s/he take it off? [Multi-select]: Other [Pre-survey]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

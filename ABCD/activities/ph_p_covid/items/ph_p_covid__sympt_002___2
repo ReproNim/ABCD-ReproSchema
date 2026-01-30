@@ -1,0 +1,76 @@
+{
+    "id": "ph_p_covid__sympt_002___2",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_abcd_covid19_questionnaire_annual"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "child_symptom_actions_cv_p___2"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "child_symptom_actions_cv_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_covid"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_covid__sympt_002___2"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_covid_0138"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_covid"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_covid__sympt_002___2"
+    },
+    "question": {
+        "en": "Which of the following ever occurred as a result of your child's symptoms? [Multi-select]: My child saw a healthcare provider in person, such as in a clinic, doctor's office, urgent care, ER"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,179 @@
+{
+    "id": "le_l_demo__cnty_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_demo__cnty"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_demo__cnty__asian_prcnt",
+            "items/le_l_demo__cnty__black_prcnt",
+            "items/le_l_demo__cnty__ecd_prcnt",
+            "items/le_l_demo__cnty__ecdnec_ii",
+            "items/le_l_demo__cnty__ecdnec_rdi",
+            "items/le_l_demo__cnty__ell_prcnt",
+            "items/le_l_demo__cnty__enrl_count",
+            "items/le_l_demo__cnty__fl_prcnt",
+            "items/le_l_demo__cnty__flnfl_ii",
+            "items/le_l_demo__cnty__flnfl_rdi",
+            "items/le_l_demo__cnty__frl_prcnt",
+            "items/le_l_demo__cnty__hisp_prcnt",
+            "items/le_l_demo__cnty__ntvam_prcnt",
+            "items/le_l_demo__cnty__poverty_rate",
+            "items/le_l_demo__cnty__rl_prcnt",
+            "items/le_l_demo__cnty__rural_prcnt",
+            "items/le_l_demo__cnty__singlmoth_rate",
+            "items/le_l_demo__cnty__snap_rate",
+            "items/le_l_demo__cnty__speced_prcnt",
+            "items/le_l_demo__cnty__suburb_prcnt",
+            "items/le_l_demo__cnty__town_prcnt",
+            "items/le_l_demo__cnty__unemp_rate",
+            "items/le_l_demo__cnty__urban_prcnt",
+            "items/le_l_demo__cnty__white_prcnt",
+            "items/le_l_demo__cnty_baplus",
+            "items/le_l_demo__cnty_lminc",
+            "items/le_l_demo__cnty_ses"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_demo__cnty__asian_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__asian_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__black_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__black_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__ecd_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__ecd_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__ecdnec_ii",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__ecdnec_ii"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__ecdnec_rdi",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__ecdnec_rdi"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__ell_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__ell_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__enrl_count",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__enrl_count"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__fl_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__fl_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__flnfl_ii",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__flnfl_ii"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__flnfl_rdi",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__flnfl_rdi"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__frl_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__frl_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__hisp_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__hisp_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__ntvam_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__ntvam_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__poverty_rate",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__poverty_rate"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__rl_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__rl_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__rural_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__rural_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__singlmoth_rate",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__singlmoth_rate"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__snap_rate",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__snap_rate"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__speced_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__speced_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__suburb_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__suburb_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__town_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__town_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__unemp_rate",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__unemp_rate"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__urban_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__urban_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty__white_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty__white_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty_baplus",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty_baplus"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty_lminc",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty_lminc"
+            },
+            {
+                "isAbout": "items/le_l_demo__cnty_ses",
+                "isVis": true,
+                "variableName": "le_l_demo__cnty_ses"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

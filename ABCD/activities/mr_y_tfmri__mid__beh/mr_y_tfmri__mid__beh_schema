@@ -1,0 +1,1463 @@
+{
+    "id": "mr_y_tfmri__mid__beh_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_tfmri__mid__beh"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_tfmri__mid__beh__earn_sum",
+            "items/mr_y_tfmri__mid__beh__feedback_indicator",
+            "items/mr_y_tfmri__mid__beh__qc_indicator",
+            "items/mr_y_tfmri__mid__beh__r01__earn_sum",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__crct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__crct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__loss_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut__crct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut__crct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__neut_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd_count",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd_rt",
+            "items/mr_y_tfmri__mid__beh__r01__trial__rwrd_std",
+            "items/mr_y_tfmri__mid__beh__r01__trial_count",
+            "items/mr_y_tfmri__mid__beh__r02__earn_sum",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__crct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__crct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__loss_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut__crct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut__crct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__neut_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd_count",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd_rt",
+            "items/mr_y_tfmri__mid__beh__r02__trial__rwrd_std",
+            "items/mr_y_tfmri__mid__beh__r02__trial_count",
+            "items/mr_y_tfmri__mid__beh__run_count",
+            "items/mr_y_tfmri__mid__beh__switch_indicator",
+            "items/mr_y_tfmri__mid__beh__trial__loss__crct_count",
+            "items/mr_y_tfmri__mid__beh__trial__loss__crct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__loss__crct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__loss__crct_std",
+            "items/mr_y_tfmri__mid__beh__trial__loss__incrct_count",
+            "items/mr_y_tfmri__mid__beh__trial__loss__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__loss__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__loss__incrct_std",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg__crct_count",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg__crct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg__crct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg__crct_std",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg__incrct_count",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg__incrct_std",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg_count",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg_rt",
+            "items/mr_y_tfmri__mid__beh__trial__loss__lg_std",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm__crct_count",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm__crct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm__crct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm__crct_std",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm__incrct_count",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm__incrct_std",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm_count",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm_rt",
+            "items/mr_y_tfmri__mid__beh__trial__loss__sm_std",
+            "items/mr_y_tfmri__mid__beh__trial__loss_count",
+            "items/mr_y_tfmri__mid__beh__trial__loss_rt",
+            "items/mr_y_tfmri__mid__beh__trial__loss_std",
+            "items/mr_y_tfmri__mid__beh__trial__neut__crct_count",
+            "items/mr_y_tfmri__mid__beh__trial__neut__crct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__neut__crct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__neut__crct_std",
+            "items/mr_y_tfmri__mid__beh__trial__neut__incrct_count",
+            "items/mr_y_tfmri__mid__beh__trial__neut__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__neut__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__neut__incrct_std",
+            "items/mr_y_tfmri__mid__beh__trial__neut_count",
+            "items/mr_y_tfmri__mid__beh__trial__neut_rt",
+            "items/mr_y_tfmri__mid__beh__trial__neut_std",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__crct_count",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__crct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__crct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__crct_std",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__incrct_count",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__incrct_std",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_count",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_std",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_count",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_std",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg_count",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg_rt",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__lg_std",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_count",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_std",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_count",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_prop",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_rt",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_std",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm_count",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm_rt",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd__sm_std",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd_count",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd_rt",
+            "items/mr_y_tfmri__mid__beh__trial__rwrd_std",
+            "items/mr_y_tfmri__mid__beh__trial_count"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__earn_sum",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__earn_sum"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__feedback_indicator",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__feedback_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__qc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__qc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__earn_sum",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__earn_sum"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__lg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__lg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss__sm_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss__sm_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__loss_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__loss_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__lg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__lg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd__sm_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial__rwrd_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial__rwrd_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r01__trial_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r01__trial_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__earn_sum",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__earn_sum"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__lg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__lg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss__sm_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss__sm_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__loss_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__loss_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__lg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__lg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd__sm_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd__sm_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial__rwrd_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial__rwrd_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__r02__trial_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__r02__trial_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__run_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__run_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__switch_indicator",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__switch_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__lg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__lg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss__sm_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss__sm_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__loss_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__loss_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__neut_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__neut_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__lg_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__lg_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm__crct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_prop",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_prop"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm__incrct_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd__sm_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd__sm_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd_count"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd_rt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd_rt"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial__rwrd_std",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial__rwrd_std"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__beh__trial_count",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__beh__trial_count"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

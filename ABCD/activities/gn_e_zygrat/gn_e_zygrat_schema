@@ -1,0 +1,167 @@
+{
+    "id": "gn_e_zygrat_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "gn_e_zygrat"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/gn_e_zygrat__photo_001",
+            "items/gn_e_zygrat_famno",
+            "items/gn_e_zygrat_twinsage",
+            "items/gn_e_zygrat__ear_app",
+            "items/gn_e_zygrat__eye_col",
+            "items/gn_e_zygrat__eye_col__t01",
+            "items/gn_e_zygrat__eye_col__t02",
+            "items/gn_e_zygrat__fac_app",
+            "items/gn_e_zygrat__hair_amt",
+            "items/gn_e_zygrat__hair_amt__t01",
+            "items/gn_e_zygrat__hair_amt__t02",
+            "items/gn_e_zygrat__hair_col",
+            "items/gn_e_zygrat__hair_col__t01",
+            "items/gn_e_zygrat__hair_col__t02",
+            "items/gn_e_zygrat__hair_crly",
+            "items/gn_e_zygrat__hair_dark__t01",
+            "items/gn_e_zygrat__hair_dark__t02",
+            "items/gn_e_zygrat__hair_pttrn",
+            "items/gn_e_zygrat__hair_txtr",
+            "items/gn_e_zygrat__hair_txtr__t01",
+            "items/gn_e_zygrat__hair_txtr__t02",
+            "items/gn_e_zygrat__hair_type__t01",
+            "items/gn_e_zygrat__hair_type__t02",
+            "items/gn_e_zygrat_cmplxn",
+            "items/gn_e_zygrat_judgement"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/gn_e_zygrat__photo_001",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__photo_001"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat_famno",
+                "isVis": true,
+                "variableName": "gn_e_zygrat_famno"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat_twinsage",
+                "isVis": true,
+                "variableName": "gn_e_zygrat_twinsage"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__ear_app",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__ear_app"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__eye_col",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__eye_col"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__eye_col__t01",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__eye_col__t01"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__eye_col__t02",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__eye_col__t02"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__fac_app",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__fac_app"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_amt",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_amt"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_amt__t01",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_amt__t01"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_amt__t02",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_amt__t02"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_col",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_col"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_col__t01",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_col__t01"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_col__t02",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_col__t02"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_crly",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_crly"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_dark__t01",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_dark__t01"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_dark__t02",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_dark__t02"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_pttrn",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_pttrn"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_txtr",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_txtr"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_txtr__t01",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_txtr__t01"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_txtr__t02",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_txtr__t02"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_type__t01",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_type__t01"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat__hair_type__t02",
+                "isVis": true,
+                "variableName": "gn_e_zygrat__hair_type__t02"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat_cmplxn",
+                "isVis": true,
+                "variableName": "gn_e_zygrat_cmplxn"
+            },
+            {
+                "isAbout": "items/gn_e_zygrat_judgement",
+                "isVis": true,
+                "variableName": "gn_e_zygrat_judgement"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

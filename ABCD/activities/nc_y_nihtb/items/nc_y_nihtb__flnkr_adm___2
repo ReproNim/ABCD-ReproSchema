@@ -1,0 +1,82 @@
+{
+    "id": "nc_y_nihtb__flnkr_adm___2",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "neurocog_youth_session01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "introduction_to_neurocognitionyouth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "neurocog_flanker___2"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "neurocog_flanker"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_y_nihtb"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_y_nihtb__flnkr_adm___2"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_y_nihtb_0055"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_y_nihtb"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_y_nihtb__flnkr_adm___2"
+    },
+    "question": {
+        "en": "Flanker Inhibitory Control and Attention Task (NIH Toolbox): Method of administration [Multi-select]: Video/webcam"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,527 @@
+{
+    "id": "ph_p_otbi_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ph_p_otbi"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ph_p_otbi_dtt",
+            "items/ph_p_otbi_age",
+            "items/ph_p_otbi_lang",
+            "items/ph_p_otbi_001",
+            "items/ph_p_otbi_001__l",
+            "items/ph_p_otbi_002",
+            "items/ph_p_otbi_002__l",
+            "items/ph_p_otbi_003",
+            "items/ph_p_otbi_003__l",
+            "items/ph_p_otbi_004",
+            "items/ph_p_otbi_004__l",
+            "items/ph_p_otbi_005",
+            "items/ph_p_otbi_005__l",
+            "items/ph_p_otbi__age_001",
+            "items/ph_p_otbi__age_001__l",
+            "items/ph_p_otbi__age_002",
+            "items/ph_p_otbi__age_002__l",
+            "items/ph_p_otbi__age_003",
+            "items/ph_p_otbi__age_003__l",
+            "items/ph_p_otbi__age_004",
+            "items/ph_p_otbi__age_004__l",
+            "items/ph_p_otbi__age_005",
+            "items/ph_p_otbi__age_005__l",
+            "items/ph_p_otbi__concuss_001",
+            "items/ph_p_otbi__concuss_001__01",
+            "items/ph_p_otbi__concuss_001__02",
+            "items/ph_p_otbi__daz_001",
+            "items/ph_p_otbi__daz_001__l",
+            "items/ph_p_otbi__daz_002",
+            "items/ph_p_otbi__daz_002__l",
+            "items/ph_p_otbi__daz_003",
+            "items/ph_p_otbi__daz_003__l",
+            "items/ph_p_otbi__daz_004",
+            "items/ph_p_otbi__daz_004__l",
+            "items/ph_p_otbi__daz_005",
+            "items/ph_p_otbi__daz_005__l",
+            "items/ph_p_otbi__loc_001",
+            "items/ph_p_otbi__loc_001__l",
+            "items/ph_p_otbi__loc_002",
+            "items/ph_p_otbi__loc_002__l",
+            "items/ph_p_otbi__loc_003",
+            "items/ph_p_otbi__loc_003__l",
+            "items/ph_p_otbi__loc_004",
+            "items/ph_p_otbi__loc_004__l",
+            "items/ph_p_otbi__loc_005",
+            "items/ph_p_otbi__loc_005__l",
+            "items/ph_p_otbi__loc__add_001",
+            "items/ph_p_otbi__loc__add_001__01",
+            "items/ph_p_otbi__loc__add_001__01__l",
+            "items/ph_p_otbi__loc__add_001__02",
+            "items/ph_p_otbi__loc__add_001__02__l",
+            "items/ph_p_otbi__loc__add_001__03",
+            "items/ph_p_otbi__loc__add_001__03__l",
+            "items/ph_p_otbi__loc__add_001__04",
+            "items/ph_p_otbi__loc__add_001__04__l",
+            "items/ph_p_otbi__loc__add_001__l",
+            "items/ph_p_otbi__rpt_001",
+            "items/ph_p_otbi__rpt_001__l",
+            "items/ph_p_otbi__rpt_002",
+            "items/ph_p_otbi__rpt_003",
+            "items/ph_p_otbi__rpt__age_001a",
+            "items/ph_p_otbi__rpt__age_001a__l",
+            "items/ph_p_otbi__rpt__age_001b",
+            "items/ph_p_otbi__rpt__age_001b__l",
+            "items/ph_p_otbi__rpt__age_002a",
+            "items/ph_p_otbi__rpt__age_002b",
+            "items/ph_p_otbi__rpt__age_003a",
+            "items/ph_p_otbi__rpt__age_003b",
+            "items/ph_p_otbi__rpt__daz_001",
+            "items/ph_p_otbi__rpt__daz_001__l",
+            "items/ph_p_otbi__rpt__loc_001",
+            "items/ph_p_otbi__rpt__loc_001__l",
+            "items/ph_p_otbi__rpt__loc__daz_002",
+            "items/ph_p_otbi__rpt__loc__daz_003",
+            "items/ph_p_otbi__loc__30m_count",
+            "items/ph_p_otbi__loc__30m_nm",
+            "items/ph_p_otbi__loc__tbiage_nm",
+            "items/ph_p_otbi__loc_before15",
+            "items/ph_p_otbi__loc_count",
+            "items/ph_p_otbi__loc_nm",
+            "items/ph_p_otbi__loc_tbiage",
+            "items/ph_p_otbi__rpt_count",
+            "items/ph_p_otbi__rpt_nm",
+            "items/ph_p_otbi_nm",
+            "items/ph_p_otbi_tbiworst"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ph_p_otbi_dtt",
+                "isVis": true,
+                "variableName": "ph_p_otbi_dtt"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_age",
+                "isVis": true,
+                "variableName": "ph_p_otbi_age"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_lang",
+                "isVis": true,
+                "variableName": "ph_p_otbi_lang"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_001",
+                "isVis": true,
+                "variableName": "ph_p_otbi_001"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_001__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi_001__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_002",
+                "isVis": true,
+                "variableName": "ph_p_otbi_002"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_002__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi_002__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_003",
+                "isVis": true,
+                "variableName": "ph_p_otbi_003"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_003__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi_003__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_004",
+                "isVis": true,
+                "variableName": "ph_p_otbi_004"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_004__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi_004__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_005",
+                "isVis": true,
+                "variableName": "ph_p_otbi_005"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_005__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi_005__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_001",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_001"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_001__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_001__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_002",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_002"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_002__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_002__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_003",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_003"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_003__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_003__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_004",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_004"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_004__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_004__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_005",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_005"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__age_005__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__age_005__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__concuss_001",
+                "isVis": true,
+                "variableName": "ph_p_otbi__concuss_001"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__concuss_001__01",
+                "isVis": true,
+                "variableName": "ph_p_otbi__concuss_001__01"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__concuss_001__02",
+                "isVis": true,
+                "variableName": "ph_p_otbi__concuss_001__02"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_001",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_001"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_001__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_001__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_002",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_002"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_002__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_002__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_003",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_003"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_003__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_003__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_004",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_004"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_004__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_004__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_005",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_005"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__daz_005__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__daz_005__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_001",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_001"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_001__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_001__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_002",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_002"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_002__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_002__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_003",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_003"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_003__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_003__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_004",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_004"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_004__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_004__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_005",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_005"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_005__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_005__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001__01",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001__01"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001__01__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001__01__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001__02",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001__02"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001__02__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001__02__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001__03",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001__03"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001__03__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001__03__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001__04",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001__04"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001__04__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001__04__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__add_001__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__add_001__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt_001",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt_001"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt_001__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt_001__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt_002",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt_002"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt_003",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt_003"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__age_001a",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__age_001a"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__age_001a__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__age_001a__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__age_001b",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__age_001b"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__age_001b__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__age_001b__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__age_002a",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__age_002a"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__age_002b",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__age_002b"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__age_003a",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__age_003a"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__age_003b",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__age_003b"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__daz_001",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__daz_001"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__daz_001__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__daz_001__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__loc_001",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__loc_001"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__loc_001__l",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__loc_001__l"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__loc__daz_002",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__loc__daz_002"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt__loc__daz_003",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt__loc__daz_003"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__30m_count",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__30m_count"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__30m_nm",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__30m_nm"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc__tbiage_nm",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc__tbiage_nm"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_before15",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_before15"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_count",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_count"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_nm",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_nm"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__loc_tbiage",
+                "isVis": true,
+                "variableName": "ph_p_otbi__loc_tbiage"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt_count",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt_count"
+            },
+            {
+                "isAbout": "items/ph_p_otbi__rpt_nm",
+                "isVis": true,
+                "variableName": "ph_p_otbi__rpt_nm"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_nm",
+                "isVis": true,
+                "variableName": "ph_p_otbi_nm"
+            },
+            {
+                "isAbout": "items/ph_p_otbi_tbiworst",
+                "isVis": true,
+                "variableName": "ph_p_otbi_tbiworst"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

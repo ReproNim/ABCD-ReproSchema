@@ -1,0 +1,82 @@
+{
+    "id": "su_p_plus_lang",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Patterns"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "plus01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "plus_day_2parent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "pls2_select_language___1"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "pls2_select_language"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_p_plus"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_p_plus_lang"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_p_plus_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_p_plus"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_p_plus_lang"
+    },
+    "question": {
+        "en": "Participant Last Use Survey (Day 1/2/3/4) [Parent]: Language of administration"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

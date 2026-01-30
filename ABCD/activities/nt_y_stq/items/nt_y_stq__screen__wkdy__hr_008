@@ -1,0 +1,86 @@
+{
+    "id": "nt_y_stq__screen__wkdy__hr_008",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "hours (h)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_stq01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "screen_time_styouth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "screentime_8_wkdy_hr"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "screentime_8_wkdy_hr"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_stq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_stq__screen__wkdy__hr_008"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_stq_0044"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_stq"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_stq__screen__wkdy__hr_008"
+    },
+    "question": {
+        "en": "Weekday: Video chat (e.g. Skype, Facetime, VRchat, etc.) that is not for school: Hours"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

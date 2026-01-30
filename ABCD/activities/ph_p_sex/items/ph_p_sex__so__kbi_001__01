@@ -1,0 +1,71 @@
+{
+    "id": "ph_p_sex__so__kbi_001__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Sex"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "ksads5_background_items_parent"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "kbi_p_c_gay_problems"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_sex"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_sex__so__kbi_001__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_sex_0008"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_sex"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_sex__so__kbi_001__01"
+    },
+    "question": {
+        "en": "Has this (being gay) caused any problems for your child with your family or with kids at school? [Cross-listed: mh_p_kbi__so_001__01]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

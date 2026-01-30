@@ -1,0 +1,91 @@
+{
+    "id": "ph_p_meds__rx_013__01__06__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "(in hours; 30 mins=0.5, max hours = 24)"
+        },
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "hours (h)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "medsy01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "medication_inventoryphenx_medsparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "rx_med13_ago"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "rx_med13_ago"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_meds"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_meds__rx_013__01__06__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_meds_0356"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_meds"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_meds__rx_013__01__06__01"
+    },
+    "question": {
+        "en": "RX 13: How long ago did h/she take the medication? [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

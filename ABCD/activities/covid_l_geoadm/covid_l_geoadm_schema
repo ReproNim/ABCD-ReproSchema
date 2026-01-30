@@ -1,0 +1,53 @@
+{
+    "id": "covid_l_geoadm_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "covid_l_geoadm"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/covid_l_geoadm__addr1_prcnt",
+            "items/covid_l_geoadm__addr2_prcnt",
+            "items/covid_l_geoadm__addr3_prcnt",
+            "items/covid_l_geoadm__addr4_prcnt",
+            "items/covid_l_geoadm__addr5_prcnt",
+            "items/covid_l_geoadm_compl"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/covid_l_geoadm__addr1_prcnt",
+                "isVis": true,
+                "variableName": "covid_l_geoadm__addr1_prcnt"
+            },
+            {
+                "isAbout": "items/covid_l_geoadm__addr2_prcnt",
+                "isVis": true,
+                "variableName": "covid_l_geoadm__addr2_prcnt"
+            },
+            {
+                "isAbout": "items/covid_l_geoadm__addr3_prcnt",
+                "isVis": true,
+                "variableName": "covid_l_geoadm__addr3_prcnt"
+            },
+            {
+                "isAbout": "items/covid_l_geoadm__addr4_prcnt",
+                "isVis": true,
+                "variableName": "covid_l_geoadm__addr4_prcnt"
+            },
+            {
+                "isAbout": "items/covid_l_geoadm__addr5_prcnt",
+                "isVis": true,
+                "variableName": "covid_l_geoadm__addr5_prcnt"
+            },
+            {
+                "isAbout": "items/covid_l_geoadm_compl",
+                "isVis": true,
+                "variableName": "covid_l_geoadm_compl"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

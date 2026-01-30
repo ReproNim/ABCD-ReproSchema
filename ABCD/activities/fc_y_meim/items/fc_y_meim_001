@@ -1,0 +1,81 @@
+{
+    "id": "fc_y_meim_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Culture"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "multigrp_ethnic_id_meim01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "multigroup_ethnic_identity_meim"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "meim_ethnic_id"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "meim_ethnic_id"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_y_meim"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_meim_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_meim_0004"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_meim"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_meim_001"
+    },
+    "question": {
+        "en": "In terms of ethnic group, I consider myself to be... [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

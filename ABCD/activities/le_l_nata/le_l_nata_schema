@@ -1,0 +1,71 @@
+{
+    "id": "le_l_nata_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_nata"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_nata__addr1__airtoxcr_idx",
+            "items/le_l_nata__addr1__dieselpm_conc",
+            "items/le_l_nata__addr1__resphaz_idx",
+            "items/le_l_nata__addr2__airtoxcr_idx",
+            "items/le_l_nata__addr2__dieselpm_conc",
+            "items/le_l_nata__addr2__resphaz_idx",
+            "items/le_l_nata__addr3__airtoxcr_idx",
+            "items/le_l_nata__addr3__dieselpm_conc",
+            "items/le_l_nata__addr3__resphaz_idx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_nata__addr1__airtoxcr_idx",
+                "isVis": true,
+                "variableName": "le_l_nata__addr1__airtoxcr_idx"
+            },
+            {
+                "isAbout": "items/le_l_nata__addr1__dieselpm_conc",
+                "isVis": true,
+                "variableName": "le_l_nata__addr1__dieselpm_conc"
+            },
+            {
+                "isAbout": "items/le_l_nata__addr1__resphaz_idx",
+                "isVis": true,
+                "variableName": "le_l_nata__addr1__resphaz_idx"
+            },
+            {
+                "isAbout": "items/le_l_nata__addr2__airtoxcr_idx",
+                "isVis": true,
+                "variableName": "le_l_nata__addr2__airtoxcr_idx"
+            },
+            {
+                "isAbout": "items/le_l_nata__addr2__dieselpm_conc",
+                "isVis": true,
+                "variableName": "le_l_nata__addr2__dieselpm_conc"
+            },
+            {
+                "isAbout": "items/le_l_nata__addr2__resphaz_idx",
+                "isVis": true,
+                "variableName": "le_l_nata__addr2__resphaz_idx"
+            },
+            {
+                "isAbout": "items/le_l_nata__addr3__airtoxcr_idx",
+                "isVis": true,
+                "variableName": "le_l_nata__addr3__airtoxcr_idx"
+            },
+            {
+                "isAbout": "items/le_l_nata__addr3__dieselpm_conc",
+                "isVis": true,
+                "variableName": "le_l_nata__addr3__dieselpm_conc"
+            },
+            {
+                "isAbout": "items/le_l_nata__addr3__resphaz_idx",
+                "isVis": true,
+                "variableName": "le_l_nata__addr3__resphaz_idx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "1.0.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

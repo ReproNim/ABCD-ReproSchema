@@ -1,0 +1,71 @@
+{
+    "id": "nc_p_bdefs__sympt_count",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Questionnaire"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "bdefs_ss_sympt"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_p_bdefs"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_nc_p_bdefs__sympt_count.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_p_bdefs__sympt_count"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_p_bdefs_0024"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_p_bdefs"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_p_bdefs__sympt_count"
+    },
+    "question": {
+        "en": "Barkley Deficits in Executive Functioning Scale [Parent] (EF Symptom Count, number of answers of 3 or 4): Count\n[Validation: No more than 0 missing or declined]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

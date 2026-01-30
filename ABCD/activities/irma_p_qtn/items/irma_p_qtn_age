@@ -1,0 +1,67 @@
+{
+    "id": "irma_p_qtn_age",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Hurricane Irma"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Natural Disasters"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/irma.html#irma_p_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "irma_p_qtn_age"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "irma_p_qtn_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "irma_p_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "irma_p_qtn_age"
+    },
+    "question": {
+        "en": "Hurricane Irma Experiences [Parent]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "mr_y_smri__t1__gwc__fzy__04__prt__lh_wmean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Structural MRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "T1 Intensity"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Fuzzy Clustering"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_smrip202"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "smri_t1wcnt_cf4_pllh"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_smri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_smri__t1__gwc__fzy__04__prt__lh_wmean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_smri_t1_gwc_fzy_0005"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_smri__t1__gwc__fzy"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_smri__t1__gwc__fzy__04__prt__lh_wmean"
+    },
+    "question": {
+        "en": "Weighted average T1-weighted intensity (gray/white contrast) in genetically derived parcellation with 4 clusters: parietal (left hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}
