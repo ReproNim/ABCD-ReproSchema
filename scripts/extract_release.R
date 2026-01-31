@@ -16,6 +16,15 @@ rda_path <- args[1]
 release_version <- args[2]
 output_csv <- args[3]
 
+# Load tibble package BEFORE loading the RDA file
+# This is required for proper reconstruction of tibble objects from serialized format
+if (requireNamespace("tibble", quietly = TRUE)) {
+  library(tibble)
+  cat("Loaded tibble package for proper tibble reconstruction\n")
+} else {
+  cat("WARNING: tibble package not available - tibble columns may not load correctly\n")
+}
+
 cat(sprintf("Loading: %s\n", rda_path))
 load(rda_path)
 
@@ -143,5 +152,13 @@ if (output_dir != "." && !dir.exists(output_dir)) {
 # Write to CSV
 cat(sprintf("Writing to: %s\n", output_csv))
 write.csv(release_data, output_csv, row.names = FALSE)
+
+# Verify the name column has data
+name_col <- release_data[["name"]]
+non_empty_names <- sum(!is.na(name_col) & nchar(as.character(name_col)) > 0)
+cat(sprintf("Name column: %d non-empty values out of %d\n", non_empty_names, length(name_col)))
+if (non_empty_names > 0) {
+  cat(sprintf("Sample names: %s\n", paste(head(name_col[!is.na(name_col)], 3), collapse=", ")))
+}
 
 cat(sprintf("Done! Extracted %d rows, %d columns\n", nrow(release_data), ncol(release_data)))
