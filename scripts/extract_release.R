@@ -52,6 +52,21 @@ release_data <- abcd_data[[release_key]]
 # Check what type of data we have
 cat(sprintf("Data type: %s\n", class(release_data)))
 
+# Debug: Print structure info
+cat(sprintf("Structure overview:\n"))
+cat(sprintf("  - Length: %d\n", length(release_data)))
+cat(sprintf("  - Names: %s\n", paste(head(names(release_data), 10), collapse = ", ")))
+if (is.data.frame(release_data)) {
+  cat(sprintf("  - Dim: %d x %d\n", nrow(release_data), ncol(release_data)))
+  # Check first few column types
+  for (i in seq_len(min(5, ncol(release_data)))) {
+    col_name <- names(release_data)[i]
+    col_class <- class(release_data[[col_name]])
+    col_len <- length(release_data[[col_name]])
+    cat(sprintf("  - Col '%s': class=%s, len=%d\n", col_name, paste(col_class, collapse="/"), col_len))
+  }
+}
+
 # If it's a list, try to find the data dictionary
 if (is.list(release_data) && !is.data.frame(release_data)) {
   cat(sprintf("Release contains: %s\n", paste(names(release_data), collapse = ", ")))
@@ -70,9 +85,8 @@ if (!is.data.frame(release_data)) {
   quit(status = 1)
 }
 
-# Force conversion to plain data.frame to handle tibble quirks
-# Use as.data.frame on the unclassed object to get raw structure
-release_data <- as.data.frame(unclass(release_data), stringsAsFactors = FALSE)
+# Convert to plain data.frame
+release_data <- as.data.frame(release_data, stringsAsFactors = FALSE)
 
 # Diagnose structure
 cat(sprintf("Dimensions: %d rows x %d cols\n", nrow(release_data), ncol(release_data)))
