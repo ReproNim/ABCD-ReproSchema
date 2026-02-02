@@ -40,6 +40,9 @@ jobs:
           repository: nbdc-datahub/NBDCtoolsData
           path: NBDCtoolsData
 
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends cmake
+
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
         with:
@@ -49,6 +52,8 @@ jobs:
 
       - name: Install R packages
         run: |
+          # Install arrow first (requires cmake, takes ~5 min to compile)
+          Rscript -e 'install.packages("arrow", repos="https://cloud.r-project.org")'
           Rscript -e 'install.packages(c("tibble", "vctrs", "dplyr"), repos="https://cloud.r-project.org")'
 
       - name: Set up Python
