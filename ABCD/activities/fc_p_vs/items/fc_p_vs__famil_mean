@@ -1,0 +1,66 @@
+{
+    "id": "fc_p_vs__famil_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Culture"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_p_vs"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_fc_p_vs__famil_mean.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_p_vs__famil_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_p_vs_0042"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_p_vs"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_p_vs__famil_mean"
+    },
+    "question": {
+        "en": "Values Scale [Parent] (Familism): Mean (Subscales: supp, ref, obl)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

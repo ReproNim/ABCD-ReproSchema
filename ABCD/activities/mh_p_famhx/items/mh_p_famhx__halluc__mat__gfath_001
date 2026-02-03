@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_famhx_1172"
+            "value": "mh_p_famhx_1168"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "mh_p_famhx__halluc__mat__gfath_001"
     },
     "question": {
-        "en": "Hallucinations - Maternal grandfather"
+        "en": "Hallucinations/Delusions - Maternal grandfather"
     },
     "responseOptions": {
         "valueType": [

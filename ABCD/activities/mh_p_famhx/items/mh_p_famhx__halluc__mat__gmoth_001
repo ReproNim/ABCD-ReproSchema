@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_famhx_1173"
+            "value": "mh_p_famhx_1169"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "mh_p_famhx__halluc__mat__gmoth_001"
     },
     "question": {
-        "en": "Hallucinations - Maternal grandmother"
+        "en": "Hallucinations/Delusions - Maternal grandmother"
     },
     "responseOptions": {
         "valueType": [

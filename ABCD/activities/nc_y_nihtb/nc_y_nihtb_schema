@@ -18,8 +18,6 @@
             "items/nc_y_nihtb__comp__cryst__raw_score",
             "items/nc_y_nihtb__comp__cryst__uncor_score",
             "items/nc_y_nihtb__comp__cryst_theta",
-            "items/nc_y_nihtb__comp__fluid_dtt",
-            "items/nc_y_nihtb__comp__fluid_age",
             "items/nc_y_nihtb__comp__fluid_ver",
             "items/nc_y_nihtb__comp__fluid__agecorr_score",
             "items/nc_y_nihtb__comp__fluid__computed_score",
@@ -28,8 +26,6 @@
             "items/nc_y_nihtb__comp__fluid__raw_score",
             "items/nc_y_nihtb__comp__fluid__uncor_score",
             "items/nc_y_nihtb__comp__fluid_theta",
-            "items/nc_y_nihtb__comp__tot_dtt",
-            "items/nc_y_nihtb__comp__tot_age",
             "items/nc_y_nihtb__comp__tot_ver",
             "items/nc_y_nihtb__comp__tot__agecor_score",
             "items/nc_y_nihtb__comp__tot__computed_score",
@@ -228,16 +224,6 @@
                 "variableName": "nc_y_nihtb__comp__cryst_theta"
             },
             {
-                "isAbout": "items/nc_y_nihtb__comp__fluid_dtt",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__fluid_dtt"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__comp__fluid_age",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__fluid_age"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__comp__fluid_ver",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__comp__fluid_ver"
@@ -276,16 +262,6 @@
                 "isAbout": "items/nc_y_nihtb__comp__fluid_theta",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__comp__fluid_theta"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__comp__tot_dtt",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__tot_dtt"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__comp__tot_age",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__tot_age"
             },
             {
                 "isAbout": "items/nc_y_nihtb__comp__tot_ver",

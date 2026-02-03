@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_famhx_1146"
+            "value": "mh_p_famhx_1142"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "mh_p_famhx__halluc__fath_001"
     },
     "question": {
-        "en": "Hallucinations - Biological father"
+        "en": "Hallucinations/Delusions - Biological father"
     },
     "responseOptions": {
         "valueType": [

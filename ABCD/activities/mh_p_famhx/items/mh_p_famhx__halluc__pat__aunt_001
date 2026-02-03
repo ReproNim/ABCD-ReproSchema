@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_famhx_1180"
+            "value": "mh_p_famhx_1176"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "mh_p_famhx__halluc__pat__aunt_001"
     },
     "question": {
-        "en": "Hallucinations - Paternal aunt (1)"
+        "en": "Hallucinations/Delusions - Paternal aunt (1)"
     },
     "responseOptions": {
         "valueType": [

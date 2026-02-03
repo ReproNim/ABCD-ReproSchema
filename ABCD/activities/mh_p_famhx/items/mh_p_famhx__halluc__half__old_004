@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_famhx_1160"
+            "value": "mh_p_famhx_1156"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "mh_p_famhx__halluc__half__old_004"
     },
     "question": {
-        "en": "Hallucinations - Half sibling-older (4)"
+        "en": "Hallucinations/Delusions - Half sibling-older (4)"
     },
     "responseOptions": {
         "valueType": [

@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_oftox_0040"
+            "value": "su_y_oftox_0030"
         },
         {
             "column": "activity",

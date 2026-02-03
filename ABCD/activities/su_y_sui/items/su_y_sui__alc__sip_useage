@@ -33,11 +33,6 @@
             "value": "isip_1d_l |"
         },
         {
-            "column": "name_redcap",
-            "source": "nbdc",
-            "value": "isip_1d_l"
-        },
-        {
             "column": "url_table",
             "source": "nbdc",
             "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_sui"
@@ -50,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_sui_0191"
+            "value": "su_y_sui_0183"
         },
         {
             "column": "activity",

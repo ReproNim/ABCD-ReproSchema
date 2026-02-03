@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_famhx_1194"
+            "value": "mh_p_famhx_1189"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "mh_p_famhx__halluc__twin_002"
     },
     "question": {
-        "en": "Hallucinations - Full sibling-same age (2)"
+        "en": "Hallucinations/Delusions - Full sibling-same age (2)"
     },
     "responseOptions": {
         "valueType": [

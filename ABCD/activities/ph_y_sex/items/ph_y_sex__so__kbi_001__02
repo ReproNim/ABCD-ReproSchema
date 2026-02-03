@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_y_sex_0077"
+            "value": "ph_y_sex_0073"
         },
         {
             "column": "activity",

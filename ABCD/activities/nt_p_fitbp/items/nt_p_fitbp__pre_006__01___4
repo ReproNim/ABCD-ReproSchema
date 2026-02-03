@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "nt_p_fitbp_0028"
+            "value": "nt_p_fitbp_0026"
         },
         {
             "column": "activity",
