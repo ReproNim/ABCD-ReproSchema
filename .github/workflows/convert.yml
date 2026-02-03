@@ -30,7 +30,7 @@ jobs:
     env:
       # Support both manual (workflow_dispatch) and automated (repository_dispatch) triggers
       RELEASE_VERSION: ${{ inputs.release || github.event.client_payload.release }}
-      CREATE_TAG: ${{ inputs.create_tag != false && github.event.client_payload.create_tag != false }}
+      CREATE_TAG: ${{ inputs.create_tag == true || github.event.client_payload.create_tag == true }}
     steps:
       - uses: actions/checkout@v4
 
@@ -71,7 +71,7 @@ jobs:
           python scripts/convert.py --release ${{ env.RELEASE_VERSION }}
 
       - name: Commit and tag
-        if: env.CREATE_TAG == 'true'
+        if: env.CREATE_TAG
         run: |
           git config user.name 'github-actions'
           git config user.email 'actions@github.com'
