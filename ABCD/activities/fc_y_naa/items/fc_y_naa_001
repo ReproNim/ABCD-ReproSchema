@@ -1,0 +1,71 @@
+{
+    "id": "fc_y_naa_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Culture"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_native_american_acculturation"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "y_naa_pride | y_naa_pride_6yr"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_y_naa"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_naa_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_naa_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_naa"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_naa_001"
+    },
+    "question": {
+        "en": "How much pride do you have in Native American culture and heritage?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

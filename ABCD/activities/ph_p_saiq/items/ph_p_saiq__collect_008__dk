@@ -1,0 +1,61 @@
+{
+    "id": "ph_p_saiq__collect_008__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Physical Activity"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_saiq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_saiq__collect_008__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_saiq_0219"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_saiq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_saiq__collect_008__dk"
+    },
+    "question": {
+        "en": "Hobbies like collecting stamps or coins: For how many years did your child participate in this activity? [Non-response] [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

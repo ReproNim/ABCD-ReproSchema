@@ -1,0 +1,67 @@
+{
+    "id": "su_y_lowuse_age",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Patterns"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_lowuse"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_lowuse_age"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_lowuse_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_lowuse"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_lowuse_age"
+    },
+    "question": {
+        "en": "Low Level Use Questionnaire [Youth]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

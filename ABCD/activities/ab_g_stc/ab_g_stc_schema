@@ -1,0 +1,311 @@
+{
+    "id": "ab_g_stc_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ab_g_stc"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ab_g_stc__design_id__fam",
+            "items/ab_g_stc__design_id__fam__gen",
+            "items/ab_g_stc__design_id__birth",
+            "items/ab_g_stc__design_id__birth__gen",
+            "items/ab_g_stc__design_famrel",
+            "items/ab_g_stc__design_id__group",
+            "items/ab_g_stc__design_id__grouporder",
+            "items/ab_g_stc__design_sstwin",
+            "items/ab_g_stc__cohort_dob",
+            "items/ab_g_stc__cohort_ethn",
+            "items/ab_g_stc__cohort_ethnrace__leg",
+            "items/ab_g_stc__cohort_ethnrace__mblack",
+            "items/ab_g_stc__cohort_ethnrace__meim",
+            "items/ab_g_stc__cohort_ethnrace__mhisp",
+            "items/ab_g_stc__cohort_race__nih",
+            "items/ab_g_stc__cohort_sex",
+            "items/ab_g_stc__cohort_acsps",
+            "items/ab_g_stc__gen_pc__01",
+            "items/ab_g_stc__gen_pc__02",
+            "items/ab_g_stc__gen_pc__03",
+            "items/ab_g_stc__gen_pc__04",
+            "items/ab_g_stc__gen_pc__05",
+            "items/ab_g_stc__gen_pc__06",
+            "items/ab_g_stc__gen_pc__07",
+            "items/ab_g_stc__gen_pc__08",
+            "items/ab_g_stc__gen_pc__09",
+            "items/ab_g_stc__gen_pc__10",
+            "items/ab_g_stc__gen_pc__11",
+            "items/ab_g_stc__gen_pc__12",
+            "items/ab_g_stc__gen_pc__13",
+            "items/ab_g_stc__gen_pc__14",
+            "items/ab_g_stc__gen_pc__15",
+            "items/ab_g_stc__gen_pc__16",
+            "items/ab_g_stc__gen_pc__17",
+            "items/ab_g_stc__gen_pc__18",
+            "items/ab_g_stc__gen_pc__19",
+            "items/ab_g_stc__gen_pc__20",
+            "items/ab_g_stc__gen_pc__21",
+            "items/ab_g_stc__gen_pc__22",
+            "items/ab_g_stc__gen_pc__23",
+            "items/ab_g_stc__gen_pc__24",
+            "items/ab_g_stc__gen_pc__25",
+            "items/ab_g_stc__gen_pc__26",
+            "items/ab_g_stc__gen_pc__27",
+            "items/ab_g_stc__gen_pc__28",
+            "items/ab_g_stc__gen_pc__29",
+            "items/ab_g_stc__gen_pc__30",
+            "items/ab_g_stc__gen_pc__31",
+            "items/ab_g_stc__gen_pc__32"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ab_g_stc__design_id__fam",
+                "isVis": true,
+                "variableName": "ab_g_stc__design_id__fam"
+            },
+            {
+                "isAbout": "items/ab_g_stc__design_id__fam__gen",
+                "isVis": true,
+                "variableName": "ab_g_stc__design_id__fam__gen"
+            },
+            {
+                "isAbout": "items/ab_g_stc__design_id__birth",
+                "isVis": true,
+                "variableName": "ab_g_stc__design_id__birth"
+            },
+            {
+                "isAbout": "items/ab_g_stc__design_id__birth__gen",
+                "isVis": true,
+                "variableName": "ab_g_stc__design_id__birth__gen"
+            },
+            {
+                "isAbout": "items/ab_g_stc__design_famrel",
+                "isVis": true,
+                "variableName": "ab_g_stc__design_famrel"
+            },
+            {
+                "isAbout": "items/ab_g_stc__design_id__group",
+                "isVis": true,
+                "variableName": "ab_g_stc__design_id__group"
+            },
+            {
+                "isAbout": "items/ab_g_stc__design_id__grouporder",
+                "isVis": true,
+                "variableName": "ab_g_stc__design_id__grouporder"
+            },
+            {
+                "isAbout": "items/ab_g_stc__design_sstwin",
+                "isVis": true,
+                "variableName": "ab_g_stc__design_sstwin"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_dob",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_dob"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethn",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethn"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__leg",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__leg"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__mblack",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__mblack"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__meim",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__meim"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__mhisp",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__mhisp"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_race__nih",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_race__nih"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_sex",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_sex"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_acsps",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_acsps"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__01",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__01"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__02",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__02"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__03",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__03"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__04",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__04"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__05",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__05"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__06",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__06"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__07",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__07"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__08",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__08"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__09",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__09"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__10",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__10"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__11",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__11"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__12",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__12"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__13",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__13"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__14",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__14"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__15",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__15"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__16",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__16"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__17",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__17"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__18",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__18"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__19",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__19"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__20",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__20"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__21",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__21"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__22",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__22"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__23",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__23"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__24",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__24"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__25",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__25"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__26",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__26"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__27",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__27"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__28",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__28"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__29",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__29"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__30",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__30"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__31",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__31"
+            },
+            {
+                "isAbout": "items/ab_g_stc__gen_pc__32",
+                "isVis": true,
+                "variableName": "ab_g_stc__gen_pc__32"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "fc_p_nsc__pol_005a",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Community"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_neighborhood_safety_crime"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "neighb_po_stopped_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_p_nsc"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_p_nsc__pol_005a"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_p_nsc_0017"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_p_nsc"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_p_nsc__pol_005a"
+    },
+    "question": {
+        "en": "Have you ever been stopped by a police officer for no clear reason? [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

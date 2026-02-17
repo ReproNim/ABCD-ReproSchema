@@ -1,0 +1,67 @@
+{
+    "id": "ab_g_dyn__design_site",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Standard Variables"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "General"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "site_id_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_g_dyn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_g_dyn__design_site"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_g_dyn_0013"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_g_dyn"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_g_dyn__design_site"
+    },
+    "question": {
+        "en": "Design/nesting: Assessment site"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

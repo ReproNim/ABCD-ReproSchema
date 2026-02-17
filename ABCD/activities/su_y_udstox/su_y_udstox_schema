@@ -1,0 +1,689 @@
+{
+    "id": "su_y_udstox_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_udstox"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_udstox__coll_compl",
+            "items/su_y_udstox__coll__r01_dtt",
+            "items/su_y_udstox__coll__r01_age",
+            "items/su_y_udstox__coll__r01_complrsn",
+            "items/su_y_udstox__coll__r01_complrsn__01",
+            "items/su_y_udstox__coll__icup__r01_complrsn",
+            "items/su_y_udstox__coll__nic__r01_complrsn",
+            "items/su_y_udstox__coll__r01_001",
+            "items/su_y_udstox__coll__r01_002",
+            "items/su_y_udstox__coll__r01_003",
+            "items/su_y_udstox__coll__r01_004",
+            "items/su_y_udstox__coll__r01_005",
+            "items/su_y_udstox__coll__r01_006",
+            "items/su_y_udstox__coll__r02_dtt",
+            "items/su_y_udstox__coll__r02_age",
+            "items/su_y_udstox__coll__r02_compl",
+            "items/su_y_udstox__coll__r02_complrsn",
+            "items/su_y_udstox__coll__r02_complrsn__01",
+            "items/su_y_udstox__coll__icup__r02_complrsn",
+            "items/su_y_udstox__coll__nic__r02_complrsn",
+            "items/su_y_udstox__coll__r02_001",
+            "items/su_y_udstox__coll__r02_002",
+            "items/su_y_udstox__coll__r02_003",
+            "items/su_y_udstox__coll__r02_004",
+            "items/su_y_udstox__coll__r02_005",
+            "items/su_y_udstox__coll__r02_006",
+            "items/su_y_udstox__coll__r03_dtt",
+            "items/su_y_udstox__coll__r03_age",
+            "items/su_y_udstox__coll__r03_compl",
+            "items/su_y_udstox__coll__r03_complrsn",
+            "items/su_y_udstox__coll__r03_complrsn__01",
+            "items/su_y_udstox__coll__icup__r03_complrsn",
+            "items/su_y_udstox__coll__nic__r03_complrsn",
+            "items/su_y_udstox__coll__r03_001",
+            "items/su_y_udstox__coll__r03_002",
+            "items/su_y_udstox__coll__r03_003",
+            "items/su_y_udstox__coll__r03_004",
+            "items/su_y_udstox__coll__r03_005",
+            "items/su_y_udstox__coll__r03_006",
+            "items/su_y_udstox__coll__r04_dtt",
+            "items/su_y_udstox__coll__r04_age",
+            "items/su_y_udstox__coll__r04_compl",
+            "items/su_y_udstox__coll__r04_complrsn",
+            "items/su_y_udstox__coll__r04_complrsn__01",
+            "items/su_y_udstox__coll__icup__r04_complrsn",
+            "items/su_y_udstox__coll__nic__r04_complrsn",
+            "items/su_y_udstox__coll__r04_001",
+            "items/su_y_udstox__coll__r04_002",
+            "items/su_y_udstox__coll__r04_003",
+            "items/su_y_udstox__coll__r04_004",
+            "items/su_y_udstox__coll__r04_005",
+            "items/su_y_udstox__coll__r04_006",
+            "items/su_y_udstox__rslt__amp__r01_001",
+            "items/su_y_udstox__rslt__amp__r02_001",
+            "items/su_y_udstox__rslt__amp__r03_001",
+            "items/su_y_udstox__rslt__amp__r04_001",
+            "items/su_y_udstox__rslt__bar__r01_001",
+            "items/su_y_udstox__rslt__bar__r02_001",
+            "items/su_y_udstox__rslt__bar__r03_001",
+            "items/su_y_udstox__rslt__bar__r04_001",
+            "items/su_y_udstox__rslt__bzo__r01_001",
+            "items/su_y_udstox__rslt__bzo__r02_001",
+            "items/su_y_udstox__rslt__bzo__r03_001",
+            "items/su_y_udstox__rslt__bzo__r04_001",
+            "items/su_y_udstox__rslt__coc__r01_001",
+            "items/su_y_udstox__rslt__coc__r02_001",
+            "items/su_y_udstox__rslt__coc__r03_001",
+            "items/su_y_udstox__rslt__coc__r04_001",
+            "items/su_y_udstox__rslt__icup__r01_dtt",
+            "items/su_y_udstox__rslt__icup__r02_dtt",
+            "items/su_y_udstox__rslt__icup__r03_dtt",
+            "items/su_y_udstox__rslt__icup__r04_dtt",
+            "items/su_y_udstox__rslt__meth__r01_001",
+            "items/su_y_udstox__rslt__meth__r02_001",
+            "items/su_y_udstox__rslt__meth__r03_001",
+            "items/su_y_udstox__rslt__meth__r04_001",
+            "items/su_y_udstox__rslt__mj__r01_001",
+            "items/su_y_udstox__rslt__mj__r02_001",
+            "items/su_y_udstox__rslt__mj__r03_001",
+            "items/su_y_udstox__rslt__mj__r04_001",
+            "items/su_y_udstox__rslt__mtd__r01_001",
+            "items/su_y_udstox__rslt__mtd__r02_001",
+            "items/su_y_udstox__rslt__mtd__r03_001",
+            "items/su_y_udstox__rslt__mtd__r04_001",
+            "items/su_y_udstox__rslt__nic__r01_001",
+            "items/su_y_udstox__rslt__nic__r01_dtt",
+            "items/su_y_udstox__rslt__nic__r02_001",
+            "items/su_y_udstox__rslt__nic__r02_dtt",
+            "items/su_y_udstox__rslt__nic__r03_001",
+            "items/su_y_udstox__rslt__nic__r03_dtt",
+            "items/su_y_udstox__rslt__nic__r04_001",
+            "items/su_y_udstox__rslt__nic__r04_dtt",
+            "items/su_y_udstox__rslt__oc__r01_001",
+            "items/su_y_udstox__rslt__oc__r02_001",
+            "items/su_y_udstox__rslt__oc__r03_001",
+            "items/su_y_udstox__rslt__oc__r04_001",
+            "items/su_y_udstox__rslt__opi__r01_001",
+            "items/su_y_udstox__rslt__opi__r02_001",
+            "items/su_y_udstox__rslt__opi__r03_001",
+            "items/su_y_udstox__rslt__opi__r04_001",
+            "items/su_y_udstox__rslt__pcp__r01_001",
+            "items/su_y_udstox__rslt__pcp__r02_001",
+            "items/su_y_udstox__rslt__pcp__r03_001",
+            "items/su_y_udstox__rslt__pcp__r04_001",
+            "items/su_y_udstox__rslt__ppx__r01_001",
+            "items/su_y_udstox__rslt__ppx__r02_001",
+            "items/su_y_udstox__rslt__ppx__r03_001",
+            "items/su_y_udstox__rslt__ppx__r04_001",
+            "items/su_y_udstox__rslt__tca__r01_001",
+            "items/su_y_udstox__rslt__tca__r02_001",
+            "items/su_y_udstox__rslt__tca__r03_001",
+            "items/su_y_udstox__rslt__tca__r04_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_udstox__coll_compl",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll_compl"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_age",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_age"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_complrsn__01",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_complrsn__01"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__icup__r01_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__icup__r01_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__nic__r01_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__nic__r01_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_002",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_002"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_003",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_003"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_004",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_004"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_005",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_005"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r01_006",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r01_006"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_age",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_age"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_compl",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_compl"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_complrsn__01",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_complrsn__01"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__icup__r02_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__icup__r02_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__nic__r02_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__nic__r02_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_002",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_002"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_003",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_003"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_004",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_004"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_005",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_005"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r02_006",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r02_006"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_age",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_age"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_compl",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_compl"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_complrsn__01",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_complrsn__01"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__icup__r03_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__icup__r03_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__nic__r03_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__nic__r03_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_002",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_002"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_003",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_003"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_004",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_004"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_005",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_005"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r03_006",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r03_006"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_age",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_age"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_compl",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_compl"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_complrsn__01",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_complrsn__01"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__icup__r04_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__icup__r04_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__nic__r04_complrsn",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__nic__r04_complrsn"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_002",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_002"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_003",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_003"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_004",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_004"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_005",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_005"
+            },
+            {
+                "isAbout": "items/su_y_udstox__coll__r04_006",
+                "isVis": true,
+                "variableName": "su_y_udstox__coll__r04_006"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__amp__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__amp__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__amp__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__amp__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__amp__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__amp__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__amp__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__amp__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__bar__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__bar__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__bar__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__bar__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__bar__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__bar__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__bar__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__bar__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__bzo__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__bzo__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__bzo__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__bzo__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__bzo__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__bzo__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__bzo__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__bzo__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__coc__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__coc__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__coc__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__coc__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__coc__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__coc__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__coc__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__coc__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__icup__r01_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__icup__r01_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__icup__r02_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__icup__r02_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__icup__r03_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__icup__r03_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__icup__r04_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__icup__r04_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__meth__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__meth__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__meth__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__meth__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__meth__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__meth__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__meth__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__meth__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__mj__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__mj__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__mj__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__mj__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__mj__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__mj__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__mj__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__mj__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__mtd__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__mtd__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__mtd__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__mtd__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__mtd__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__mtd__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__mtd__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__mtd__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__nic__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__nic__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__nic__r01_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__nic__r01_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__nic__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__nic__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__nic__r02_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__nic__r02_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__nic__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__nic__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__nic__r03_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__nic__r03_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__nic__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__nic__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__nic__r04_dtt",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__nic__r04_dtt"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__oc__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__oc__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__oc__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__oc__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__oc__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__oc__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__oc__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__oc__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__opi__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__opi__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__opi__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__opi__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__opi__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__opi__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__opi__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__opi__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__pcp__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__pcp__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__pcp__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__pcp__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__pcp__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__pcp__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__pcp__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__pcp__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__ppx__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__ppx__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__ppx__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__ppx__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__ppx__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__ppx__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__ppx__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__ppx__r04_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__tca__r01_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__tca__r01_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__tca__r02_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__tca__r02_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__tca__r03_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__tca__r03_001"
+            },
+            {
+                "isAbout": "items/su_y_udstox__rslt__tca__r04_001",
+                "isVis": true,
+                "variableName": "su_y_udstox__rslt__tca__r04_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

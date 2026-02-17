@@ -1,0 +1,71 @@
+{
+    "id": "ph_y_bld__rslt__rdw_prcnt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Biospecimens"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ybd01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "biospec_blood_rdw"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_bld"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_bld__rslt__rdw_prcnt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_bld_0057"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_bld"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_bld__rslt__rdw_prcnt"
+    },
+    "question": {
+        "en": "RDW %"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

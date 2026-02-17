@@ -1,0 +1,72 @@
+{
+    "id": "ph_p_pds_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Puberty"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "pubertal_development_scale_pdsmenstrual_historypar"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "pds_start_time_p | pubertal_development_scale_pdsmenstrual_historypar_start_time"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_pds"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_pds_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_pds_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_pds"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_pds_dtt"
+    },
+    "question": {
+        "en": "Pubertal Development Scale & Menstrual Cycle Survey History [Parent]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

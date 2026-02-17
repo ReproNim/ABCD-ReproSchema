@@ -1,0 +1,71 @@
+{
+    "id": "nt_y_fitbp__post_026__01___3",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Actigraphy"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_fitbit_followup"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fitf_s6_q5a_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_fitbp"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_fitbp__post_026__01___3"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_fitbp_0055"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_fitbp"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_fitbp__post_026__01___3"
+    },
+    "question": {
+        "en": "Who of your family or friends bought a Fitbit or other activity tracker since you started wearing one? [Multi-select]: Grandparent(s) [Pilot; Post-survey]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

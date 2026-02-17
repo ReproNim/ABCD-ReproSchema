@@ -1,0 +1,62 @@
+{
+    "id": "mr_y_qc__raw__tfmri__sst__snr__brain__comp_med",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Quality Control"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_qc.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_qc__raw__tfmri__sst__snr__brain__comp_med"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_qc_raw_tfmri_sst_0296"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_qc__raw__tfmri__sst"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_qc__raw__tfmri__sst__snr__brain__comp_med"
+    },
+    "question": {
+        "en": "Task fMRI - Stop Signal Task: Median temporal signal to noise ratio within brain of all complete and compliant scans"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

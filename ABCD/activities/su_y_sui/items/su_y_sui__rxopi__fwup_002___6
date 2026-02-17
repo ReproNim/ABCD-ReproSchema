@@ -1,0 +1,71 @@
+{
+    "id": "su_y_sui__rxopi__fwup_002___6",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Patterns"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_substance_introduction_and_use_patterns_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "tlfb_6mo_opioid_route"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_sui"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_sui__rxopi__fwup_002___6"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_sui_0688"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_sui"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_sui__rxopi__fwup_002___6"
+    },
+    "question": {
+        "en": "What way(s) did you use or take prescription opioid pain relievers since we last saw you? [Multi-select]: Injecting intravenous (into vein)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

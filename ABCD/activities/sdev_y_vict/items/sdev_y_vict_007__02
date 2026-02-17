@@ -1,0 +1,91 @@
+{
+    "id": "sdev_y_vict_007__02",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "Enter age"
+        },
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Victimization"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_socdev_child_vic01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_child_victimization"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "socialdev_cvict_c7_b_y"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_cvict_c7_b_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/sdev.html#sdev_y_vict"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_vict_007__02"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_vict_0235"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_vict"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_vict_007__02"
+    },
+    "question": {
+        "en": "Threatened assault: How old were you the first time this happened? [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

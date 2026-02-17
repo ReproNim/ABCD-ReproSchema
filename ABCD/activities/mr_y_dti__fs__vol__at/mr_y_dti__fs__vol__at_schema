@@ -1,0 +1,269 @@
+{
+    "id": "mr_y_dti__fs__vol__at_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_dti__fs__vol__at"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_dti__fs__vol__at__atr__lh_sum",
+            "items/mr_y_dti__fs__vol__at__cgc__lh_sum",
+            "items/mr_y_dti__fs__vol__at__cgh__lh_sum",
+            "items/mr_y_dti__fs__vol__at__cst__lh_sum",
+            "items/mr_y_dti__fs__vol__at__fscs__lh_sum",
+            "items/mr_y_dti__fs__vol__at__fx__lh_sum",
+            "items/mr_y_dti__fs__vol__at__fxcut__lh_sum",
+            "items/mr_y_dti__fs__vol__at__ifo__lh_sum",
+            "items/mr_y_dti__fs__vol__at__ifsfc__lh_sum",
+            "items/mr_y_dti__fs__vol__at__ilf__lh_sum",
+            "items/mr_y_dti__fs__vol__at__pscs__lh_sum",
+            "items/mr_y_dti__fs__vol__at__pslf__lh_sum",
+            "items/mr_y_dti__fs__vol__at__scs__lh_sum",
+            "items/mr_y_dti__fs__vol__at__sifc__lh_sum",
+            "items/mr_y_dti__fs__vol__at__slf__lh_sum",
+            "items/mr_y_dti__fs__vol__at__tslf__lh_sum",
+            "items/mr_y_dti__fs__vol__at__unc__lh_sum",
+            "items/mr_y_dti__fs__vol__at__atr__rh_sum",
+            "items/mr_y_dti__fs__vol__at__cgc__rh_sum",
+            "items/mr_y_dti__fs__vol__at__cgh__rh_sum",
+            "items/mr_y_dti__fs__vol__at__cst__rh_sum",
+            "items/mr_y_dti__fs__vol__at__fscs__rh_sum",
+            "items/mr_y_dti__fs__vol__at__fx__rh_sum",
+            "items/mr_y_dti__fs__vol__at__fxcut__rh_sum",
+            "items/mr_y_dti__fs__vol__at__ifo__rh_sum",
+            "items/mr_y_dti__fs__vol__at__ifsfc__rh_sum",
+            "items/mr_y_dti__fs__vol__at__ilf__rh_sum",
+            "items/mr_y_dti__fs__vol__at__pscs__rh_sum",
+            "items/mr_y_dti__fs__vol__at__pslf__rh_sum",
+            "items/mr_y_dti__fs__vol__at__scs__rh_sum",
+            "items/mr_y_dti__fs__vol__at__sifc__rh_sum",
+            "items/mr_y_dti__fs__vol__at__slf__rh_sum",
+            "items/mr_y_dti__fs__vol__at__tslf__rh_sum",
+            "items/mr_y_dti__fs__vol__at__unc__rh_sum",
+            "items/mr_y_dti__fs__vol__at__cc_sum",
+            "items/mr_y_dti__fs__vol__at__fmaj_sum",
+            "items/mr_y_dti__fs__vol__at__fmin_sum",
+            "items/mr_y_dti__fs__vol__at__lh_sum",
+            "items/mr_y_dti__fs__vol__at__rh_sum",
+            "items/mr_y_dti__fs__vol__at__nocc__lh_sum",
+            "items/mr_y_dti__fs__vol__at__nocc__rh_sum",
+            "items/mr_y_dti__fs__vol__at_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__atr__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__atr__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__cgc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__cgc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__cgh__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__cgh__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__cst__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__cst__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__fscs__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__fscs__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__fx__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__fx__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__fxcut__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__fxcut__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__ifo__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__ifo__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__ifsfc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__ifsfc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__ilf__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__ilf__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__pscs__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__pscs__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__pslf__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__pslf__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__scs__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__scs__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__sifc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__sifc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__slf__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__slf__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__tslf__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__tslf__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__unc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__unc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__atr__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__atr__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__cgc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__cgc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__cgh__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__cgh__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__cst__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__cst__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__fscs__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__fscs__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__fx__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__fx__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__fxcut__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__fxcut__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__ifo__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__ifo__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__ifsfc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__ifsfc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__ilf__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__ilf__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__pscs__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__pscs__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__pslf__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__pslf__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__scs__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__scs__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__sifc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__sifc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__slf__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__slf__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__tslf__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__tslf__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__unc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__unc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__cc_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__cc_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__fmaj_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__fmaj_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__fmin_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__fmin_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__nocc__lh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__nocc__lh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at__nocc__rh_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at__nocc__rh_sum"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__vol__at_sum",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__vol__at_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

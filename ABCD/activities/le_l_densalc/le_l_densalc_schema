@@ -1,0 +1,35 @@
+{
+    "id": "le_l_densalc_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_densalc"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_densalc__addr1__alc_density__2016",
+            "items/le_l_densalc__addr2__alc_density__2016",
+            "items/le_l_densalc__addr3__alc_density__2016"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_densalc__addr1__alc_density__2016",
+                "isVis": true,
+                "variableName": "le_l_densalc__addr1__alc_density__2016"
+            },
+            {
+                "isAbout": "items/le_l_densalc__addr2__alc_density__2016",
+                "isVis": true,
+                "variableName": "le_l_densalc__addr2__alc_density__2016"
+            },
+            {
+                "isAbout": "items/le_l_densalc__addr3__alc_density__2016",
+                "isVis": true,
+                "variableName": "le_l_densalc__addr3__alc_density__2016"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

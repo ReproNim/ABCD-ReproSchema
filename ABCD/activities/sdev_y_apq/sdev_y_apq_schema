@@ -1,0 +1,677 @@
+{
+    "id": "sdev_y_apq_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "sdev_y_apq"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/sdev_y_apq_dt",
+            "items/sdev_y_apq_age",
+            "items/sdev_y_apq__cg1_001",
+            "items/sdev_y_apq__cg1_001__l",
+            "items/sdev_y_apq__cg2_000",
+            "items/sdev_y_apq__cg2_000__l",
+            "items/sdev_y_apq__cg2_001",
+            "items/sdev_y_apq__cg2_001__l",
+            "items/sdev_y_apq_001",
+            "items/sdev_y_apq_001__l",
+            "items/sdev_y_apq_001__01",
+            "items/sdev_y_apq_001__01__l",
+            "items/sdev_y_apq_002",
+            "items/sdev_y_apq_002__l",
+            "items/sdev_y_apq_003",
+            "items/sdev_y_apq_003__l",
+            "items/sdev_y_apq_004",
+            "items/sdev_y_apq_004__l",
+            "items/sdev_y_apq_004__01",
+            "items/sdev_y_apq_004__01__l",
+            "items/sdev_y_apq_005",
+            "items/sdev_y_apq_005__l",
+            "items/sdev_y_apq_006",
+            "items/sdev_y_apq_006__l",
+            "items/sdev_y_apq_007",
+            "items/sdev_y_apq_007__l",
+            "items/sdev_y_apq_007__01",
+            "items/sdev_y_apq_007__01__l",
+            "items/sdev_y_apq_008",
+            "items/sdev_y_apq_008__l",
+            "items/sdev_y_apq_009",
+            "items/sdev_y_apq_009__l",
+            "items/sdev_y_apq_009__01",
+            "items/sdev_y_apq_009__01__l",
+            "items/sdev_y_apq_010",
+            "items/sdev_y_apq_010__l",
+            "items/sdev_y_apq_011",
+            "items/sdev_y_apq_011__l",
+            "items/sdev_y_apq_011__01",
+            "items/sdev_y_apq_011__01__l",
+            "items/sdev_y_apq_012",
+            "items/sdev_y_apq_012__l",
+            "items/sdev_y_apq_013",
+            "items/sdev_y_apq_013__l",
+            "items/sdev_y_apq_014",
+            "items/sdev_y_apq_014__l",
+            "items/sdev_y_apq_014__01",
+            "items/sdev_y_apq_014__01__l",
+            "items/sdev_y_apq_015",
+            "items/sdev_y_apq_015__l",
+            "items/sdev_y_apq_015__01",
+            "items/sdev_y_apq_015__01__l",
+            "items/sdev_y_apq_016",
+            "items/sdev_y_apq_016__l",
+            "items/sdev_y_apq_017",
+            "items/sdev_y_apq_017__l",
+            "items/sdev_y_apq_018",
+            "items/sdev_y_apq_018__l",
+            "items/sdev_y_apq_019",
+            "items/sdev_y_apq_019__l",
+            "items/sdev_y_apq_020",
+            "items/sdev_y_apq_020__l",
+            "items/sdev_y_apq_020__01",
+            "items/sdev_y_apq_020__01__l",
+            "items/sdev_y_apq_021",
+            "items/sdev_y_apq_021__l",
+            "items/sdev_y_apq_022",
+            "items/sdev_y_apq_022__l",
+            "items/sdev_y_apq_023",
+            "items/sdev_y_apq_023__l",
+            "items/sdev_y_apq_024",
+            "items/sdev_y_apq_024__l",
+            "items/sdev_y_apq_025",
+            "items/sdev_y_apq_025__l",
+            "items/sdev_y_apq_026",
+            "items/sdev_y_apq_026__l",
+            "items/sdev_y_apq_026__01",
+            "items/sdev_y_apq_026__01__l",
+            "items/sdev_y_apq_027",
+            "items/sdev_y_apq_027__l",
+            "items/sdev_y_apq_028",
+            "items/sdev_y_apq_028__l",
+            "items/sdev_y_apq_029",
+            "items/sdev_y_apq_029__l",
+            "items/sdev_y_apq_030",
+            "items/sdev_y_apq_030__l",
+            "items/sdev_y_apq_031",
+            "items/sdev_y_apq_031__l",
+            "items/sdev_y_apq_032",
+            "items/sdev_y_apq_032__l",
+            "items/sdev_y_apq_033",
+            "items/sdev_y_apq_033__l",
+            "items/sdev_y_apq_034",
+            "items/sdev_y_apq_034__l",
+            "items/sdev_y_apq_035",
+            "items/sdev_y_apq_035__l",
+            "items/sdev_y_apq_036",
+            "items/sdev_y_apq_036__l",
+            "items/sdev_y_apq_037",
+            "items/sdev_y_apq_037__l",
+            "items/sdev_y_apq_038",
+            "items/sdev_y_apq_038__l",
+            "items/sdev_y_apq_039",
+            "items/sdev_y_apq_039__l",
+            "items/sdev_y_apq_040",
+            "items/sdev_y_apq_040__l",
+            "items/sdev_y_apq_041",
+            "items/sdev_y_apq_041__l",
+            "items/sdev_y_apq_042",
+            "items/sdev_y_apq_042__l"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/sdev_y_apq_dt",
+                "isVis": true,
+                "variableName": "sdev_y_apq_dt"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_age",
+                "isVis": true,
+                "variableName": "sdev_y_apq_age"
+            },
+            {
+                "isAbout": "items/sdev_y_apq__cg1_001",
+                "isVis": true,
+                "variableName": "sdev_y_apq__cg1_001"
+            },
+            {
+                "isAbout": "items/sdev_y_apq__cg1_001__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq__cg1_001__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq__cg2_000",
+                "isVis": true,
+                "variableName": "sdev_y_apq__cg2_000"
+            },
+            {
+                "isAbout": "items/sdev_y_apq__cg2_000__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq__cg2_000__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq__cg2_001",
+                "isVis": true,
+                "variableName": "sdev_y_apq__cg2_001"
+            },
+            {
+                "isAbout": "items/sdev_y_apq__cg2_001__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq__cg2_001__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_001",
+                "isVis": true,
+                "variableName": "sdev_y_apq_001"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_001__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_001__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_001__01",
+                "isVis": true,
+                "variableName": "sdev_y_apq_001__01"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_001__01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_001__01__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_002",
+                "isVis": true,
+                "variableName": "sdev_y_apq_002"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_002__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_002__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_003",
+                "isVis": true,
+                "variableName": "sdev_y_apq_003"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_003__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_003__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_004",
+                "isVis": true,
+                "variableName": "sdev_y_apq_004"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_004__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_004__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_004__01",
+                "isVis": true,
+                "variableName": "sdev_y_apq_004__01"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_004__01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_004__01__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_005",
+                "isVis": true,
+                "variableName": "sdev_y_apq_005"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_005__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_005__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_006",
+                "isVis": true,
+                "variableName": "sdev_y_apq_006"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_006__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_006__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_007",
+                "isVis": true,
+                "variableName": "sdev_y_apq_007"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_007__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_007__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_007__01",
+                "isVis": true,
+                "variableName": "sdev_y_apq_007__01"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_007__01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_007__01__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_008",
+                "isVis": true,
+                "variableName": "sdev_y_apq_008"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_008__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_008__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_009",
+                "isVis": true,
+                "variableName": "sdev_y_apq_009"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_009__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_009__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_009__01",
+                "isVis": true,
+                "variableName": "sdev_y_apq_009__01"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_009__01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_009__01__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_010",
+                "isVis": true,
+                "variableName": "sdev_y_apq_010"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_010__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_010__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_011",
+                "isVis": true,
+                "variableName": "sdev_y_apq_011"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_011__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_011__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_011__01",
+                "isVis": true,
+                "variableName": "sdev_y_apq_011__01"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_011__01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_011__01__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_012",
+                "isVis": true,
+                "variableName": "sdev_y_apq_012"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_012__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_012__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_013",
+                "isVis": true,
+                "variableName": "sdev_y_apq_013"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_013__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_013__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_014",
+                "isVis": true,
+                "variableName": "sdev_y_apq_014"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_014__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_014__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_014__01",
+                "isVis": true,
+                "variableName": "sdev_y_apq_014__01"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_014__01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_014__01__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_015",
+                "isVis": true,
+                "variableName": "sdev_y_apq_015"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_015__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_015__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_015__01",
+                "isVis": true,
+                "variableName": "sdev_y_apq_015__01"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_015__01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_015__01__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_016",
+                "isVis": true,
+                "variableName": "sdev_y_apq_016"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_016__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_016__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_017",
+                "isVis": true,
+                "variableName": "sdev_y_apq_017"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_017__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_017__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_018",
+                "isVis": true,
+                "variableName": "sdev_y_apq_018"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_018__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_018__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_019",
+                "isVis": true,
+                "variableName": "sdev_y_apq_019"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_019__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_019__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_020",
+                "isVis": true,
+                "variableName": "sdev_y_apq_020"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_020__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_020__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_020__01",
+                "isVis": true,
+                "variableName": "sdev_y_apq_020__01"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_020__01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_020__01__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_021",
+                "isVis": true,
+                "variableName": "sdev_y_apq_021"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_021__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_021__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_022",
+                "isVis": true,
+                "variableName": "sdev_y_apq_022"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_022__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_022__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_023",
+                "isVis": true,
+                "variableName": "sdev_y_apq_023"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_023__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_023__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_024",
+                "isVis": true,
+                "variableName": "sdev_y_apq_024"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_024__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_024__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_025",
+                "isVis": true,
+                "variableName": "sdev_y_apq_025"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_025__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_025__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_026",
+                "isVis": true,
+                "variableName": "sdev_y_apq_026"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_026__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_026__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_026__01",
+                "isVis": true,
+                "variableName": "sdev_y_apq_026__01"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_026__01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_026__01__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_027",
+                "isVis": true,
+                "variableName": "sdev_y_apq_027"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_027__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_027__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_028",
+                "isVis": true,
+                "variableName": "sdev_y_apq_028"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_028__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_028__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_029",
+                "isVis": true,
+                "variableName": "sdev_y_apq_029"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_029__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_029__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_030",
+                "isVis": true,
+                "variableName": "sdev_y_apq_030"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_030__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_030__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_031",
+                "isVis": true,
+                "variableName": "sdev_y_apq_031"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_031__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_031__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_032",
+                "isVis": true,
+                "variableName": "sdev_y_apq_032"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_032__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_032__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_033",
+                "isVis": true,
+                "variableName": "sdev_y_apq_033"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_033__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_033__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_034",
+                "isVis": true,
+                "variableName": "sdev_y_apq_034"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_034__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_034__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_035",
+                "isVis": true,
+                "variableName": "sdev_y_apq_035"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_035__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_035__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_036",
+                "isVis": true,
+                "variableName": "sdev_y_apq_036"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_036__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_036__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_037",
+                "isVis": true,
+                "variableName": "sdev_y_apq_037"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_037__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_037__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_038",
+                "isVis": true,
+                "variableName": "sdev_y_apq_038"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_038__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_038__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_039",
+                "isVis": true,
+                "variableName": "sdev_y_apq_039"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_039__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_039__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_040",
+                "isVis": true,
+                "variableName": "sdev_y_apq_040"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_040__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_040__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_041",
+                "isVis": true,
+                "variableName": "sdev_y_apq_041"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_041__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_041__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_042",
+                "isVis": true,
+                "variableName": "sdev_y_apq_042"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_042__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_042__l"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,1103 @@
+{
+    "id": "nt_y_stq_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nt_y_stq"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nt_y_stq_dtt",
+            "items/nt_y_stq_age",
+            "items/nt_y_stq_adm",
+            "items/nt_y_stq_001",
+            "items/nt_y_stq_001__01",
+            "items/nt_y_stq__screen__wkdy_001",
+            "items/nt_y_stq__screen__wkdy_002",
+            "items/nt_y_stq__screen__wkdy_003",
+            "items/nt_y_stq__screen__wkdy_004",
+            "items/nt_y_stq__screen__wkdy_005",
+            "items/nt_y_stq__screen__wkdy_006",
+            "items/nt_y_stq__screen__wknd_001",
+            "items/nt_y_stq__screen__wknd_002",
+            "items/nt_y_stq__screen__wknd_003",
+            "items/nt_y_stq__screen__wknd_004",
+            "items/nt_y_stq__screen__wknd_005",
+            "items/nt_y_stq__screen__wknd_006",
+            "items/nt_y_stq__screen__wkdy__hr_001",
+            "items/nt_y_stq__screen__wkdy__min_001",
+            "items/nt_y_stq__screen__wkdy__hr_001__01",
+            "items/nt_y_stq__screen__wkdy__min_001__01",
+            "items/nt_y_stq__screen__wkdy__hr_001__v01",
+            "items/nt_y_stq__screen__wkdy__min_001__v01",
+            "items/nt_y_stq__screen__wkdy__hr_002",
+            "items/nt_y_stq__screen__wkdy__min_002",
+            "items/nt_y_stq__screen__wkdy__hr_003",
+            "items/nt_y_stq__screen__wkdy__min_003",
+            "items/nt_y_stq__screen__wkdy__hr_003__01",
+            "items/nt_y_stq__screen__wkdy__min_003__01",
+            "items/nt_y_stq__screen__wkdy__hr_004",
+            "items/nt_y_stq__screen__wkdy__min_004",
+            "items/nt_y_stq__screen__wkdy__hr_004__01",
+            "items/nt_y_stq__screen__wkdy__min_004__01",
+            "items/nt_y_stq__screen__wkdy__hr_005",
+            "items/nt_y_stq__screen__wkdy__min_005",
+            "items/nt_y_stq__screen__wkdy__hr_005__01",
+            "items/nt_y_stq__screen__wkdy__min_005__01",
+            "items/nt_y_stq__screen__wkdy__hr_006",
+            "items/nt_y_stq__screen__wkdy__min_006",
+            "items/nt_y_stq__screen__wkdy__hr_006__01",
+            "items/nt_y_stq__screen__wkdy__min_006__01",
+            "items/nt_y_stq__screen__wkdy__hr_007",
+            "items/nt_y_stq__screen__wkdy__min_007",
+            "items/nt_y_stq__screen__wkdy__hr_008",
+            "items/nt_y_stq__screen__wkdy__min_008",
+            "items/nt_y_stq__screen__wkdy__hr_008__01",
+            "items/nt_y_stq__screen__wkdy__min_008__01",
+            "items/nt_y_stq__screen__wkdy__hr_009",
+            "items/nt_y_stq__screen__wkdy__min_009",
+            "items/nt_y_stq__screen__wkdy__school__hr_001",
+            "items/nt_y_stq__screen__wkdy__school__min_001",
+            "items/nt_y_stq__screen__wkdy__school__hr_002",
+            "items/nt_y_stq__screen__wkdy__school__min_002",
+            "items/nt_y_stq__screen__wkdy__tot__hr_001",
+            "items/nt_y_stq__screen__wkdy__tot__min_001",
+            "items/nt_y_stq__screen__wkdy__tot__hr_002",
+            "items/nt_y_stq__screen__wkdy__tot__min_002",
+            "items/nt_y_stq__screen__wknd__hr_001",
+            "items/nt_y_stq__screen__wknd__min_001",
+            "items/nt_y_stq__screen__wknd__hr_001__01",
+            "items/nt_y_stq__screen__wknd__min_001__01",
+            "items/nt_y_stq__screen__wknd__hr_001__v01",
+            "items/nt_y_stq__screen__wknd__min_001__v01",
+            "items/nt_y_stq__screen__wknd__hr_002",
+            "items/nt_y_stq__screen__wknd__min_002",
+            "items/nt_y_stq__screen__wknd__hr_003",
+            "items/nt_y_stq__screen__wknd__min_003",
+            "items/nt_y_stq__screen__wknd__hr_003__01",
+            "items/nt_y_stq__screen__wknd__min_003__01",
+            "items/nt_y_stq__screen__wknd__hr_004",
+            "items/nt_y_stq__screen__wknd__min_004",
+            "items/nt_y_stq__screen__wknd__hr_004__01",
+            "items/nt_y_stq__screen__wknd__min_004__01",
+            "items/nt_y_stq__screen__wknd__hr_005",
+            "items/nt_y_stq__screen__wknd__min_005",
+            "items/nt_y_stq__screen__wknd__hr_005__01",
+            "items/nt_y_stq__screen__wknd__min_005__01",
+            "items/nt_y_stq__screen__wknd__hr_006",
+            "items/nt_y_stq__screen__wknd__min_006",
+            "items/nt_y_stq__screen__wknd__hr_006__01",
+            "items/nt_y_stq__screen__wknd__min_006__01",
+            "items/nt_y_stq__screen__wknd__hr_007",
+            "items/nt_y_stq__screen__wknd__min_007",
+            "items/nt_y_stq__screen__wknd__hr_008",
+            "items/nt_y_stq__screen__wknd__min_008",
+            "items/nt_y_stq__screen__wknd__hr_008__01",
+            "items/nt_y_stq__screen__wknd__min_008__01",
+            "items/nt_y_stq__screen__wknd__hr_009",
+            "items/nt_y_stq__screen__wknd__min_009",
+            "items/nt_y_stq__screen__wknd__school__hr_001",
+            "items/nt_y_stq__screen__wknd__school__min_001",
+            "items/nt_y_stq__screen__wknd__school__hr_002",
+            "items/nt_y_stq__screen__wknd__school__min_002",
+            "items/nt_y_stq__screen__wknd__tot__hr_001",
+            "items/nt_y_stq__screen__wknd__tot__min_001",
+            "items/nt_y_stq__screen__wknd__tot__hr_002",
+            "items/nt_y_stq__screen__wknd__tot__min_002",
+            "items/nt_y_stq__screen__wkdy_nm",
+            "items/nt_y_stq__screen__wkdy_sum",
+            "items/nt_y_stq__screen__wknd_nm",
+            "items/nt_y_stq__screen__wknd_sum",
+            "items/nt_y_stq__sleep_001",
+            "items/nt_y_stq__sleep_002",
+            "items/nt_y_stq__sleep_003",
+            "items/nt_y_stq__sleep_004",
+            "items/nt_y_stq__sleep_005",
+            "items/nt_y_stq__sleep_006",
+            "items/nt_y_stq__sleep_007",
+            "items/nt_y_stq__sleep_008",
+            "items/nt_y_stq__sleep_009",
+            "items/nt_y_stq__sleep_010",
+            "items/nt_y_stq__sleep_011",
+            "items/nt_y_stq__sleep_012",
+            "items/nt_y_stq__sleep_013",
+            "items/nt_y_stq__sleep_014",
+            "items/nt_y_stq__socmed_001",
+            "items/nt_y_stq__socmed_001__01",
+            "items/nt_y_stq__socmed_001__02",
+            "items/nt_y_stq__socmed_001__03",
+            "items/nt_y_stq__socmed_001__04",
+            "items/nt_y_stq__socmed_001__05",
+            "items/nt_y_stq__socmed_001__06",
+            "items/nt_y_stq__socmed_001__07",
+            "items/nt_y_stq__socmed_001__08",
+            "items/nt_y_stq__socmed_001__09",
+            "items/nt_y_stq__socmed_001__10",
+            "items/nt_y_stq__socmed_001__11",
+            "items/nt_y_stq__socmed_002___1",
+            "items/nt_y_stq__socmed_002___2",
+            "items/nt_y_stq__socmed_002___3",
+            "items/nt_y_stq__socmed_002___4",
+            "items/nt_y_stq__socmed_002___5",
+            "items/nt_y_stq__socmed_002___6",
+            "items/nt_y_stq__socmed_002___7",
+            "items/nt_y_stq__socmed_002___8",
+            "items/nt_y_stq__socmed_002___9",
+            "items/nt_y_stq__socmed_002___10",
+            "items/nt_y_stq__socmed_002___11",
+            "items/nt_y_stq__socmed_003",
+            "items/nt_y_stq__socmed_004",
+            "items/nt_y_stq__socmed_005",
+            "items/nt_y_stq__socmed_005__dk",
+            "items/nt_y_stq__socmed_006",
+            "items/nt_y_stq__socmed_006__dk",
+            "items/nt_y_stq__socmed_007",
+            "items/nt_y_stq__socmed_008",
+            "items/nt_y_stq__socmed_009",
+            "items/nt_y_stq__socmed_010",
+            "items/nt_y_stq__socmed_011",
+            "items/nt_y_stq__socmed_012",
+            "items/nt_y_stq__socmed_013",
+            "items/nt_y_stq__socmed__hr_001",
+            "items/nt_y_stq__socmed__min_001",
+            "items/nt_y_stq__vidgame_001",
+            "items/nt_y_stq__vidgame_002",
+            "items/nt_y_stq__vidgame_003",
+            "items/nt_y_stq__vidgame_004",
+            "items/nt_y_stq__vidgame_005",
+            "items/nt_y_stq__vidgame_006",
+            "items/nt_y_stq__phone_001",
+            "items/nt_y_stq__phone_002",
+            "items/nt_y_stq__phone_003",
+            "items/nt_y_stq__phone_004",
+            "items/nt_y_stq__phone_005",
+            "items/nt_y_stq__phone_006",
+            "items/nt_y_stq__phone_007",
+            "items/nt_y_stq__phone_008",
+            "items/nt_y_stq__phone_009",
+            "items/nt_y_stq__screen__mature_001",
+            "items/nt_y_stq__screen__mature_002",
+            "items/nt_y_stq__creative_001",
+            "items/nt_y_stq__creative_002",
+            "items/nt_y_stq__dapp_001",
+            "items/nt_y_stq__dapp_002",
+            "items/nt_y_stq__dapp_003",
+            "items/nt_y_stq__dapp_004",
+            "items/nt_y_stq__dlt_001",
+            "items/nt_y_stq__parent_001",
+            "items/nt_y_stq__parent_002",
+            "items/nt_y_stq__parent_003",
+            "items/nt_y_stq__parent_004"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nt_y_stq_dtt",
+                "isVis": true,
+                "variableName": "nt_y_stq_dtt"
+            },
+            {
+                "isAbout": "items/nt_y_stq_age",
+                "isVis": true,
+                "variableName": "nt_y_stq_age"
+            },
+            {
+                "isAbout": "items/nt_y_stq_adm",
+                "isVis": true,
+                "variableName": "nt_y_stq_adm"
+            },
+            {
+                "isAbout": "items/nt_y_stq_001",
+                "isVis": true,
+                "variableName": "nt_y_stq_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq_001__01",
+                "isVis": true,
+                "variableName": "nt_y_stq_001__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_001__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_001__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_001__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_001__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_001__v01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_001__v01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_001__v01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_001__v01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_003__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_003__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_003__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_003__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_004__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_004__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_004__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_004__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_005__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_005__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_005__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_005__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_006__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_006__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_006__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_006__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_007",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_007"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_007",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_007"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_008",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_008"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_008",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_008"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_008__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_008__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_008__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_008__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__hr_009",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__hr_009"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__min_009",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__min_009"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__school__hr_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__school__hr_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__school__min_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__school__min_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__school__hr_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__school__hr_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__school__min_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__school__min_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__tot__hr_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__tot__hr_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__tot__min_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__tot__min_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__tot__hr_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__tot__hr_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy__tot__min_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy__tot__min_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_001__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_001__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_001__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_001__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_001__v01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_001__v01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_001__v01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_001__v01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_003__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_003__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_003__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_003__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_004__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_004__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_004__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_004__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_005__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_005__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_005__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_005__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_006__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_006__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_006__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_006__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_007",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_007"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_007",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_007"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_008",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_008"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_008",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_008"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_008__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_008__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_008__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_008__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__hr_009",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__hr_009"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__min_009",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__min_009"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__school__hr_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__school__hr_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__school__min_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__school__min_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__school__hr_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__school__hr_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__school__min_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__school__min_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__tot__hr_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__tot__hr_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__tot__min_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__tot__min_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__tot__hr_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__tot__hr_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd__tot__min_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd__tot__min_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_nm",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_nm"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_sum",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_sum"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_nm",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_nm"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_sum",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_sum"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_007",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_007"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_008",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_008"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_009",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_009"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_010",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_010"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_011",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_011"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_012",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_012"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_013",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_013"
+            },
+            {
+                "isAbout": "items/nt_y_stq__sleep_014",
+                "isVis": true,
+                "variableName": "nt_y_stq__sleep_014"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__01",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__01"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__02",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__02"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__03",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__03"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__04",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__04"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__05",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__05"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__06",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__06"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__07",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__07"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__08",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__08"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__09",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__09"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__10",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__10"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_001__11",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_001__11"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___1",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___1"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___2",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___2"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___3",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___3"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___4",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___4"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___5",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___5"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___6",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___6"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___7",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___7"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___8",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___8"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___9",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___9"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___10",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___10"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_002___11",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_002___11"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_005__dk",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_005__dk"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_006__dk",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_006__dk"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_007",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_007"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_008",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_008"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_009",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_009"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_010",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_010"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_011",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_011"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_012",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_012"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed_013",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed_013"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed__hr_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed__hr_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__socmed__min_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__socmed__min_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__vidgame_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__vidgame_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__vidgame_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__vidgame_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__vidgame_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__vidgame_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__vidgame_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__vidgame_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__vidgame_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__vidgame_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__vidgame_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__vidgame_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__phone_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__phone_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__phone_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__phone_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__phone_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__phone_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__phone_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__phone_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__phone_005",
+                "isVis": true,
+                "variableName": "nt_y_stq__phone_005"
+            },
+            {
+                "isAbout": "items/nt_y_stq__phone_006",
+                "isVis": true,
+                "variableName": "nt_y_stq__phone_006"
+            },
+            {
+                "isAbout": "items/nt_y_stq__phone_007",
+                "isVis": true,
+                "variableName": "nt_y_stq__phone_007"
+            },
+            {
+                "isAbout": "items/nt_y_stq__phone_008",
+                "isVis": true,
+                "variableName": "nt_y_stq__phone_008"
+            },
+            {
+                "isAbout": "items/nt_y_stq__phone_009",
+                "isVis": true,
+                "variableName": "nt_y_stq__phone_009"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__mature_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__mature_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__mature_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__mature_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__creative_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__creative_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__creative_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__creative_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__dapp_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__dapp_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__dapp_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__dapp_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__dapp_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__dapp_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__dapp_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__dapp_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__dlt_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__dlt_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__parent_001",
+                "isVis": true,
+                "variableName": "nt_y_stq__parent_001"
+            },
+            {
+                "isAbout": "items/nt_y_stq__parent_002",
+                "isVis": true,
+                "variableName": "nt_y_stq__parent_002"
+            },
+            {
+                "isAbout": "items/nt_y_stq__parent_003",
+                "isVis": true,
+                "variableName": "nt_y_stq__parent_003"
+            },
+            {
+                "isAbout": "items/nt_y_stq__parent_004",
+                "isVis": true,
+                "variableName": "nt_y_stq__parent_004"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

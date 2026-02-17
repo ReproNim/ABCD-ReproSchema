@@ -1,0 +1,66 @@
+{
+    "id": "le_l_parks__addr2__parks__cnty_count",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Amenities & Services"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr2_nanda_parks_cty"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_parks"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_parks__addr2__parks__cnty_count"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_parks_0005"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_parks"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_parks__addr2__parks__cnty_count"
+    },
+    "question": {
+        "en": "Total number of open parks [NaNDA; county] (Address 2) (address 2)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

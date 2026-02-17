@@ -1,0 +1,81 @@
+{
+    "id": "fc_p_nce__isc_004",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Community"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_pxccp01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "phenx_community_cohesion_p"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "comc_phenx_fight_p"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "comc_phenx_fight_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#pfc_p_nce"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_p_nce__isc_004"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_p_nce_0012"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_p_nce"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_p_nce__isc_004"
+    },
+    "question": {
+        "en": "If there was a fight in front of your house and someone was being beaten or threatened, how likely is it that your neighbors would break it up?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

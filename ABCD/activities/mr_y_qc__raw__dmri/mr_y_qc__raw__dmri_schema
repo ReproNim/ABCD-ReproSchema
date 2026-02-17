@@ -1,0 +1,2219 @@
+{
+    "id": "mr_y_qc__raw__dmri_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_qc__raw__dmri"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_qc__raw__dmri__artif__band_count",
+            "items/mr_y_qc__raw__dmri__artif__famap_count",
+            "items/mr_y_qc__raw__dmri__artif__ghost_count",
+            "items/mr_y_qc__raw__dmri__artif__moire_count",
+            "items/mr_y_qc__raw__dmri__artif__oth_count",
+            "items/mr_y_qc__raw__dmri__artif__susc_count",
+            "items/mr_y_qc__raw__dmri__censor__frame__comp_nbad",
+            "items/mr_y_qc__raw__dmri__censor__frame__ok_nbad",
+            "items/mr_y_qc__raw__dmri__censor__frame_nbad",
+            "items/mr_y_qc__raw__dmri__censor__slice__comp_nbad",
+            "items/mr_y_qc__raw__dmri__censor__slice__frame__comp_nbad",
+            "items/mr_y_qc__raw__dmri__censor__slice__frame__ok_nbad",
+            "items/mr_y_qc__raw__dmri__censor__slice__frame_nbad",
+            "items/mr_y_qc__raw__dmri__censor__slice__ok_nbad",
+            "items/mr_y_qc__raw__dmri__censor__slice_nbad",
+            "items/mr_y_qc__raw__dmri__dterr__b0__ok_mean",
+            "items/mr_y_qc__raw__dmri__dterr__b0__ok_med",
+            "items/mr_y_qc__raw__dmri__dterr__b0__ok_std",
+            "items/mr_y_qc__raw__dmri__dterr__b0_mean",
+            "items/mr_y_qc__raw__dmri__dterr__b0_med",
+            "items/mr_y_qc__raw__dmri__dterr__b0_std",
+            "items/mr_y_qc__raw__dmri__dterr__comp_mean",
+            "items/mr_y_qc__raw__dmri__dterr__comp_med",
+            "items/mr_y_qc__raw__dmri__dterr__comp_std",
+            "items/mr_y_qc__raw__dmri__fa__brain__comp_mean",
+            "items/mr_y_qc__raw__dmri__fa__brain__comp_med",
+            "items/mr_y_qc__raw__dmri__fa__brain__comp_std",
+            "items/mr_y_qc__raw__dmri__fa__brain__ok_mean",
+            "items/mr_y_qc__raw__dmri__fa__brain__ok_med",
+            "items/mr_y_qc__raw__dmri__fa__brain__ok_std",
+            "items/mr_y_qc__raw__dmri__fa__brain_mean",
+            "items/mr_y_qc__raw__dmri__fa__brain_med",
+            "items/mr_y_qc__raw__dmri__fa__brain_std",
+            "items/mr_y_qc__raw__dmri__fail__protcom_count",
+            "items/mr_y_qc__raw__dmri__fail__qc_count",
+            "items/mr_y_qc__raw__dmri__fail_count",
+            "items/mr_y_qc__raw__dmri__fm__ap__import_count",
+            "items/mr_y_qc__raw__dmri__fm__ap__needrqc_indicator",
+            "items/mr_y_qc__raw__dmri__fm__ap__nokspace_count",
+            "items/mr_y_qc__raw__dmri__fm__ap__pendaqc_indicator",
+            "items/mr_y_qc__raw__dmri__fm__ap__procerr_indicator",
+            "items/mr_y_qc__raw__dmri__fm__ap__receive_count",
+            "items/mr_y_qc__raw__dmri__fm__ap__recon__err_count",
+            "items/mr_y_qc__raw__dmri__fm__ap__recon__need_count",
+            "items/mr_y_qc__raw__dmri__fm__ap__recon_count",
+            "items/mr_y_qc__raw__dmri__fm__ap__rename__err_count",
+            "items/mr_y_qc__raw__dmri__fm__ap__unpack__err_count",
+            "items/mr_y_qc__raw__dmri__fm__ap__unpack_count",
+            "items/mr_y_qc__raw__dmri__fm__artif__band_count",
+            "items/mr_y_qc__raw__dmri__fm__artif__ghost_count",
+            "items/mr_y_qc__raw__dmri__fm__artif__moire_count",
+            "items/mr_y_qc__raw__dmri__fm__artif__oth_count",
+            "items/mr_y_qc__raw__dmri__fm__artif__susc_count",
+            "items/mr_y_qc__raw__dmri__fm__fail__protcom_count",
+            "items/mr_y_qc__raw__dmri__fm__fail__qc_count",
+            "items/mr_y_qc__raw__dmri__fm__fov__cutoff_count",
+            "items/mr_y_qc__raw__dmri__fm__import_count",
+            "items/mr_y_qc__raw__dmri__fm__incomp_count",
+            "items/mr_y_qc__raw__dmri__fm__invalid_count",
+            "items/mr_y_qc__raw__dmri__fm__line_count",
+            "items/mr_y_qc__raw__dmri__fm__mbr_count",
+            "items/mr_y_qc__raw__dmri__fm__miss_count",
+            "items/mr_y_qc__raw__dmri__fm__needrqc_indicator",
+            "items/mr_y_qc__raw__dmri__fm__nokspace_count",
+            "items/mr_y_qc__raw__dmri__fm__pa__import_count",
+            "items/mr_y_qc__raw__dmri__fm__pa__needrqc_indicator",
+            "items/mr_y_qc__raw__dmri__fm__pa__nokspace_count",
+            "items/mr_y_qc__raw__dmri__fm__pa__pendaqc_indicator",
+            "items/mr_y_qc__raw__dmri__fm__pa__procerr_indicator",
+            "items/mr_y_qc__raw__dmri__fm__pa__receive_count",
+            "items/mr_y_qc__raw__dmri__fm__pa__recon__err_count",
+            "items/mr_y_qc__raw__dmri__fm__pa__recon__need_count",
+            "items/mr_y_qc__raw__dmri__fm__pa__recon_count",
+            "items/mr_y_qc__raw__dmri__fm__pa__rename__err_count",
+            "items/mr_y_qc__raw__dmri__fm__pa__unpack__err_count",
+            "items/mr_y_qc__raw__dmri__fm__pa__unpack_count",
+            "items/mr_y_qc__raw__dmri__fm__pendaqc_indicator",
+            "items/mr_y_qc__raw__dmri__fm__procerr_indicator",
+            "items/mr_y_qc__raw__dmri__fm__receive_count",
+            "items/mr_y_qc__raw__dmri__fm__recon__err_count",
+            "items/mr_y_qc__raw__dmri__fm__recon__need_count",
+            "items/mr_y_qc__raw__dmri__fm__recon_count",
+            "items/mr_y_qc__raw__dmri__fm__rename__err_count",
+            "items/mr_y_qc__raw__dmri__fm__unpack__err_count",
+            "items/mr_y_qc__raw__dmri__fm__unpack_count",
+            "items/mr_y_qc__raw__dmri__fm__wrngloc_count",
+            "items/mr_y_qc__raw__dmri__fov__cutoff_count",
+            "items/mr_y_qc__raw__dmri__import_count",
+            "items/mr_y_qc__raw__dmri__incomp_count",
+            "items/mr_y_qc__raw__dmri__intensity__b0__comp_mean",
+            "items/mr_y_qc__raw__dmri__intensity__b0__comp_med",
+            "items/mr_y_qc__raw__dmri__intensity__b0__comp_std",
+            "items/mr_y_qc__raw__dmri__intensity__b0__ok_mean",
+            "items/mr_y_qc__raw__dmri__intensity__b0__ok_med",
+            "items/mr_y_qc__raw__dmri__intensity__b0__ok_std",
+            "items/mr_y_qc__raw__dmri__intensity__b0_mean",
+            "items/mr_y_qc__raw__dmri__intensity__b0_med",
+            "items/mr_y_qc__raw__dmri__intensity__b0_std",
+            "items/mr_y_qc__raw__dmri__intensity__brain__comp_mean",
+            "items/mr_y_qc__raw__dmri__intensity__brain__comp_std",
+            "items/mr_y_qc__raw__dmri__intensity__brain__ok_mean",
+            "items/mr_y_qc__raw__dmri__intensity__brain__ok_std",
+            "items/mr_y_qc__raw__dmri__intensity__brain_mean",
+            "items/mr_y_qc__raw__dmri__intensity__brain_std",
+            "items/mr_y_qc__raw__dmri__line_count",
+            "items/mr_y_qc__raw__dmri__mbr_count",
+            "items/mr_y_qc__raw__dmri__md__brain__comp_mean",
+            "items/mr_y_qc__raw__dmri__md__brain__comp_med",
+            "items/mr_y_qc__raw__dmri__md__brain__comp_std",
+            "items/mr_y_qc__raw__dmri__md__brain__ok_mean",
+            "items/mr_y_qc__raw__dmri__md__brain__ok_med",
+            "items/mr_y_qc__raw__dmri__md__brain__ok_std",
+            "items/mr_y_qc__raw__dmri__md__brain_mean",
+            "items/mr_y_qc__raw__dmri__md__brain_med",
+            "items/mr_y_qc__raw__dmri__md__brain_std",
+            "items/mr_y_qc__raw__dmri__mot__comp__nody_mean",
+            "items/mr_y_qc__raw__dmri__mot__comp_mean",
+            "items/mr_y_qc__raw__dmri__mot__nody__ok_mean",
+            "items/mr_y_qc__raw__dmri__mot__nody_mean",
+            "items/mr_y_qc__raw__dmri__mot__ok_mean",
+            "items/mr_y_qc__raw__dmri__mot_mean",
+            "items/mr_y_qc__raw__dmri__mssng_count",
+            "items/mr_y_qc__raw__dmri__needrqc_indicator",
+            "items/mr_y_qc__raw__dmri__nokspace_count",
+            "items/mr_y_qc__raw__dmri__pass__protcom_count",
+            "items/mr_y_qc__raw__dmri__pass__qc__comp_count",
+            "items/mr_y_qc__raw__dmri__pass__qc__protcom_count",
+            "items/mr_y_qc__raw__dmri__pass__qc_count",
+            "items/mr_y_qc__raw__dmri__pendaqc_indicator",
+            "items/mr_y_qc__raw__dmri__procerr_indicator",
+            "items/mr_y_qc__raw__dmri__r01__censor__frame_count",
+            "items/mr_y_qc__raw__dmri__r01__censor__slice__frame_count",
+            "items/mr_y_qc__raw__dmri__r01__censor__slice_count",
+            "items/mr_y_qc__raw__dmri__r01__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r01__dterr_mean",
+            "items/mr_y_qc__raw__dmri__r01__dterr_med",
+            "items/mr_y_qc__raw__dmri__r01__dterr_std",
+            "items/mr_y_qc__raw__dmri__r01__fa_mean",
+            "items/mr_y_qc__raw__dmri__r01__fa_med",
+            "items/mr_y_qc__raw__dmri__r01__fa_std",
+            "items/mr_y_qc__raw__dmri__r01__fm__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r01__fm__invalid_indicator",
+            "items/mr_y_qc__raw__dmri__r01__fm__mssng_indicator",
+            "items/mr_y_qc__raw__dmri__r01__fm__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r01__fm__wrngloc_indicator",
+            "items/mr_y_qc__raw__dmri__r01__fm_indicator",
+            "items/mr_y_qc__raw__dmri__r01__intensity__b0_mean",
+            "items/mr_y_qc__raw__dmri__r01__intensity__b0_med",
+            "items/mr_y_qc__raw__dmri__r01__intensity__b0_std",
+            "items/mr_y_qc__raw__dmri__r01__intensity__brain_mean",
+            "items/mr_y_qc__raw__dmri__r01__intensity__brain_std",
+            "items/mr_y_qc__raw__dmri__r01__md_mean",
+            "items/mr_y_qc__raw__dmri__r01__md_med",
+            "items/mr_y_qc__raw__dmri__r01__md_std",
+            "items/mr_y_qc__raw__dmri__r01__mot__nody_mean",
+            "items/mr_y_qc__raw__dmri__r01__mot_mean",
+            "items/mr_y_qc__raw__dmri__r01__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r01__rep_count",
+            "items/mr_y_qc__raw__dmri__r01__series_t",
+            "items/mr_y_qc__raw__dmri__r01__series_uid",
+            "items/mr_y_qc__raw__dmri__r01__study_dt",
+            "items/mr_y_qc__raw__dmri__r01__study_uid",
+            "items/mr_y_qc__raw__dmri__r01__vol__brain_mean",
+            "items/mr_y_qc__raw__dmri__r01__vol__vox_mean",
+            "items/mr_y_qc__raw__dmri__r01_indicator",
+            "items/mr_y_qc__raw__dmri__r01_tr",
+            "items/mr_y_qc__raw__dmri__r02__censor__frame_count",
+            "items/mr_y_qc__raw__dmri__r02__censor__slice__frame_count",
+            "items/mr_y_qc__raw__dmri__r02__censor__slice_count",
+            "items/mr_y_qc__raw__dmri__r02__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r02__dterr_mean",
+            "items/mr_y_qc__raw__dmri__r02__dterr_med",
+            "items/mr_y_qc__raw__dmri__r02__dterr_std",
+            "items/mr_y_qc__raw__dmri__r02__fa_mean",
+            "items/mr_y_qc__raw__dmri__r02__fa_med",
+            "items/mr_y_qc__raw__dmri__r02__fa_std",
+            "items/mr_y_qc__raw__dmri__r02__fm__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r02__fm__invalid_indicator",
+            "items/mr_y_qc__raw__dmri__r02__fm__mssng_indicator",
+            "items/mr_y_qc__raw__dmri__r02__fm__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r02__fm__wrngloc_indicator",
+            "items/mr_y_qc__raw__dmri__r02__fm_indicator",
+            "items/mr_y_qc__raw__dmri__r02__intensity__b0_mean",
+            "items/mr_y_qc__raw__dmri__r02__intensity__b0_med",
+            "items/mr_y_qc__raw__dmri__r02__intensity__b0_std",
+            "items/mr_y_qc__raw__dmri__r02__intensity__brain_mean",
+            "items/mr_y_qc__raw__dmri__r02__intensity__brain_std",
+            "items/mr_y_qc__raw__dmri__r02__md_mean",
+            "items/mr_y_qc__raw__dmri__r02__md_med",
+            "items/mr_y_qc__raw__dmri__r02__md_std",
+            "items/mr_y_qc__raw__dmri__r02__mot__nody_mean",
+            "items/mr_y_qc__raw__dmri__r02__mot_mean",
+            "items/mr_y_qc__raw__dmri__r02__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r02__rep_count",
+            "items/mr_y_qc__raw__dmri__r02__series_t",
+            "items/mr_y_qc__raw__dmri__r02__series_uid",
+            "items/mr_y_qc__raw__dmri__r02__study_dt",
+            "items/mr_y_qc__raw__dmri__r02__study_uid",
+            "items/mr_y_qc__raw__dmri__r02__vol__brain_mean",
+            "items/mr_y_qc__raw__dmri__r02__vol__vox_mean",
+            "items/mr_y_qc__raw__dmri__r02_indicator",
+            "items/mr_y_qc__raw__dmri__r02_tr",
+            "items/mr_y_qc__raw__dmri__r03__censor__frame_count",
+            "items/mr_y_qc__raw__dmri__r03__censor__slice__frame_count",
+            "items/mr_y_qc__raw__dmri__r03__censor__slice_count",
+            "items/mr_y_qc__raw__dmri__r03__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r03__dterr_mean",
+            "items/mr_y_qc__raw__dmri__r03__dterr_med",
+            "items/mr_y_qc__raw__dmri__r03__dterr_std",
+            "items/mr_y_qc__raw__dmri__r03__fa_mean",
+            "items/mr_y_qc__raw__dmri__r03__fa_med",
+            "items/mr_y_qc__raw__dmri__r03__fa_std",
+            "items/mr_y_qc__raw__dmri__r03__fm__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r03__fm__invalid_indicator",
+            "items/mr_y_qc__raw__dmri__r03__fm__mssng_indicator",
+            "items/mr_y_qc__raw__dmri__r03__fm__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r03__fm__wrngloc_indicator",
+            "items/mr_y_qc__raw__dmri__r03__fm_indicator",
+            "items/mr_y_qc__raw__dmri__r03__intensity__b0_mean",
+            "items/mr_y_qc__raw__dmri__r03__intensity__b0_med",
+            "items/mr_y_qc__raw__dmri__r03__intensity__b0_std",
+            "items/mr_y_qc__raw__dmri__r03__intensity__brain_mean",
+            "items/mr_y_qc__raw__dmri__r03__intensity__brain_std",
+            "items/mr_y_qc__raw__dmri__r03__md_mean",
+            "items/mr_y_qc__raw__dmri__r03__md_med",
+            "items/mr_y_qc__raw__dmri__r03__md_std",
+            "items/mr_y_qc__raw__dmri__r03__mot__nody_mean",
+            "items/mr_y_qc__raw__dmri__r03__mot_mean",
+            "items/mr_y_qc__raw__dmri__r03__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r03__rep_count",
+            "items/mr_y_qc__raw__dmri__r03__series_t",
+            "items/mr_y_qc__raw__dmri__r03__series_uid",
+            "items/mr_y_qc__raw__dmri__r03__study_dt",
+            "items/mr_y_qc__raw__dmri__r03__study_uid",
+            "items/mr_y_qc__raw__dmri__r03__vol__brain_mean",
+            "items/mr_y_qc__raw__dmri__r03__vol__vox_mean",
+            "items/mr_y_qc__raw__dmri__r03_indicator",
+            "items/mr_y_qc__raw__dmri__r03_tr",
+            "items/mr_y_qc__raw__dmri__r04__censor__frame_count",
+            "items/mr_y_qc__raw__dmri__r04__censor__slice__frame_count",
+            "items/mr_y_qc__raw__dmri__r04__censor__slice_count",
+            "items/mr_y_qc__raw__dmri__r04__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r04__dterr_mean",
+            "items/mr_y_qc__raw__dmri__r04__dterr_med",
+            "items/mr_y_qc__raw__dmri__r04__dterr_std",
+            "items/mr_y_qc__raw__dmri__r04__fa_mean",
+            "items/mr_y_qc__raw__dmri__r04__fa_med",
+            "items/mr_y_qc__raw__dmri__r04__fa_std",
+            "items/mr_y_qc__raw__dmri__r04__fm__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r04__fm__invalid_indicator",
+            "items/mr_y_qc__raw__dmri__r04__fm__mssng_indicator",
+            "items/mr_y_qc__raw__dmri__r04__fm__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r04__fm__wrngloc_indicator",
+            "items/mr_y_qc__raw__dmri__r04__fm_indicator",
+            "items/mr_y_qc__raw__dmri__r04__intensity__b0_mean",
+            "items/mr_y_qc__raw__dmri__r04__intensity__b0_med",
+            "items/mr_y_qc__raw__dmri__r04__intensity__b0_std",
+            "items/mr_y_qc__raw__dmri__r04__intensity__brain_mean",
+            "items/mr_y_qc__raw__dmri__r04__intensity__brain_std",
+            "items/mr_y_qc__raw__dmri__r04__md_mean",
+            "items/mr_y_qc__raw__dmri__r04__md_med",
+            "items/mr_y_qc__raw__dmri__r04__md_std",
+            "items/mr_y_qc__raw__dmri__r04__mot__nody_mean",
+            "items/mr_y_qc__raw__dmri__r04__mot_mean",
+            "items/mr_y_qc__raw__dmri__r04__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r04__rep_count",
+            "items/mr_y_qc__raw__dmri__r04__series_t",
+            "items/mr_y_qc__raw__dmri__r04__series_uid",
+            "items/mr_y_qc__raw__dmri__r04__study_dt",
+            "items/mr_y_qc__raw__dmri__r04__study_uid",
+            "items/mr_y_qc__raw__dmri__r04__vol__brain_mean",
+            "items/mr_y_qc__raw__dmri__r04__vol__vox_mean",
+            "items/mr_y_qc__raw__dmri__r04_indicator",
+            "items/mr_y_qc__raw__dmri__r04_tr",
+            "items/mr_y_qc__raw__dmri__r05__censor__frame_count",
+            "items/mr_y_qc__raw__dmri__r05__censor__slice__frame_count",
+            "items/mr_y_qc__raw__dmri__r05__censor__slice_count",
+            "items/mr_y_qc__raw__dmri__r05__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r05__dterr_mean",
+            "items/mr_y_qc__raw__dmri__r05__dterr_med",
+            "items/mr_y_qc__raw__dmri__r05__dterr_std",
+            "items/mr_y_qc__raw__dmri__r05__fa_mean",
+            "items/mr_y_qc__raw__dmri__r05__fa_med",
+            "items/mr_y_qc__raw__dmri__r05__fa_std",
+            "items/mr_y_qc__raw__dmri__r05__fm__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r05__fm__invalid_indicator",
+            "items/mr_y_qc__raw__dmri__r05__fm__mssng_indicator",
+            "items/mr_y_qc__raw__dmri__r05__fm__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r05__fm__wrngloc_indicator",
+            "items/mr_y_qc__raw__dmri__r05__fm_indicator",
+            "items/mr_y_qc__raw__dmri__r05__intensity__b0_mean",
+            "items/mr_y_qc__raw__dmri__r05__intensity__b0_med",
+            "items/mr_y_qc__raw__dmri__r05__intensity__b0_std",
+            "items/mr_y_qc__raw__dmri__r05__intensity__brain_mean",
+            "items/mr_y_qc__raw__dmri__r05__intensity__brain_std",
+            "items/mr_y_qc__raw__dmri__r05__md_mean",
+            "items/mr_y_qc__raw__dmri__r05__md_med",
+            "items/mr_y_qc__raw__dmri__r05__md_std",
+            "items/mr_y_qc__raw__dmri__r05__mot__nody_mean",
+            "items/mr_y_qc__raw__dmri__r05__mot_mean",
+            "items/mr_y_qc__raw__dmri__r05__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r05__rep_count",
+            "items/mr_y_qc__raw__dmri__r05__series_t",
+            "items/mr_y_qc__raw__dmri__r05__series_uid",
+            "items/mr_y_qc__raw__dmri__r05__study_dt",
+            "items/mr_y_qc__raw__dmri__r05__study_uid",
+            "items/mr_y_qc__raw__dmri__r05__vol__brain_mean",
+            "items/mr_y_qc__raw__dmri__r05__vol__vox_mean",
+            "items/mr_y_qc__raw__dmri__r05_indicator",
+            "items/mr_y_qc__raw__dmri__r05_tr",
+            "items/mr_y_qc__raw__dmri__r06__censor__frame_count",
+            "items/mr_y_qc__raw__dmri__r06__censor__slice__frame_count",
+            "items/mr_y_qc__raw__dmri__r06__censor__slice_count",
+            "items/mr_y_qc__raw__dmri__r06__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r06__dterr_mean",
+            "items/mr_y_qc__raw__dmri__r06__dterr_med",
+            "items/mr_y_qc__raw__dmri__r06__dterr_std",
+            "items/mr_y_qc__raw__dmri__r06__fa_mean",
+            "items/mr_y_qc__raw__dmri__r06__fa_med",
+            "items/mr_y_qc__raw__dmri__r06__fa_std",
+            "items/mr_y_qc__raw__dmri__r06__fm__comp_indicator",
+            "items/mr_y_qc__raw__dmri__r06__fm__invalid_indicator",
+            "items/mr_y_qc__raw__dmri__r06__fm__mssng_indicator",
+            "items/mr_y_qc__raw__dmri__r06__fm__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r06__fm__wrngloc_indicator",
+            "items/mr_y_qc__raw__dmri__r06__fm_indicator",
+            "items/mr_y_qc__raw__dmri__r06__intensity__b0_mean",
+            "items/mr_y_qc__raw__dmri__r06__intensity__b0_med",
+            "items/mr_y_qc__raw__dmri__r06__intensity__b0_std",
+            "items/mr_y_qc__raw__dmri__r06__intensity__brain_mean",
+            "items/mr_y_qc__raw__dmri__r06__intensity__brain_std",
+            "items/mr_y_qc__raw__dmri__r06__md_mean",
+            "items/mr_y_qc__raw__dmri__r06__md_med",
+            "items/mr_y_qc__raw__dmri__r06__md_std",
+            "items/mr_y_qc__raw__dmri__r06__mot__nody_mean",
+            "items/mr_y_qc__raw__dmri__r06__mot_mean",
+            "items/mr_y_qc__raw__dmri__r06__protcom_indicator",
+            "items/mr_y_qc__raw__dmri__r06__rep_count",
+            "items/mr_y_qc__raw__dmri__r06__series_t",
+            "items/mr_y_qc__raw__dmri__r06__series_uid",
+            "items/mr_y_qc__raw__dmri__r06__study_dt",
+            "items/mr_y_qc__raw__dmri__r06__study_uid",
+            "items/mr_y_qc__raw__dmri__r06__vol__brain_mean",
+            "items/mr_y_qc__raw__dmri__r06__vol__vox_mean",
+            "items/mr_y_qc__raw__dmri__r06_indicator",
+            "items/mr_y_qc__raw__dmri__r06_tr",
+            "items/mr_y_qc__raw__dmri__receive_count",
+            "items/mr_y_qc__raw__dmri__recon__err_count",
+            "items/mr_y_qc__raw__dmri__recon__need_count",
+            "items/mr_y_qc__raw__dmri__recon_count",
+            "items/mr_y_qc__raw__dmri__rename__err_count",
+            "items/mr_y_qc__raw__dmri__rep__comp_mean",
+            "items/mr_y_qc__raw__dmri__rep__ok_mean",
+            "items/mr_y_qc__raw__dmri__rep_mean",
+            "items/mr_y_qc__raw__dmri__series__comp_count",
+            "items/mr_y_qc__raw__dmri__series_count",
+            "items/mr_y_qc__raw__dmri__tr__comp_mean",
+            "items/mr_y_qc__raw__dmri__tr__ok_mean",
+            "items/mr_y_qc__raw__dmri__tr_mean",
+            "items/mr_y_qc__raw__dmri__unpack__err_count",
+            "items/mr_y_qc__raw__dmri__unpack_count",
+            "items/mr_y_qc__raw__dmri__vol__brain__comp_mean",
+            "items/mr_y_qc__raw__dmri__vol__brain__ok_mean",
+            "items/mr_y_qc__raw__dmri__vol__brain_mean",
+            "items/mr_y_qc__raw__dmri__vol__vox__comp_mean",
+            "items/mr_y_qc__raw__dmri__vol__vox__ok_mean",
+            "items/mr_y_qc__raw__dmri__vol__vox_mean"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__artif__band_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__artif__band_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__artif__famap_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__artif__famap_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__artif__ghost_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__artif__ghost_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__artif__moire_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__artif__moire_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__artif__oth_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__artif__oth_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__artif__susc_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__artif__susc_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__censor__frame__comp_nbad",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__censor__frame__comp_nbad"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__censor__frame__ok_nbad",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__censor__frame__ok_nbad"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__censor__frame_nbad",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__censor__frame_nbad"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__censor__slice__comp_nbad",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__censor__slice__comp_nbad"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__censor__slice__frame__comp_nbad",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__censor__slice__frame__comp_nbad"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__censor__slice__frame__ok_nbad",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__censor__slice__frame__ok_nbad"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__censor__slice__frame_nbad",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__censor__slice__frame_nbad"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__censor__slice__ok_nbad",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__censor__slice__ok_nbad"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__censor__slice_nbad",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__censor__slice_nbad"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__dterr__b0__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__dterr__b0__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__dterr__b0__ok_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__dterr__b0__ok_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__dterr__b0__ok_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__dterr__b0__ok_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__dterr__b0_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__dterr__b0_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__dterr__b0_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__dterr__b0_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__dterr__b0_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__dterr__b0_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__dterr__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__dterr__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__dterr__comp_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__dterr__comp_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__dterr__comp_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__dterr__comp_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fa__brain__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fa__brain__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fa__brain__comp_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fa__brain__comp_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fa__brain__comp_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fa__brain__comp_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fa__brain__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fa__brain__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fa__brain__ok_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fa__brain__ok_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fa__brain__ok_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fa__brain__ok_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fa__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fa__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fa__brain_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fa__brain_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fa__brain_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fa__brain_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fail__protcom_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fail__protcom_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fail__qc_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fail__qc_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fail_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fail_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__import_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__import_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__needrqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__needrqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__nokspace_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__nokspace_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__pendaqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__pendaqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__procerr_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__procerr_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__receive_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__receive_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__recon__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__recon__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__recon__need_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__recon__need_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__recon_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__recon_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__rename__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__rename__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__unpack__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__unpack__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__ap__unpack_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__ap__unpack_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__artif__band_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__artif__band_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__artif__ghost_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__artif__ghost_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__artif__moire_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__artif__moire_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__artif__oth_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__artif__oth_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__artif__susc_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__artif__susc_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__fail__protcom_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__fail__protcom_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__fail__qc_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__fail__qc_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__fov__cutoff_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__fov__cutoff_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__import_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__import_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__incomp_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__incomp_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__invalid_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__invalid_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__line_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__line_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__mbr_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__mbr_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__miss_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__miss_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__needrqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__needrqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__nokspace_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__nokspace_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__import_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__import_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__needrqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__needrqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__nokspace_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__nokspace_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__pendaqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__pendaqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__procerr_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__procerr_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__receive_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__receive_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__recon__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__recon__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__recon__need_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__recon__need_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__recon_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__recon_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__rename__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__rename__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__unpack__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__unpack__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pa__unpack_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pa__unpack_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__pendaqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__pendaqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__procerr_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__procerr_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__receive_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__receive_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__recon__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__recon__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__recon__need_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__recon__need_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__recon_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__recon_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__rename__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__rename__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__unpack__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__unpack__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__unpack_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__unpack_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fm__wrngloc_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fm__wrngloc_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__fov__cutoff_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__fov__cutoff_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__import_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__import_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__incomp_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__incomp_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__b0__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__b0__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__b0__comp_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__b0__comp_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__b0__comp_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__b0__comp_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__b0__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__b0__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__b0__ok_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__b0__ok_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__b0__ok_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__b0__ok_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__b0_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__b0_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__b0_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__b0_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__b0_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__b0_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__brain__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__brain__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__brain__comp_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__brain__comp_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__brain__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__brain__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__brain__ok_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__brain__ok_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__intensity__brain_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__intensity__brain_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__line_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__line_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__mbr_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__mbr_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__md__brain__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__md__brain__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__md__brain__comp_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__md__brain__comp_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__md__brain__comp_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__md__brain__comp_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__md__brain__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__md__brain__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__md__brain__ok_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__md__brain__ok_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__md__brain__ok_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__md__brain__ok_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__md__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__md__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__md__brain_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__md__brain_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__md__brain_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__md__brain_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__mot__comp__nody_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__mot__comp__nody_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__mot__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__mot__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__mot__nody__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__mot__nody__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__mot__nody_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__mot__nody_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__mot__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__mot__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__mssng_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__mssng_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__needrqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__needrqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__nokspace_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__nokspace_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__pass__protcom_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__pass__protcom_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__pass__qc__comp_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__pass__qc__comp_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__pass__qc__protcom_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__pass__qc__protcom_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__pass__qc_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__pass__qc_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__pendaqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__pendaqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__procerr_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__procerr_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__censor__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__censor__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__censor__slice__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__censor__slice__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__censor__slice_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__censor__slice_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__dterr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__dterr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__dterr_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__dterr_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__dterr_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__dterr_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__fa_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__fa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__fa_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__fa_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__fa_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__fa_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__fm__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__fm__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__fm__invalid_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__fm__invalid_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__fm__mssng_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__fm__mssng_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__fm__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__fm__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__fm__wrngloc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__fm__wrngloc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__fm_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__fm_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__intensity__b0_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__intensity__b0_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__intensity__b0_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__intensity__b0_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__intensity__b0_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__intensity__b0_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__intensity__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__intensity__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__intensity__brain_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__intensity__brain_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__md_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__md_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__md_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__md_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__md_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__md_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__mot__nody_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__mot__nody_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__rep_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__rep_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__series_t",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__series_t"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__series_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__series_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__study_dt",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__study_dt"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__study_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__study_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__vol__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__vol__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01__vol__vox_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01__vol__vox_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r01_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r01_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__censor__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__censor__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__censor__slice__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__censor__slice__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__censor__slice_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__censor__slice_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__dterr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__dterr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__dterr_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__dterr_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__dterr_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__dterr_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__fa_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__fa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__fa_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__fa_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__fa_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__fa_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__fm__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__fm__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__fm__invalid_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__fm__invalid_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__fm__mssng_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__fm__mssng_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__fm__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__fm__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__fm__wrngloc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__fm__wrngloc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__fm_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__fm_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__intensity__b0_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__intensity__b0_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__intensity__b0_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__intensity__b0_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__intensity__b0_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__intensity__b0_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__intensity__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__intensity__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__intensity__brain_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__intensity__brain_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__md_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__md_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__md_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__md_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__md_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__md_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__mot__nody_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__mot__nody_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__rep_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__rep_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__series_t",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__series_t"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__series_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__series_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__study_dt",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__study_dt"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__study_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__study_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__vol__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__vol__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02__vol__vox_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02__vol__vox_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r02_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r02_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__censor__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__censor__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__censor__slice__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__censor__slice__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__censor__slice_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__censor__slice_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__dterr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__dterr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__dterr_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__dterr_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__dterr_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__dterr_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__fa_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__fa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__fa_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__fa_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__fa_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__fa_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__fm__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__fm__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__fm__invalid_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__fm__invalid_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__fm__mssng_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__fm__mssng_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__fm__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__fm__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__fm__wrngloc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__fm__wrngloc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__fm_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__fm_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__intensity__b0_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__intensity__b0_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__intensity__b0_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__intensity__b0_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__intensity__b0_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__intensity__b0_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__intensity__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__intensity__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__intensity__brain_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__intensity__brain_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__md_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__md_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__md_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__md_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__md_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__md_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__mot__nody_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__mot__nody_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__rep_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__rep_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__series_t",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__series_t"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__series_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__series_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__study_dt",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__study_dt"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__study_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__study_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__vol__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__vol__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03__vol__vox_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03__vol__vox_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r03_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r03_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__censor__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__censor__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__censor__slice__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__censor__slice__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__censor__slice_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__censor__slice_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__dterr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__dterr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__dterr_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__dterr_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__dterr_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__dterr_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__fa_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__fa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__fa_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__fa_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__fa_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__fa_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__fm__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__fm__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__fm__invalid_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__fm__invalid_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__fm__mssng_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__fm__mssng_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__fm__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__fm__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__fm__wrngloc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__fm__wrngloc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__fm_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__fm_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__intensity__b0_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__intensity__b0_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__intensity__b0_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__intensity__b0_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__intensity__b0_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__intensity__b0_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__intensity__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__intensity__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__intensity__brain_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__intensity__brain_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__md_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__md_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__md_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__md_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__md_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__md_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__mot__nody_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__mot__nody_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__rep_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__rep_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__series_t",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__series_t"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__series_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__series_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__study_dt",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__study_dt"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__study_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__study_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__vol__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__vol__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04__vol__vox_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04__vol__vox_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r04_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r04_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__censor__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__censor__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__censor__slice__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__censor__slice__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__censor__slice_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__censor__slice_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__dterr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__dterr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__dterr_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__dterr_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__dterr_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__dterr_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__fa_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__fa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__fa_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__fa_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__fa_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__fa_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__fm__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__fm__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__fm__invalid_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__fm__invalid_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__fm__mssng_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__fm__mssng_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__fm__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__fm__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__fm__wrngloc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__fm__wrngloc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__fm_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__fm_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__intensity__b0_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__intensity__b0_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__intensity__b0_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__intensity__b0_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__intensity__b0_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__intensity__b0_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__intensity__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__intensity__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__intensity__brain_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__intensity__brain_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__md_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__md_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__md_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__md_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__md_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__md_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__mot__nody_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__mot__nody_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__rep_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__rep_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__series_t",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__series_t"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__series_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__series_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__study_dt",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__study_dt"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__study_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__study_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__vol__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__vol__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05__vol__vox_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05__vol__vox_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r05_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r05_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__censor__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__censor__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__censor__slice__frame_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__censor__slice__frame_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__censor__slice_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__censor__slice_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__dterr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__dterr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__dterr_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__dterr_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__dterr_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__dterr_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__fa_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__fa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__fa_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__fa_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__fa_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__fa_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__fm__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__fm__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__fm__invalid_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__fm__invalid_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__fm__mssng_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__fm__mssng_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__fm__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__fm__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__fm__wrngloc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__fm__wrngloc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__fm_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__fm_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__intensity__b0_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__intensity__b0_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__intensity__b0_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__intensity__b0_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__intensity__b0_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__intensity__b0_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__intensity__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__intensity__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__intensity__brain_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__intensity__brain_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__md_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__md_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__md_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__md_med"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__md_std",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__md_std"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__mot__nody_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__mot__nody_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__mot_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__mot_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__protcom_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__protcom_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__rep_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__rep_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__series_t",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__series_t"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__series_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__series_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__study_dt",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__study_dt"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__study_uid",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__study_uid"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__vol__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__vol__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06__vol__vox_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06__vol__vox_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__r06_tr",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__r06_tr"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__receive_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__receive_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__recon__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__recon__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__recon__need_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__recon__need_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__recon_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__recon_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__rename__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__rename__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__rep__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__rep__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__rep__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__rep__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__rep_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__rep_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__series__comp_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__series__comp_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__series_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__series_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__tr__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__tr__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__tr__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__tr__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__tr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__tr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__unpack__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__unpack__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__unpack_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__unpack_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__vol__brain__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__vol__brain__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__vol__brain__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__vol__brain__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__vol__brain_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__vol__brain_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__vol__vox__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__vol__vox__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__vol__vox__ok_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__vol__vox__ok_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__vol__vox_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__vol__vox_mean"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

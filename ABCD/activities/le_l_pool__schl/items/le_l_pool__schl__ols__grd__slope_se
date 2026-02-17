@@ -1,0 +1,71 @@
+{
+    "id": "le_l_pool__schl__ols__grd__slope_se",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "School (Math & Reading)"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "led_school_part_101"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "led_sch_seda_s_mn_grd_ol_se"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#SEDA"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_pool__schl__ols__grd__slope_se"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_pool_schl_0016"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_pool__schl"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_pool__schl__ols__grd__slope_se"
+    },
+    "question": {
+        "en": "Standard Error (SE) of grade slope of mean test-based achievement, Math & RLA (pool), OLS [SEDA (HLM using SEDA HETOP est)school"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,341 @@
+{
+    "id": "nt_p_fitbq_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nt_p_fitbq"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nt_p_fitbq__pre_age",
+            "items/nt_p_fitbq__pre_dtt",
+            "items/nt_p_fitbq__pre_lang",
+            "items/nt_p_fitbq__pre_001",
+            "items/nt_p_fitbq__pre_002",
+            "items/nt_p_fitbq__pre_003",
+            "items/nt_p_fitbq__pre_004",
+            "items/nt_p_fitbq__pre_005",
+            "items/nt_p_fitbq__pre_005__01",
+            "items/nt_p_fitbq__pre_005__02",
+            "items/nt_p_fitbq__pre_005__03___1",
+            "items/nt_p_fitbq__pre_005__03___2",
+            "items/nt_p_fitbq__pre_005__03___3",
+            "items/nt_p_fitbq__pre_005__03___4",
+            "items/nt_p_fitbq__pre_005__03___5",
+            "items/nt_p_fitbq__pre_005__04",
+            "items/nt_p_fitbq__pre_005__05",
+            "items/nt_p_fitbq__post_age",
+            "items/nt_p_fitbq__post_dtt",
+            "items/nt_p_fitbq__post_lang",
+            "items/nt_p_fitbq__post_001",
+            "items/nt_p_fitbq__post_002",
+            "items/nt_p_fitbq__post_003",
+            "items/nt_p_fitbq__post_004",
+            "items/nt_p_fitbq__post_005",
+            "items/nt_p_fitbq__post_006",
+            "items/nt_p_fitbq__post_007",
+            "items/nt_p_fitbq__post_007__01",
+            "items/nt_p_fitbq__post_008",
+            "items/nt_p_fitbq__post_008__01",
+            "items/nt_p_fitbq__post_009___1",
+            "items/nt_p_fitbq__post_009___2",
+            "items/nt_p_fitbq__post_009___3",
+            "items/nt_p_fitbq__post_009___444",
+            "items/nt_p_fitbq__post_010___1",
+            "items/nt_p_fitbq__post_010___2",
+            "items/nt_p_fitbq__post_010___3",
+            "items/nt_p_fitbq__post_010___444",
+            "items/nt_p_fitbq__post_011___1",
+            "items/nt_p_fitbq__post_011___2",
+            "items/nt_p_fitbq__post_011___3",
+            "items/nt_p_fitbq__post_011___444",
+            "items/nt_p_fitbq__post_012___1",
+            "items/nt_p_fitbq__post_012___2",
+            "items/nt_p_fitbq__post_012___3",
+            "items/nt_p_fitbq__post_012___444",
+            "items/nt_p_fitbq__post_013___1",
+            "items/nt_p_fitbq__post_013___2",
+            "items/nt_p_fitbq__post_013___3",
+            "items/nt_p_fitbq__post_013___444",
+            "items/nt_p_fitbq__post_014___1",
+            "items/nt_p_fitbq__post_014___2",
+            "items/nt_p_fitbq__post_014___3",
+            "items/nt_p_fitbq__post_014___444"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nt_p_fitbq__pre_age",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_age"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_dtt",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_dtt"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_lang",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_lang"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_001",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_001"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_002",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_002"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_003",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_003"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_004",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_004"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005__01",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005__01"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005__02",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005__02"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005__03___1",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005__03___1"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005__03___2",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005__03___2"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005__03___3",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005__03___3"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005__03___4",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005__03___4"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005__03___5",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005__03___5"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005__04",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005__04"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__pre_005__05",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__pre_005__05"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_age",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_age"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_dtt",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_dtt"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_lang",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_lang"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_001",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_001"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_002",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_002"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_003",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_003"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_004",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_004"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_005",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_005"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_006",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_006"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_007",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_007"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_007__01",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_007__01"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_008",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_008"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_008__01",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_008__01"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_009___1",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_009___1"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_009___2",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_009___2"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_009___3",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_009___3"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_009___444",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_009___444"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_010___1",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_010___1"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_010___2",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_010___2"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_010___3",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_010___3"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_010___444",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_010___444"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_011___1",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_011___1"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_011___2",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_011___2"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_011___3",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_011___3"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_011___444",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_011___444"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_012___1",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_012___1"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_012___2",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_012___2"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_012___3",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_012___3"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_012___444",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_012___444"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_013___1",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_013___1"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_013___2",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_013___2"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_013___3",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_013___3"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_013___444",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_013___444"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_014___1",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_014___1"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_014___2",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_014___2"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_014___3",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_014___3"
+            },
+            {
+                "isAbout": "items/nt_p_fitbq__post_014___444",
+                "isVis": true,
+                "variableName": "nt_p_fitbq__post_014___444"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "fc_y_aclt_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_y_aclt"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_y_aclt_dtt",
+            "items/fc_y_aclt_age",
+            "items/fc_y_aclt_adm",
+            "items/fc_y_aclt_001",
+            "items/fc_y_aclt_002",
+            "items/fc_y_aclt_002__01",
+            "items/fc_y_aclt_002__02",
+            "items/fc_y_aclt_002__03",
+            "items/fc_y_aclt_002__04"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_y_aclt_dtt",
+                "isVis": true,
+                "variableName": "fc_y_aclt_dtt"
+            },
+            {
+                "isAbout": "items/fc_y_aclt_age",
+                "isVis": true,
+                "variableName": "fc_y_aclt_age"
+            },
+            {
+                "isAbout": "items/fc_y_aclt_adm",
+                "isVis": true,
+                "variableName": "fc_y_aclt_adm"
+            },
+            {
+                "isAbout": "items/fc_y_aclt_001",
+                "isVis": true,
+                "variableName": "fc_y_aclt_001"
+            },
+            {
+                "isAbout": "items/fc_y_aclt_002",
+                "isVis": true,
+                "variableName": "fc_y_aclt_002"
+            },
+            {
+                "isAbout": "items/fc_y_aclt_002__01",
+                "isVis": true,
+                "variableName": "fc_y_aclt_002__01"
+            },
+            {
+                "isAbout": "items/fc_y_aclt_002__02",
+                "isVis": true,
+                "variableName": "fc_y_aclt_002__02"
+            },
+            {
+                "isAbout": "items/fc_y_aclt_002__03",
+                "isVis": true,
+                "variableName": "fc_y_aclt_002__03"
+            },
+            {
+                "isAbout": "items/fc_y_aclt_002__04",
+                "isVis": true,
+                "variableName": "fc_y_aclt_002__04"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

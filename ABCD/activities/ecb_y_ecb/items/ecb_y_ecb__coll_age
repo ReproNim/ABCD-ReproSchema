@@ -1,0 +1,67 @@
+{
+    "id": "ecb_y_ecb__coll_age",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Endocannabinoid"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/ecb.html#ecb_y_ecb"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ecb_y_ecb__coll_age"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ecb_y_ecb_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ecb_y_ecb"
+        }
+    ],
+    "prefLabel": {
+        "en": "ecb_y_ecb__coll_age"
+    },
+    "question": {
+        "en": "Endocannabinoid Substudy [Youth]: Youth's age at time of ECB collection"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

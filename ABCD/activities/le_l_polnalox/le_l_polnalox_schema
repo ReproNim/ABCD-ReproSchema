@@ -1,0 +1,71 @@
+{
+    "id": "le_l_polnalox_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_polnalox"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_polnalox__addr1__nal__protocolstanding_indicator",
+            "items/le_l_polnalox__addr1__nal__rxprescriptiveauth_indicator",
+            "items/le_l_polnalox__addr1__nal_indicator",
+            "items/le_l_polnalox__addr2__nal__protocolstanding_indicator",
+            "items/le_l_polnalox__addr2__nal__rxprescriptiveauth_indicator",
+            "items/le_l_polnalox__addr2__nal_indicator",
+            "items/le_l_polnalox__addr3__nal__protocolstanding_indicator",
+            "items/le_l_polnalox__addr3__nal__rxprescriptiveauth_indicator",
+            "items/le_l_polnalox__addr3__nal_indicator"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_polnalox__addr1__nal__protocolstanding_indicator",
+                "isVis": true,
+                "variableName": "le_l_polnalox__addr1__nal__protocolstanding_indicator"
+            },
+            {
+                "isAbout": "items/le_l_polnalox__addr1__nal__rxprescriptiveauth_indicator",
+                "isVis": true,
+                "variableName": "le_l_polnalox__addr1__nal__rxprescriptiveauth_indicator"
+            },
+            {
+                "isAbout": "items/le_l_polnalox__addr1__nal_indicator",
+                "isVis": true,
+                "variableName": "le_l_polnalox__addr1__nal_indicator"
+            },
+            {
+                "isAbout": "items/le_l_polnalox__addr2__nal__protocolstanding_indicator",
+                "isVis": true,
+                "variableName": "le_l_polnalox__addr2__nal__protocolstanding_indicator"
+            },
+            {
+                "isAbout": "items/le_l_polnalox__addr2__nal__rxprescriptiveauth_indicator",
+                "isVis": true,
+                "variableName": "le_l_polnalox__addr2__nal__rxprescriptiveauth_indicator"
+            },
+            {
+                "isAbout": "items/le_l_polnalox__addr2__nal_indicator",
+                "isVis": true,
+                "variableName": "le_l_polnalox__addr2__nal_indicator"
+            },
+            {
+                "isAbout": "items/le_l_polnalox__addr3__nal__protocolstanding_indicator",
+                "isVis": true,
+                "variableName": "le_l_polnalox__addr3__nal__protocolstanding_indicator"
+            },
+            {
+                "isAbout": "items/le_l_polnalox__addr3__nal__rxprescriptiveauth_indicator",
+                "isVis": true,
+                "variableName": "le_l_polnalox__addr3__nal__rxprescriptiveauth_indicator"
+            },
+            {
+                "isAbout": "items/le_l_polnalox__addr3__nal_indicator",
+                "isVis": true,
+                "variableName": "le_l_polnalox__addr3__nal_indicator"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

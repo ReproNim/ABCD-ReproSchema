@@ -1,0 +1,66 @@
+{
+    "id": "ph_y_bkfs__glyc_index",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Nutrition"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "bkfs_gi_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_bkfs"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_bkfs__glyc_index"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_bkfs_0165"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_bkfs"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_bkfs__glyc_index"
+    },
+    "question": {
+        "en": "Glycemic Index [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

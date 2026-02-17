@@ -1,0 +1,71 @@
+{
+    "id": "nt_y_earsapp__mins__wkdy__andr__gamemusic_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "minutes (min)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "nt_y_ears_st_min_and_gamemusic_wkd_avg"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_earsapp"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_earsapp__mins__wkdy__andr__gamemusic_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_earsapp_0096"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_earsapp"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_earsapp__mins__wkdy__andr__gamemusic_mean"
+    },
+    "question": {
+        "en": "Average duration per day on weekdays for apps in Google Play Store category: Game - Music"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

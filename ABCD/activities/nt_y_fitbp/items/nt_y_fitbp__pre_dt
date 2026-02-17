@@ -1,0 +1,62 @@
+{
+    "id": "nt_y_fitbp__pre_dt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Actigraphy"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_fitbp"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_fitbp__pre_dt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_fitbp_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_fitbp"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_fitbp__pre_dt"
+    },
+    "question": {
+        "en": "Fitbit: Pre-Assessment Survey (Pilot) [Youth]: Date when collection was completed"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:date"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

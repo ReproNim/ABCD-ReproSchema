@@ -1,0 +1,76 @@
+{
+    "id": "sdev_y_apq__cg1_001__l",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Parenting"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_follow_up_child_alabama_parenti"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "socialdev_capq_pcr_l_2"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_capq_pcr_l_2"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/sdev.html#sdev_y_apq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_apq__cg1_001__l"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_apq_0004"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_apq"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_apq__cg1_001__l"
+    },
+    "question": {
+        "en": "What is your primary caregiver's relationship to you? [Youth; Longitudinal]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

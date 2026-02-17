@@ -1,0 +1,86 @@
+{
+    "id": "ph_p_pds__f_002__03__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Puberty"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ppdms01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "pubertal_development_scale_pdsmenstrual_historypar"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "menstrualcycle2_p_dk"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "menstrualcycle2_p_dk"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_pds"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_pds__f_002__03__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_pds_0014"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_pds"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_pds__f_002__03__dk"
+    },
+    "question": {
+        "en": "On average, how many days are there between the first day of their period and the first day of their next period? (e.g., 30 days) [Non-response]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

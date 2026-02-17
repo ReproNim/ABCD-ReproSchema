@@ -1,0 +1,77 @@
+{
+    "id": "fc_y_pm_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_y_pm"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_y_pm_dtt",
+            "items/fc_y_pm_age",
+            "items/fc_y_pm_adm",
+            "items/fc_y_pm_001",
+            "items/fc_y_pm_002",
+            "items/fc_y_pm_003",
+            "items/fc_y_pm_004",
+            "items/fc_y_pm_005",
+            "items/fc_y_pm_mean",
+            "items/fc_y_pm_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_y_pm_dtt",
+                "isVis": true,
+                "variableName": "fc_y_pm_dtt"
+            },
+            {
+                "isAbout": "items/fc_y_pm_age",
+                "isVis": true,
+                "variableName": "fc_y_pm_age"
+            },
+            {
+                "isAbout": "items/fc_y_pm_adm",
+                "isVis": true,
+                "variableName": "fc_y_pm_adm"
+            },
+            {
+                "isAbout": "items/fc_y_pm_001",
+                "isVis": true,
+                "variableName": "fc_y_pm_001"
+            },
+            {
+                "isAbout": "items/fc_y_pm_002",
+                "isVis": true,
+                "variableName": "fc_y_pm_002"
+            },
+            {
+                "isAbout": "items/fc_y_pm_003",
+                "isVis": true,
+                "variableName": "fc_y_pm_003"
+            },
+            {
+                "isAbout": "items/fc_y_pm_004",
+                "isVis": true,
+                "variableName": "fc_y_pm_004"
+            },
+            {
+                "isAbout": "items/fc_y_pm_005",
+                "isVis": true,
+                "variableName": "fc_y_pm_005"
+            },
+            {
+                "isAbout": "items/fc_y_pm_mean",
+                "isVis": true,
+                "variableName": "fc_y_pm_mean"
+            },
+            {
+                "isAbout": "items/fc_y_pm_nm",
+                "isVis": true,
+                "variableName": "fc_y_pm_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

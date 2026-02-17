@@ -1,0 +1,143 @@
+{
+    "id": "su_y_crpf_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_crpf"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_crpf_dtt",
+            "items/su_y_crpf_age",
+            "items/su_y_crpf_adm",
+            "items/su_y_crpf_adm__rmt___1",
+            "items/su_y_crpf_adm__rmt___2",
+            "items/su_y_crpf_adm__rmt___3",
+            "items/su_y_crpf_adm__rmt___4",
+            "items/su_y_crpf_dev__rmt",
+            "items/su_y_crpf__alc_001",
+            "items/su_y_crpf__illdrg_001",
+            "items/su_y_crpf__inh_001",
+            "items/su_y_crpf__mj_001",
+            "items/su_y_crpf__mj__med_001",
+            "items/su_y_crpf__mj__med_002",
+            "items/su_y_crpf__mj__med_003",
+            "items/su_y_crpf__mj__med_004",
+            "items/su_y_crpf__nic__cig_001",
+            "items/su_y_crpf__nic__vape_001",
+            "items/su_y_crpf__rxopi_001",
+            "items/su_y_crpf__rxsed_001",
+            "items/su_y_crpf__rxstim_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_crpf_dtt",
+                "isVis": true,
+                "variableName": "su_y_crpf_dtt"
+            },
+            {
+                "isAbout": "items/su_y_crpf_age",
+                "isVis": true,
+                "variableName": "su_y_crpf_age"
+            },
+            {
+                "isAbout": "items/su_y_crpf_adm",
+                "isVis": true,
+                "variableName": "su_y_crpf_adm"
+            },
+            {
+                "isAbout": "items/su_y_crpf_adm__rmt___1",
+                "isVis": true,
+                "variableName": "su_y_crpf_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/su_y_crpf_adm__rmt___2",
+                "isVis": true,
+                "variableName": "su_y_crpf_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/su_y_crpf_adm__rmt___3",
+                "isVis": true,
+                "variableName": "su_y_crpf_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/su_y_crpf_adm__rmt___4",
+                "isVis": true,
+                "variableName": "su_y_crpf_adm__rmt___4"
+            },
+            {
+                "isAbout": "items/su_y_crpf_dev__rmt",
+                "isVis": true,
+                "variableName": "su_y_crpf_dev__rmt"
+            },
+            {
+                "isAbout": "items/su_y_crpf__alc_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__alc_001"
+            },
+            {
+                "isAbout": "items/su_y_crpf__illdrg_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__illdrg_001"
+            },
+            {
+                "isAbout": "items/su_y_crpf__inh_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__inh_001"
+            },
+            {
+                "isAbout": "items/su_y_crpf__mj_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__mj_001"
+            },
+            {
+                "isAbout": "items/su_y_crpf__mj__med_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__mj__med_001"
+            },
+            {
+                "isAbout": "items/su_y_crpf__mj__med_002",
+                "isVis": true,
+                "variableName": "su_y_crpf__mj__med_002"
+            },
+            {
+                "isAbout": "items/su_y_crpf__mj__med_003",
+                "isVis": true,
+                "variableName": "su_y_crpf__mj__med_003"
+            },
+            {
+                "isAbout": "items/su_y_crpf__mj__med_004",
+                "isVis": true,
+                "variableName": "su_y_crpf__mj__med_004"
+            },
+            {
+                "isAbout": "items/su_y_crpf__nic__cig_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__nic__cig_001"
+            },
+            {
+                "isAbout": "items/su_y_crpf__nic__vape_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__nic__vape_001"
+            },
+            {
+                "isAbout": "items/su_y_crpf__rxopi_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__rxopi_001"
+            },
+            {
+                "isAbout": "items/su_y_crpf__rxsed_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__rxsed_001"
+            },
+            {
+                "isAbout": "items/su_y_crpf__rxstim_001",
+                "isVis": true,
+                "variableName": "su_y_crpf__rxstim_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

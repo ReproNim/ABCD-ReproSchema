@@ -1,0 +1,173 @@
+{
+    "id": "nc_y_gdt_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nc_y_gdt"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nc_y_gdt_adm___1",
+            "items/nc_y_gdt_adm___2",
+            "items/nc_y_gdt_adm___3",
+            "items/nc_y_gdt_adm___4",
+            "items/nc_y_gdt_adm__01",
+            "items/nc_y_gdt_adm__rmt___1",
+            "items/nc_y_gdt_adm__rmt___2",
+            "items/nc_y_gdt_adm__rmt___3",
+            "items/nc_y_gdt_adm__v01",
+            "items/nc_y_gdt_dev",
+            "items/nc_y_gdt__acct_balance",
+            "items/nc_y_gdt__double_count",
+            "items/nc_y_gdt__losses_count",
+            "items/nc_y_gdt__net_score",
+            "items/nc_y_gdt__quad_count",
+            "items/nc_y_gdt__risky_count",
+            "items/nc_y_gdt__safe_count",
+            "items/nc_y_gdt__single_count",
+            "items/nc_y_gdt__triple_count",
+            "items/nc_y_gdt__wins_count",
+            "items/nc_y_gdt__dev_os",
+            "items/nc_y_gdt__dev_os__01",
+            "items/nc_y_gdt__dev_os__02",
+            "items/nc_y_gdt__dev_scrht",
+            "items/nc_y_gdt__dev_scrwd",
+            "items/nc_y_gdt_ver"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nc_y_gdt_adm___1",
+                "isVis": true,
+                "variableName": "nc_y_gdt_adm___1"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_adm___2",
+                "isVis": true,
+                "variableName": "nc_y_gdt_adm___2"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_adm___3",
+                "isVis": true,
+                "variableName": "nc_y_gdt_adm___3"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_adm___4",
+                "isVis": true,
+                "variableName": "nc_y_gdt_adm___4"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_adm__01",
+                "isVis": true,
+                "variableName": "nc_y_gdt_adm__01"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_gdt_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_gdt_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_adm__rmt___3",
+                "isVis": true,
+                "variableName": "nc_y_gdt_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_adm__v01",
+                "isVis": true,
+                "variableName": "nc_y_gdt_adm__v01"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_dev",
+                "isVis": true,
+                "variableName": "nc_y_gdt_dev"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__acct_balance",
+                "isVis": true,
+                "variableName": "nc_y_gdt__acct_balance"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__double_count",
+                "isVis": true,
+                "variableName": "nc_y_gdt__double_count"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__losses_count",
+                "isVis": true,
+                "variableName": "nc_y_gdt__losses_count"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__net_score",
+                "isVis": true,
+                "variableName": "nc_y_gdt__net_score"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__quad_count",
+                "isVis": true,
+                "variableName": "nc_y_gdt__quad_count"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__risky_count",
+                "isVis": true,
+                "variableName": "nc_y_gdt__risky_count"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__safe_count",
+                "isVis": true,
+                "variableName": "nc_y_gdt__safe_count"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__single_count",
+                "isVis": true,
+                "variableName": "nc_y_gdt__single_count"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__triple_count",
+                "isVis": true,
+                "variableName": "nc_y_gdt__triple_count"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__wins_count",
+                "isVis": true,
+                "variableName": "nc_y_gdt__wins_count"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__dev_os",
+                "isVis": true,
+                "variableName": "nc_y_gdt__dev_os"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__dev_os__01",
+                "isVis": true,
+                "variableName": "nc_y_gdt__dev_os__01"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__dev_os__02",
+                "isVis": true,
+                "variableName": "nc_y_gdt__dev_os__02"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__dev_scrht",
+                "isVis": true,
+                "variableName": "nc_y_gdt__dev_scrht"
+            },
+            {
+                "isAbout": "items/nc_y_gdt__dev_scrwd",
+                "isVis": true,
+                "variableName": "nc_y_gdt__dev_scrwd"
+            },
+            {
+                "isAbout": "items/nc_y_gdt_ver",
+                "isVis": true,
+                "variableName": "nc_y_gdt_ver"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "le_l_no2_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_no2"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_no2__addr1__no2_max__2016",
+            "items/le_l_no2__addr1__no2_mean__2016",
+            "items/le_l_no2__addr1__no2_min__2016",
+            "items/le_l_no2__addr2__no2_max__2016",
+            "items/le_l_no2__addr2__no2_mean__2016",
+            "items/le_l_no2__addr2__no2_min__2016",
+            "items/le_l_no2__addr3__no2_max__2016",
+            "items/le_l_no2__addr3__no2_mean__2016",
+            "items/le_l_no2__addr3__no2_min__2016"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_no2__addr1__no2_max__2016",
+                "isVis": true,
+                "variableName": "le_l_no2__addr1__no2_max__2016"
+            },
+            {
+                "isAbout": "items/le_l_no2__addr1__no2_mean__2016",
+                "isVis": true,
+                "variableName": "le_l_no2__addr1__no2_mean__2016"
+            },
+            {
+                "isAbout": "items/le_l_no2__addr1__no2_min__2016",
+                "isVis": true,
+                "variableName": "le_l_no2__addr1__no2_min__2016"
+            },
+            {
+                "isAbout": "items/le_l_no2__addr2__no2_max__2016",
+                "isVis": true,
+                "variableName": "le_l_no2__addr2__no2_max__2016"
+            },
+            {
+                "isAbout": "items/le_l_no2__addr2__no2_mean__2016",
+                "isVis": true,
+                "variableName": "le_l_no2__addr2__no2_mean__2016"
+            },
+            {
+                "isAbout": "items/le_l_no2__addr2__no2_min__2016",
+                "isVis": true,
+                "variableName": "le_l_no2__addr2__no2_min__2016"
+            },
+            {
+                "isAbout": "items/le_l_no2__addr3__no2_max__2016",
+                "isVis": true,
+                "variableName": "le_l_no2__addr3__no2_max__2016"
+            },
+            {
+                "isAbout": "items/le_l_no2__addr3__no2_mean__2016",
+                "isVis": true,
+                "variableName": "le_l_no2__addr3__no2_mean__2016"
+            },
+            {
+                "isAbout": "items/le_l_no2__addr3__no2_min__2016",
+                "isVis": true,
+                "variableName": "le_l_no2__addr3__no2_min__2016"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

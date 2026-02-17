@@ -1,0 +1,71 @@
+{
+    "id": "covid_l_geosg__addr2__homedwell1yrp_dur__db6",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "minutes (min)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Geocoded Data"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr2_covidgeo_sg_homedwell1yrp_db6"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_l_geosg"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_l_geosg__addr2__homedwell1yrp_dur__db6"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_l_geosg_0119"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_l_geosg"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_l_geosg__addr2__homedwell1yrp_dur__db6"
+    },
+    "question": {
+        "en": "SafeGraph Device home dwell time (1 year prior) by census block in minutes: 6 days before questionnaire dissemenation date (Address 2)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

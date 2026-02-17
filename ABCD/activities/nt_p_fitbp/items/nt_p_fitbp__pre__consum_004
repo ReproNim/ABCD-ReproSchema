@@ -1,0 +1,71 @@
+{
+    "id": "nt_p_fitbp__pre__consum_004",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Actigraphy"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_fitbit_baseline"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fitb_s5_q3b_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_p_fitbp"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_p_fitbp__pre__consum_004"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_p_fitbp_0035"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_p_fitbp"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_p_fitbp__pre__consum_004"
+    },
+    "question": {
+        "en": "What time was your child's last food/drink? [Pilot; Pre-survey]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

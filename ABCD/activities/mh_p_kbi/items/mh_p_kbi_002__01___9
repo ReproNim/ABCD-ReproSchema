@@ -1,0 +1,81 @@
+{
+    "id": "mh_p_kbi_002__01___9",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosocial"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_lpksad01 | dibf01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_ksads5_background_items_parent_l | ksads5_background_items_parent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "kbi_p_conflict_causes_l___9 | kbi_p_conflict_causes___9"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "kbi_p_conflict_causes_l | kbi_p_conflict_causes"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_kbi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_kbi_002__01___9"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_kbi_0044"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_kbi"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_kbi_002__01___9"
+    },
+    "question": {
+        "en": "What causes conflict between you and your child? [Multi-select]: Other"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

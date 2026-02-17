@@ -1,0 +1,81 @@
+{
+    "id": "ph_p_dhx__drg_001b",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Development"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "dhx01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "developmental_history_questionnaire_devhxparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "devhx_9_other1_name_2"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "devhx_9_other1_name_2"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_dhx"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_dhx__drg_001b"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_dhx_0101"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_dhx"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_dhx__drg_001b"
+    },
+    "question": {
+        "en": "After the biological mother found out she was pregnant, did she use any other drugs not listed above (if any)? - Drug 1: Name"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

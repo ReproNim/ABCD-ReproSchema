@@ -1,0 +1,101 @@
+{
+    "id": "mh_y_pai_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_pai"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_pai_dtt",
+            "items/mh_y_pai_age",
+            "items/mh_y_pai_adm",
+            "items/mh_y_pai_001",
+            "items/mh_y_pai_002",
+            "items/mh_y_pai_003",
+            "items/mh_y_pai_004",
+            "items/mh_y_pai_005",
+            "items/mh_y_pai_006",
+            "items/mh_y_pai_007",
+            "items/mh_y_pai_008",
+            "items/mh_y_pai_009",
+            "items/mh_y_pai_nm",
+            "items/mh_y_pai_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_pai_dtt",
+                "isVis": true,
+                "variableName": "mh_y_pai_dtt"
+            },
+            {
+                "isAbout": "items/mh_y_pai_age",
+                "isVis": true,
+                "variableName": "mh_y_pai_age"
+            },
+            {
+                "isAbout": "items/mh_y_pai_adm",
+                "isVis": true,
+                "variableName": "mh_y_pai_adm"
+            },
+            {
+                "isAbout": "items/mh_y_pai_001",
+                "isVis": true,
+                "variableName": "mh_y_pai_001"
+            },
+            {
+                "isAbout": "items/mh_y_pai_002",
+                "isVis": true,
+                "variableName": "mh_y_pai_002"
+            },
+            {
+                "isAbout": "items/mh_y_pai_003",
+                "isVis": true,
+                "variableName": "mh_y_pai_003"
+            },
+            {
+                "isAbout": "items/mh_y_pai_004",
+                "isVis": true,
+                "variableName": "mh_y_pai_004"
+            },
+            {
+                "isAbout": "items/mh_y_pai_005",
+                "isVis": true,
+                "variableName": "mh_y_pai_005"
+            },
+            {
+                "isAbout": "items/mh_y_pai_006",
+                "isVis": true,
+                "variableName": "mh_y_pai_006"
+            },
+            {
+                "isAbout": "items/mh_y_pai_007",
+                "isVis": true,
+                "variableName": "mh_y_pai_007"
+            },
+            {
+                "isAbout": "items/mh_y_pai_008",
+                "isVis": true,
+                "variableName": "mh_y_pai_008"
+            },
+            {
+                "isAbout": "items/mh_y_pai_009",
+                "isVis": true,
+                "variableName": "mh_y_pai_009"
+            },
+            {
+                "isAbout": "items/mh_y_pai_nm",
+                "isVis": true,
+                "variableName": "mh_y_pai_nm"
+            },
+            {
+                "isAbout": "items/mh_y_pai_sum",
+                "isVis": true,
+                "variableName": "mh_y_pai_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

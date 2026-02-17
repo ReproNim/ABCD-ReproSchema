@@ -1,0 +1,81 @@
+{
+    "id": "sdev_y_vict_027__13",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Victimization"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_socdev_child_vic01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_child_victimization"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "socialdev_cvict_g2_f_08"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_cvict_g2_f_08"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/sdev.html#sdev_y_vict"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_vict_027__13"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_vict_1374"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_vict"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_vict_027__13"
+    },
+    "question": {
+        "en": "Saw gun violence: Any time someone tried to kidnap you [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

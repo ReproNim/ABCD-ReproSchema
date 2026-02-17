@@ -1,0 +1,191 @@
+{
+    "id": "nc_y_flnkr_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nc_y_flnkr"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nc_y_flnkr_adm___1",
+            "items/nc_y_flnkr_adm___2",
+            "items/nc_y_flnkr_adm___3",
+            "items/nc_y_flnkr_adm___4",
+            "items/nc_y_flnkr_adm__01",
+            "items/nc_y_flnkr_adm__rmt___1",
+            "items/nc_y_flnkr_adm__rmt___2",
+            "items/nc_y_flnkr_adm__rmt___3",
+            "items/nc_y_flnkr_adm__v01",
+            "items/nc_y_flnkr_dev",
+            "items/nc_y_flnkr__acc__pract_mean",
+            "items/nc_y_flnkr__block_count",
+            "items/nc_y_flnkr__congr__trial_count",
+            "items/nc_y_flnkr__congr_acc",
+            "items/nc_y_flnkr__congr_medrt",
+            "items/nc_y_flnkr__congr_rt",
+            "items/nc_y_flnkr__incongr__trial_count",
+            "items/nc_y_flnkr__incongr_acc",
+            "items/nc_y_flnkr__incongr_medrt",
+            "items/nc_y_flnkr__incongr_rt",
+            "items/nc_y_flnkr__pract__block_count",
+            "items/nc_y_flnkr__trial_count",
+            "items/nc_y_flnkr_acc",
+            "items/nc_y_flnkr_medrt",
+            "items/nc_y_flnkr_rt",
+            "items/nc_y_flnkr__group_id",
+            "items/nc_y_flnkr__pract_indicator",
+            "items/nc_y_flnkr__sess_id",
+            "items/nc_y_flnkr_compl"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nc_y_flnkr_adm___1",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_adm___1"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_adm___2",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_adm___2"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_adm___3",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_adm___3"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_adm___4",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_adm___4"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_adm__01",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_adm__01"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_adm__rmt___3",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_adm__v01",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_adm__v01"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_dev",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_dev"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__acc__pract_mean",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__acc__pract_mean"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__block_count",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__block_count"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__congr__trial_count",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__congr__trial_count"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__congr_acc",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__congr_acc"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__congr_medrt",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__congr_medrt"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__congr_rt",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__congr_rt"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__incongr__trial_count",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__incongr__trial_count"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__incongr_acc",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__incongr_acc"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__incongr_medrt",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__incongr_medrt"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__incongr_rt",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__incongr_rt"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__pract__block_count",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__pract__block_count"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__trial_count",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__trial_count"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_acc",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_acc"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_medrt",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_medrt"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_rt",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_rt"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__group_id",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__group_id"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__pract_indicator",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__pract_indicator"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr__sess_id",
+                "isVis": true,
+                "variableName": "nc_y_flnkr__sess_id"
+            },
+            {
+                "isAbout": "items/nc_y_flnkr_compl",
+                "isVis": true,
+                "variableName": "nc_y_flnkr_compl"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "le_l_roadprox__addr2_m",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "meters (m)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Built Environment"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_rhds01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr2_proxrd"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_roadprox"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_roadprox__addr2_m"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_roadprox_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_roadprox"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_roadprox__addr2_m"
+    },
+    "question": {
+        "en": "Proximity to major roads (Address 2) (address 2)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,61 @@
+{
+    "id": "ph_p_dhx__rx__label_003a",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Development"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_dhx"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_dhx__rx__label_003a"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_dhx_0242"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_dhx"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_dhx__rx__label_003a"
+    },
+    "question": {
+        "en": "Before knowledge of pregnancy - Prescription Medication 3: Name (RxNorm label)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,62 @@
+{
+    "id": "mr_y_qc__raw__tfmri__sst__intensity__brain__comp_std",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Quality Control"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_qc.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_qc__raw__tfmri__sst__intensity__brain__comp_std"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_qc_raw_tfmri_sst_0058"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_qc__raw__tfmri__sst"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_qc__raw__tfmri__sst__intensity__brain__comp_std"
+    },
+    "question": {
+        "en": "Task fMRI - Stop Signal Task: Standard deviation of intensities within brain mask averaged across all complete and compliant scans"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

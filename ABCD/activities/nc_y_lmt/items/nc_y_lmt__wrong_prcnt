@@ -1,0 +1,71 @@
+{
+    "id": "nc_y_lmt__wrong_prcnt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "lmtp201"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "lmt_scr_perc_wrong"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_y_lmt"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_y_lmt__wrong_prcnt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_y_lmt_0056"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_y_lmt"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_y_lmt__wrong_prcnt"
+    },
+    "question": {
+        "en": "Little Man Task (LMT): Percentage wrong out of 32 trials"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

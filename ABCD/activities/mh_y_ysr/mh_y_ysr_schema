@@ -1,0 +1,1079 @@
+{
+    "id": "mh_y_ysr_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_ysr"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_ysr_dtt",
+            "items/mh_y_ysr_age",
+            "items/mh_y_ysr__aggr_001",
+            "items/mh_y_ysr__aggr_002",
+            "items/mh_y_ysr__aggr_003",
+            "items/mh_y_ysr__aggr_004",
+            "items/mh_y_ysr__aggr_005",
+            "items/mh_y_ysr__aggr_006",
+            "items/mh_y_ysr__aggr__adhd_001",
+            "items/mh_y_ysr__aggr__cond_001",
+            "items/mh_y_ysr__aggr__cond_002",
+            "items/mh_y_ysr__aggr__cond_003",
+            "items/mh_y_ysr__aggr__cond_004",
+            "items/mh_y_ysr__aggr__cond_005",
+            "items/mh_y_ysr__aggr__opp_001",
+            "items/mh_y_ysr__aggr__opp_002",
+            "items/mh_y_ysr__aggr__opp_003",
+            "items/mh_y_ysr__aggr__opp_004",
+            "items/mh_y_ysr__aggr__opp_005",
+            "items/mh_y_ysr__anxdep_001",
+            "items/mh_y_ysr__anxdep_002",
+            "items/mh_y_ysr__anxdep__anx_001",
+            "items/mh_y_ysr__anxdep__anx_002",
+            "items/mh_y_ysr__anxdep__anx_003",
+            "items/mh_y_ysr__anxdep__anx_004",
+            "items/mh_y_ysr__anxdep__anx_005",
+            "items/mh_y_ysr__anxdep__anx_006",
+            "items/mh_y_ysr__anxdep__anx_007",
+            "items/mh_y_ysr__anxdep__dep_001",
+            "items/mh_y_ysr__anxdep__dep_002",
+            "items/mh_y_ysr__anxdep__dep_003",
+            "items/mh_y_ysr__anxdep__dep_004",
+            "items/mh_y_ysr__attn_001",
+            "items/mh_y_ysr__attn_002",
+            "items/mh_y_ysr__attn_003",
+            "items/mh_y_ysr__attn_004",
+            "items/mh_y_ysr__attn__adhd_001",
+            "items/mh_y_ysr__attn__adhd_002",
+            "items/mh_y_ysr__attn__adhd_003",
+            "items/mh_y_ysr__attn__adhd_004",
+            "items/mh_y_ysr__attn__adhd_005",
+            "items/mh_y_ysr__othpr_001",
+            "items/mh_y_ysr__othpr_002",
+            "items/mh_y_ysr__othpr_003",
+            "items/mh_y_ysr__othpr_004",
+            "items/mh_y_ysr__othpr_005",
+            "items/mh_y_ysr__othpr_006",
+            "items/mh_y_ysr__othpr_007",
+            "items/mh_y_ysr__othpr__adhd_001",
+            "items/mh_y_ysr__othpr__dep_001",
+            "items/mh_y_ysr__othpr__dep_002",
+            "items/mh_y_ysr__pos_001",
+            "items/mh_y_ysr__pos_002",
+            "items/mh_y_ysr__pos_003",
+            "items/mh_y_ysr__pos_004",
+            "items/mh_y_ysr__pos_005",
+            "items/mh_y_ysr__pos_006",
+            "items/mh_y_ysr__pos_007",
+            "items/mh_y_ysr__pos_008",
+            "items/mh_y_ysr__pos_009",
+            "items/mh_y_ysr__pos_010",
+            "items/mh_y_ysr__pos_011",
+            "items/mh_y_ysr__pos_012",
+            "items/mh_y_ysr__pos_013",
+            "items/mh_y_ysr__pos_014",
+            "items/mh_y_ysr__rule_001",
+            "items/mh_y_ysr__rule_002",
+            "items/mh_y_ysr__rule_003",
+            "items/mh_y_ysr__rule_004",
+            "items/mh_y_ysr__rule_005",
+            "items/mh_y_ysr__rule__cond_001",
+            "items/mh_y_ysr__rule__cond_002",
+            "items/mh_y_ysr__rule__cond_003",
+            "items/mh_y_ysr__rule__cond_004",
+            "items/mh_y_ysr__rule__cond_005",
+            "items/mh_y_ysr__rule__cond_006",
+            "items/mh_y_ysr__rule__cond_007",
+            "items/mh_y_ysr__rule__cond_008",
+            "items/mh_y_ysr__rule__cond_009",
+            "items/mh_y_ysr__rule__cond_010",
+            "items/mh_y_ysr__soc_001",
+            "items/mh_y_ysr__soc_002",
+            "items/mh_y_ysr__soc_003",
+            "items/mh_y_ysr__soc_004",
+            "items/mh_y_ysr__soc_005",
+            "items/mh_y_ysr__soc_006",
+            "items/mh_y_ysr__soc_007",
+            "items/mh_y_ysr__soc_008",
+            "items/mh_y_ysr__soc_009",
+            "items/mh_y_ysr__soc_010",
+            "items/mh_y_ysr__soc__anx_001",
+            "items/mh_y_ysr__som_001",
+            "items/mh_y_ysr__som__anx_001",
+            "items/mh_y_ysr__som__dep_001",
+            "items/mh_y_ysr__som__somat_001",
+            "items/mh_y_ysr__som__somat_002",
+            "items/mh_y_ysr__som__somat_003",
+            "items/mh_y_ysr__som__somat_004",
+            "items/mh_y_ysr__som__somat_005",
+            "items/mh_y_ysr__som__somat_006",
+            "items/mh_y_ysr__som__somat_007",
+            "items/mh_y_ysr__tho_001",
+            "items/mh_y_ysr__tho_002",
+            "items/mh_y_ysr__tho_003",
+            "items/mh_y_ysr__tho_004",
+            "items/mh_y_ysr__tho_005",
+            "items/mh_y_ysr__tho_006",
+            "items/mh_y_ysr__tho_007",
+            "items/mh_y_ysr__tho_008",
+            "items/mh_y_ysr__tho_009",
+            "items/mh_y_ysr__tho__dep_001",
+            "items/mh_y_ysr__tho__dep_002",
+            "items/mh_y_ysr__tho__dep_003",
+            "items/mh_y_ysr__wthdep_001",
+            "items/mh_y_ysr__wthdep_002",
+            "items/mh_y_ysr__wthdep_003",
+            "items/mh_y_ysr__wthdep_004",
+            "items/mh_y_ysr__wthdep_005",
+            "items/mh_y_ysr__wthdep__dep_001",
+            "items/mh_y_ysr__wthdep__dep_002",
+            "items/mh_y_ysr__wthdep__dep_003",
+            "items/mh_y_ysr__dsm__adhd_nm",
+            "items/mh_y_ysr__dsm__adhd_sum",
+            "items/mh_y_ysr__dsm__adhd_tscore",
+            "items/mh_y_ysr__dsm__anx_nm",
+            "items/mh_y_ysr__dsm__anx_sum",
+            "items/mh_y_ysr__dsm__anx_tscore",
+            "items/mh_y_ysr__dsm__cond_nm",
+            "items/mh_y_ysr__dsm__cond_sum",
+            "items/mh_y_ysr__dsm__cond_tscore",
+            "items/mh_y_ysr__dsm__dep_nm",
+            "items/mh_y_ysr__dsm__dep_sum",
+            "items/mh_y_ysr__dsm__dep_tscore",
+            "items/mh_y_ysr__dsm__opp_nm",
+            "items/mh_y_ysr__dsm__opp_sum",
+            "items/mh_y_ysr__dsm__opp_tscore",
+            "items/mh_y_ysr__dsm__somat_nm",
+            "items/mh_y_ysr__dsm__somat_sum",
+            "items/mh_y_ysr__dsm__somat_tscore",
+            "items/mh_y_ysr__pos_nm",
+            "items/mh_y_ysr__pos_sum",
+            "items/mh_y_ysr__pos_tscore",
+            "items/mh_y_ysr__synd__aggr_nm",
+            "items/mh_y_ysr__synd__aggr_sum",
+            "items/mh_y_ysr__synd__aggr_tscore",
+            "items/mh_y_ysr__synd__anxdep_nm",
+            "items/mh_y_ysr__synd__anxdep_sum",
+            "items/mh_y_ysr__synd__anxdep_tscore",
+            "items/mh_y_ysr__synd__attn_nm",
+            "items/mh_y_ysr__synd__attn_sum",
+            "items/mh_y_ysr__synd__attn_tscore",
+            "items/mh_y_ysr__synd__ext_nm",
+            "items/mh_y_ysr__synd__ext_sum",
+            "items/mh_y_ysr__synd__ext_tscore",
+            "items/mh_y_ysr__synd__int_nm",
+            "items/mh_y_ysr__synd__int_sum",
+            "items/mh_y_ysr__synd__int_tscore",
+            "items/mh_y_ysr__synd__othpr_nm",
+            "items/mh_y_ysr__synd__othpr_sum",
+            "items/mh_y_ysr__synd__rule_nm",
+            "items/mh_y_ysr__synd__rule_sum",
+            "items/mh_y_ysr__synd__rule_tscore",
+            "items/mh_y_ysr__synd__soc_nm",
+            "items/mh_y_ysr__synd__soc_sum",
+            "items/mh_y_ysr__synd__soc_tscore",
+            "items/mh_y_ysr__synd__som_nm",
+            "items/mh_y_ysr__synd__som_sum",
+            "items/mh_y_ysr__synd__som_tscore",
+            "items/mh_y_ysr__synd__tho_nm",
+            "items/mh_y_ysr__synd__tho_sum",
+            "items/mh_y_ysr__synd__tho_tscore",
+            "items/mh_y_ysr__synd__wthdep_nm",
+            "items/mh_y_ysr__synd__wthdep_sum",
+            "items/mh_y_ysr__synd__wthdep_tscore",
+            "items/mh_y_ysr_nm",
+            "items/mh_y_ysr_sum",
+            "items/mh_y_ysr_tscore"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_ysr_dtt",
+                "isVis": true,
+                "variableName": "mh_y_ysr_dtt"
+            },
+            {
+                "isAbout": "items/mh_y_ysr_age",
+                "isVis": true,
+                "variableName": "mh_y_ysr_age"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr_006",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr_006"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__adhd_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__adhd_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__cond_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__cond_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__cond_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__cond_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__cond_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__cond_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__cond_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__cond_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__cond_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__cond_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__opp_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__opp_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__opp_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__opp_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__opp_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__opp_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__opp_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__opp_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__aggr__opp_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__aggr__opp_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__anx_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__anx_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__anx_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__anx_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__anx_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__anx_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__anx_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__anx_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__anx_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__anx_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__anx_006",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__anx_006"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__anx_007",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__anx_007"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__dep_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__dep_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__dep_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__dep_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__dep_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__dep_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__anxdep__dep_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__anxdep__dep_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__attn_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__attn_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__attn_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__attn_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__attn_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__attn_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__attn_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__attn_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__attn__adhd_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__attn__adhd_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__attn__adhd_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__attn__adhd_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__attn__adhd_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__attn__adhd_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__attn__adhd_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__attn__adhd_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__attn__adhd_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__attn__adhd_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr_006",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr_006"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr_007",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr_007"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr__adhd_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr__adhd_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr__dep_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr__dep_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__othpr__dep_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__othpr__dep_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_006",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_006"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_007",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_007"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_008",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_008"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_009",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_009"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_010",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_010"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_011",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_011"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_012",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_012"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_013",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_013"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_014",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_014"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_006",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_006"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_007",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_007"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_008",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_008"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_009",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_009"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__rule__cond_010",
+                "isVis": true,
+                "variableName": "mh_y_ysr__rule__cond_010"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_006",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_006"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_007",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_007"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_008",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_008"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_009",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_009"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc_010",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc_010"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__soc__anx_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__soc__anx_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som__anx_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som__anx_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som__dep_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som__dep_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som__somat_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som__somat_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som__somat_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som__somat_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som__somat_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som__somat_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som__somat_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som__somat_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som__somat_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som__somat_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som__somat_006",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som__somat_006"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__som__somat_007",
+                "isVis": true,
+                "variableName": "mh_y_ysr__som__somat_007"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho_006",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho_006"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho_007",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho_007"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho_008",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho_008"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho_009",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho_009"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho__dep_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho__dep_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho__dep_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho__dep_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__tho__dep_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__tho__dep_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__wthdep_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__wthdep_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__wthdep_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__wthdep_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__wthdep_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__wthdep_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__wthdep_004",
+                "isVis": true,
+                "variableName": "mh_y_ysr__wthdep_004"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__wthdep_005",
+                "isVis": true,
+                "variableName": "mh_y_ysr__wthdep_005"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__wthdep__dep_001",
+                "isVis": true,
+                "variableName": "mh_y_ysr__wthdep__dep_001"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__wthdep__dep_002",
+                "isVis": true,
+                "variableName": "mh_y_ysr__wthdep__dep_002"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__wthdep__dep_003",
+                "isVis": true,
+                "variableName": "mh_y_ysr__wthdep__dep_003"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__adhd_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__adhd_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__adhd_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__adhd_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__adhd_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__adhd_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__anx_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__anx_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__anx_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__anx_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__anx_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__anx_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__cond_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__cond_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__cond_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__cond_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__cond_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__cond_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__dep_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__dep_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__dep_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__dep_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__dep_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__dep_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__opp_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__opp_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__opp_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__opp_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__opp_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__opp_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__somat_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__somat_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__somat_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__somat_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__dsm__somat_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__dsm__somat_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__pos_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__pos_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__aggr_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__aggr_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__aggr_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__aggr_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__aggr_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__aggr_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__anxdep_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__anxdep_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__anxdep_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__anxdep_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__anxdep_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__anxdep_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__attn_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__attn_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__attn_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__attn_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__attn_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__attn_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__ext_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__ext_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__ext_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__ext_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__ext_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__ext_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__int_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__int_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__int_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__int_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__int_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__int_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__othpr_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__othpr_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__othpr_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__othpr_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__rule_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__rule_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__rule_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__rule_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__rule_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__rule_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__soc_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__soc_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__soc_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__soc_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__soc_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__soc_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__som_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__som_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__som_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__som_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__som_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__som_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__tho_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__tho_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__tho_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__tho_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__tho_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__tho_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__wthdep_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__wthdep_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__wthdep_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__wthdep_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr__synd__wthdep_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr__synd__wthdep_tscore"
+            },
+            {
+                "isAbout": "items/mh_y_ysr_nm",
+                "isVis": true,
+                "variableName": "mh_y_ysr_nm"
+            },
+            {
+                "isAbout": "items/mh_y_ysr_sum",
+                "isVis": true,
+                "variableName": "mh_y_ysr_sum"
+            },
+            {
+                "isAbout": "items/mh_y_ysr_tscore",
+                "isVis": true,
+                "variableName": "mh_y_ysr_tscore"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

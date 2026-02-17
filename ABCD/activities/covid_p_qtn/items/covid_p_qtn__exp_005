@@ -1,0 +1,81 @@
+{
+    "id": "covid_p_qtn__exp_005",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "pabcdcovid19questionnaire01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_abcd_covid19_questionnaire_part_1"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "fam_exp5_cv"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fam_exp5_cv"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_p_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_p_qtn__exp_005"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_p_qtn_0098"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_p_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_p_qtn__exp_005"
+    },
+    "question": {
+        "en": "In the past month, have you and your household experienced any of the following: Were evicted from your home for not paying the rent or mortgage"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

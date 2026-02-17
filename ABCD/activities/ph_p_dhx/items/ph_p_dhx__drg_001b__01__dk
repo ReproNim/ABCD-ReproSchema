@@ -1,0 +1,81 @@
+{
+    "id": "ph_p_dhx__drg_001b__01__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Development"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "dhx01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "developmental_history_questionnaire_devhxparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "devhx_9_other1_times_dk"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "devhx_9_other1_times_dk"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_dhx"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_dhx__drg_001b__01__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_dhx_0103"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_dhx"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_dhx__drg_001b__01__dk"
+    },
+    "question": {
+        "en": "After knowledge of pregnancy - Drug 1: How many times per day? [Non-response]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

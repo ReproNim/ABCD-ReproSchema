@@ -1,0 +1,91 @@
+{
+    "id": "ab_p_demo__age__slf_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "Provide your age in years. If you decline to answer please choose \"decline to answer\"  in what follows below."
+        },
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Demographics"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "pdem02 | abcd_lpds01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "demographicsdem_parent | p_demographicsdem_parent_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "demo_prnt_age_v2 | demo_prnt_age_v2_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_prnt_age_v2 | demo_prnt_age_v2_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_p_demo"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_p_demo__age__slf_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_p_demo_0006"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_p_demo"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_p_demo__age__slf_001"
+    },
+    "question": {
+        "en": "How old are you? [Cross-listed: mh_p_asr__slf__age_001]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

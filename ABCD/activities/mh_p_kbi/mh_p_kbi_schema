@@ -1,0 +1,1001 @@
+{
+    "id": "mh_p_kbi_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_kbi"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_kbi_dtt",
+            "items/mh_p_kbi_age",
+            "items/mh_p_kbi_lang",
+            "items/mh_p_kbi_001",
+            "items/mh_p_kbi_001__l",
+            "items/mh_p_kbi_001__01___1",
+            "items/mh_p_kbi_001__01___2",
+            "items/mh_p_kbi_001__01___3",
+            "items/mh_p_kbi_001__01___4",
+            "items/mh_p_kbi_001__01___5",
+            "items/mh_p_kbi_001__01___6",
+            "items/mh_p_kbi_001__01___7",
+            "items/mh_p_kbi_001__01___8",
+            "items/mh_p_kbi_001__01___9",
+            "items/mh_p_kbi_001__01___10",
+            "items/mh_p_kbi_001__01___11",
+            "items/mh_p_kbi_001__01___12",
+            "items/mh_p_kbi_001__01___444",
+            "items/mh_p_kbi_001__01__l___1",
+            "items/mh_p_kbi_001__01__l___2",
+            "items/mh_p_kbi_001__01__l___3",
+            "items/mh_p_kbi_001__01__l___4",
+            "items/mh_p_kbi_001__01__l___5",
+            "items/mh_p_kbi_001__01__l___6",
+            "items/mh_p_kbi_001__01__l___7",
+            "items/mh_p_kbi_001__01__l___8",
+            "items/mh_p_kbi_001__01__l___9",
+            "items/mh_p_kbi_001__01__l___10",
+            "items/mh_p_kbi_001__01__l___11",
+            "items/mh_p_kbi_001__01__l___12",
+            "items/mh_p_kbi_001__01__l___13",
+            "items/mh_p_kbi_001__01__l___14",
+            "items/mh_p_kbi_001__01__l___15",
+            "items/mh_p_kbi_001__01__l___444",
+            "items/mh_p_kbi_002",
+            "items/mh_p_kbi_002__01___1",
+            "items/mh_p_kbi_002__01___2",
+            "items/mh_p_kbi_002__01___3",
+            "items/mh_p_kbi_002__01___4",
+            "items/mh_p_kbi_002__01___5",
+            "items/mh_p_kbi_002__01___6",
+            "items/mh_p_kbi_002__01___7",
+            "items/mh_p_kbi_002__01___8",
+            "items/mh_p_kbi_002__01___9",
+            "items/mh_p_kbi_002__01___444",
+            "items/mh_p_kbi__bully_001",
+            "items/mh_p_kbi__bully_001__l",
+            "items/mh_p_kbi__frnd_001",
+            "items/mh_p_kbi__frnd_001__01",
+            "items/mh_p_kbi__frnd_002",
+            "items/mh_p_kbi__frnd_002__01",
+            "items/mh_p_kbi__frnd_003",
+            "items/mh_p_kbi__mh_001",
+            "items/mh_p_kbi__mh_001__l",
+            "items/mh_p_kbi__mh_001__01",
+            "items/mh_p_kbi__mh_001__01__dk",
+            "items/mh_p_kbi__mh_001__01__dk__l",
+            "items/mh_p_kbi__mh_001__01__l",
+            "items/mh_p_kbi__mh_001__02___1",
+            "items/mh_p_kbi__mh_001__02___2",
+            "items/mh_p_kbi__mh_001__02___3",
+            "items/mh_p_kbi__mh_001__02___4",
+            "items/mh_p_kbi__mh_001__02___5",
+            "items/mh_p_kbi__mh_001__02___6",
+            "items/mh_p_kbi__mh_001__02___7",
+            "items/mh_p_kbi__mh_001__02___8",
+            "items/mh_p_kbi__mh_001__02___9",
+            "items/mh_p_kbi__mh_001__02___10",
+            "items/mh_p_kbi__mh_001__02__l___1",
+            "items/mh_p_kbi__mh_001__02__l___2",
+            "items/mh_p_kbi__mh_001__02__l___3",
+            "items/mh_p_kbi__mh_001__02__l___4",
+            "items/mh_p_kbi__mh_001__02__l___5",
+            "items/mh_p_kbi__mh_001__02__l___6",
+            "items/mh_p_kbi__mh_001__02__l___7",
+            "items/mh_p_kbi__mh_001__02__l___8",
+            "items/mh_p_kbi__mh_001__02__l___9",
+            "items/mh_p_kbi__mh_001__02__l___10",
+            "items/mh_p_kbi__mh_001__02__l___777",
+            "items/mh_p_kbi__mh_001__02__l__v1___1",
+            "items/mh_p_kbi__mh_001__02__l__v1___2",
+            "items/mh_p_kbi__mh_001__02__l__v1___3",
+            "items/mh_p_kbi__mh_001__02__l__v1___4",
+            "items/mh_p_kbi__mh_001__02__l__v1___5",
+            "items/mh_p_kbi__mh_001__02__l__v1___6",
+            "items/mh_p_kbi__mh_001__02__l__v1___7",
+            "items/mh_p_kbi__mh_001__02__l__v1___8",
+            "items/mh_p_kbi__mh_001__02__l__v1___9",
+            "items/mh_p_kbi__mh_001__02__l__v1___777",
+            "items/mh_p_kbi__mh_001__03",
+            "items/mh_p_kbi__mh_001__03__l",
+            "items/mh_p_kbi__mh_001__03__dk",
+            "items/mh_p_kbi__school_001",
+            "items/mh_p_kbi__mh_001__03__dk__l",
+            "items/mh_p_kbi__school_001__01",
+            "items/mh_p_kbi__school_001__02",
+            "items/mh_p_kbi__school_001__03___1",
+            "items/mh_p_kbi__school_001__03___2",
+            "items/mh_p_kbi__school_001__03___3",
+            "items/mh_p_kbi__school_001__03___4",
+            "items/mh_p_kbi__school_001__03___5",
+            "items/mh_p_kbi__school_001__03___6",
+            "items/mh_p_kbi__school_001__03___7",
+            "items/mh_p_kbi__school_001__03___8",
+            "items/mh_p_kbi__school_001__03___9",
+            "items/mh_p_kbi__school_001__03___10",
+            "items/mh_p_kbi__school_001__03___777",
+            "items/mh_p_kbi__school_001__03___999",
+            "items/mh_p_kbi__school_002",
+            "items/mh_p_kbi__school_003",
+            "items/mh_p_kbi__school_003__01___1",
+            "items/mh_p_kbi__school_003__01___2",
+            "items/mh_p_kbi__school_003__01___3",
+            "items/mh_p_kbi__school_003__01___4",
+            "items/mh_p_kbi__school_003__01___5",
+            "items/mh_p_kbi__school_003__01___6",
+            "items/mh_p_kbi__school_003__01___7",
+            "items/mh_p_kbi__school_003__01___8",
+            "items/mh_p_kbi__school_003__01___777",
+            "items/mh_p_kbi__school_003__01___999",
+            "items/mh_p_kbi__school_003__01__v1___1",
+            "items/mh_p_kbi__school_003__01__v1___2",
+            "items/mh_p_kbi__school_003__01__v1___3",
+            "items/mh_p_kbi__school_003__01__v1___4",
+            "items/mh_p_kbi__school_003__01__v1___5",
+            "items/mh_p_kbi__school_003__01__v1___6",
+            "items/mh_p_kbi__school_003__01__v1___7",
+            "items/mh_p_kbi__school_003__01__v1___8",
+            "items/mh_p_kbi__school_003__01__v1___9",
+            "items/mh_p_kbi__school_003__01__v1___10",
+            "items/mh_p_kbi__school_003__01__v1___11",
+            "items/mh_p_kbi__school_003__01__v1___12",
+            "items/mh_p_kbi__school_003__01__v1___13",
+            "items/mh_p_kbi__school_003__01__v1___14",
+            "items/mh_p_kbi__school_003__01__v1___15",
+            "items/mh_p_kbi__school_003__01__v1___16",
+            "items/mh_p_kbi__school_003__01__v1___17",
+            "items/mh_p_kbi__school_003__01__v1___18",
+            "items/mh_p_kbi__school_003__01__v1___19",
+            "items/mh_p_kbi__school_003__01__v1___20",
+            "items/mh_p_kbi__school_003__01__v1___777",
+            "items/mh_p_kbi__school_003__01__v1___999",
+            "items/mh_p_kbi__school_004",
+            "items/mh_p_kbi__school_004__v01",
+            "items/mh_p_kbi__school_005",
+            "items/mh_p_kbi__school_006",
+            "items/mh_p_kbi__school_007___1",
+            "items/mh_p_kbi__school_007___2",
+            "items/mh_p_kbi__school_007___3",
+            "items/mh_p_kbi__school_007___4",
+            "items/mh_p_kbi__school_007___5",
+            "items/mh_p_kbi__school_007___6",
+            "items/mh_p_kbi__school_007___7",
+            "items/mh_p_kbi__school_007___8",
+            "items/mh_p_kbi__school_007___9",
+            "items/mh_p_kbi__school_007___10",
+            "items/mh_p_kbi__school_007___777",
+            "items/mh_p_kbi__so_001",
+            "items/mh_p_kbi__so_001__01",
+            "items/mh_p_kbi__so_001__01__l",
+            "items/mh_p_kbi__su_001",
+            "items/mh_p_kbi__su_001__l",
+            "items/mh_p_kbi__su_001__dk",
+            "items/mh_p_kbi__su_001__dk__l"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_kbi_dtt",
+                "isVis": true,
+                "variableName": "mh_p_kbi_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_age",
+                "isVis": true,
+                "variableName": "mh_p_kbi_age"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_lang",
+                "isVis": true,
+                "variableName": "mh_p_kbi_lang"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__l"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___9",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___9"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___10",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___10"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___11",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___11"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___12",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___12"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01___444",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01___444"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___9",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___9"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___10",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___10"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___11",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___11"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___12",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___12"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___13",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___13"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___14",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___14"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___15",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___15"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_001__01__l___444",
+                "isVis": true,
+                "variableName": "mh_p_kbi_001__01__l___444"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___9",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___9"
+            },
+            {
+                "isAbout": "items/mh_p_kbi_002__01___444",
+                "isVis": true,
+                "variableName": "mh_p_kbi_002__01___444"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__bully_001",
+                "isVis": true,
+                "variableName": "mh_p_kbi__bully_001"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__bully_001__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi__bully_001__l"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__frnd_001",
+                "isVis": true,
+                "variableName": "mh_p_kbi__frnd_001"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__frnd_001__01",
+                "isVis": true,
+                "variableName": "mh_p_kbi__frnd_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__frnd_002",
+                "isVis": true,
+                "variableName": "mh_p_kbi__frnd_002"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__frnd_002__01",
+                "isVis": true,
+                "variableName": "mh_p_kbi__frnd_002__01"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__frnd_003",
+                "isVis": true,
+                "variableName": "mh_p_kbi__frnd_003"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__l"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__01",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__01__dk",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__01__dk"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__01__dk__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__01__dk__l"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__01__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__01__l"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___9",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___9"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02___10",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02___10"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___9",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___9"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___10",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___10"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l___777",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l___777"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___9",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___9"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__02__l__v1___777",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__02__l__v1___777"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__03",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__03"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__03__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__03__l"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__03__dk",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__03__dk"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__mh_001__03__dk__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi__mh_001__03__dk__l"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__01",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__02",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__02"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___9",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___9"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___10",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___10"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___777",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___777"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_001__03___999",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_001__03___999"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_002",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_002"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___777",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___777"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01___999",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01___999"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___9",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___9"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___10",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___10"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___11",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___11"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___12",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___12"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___13",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___13"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___14",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___14"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___15",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___15"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___16",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___16"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___17",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___17"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___18",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___18"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___19",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___19"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___20",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___20"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___777",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___777"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_003__01__v1___999",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_003__01__v1___999"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_004",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_004"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_004__v01",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_004__v01"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_005",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_005"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_006",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_006"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___1",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___1"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___2",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___2"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___3",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___3"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___4",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___4"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___5",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___5"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___6",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___6"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___7",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___7"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___8",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___8"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___9",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___9"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___10",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___10"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__school_007___777",
+                "isVis": true,
+                "variableName": "mh_p_kbi__school_007___777"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__so_001",
+                "isVis": true,
+                "variableName": "mh_p_kbi__so_001"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__so_001__01",
+                "isVis": true,
+                "variableName": "mh_p_kbi__so_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__so_001__01__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi__so_001__01__l"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__su_001",
+                "isVis": true,
+                "variableName": "mh_p_kbi__su_001"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__su_001__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi__su_001__l"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__su_001__dk",
+                "isVis": true,
+                "variableName": "mh_p_kbi__su_001__dk"
+            },
+            {
+                "isAbout": "items/mh_p_kbi__su_001__dk__l",
+                "isVis": true,
+                "variableName": "mh_p_kbi__su_001__dk__l"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

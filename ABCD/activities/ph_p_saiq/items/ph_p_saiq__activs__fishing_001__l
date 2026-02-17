@@ -1,0 +1,76 @@
+{
+    "id": "ph_p_saiq__activs__fishing_001__l",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "Please indicate whether your child has EVER participated in any of the following sports and activities continuously for 4 months or more (e.g., for a season in sports, or at least four months of lessons, group participation, etc). We will then ask you some follow-up questions about EACH of the sports or activities in which your child has participated."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Physical Activity"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sports_activities_involvement_saiqparent_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sai_p_yr_3_activities_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_saiq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_saiq__activs__fishing_001__l"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_saiq_0039"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_saiq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_saiq__activs__fishing_001__l"
+    },
+    "question": {
+        "en": "Please indicate whether your child has ever participated in any of the following sports and activities continuously for 4 months or more (e.g., for a season in sports, or at least four months of lessons, group participation, etc). We will then ask you some follow-up questions about each of the sports or activities in which your child has participated: [Fishing, Hunting, Archery]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

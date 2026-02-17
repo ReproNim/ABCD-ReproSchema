@@ -1,0 +1,143 @@
+{
+    "id": "ph_p_cna_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ph_p_cna"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ph_p_cna_dtt",
+            "items/ph_p_cna_age",
+            "items/ph_p_cna_lang",
+            "items/ph_p_cna_001",
+            "items/ph_p_cna_002",
+            "items/ph_p_cna_003",
+            "items/ph_p_cna_004",
+            "items/ph_p_cna_005",
+            "items/ph_p_cna_006",
+            "items/ph_p_cna_007",
+            "items/ph_p_cna_008",
+            "items/ph_p_cna_009",
+            "items/ph_p_cna_010",
+            "items/ph_p_cna_011",
+            "items/ph_p_cna_012",
+            "items/ph_p_cna_013",
+            "items/ph_p_cna_014",
+            "items/ph_p_cna__vit_001",
+            "items/ph_p_cna__vit_002",
+            "items/ph_p_cna_nm",
+            "items/ph_p_cna_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ph_p_cna_dtt",
+                "isVis": true,
+                "variableName": "ph_p_cna_dtt"
+            },
+            {
+                "isAbout": "items/ph_p_cna_age",
+                "isVis": true,
+                "variableName": "ph_p_cna_age"
+            },
+            {
+                "isAbout": "items/ph_p_cna_lang",
+                "isVis": true,
+                "variableName": "ph_p_cna_lang"
+            },
+            {
+                "isAbout": "items/ph_p_cna_001",
+                "isVis": true,
+                "variableName": "ph_p_cna_001"
+            },
+            {
+                "isAbout": "items/ph_p_cna_002",
+                "isVis": true,
+                "variableName": "ph_p_cna_002"
+            },
+            {
+                "isAbout": "items/ph_p_cna_003",
+                "isVis": true,
+                "variableName": "ph_p_cna_003"
+            },
+            {
+                "isAbout": "items/ph_p_cna_004",
+                "isVis": true,
+                "variableName": "ph_p_cna_004"
+            },
+            {
+                "isAbout": "items/ph_p_cna_005",
+                "isVis": true,
+                "variableName": "ph_p_cna_005"
+            },
+            {
+                "isAbout": "items/ph_p_cna_006",
+                "isVis": true,
+                "variableName": "ph_p_cna_006"
+            },
+            {
+                "isAbout": "items/ph_p_cna_007",
+                "isVis": true,
+                "variableName": "ph_p_cna_007"
+            },
+            {
+                "isAbout": "items/ph_p_cna_008",
+                "isVis": true,
+                "variableName": "ph_p_cna_008"
+            },
+            {
+                "isAbout": "items/ph_p_cna_009",
+                "isVis": true,
+                "variableName": "ph_p_cna_009"
+            },
+            {
+                "isAbout": "items/ph_p_cna_010",
+                "isVis": true,
+                "variableName": "ph_p_cna_010"
+            },
+            {
+                "isAbout": "items/ph_p_cna_011",
+                "isVis": true,
+                "variableName": "ph_p_cna_011"
+            },
+            {
+                "isAbout": "items/ph_p_cna_012",
+                "isVis": true,
+                "variableName": "ph_p_cna_012"
+            },
+            {
+                "isAbout": "items/ph_p_cna_013",
+                "isVis": true,
+                "variableName": "ph_p_cna_013"
+            },
+            {
+                "isAbout": "items/ph_p_cna_014",
+                "isVis": true,
+                "variableName": "ph_p_cna_014"
+            },
+            {
+                "isAbout": "items/ph_p_cna__vit_001",
+                "isVis": true,
+                "variableName": "ph_p_cna__vit_001"
+            },
+            {
+                "isAbout": "items/ph_p_cna__vit_002",
+                "isVis": true,
+                "variableName": "ph_p_cna__vit_002"
+            },
+            {
+                "isAbout": "items/ph_p_cna_nm",
+                "isVis": true,
+                "variableName": "ph_p_cna_nm"
+            },
+            {
+                "isAbout": "items/ph_p_cna_sum",
+                "isVis": true,
+                "variableName": "ph_p_cna_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

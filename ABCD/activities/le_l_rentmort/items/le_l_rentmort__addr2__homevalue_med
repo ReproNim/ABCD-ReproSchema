@@ -1,0 +1,71 @@
+{
+    "id": "le_l_rentmort__addr2__homevalue_med",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "US dollars ($)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Neighborhood Social Factors"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr2_oz_medhvalue"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_rentmort"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_rentmort__addr2__homevalue_med"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_rentmort_0006"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_rentmort"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_rentmort__addr2__homevalue_med"
+    },
+    "question": {
+        "en": "Median house value [ACS 2014-2018; census tract] (Address 2) (address 2)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "le_l_demo__distr__urban_locale",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "School (Demographics)"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "led_school_part_201"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ledsch_seda_d_urban"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#SEDA"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_demo__distr__urban_locale"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_demo_distr_0025"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_demo__distr"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_demo__distr__urban_locale"
+    },
+    "question": {
+        "en": "City/urban locale [SEDA (CCD); District]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

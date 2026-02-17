@@ -1,0 +1,86 @@
+{
+    "id": "covid_y_qtn__edusupp_005",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "COVID"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "yabcdcovid19questionnaire01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_abcd_covid19_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "parent_involved_school_cv"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "parent_involved_school_cv"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_y_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_y_qtn__edusupp_005"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_y_qtn_0031"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_y_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_y_qtn__edusupp_005"
+    },
+    "question": {
+        "en": "In the past week, about how many days per week was a parent (or other adult taking care of you) involved with your school work?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

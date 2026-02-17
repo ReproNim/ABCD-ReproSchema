@@ -1,0 +1,81 @@
+{
+    "id": "mh_p_famhx__drg__moth_001___0",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Broad Psychopathology"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "| fhxp102"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_family_history | family_history_assessment_parent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "| fam_history_q5d_drugs___0"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fam_hist_q2_p | fam_history_q5d_drugs"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_famhx"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_famhx__drg__moth_001___0"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_famhx_0971"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_famhx"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_famhx__drg__moth_001___0"
+    },
+    "question": {
+        "en": "Problems due to drugs - Biological mother [Multi-select]: No Problems"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

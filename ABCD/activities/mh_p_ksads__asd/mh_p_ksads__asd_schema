@@ -1,0 +1,131 @@
+{
+    "id": "mh_p_ksads__asd_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_ksads__asd"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_ksads__asd__hyporeact__past_sx",
+            "items/mh_p_ksads__asd__hyporeact__pres_sx",
+            "items/mh_p_ksads__asd__hyprreact__past_sx",
+            "items/mh_p_ksads__asd__hyprreact__pres_sx",
+            "items/mh_p_ksads__asd__imp__pres_sx",
+            "items/mh_p_ksads__asd__pooreyecont__past_sx",
+            "items/mh_p_ksads__asd__pooreyecont__pres_sx",
+            "items/mh_p_ksads__asd__relatsh__past_sx",
+            "items/mh_p_ksads__asd__relatsh__pres_sx",
+            "items/mh_p_ksads__asd__restrctintrst__past_sx",
+            "items/mh_p_ksads__asd__restrctintrst__pres_sx",
+            "items/mh_p_ksads__asd__routine__past_sx",
+            "items/mh_p_ksads__asd__routine__pres_sx",
+            "items/mh_p_ksads__asd__socemotrcp__past_sx",
+            "items/mh_p_ksads__asd__socemotrcp__pres_sx",
+            "items/mh_p_ksads__asd__unusmvmnt__past_sx",
+            "items/mh_p_ksads__asd__unusmvmnt__pres_sx",
+            "items/mh_p_ksads__asd__oth_dx",
+            "items/mh_p_ksads__asd_dx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__asd__hyporeact__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__hyporeact__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__hyporeact__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__hyporeact__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__hyprreact__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__hyprreact__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__hyprreact__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__hyprreact__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__imp__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__imp__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__pooreyecont__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__pooreyecont__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__pooreyecont__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__pooreyecont__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__relatsh__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__relatsh__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__relatsh__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__relatsh__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__restrctintrst__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__restrctintrst__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__restrctintrst__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__restrctintrst__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__routine__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__routine__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__routine__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__routine__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__socemotrcp__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__socemotrcp__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__socemotrcp__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__socemotrcp__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__unusmvmnt__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__unusmvmnt__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__unusmvmnt__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__unusmvmnt__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd__oth_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd__oth_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__asd_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__asd_dx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,377 @@
+{
+    "id": "mh_p_ksads__psych_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_ksads__psych"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_ksads__psych__aps__past_sx",
+            "items/mh_p_ksads__psych__aps__pres_sx",
+            "items/mh_p_ksads__psych__culturacpt__pres_sx",
+            "items/mh_p_ksads__psych__delus__affctill__past_sx",
+            "items/mh_p_ksads__psych__delus__affctill__pres_sx",
+            "items/mh_p_ksads__psych__delus__drguse__past_sx",
+            "items/mh_p_ksads__psych__delus__drguse__pres_sx",
+            "items/mh_p_ksads__psych__delus__freq__past_sx",
+            "items/mh_p_ksads__psych__delus__freq__pres_sx",
+            "items/mh_p_ksads__psych__delus__imp__past_sx",
+            "items/mh_p_ksads__psych__delus__imp__pres_sx",
+            "items/mh_p_ksads__psych__delus__persec__past_sx",
+            "items/mh_p_ksads__psych__delus__persec__2wk__pres_sx",
+            "items/mh_p_ksads__psych__delus__oth__past_sx",
+            "items/mh_p_ksads__psych__delus__oth__2wk__pres_sx",
+            "items/mh_p_ksads__psych__delus__past_sx",
+            "items/mh_p_ksads__psych__delus__pres_sx",
+            "items/mh_p_ksads__psych__delus__tenac__past_sx",
+            "items/mh_p_ksads__psych__delus__tenac__pres_sx",
+            "items/mh_p_ksads__psych__disorg__behav__pres_sx",
+            "items/mh_p_ksads__psych__disorg__speech__pres_sx",
+            "items/mh_p_ksads__psych__halluc__adt__ext__pres_sx",
+            "items/mh_p_ksads__psych__halluc__adt__past_sx",
+            "items/mh_p_ksads__psych__halluc__adt__pres_sx",
+            "items/mh_p_ksads__psych__halluc__affctill__past_sx",
+            "items/mh_p_ksads__psych__halluc__affctill__pres_sx",
+            "items/mh_p_ksads__psych__halluc__clust__past_sx",
+            "items/mh_p_ksads__psych__halluc__clust__pres_sx",
+            "items/mh_p_ksads__psych__halluc__drguse__past_sx",
+            "items/mh_p_ksads__psych__halluc__drguse__pres_sx",
+            "items/mh_p_ksads__psych__halluc__freq__past_sx",
+            "items/mh_p_ksads__psych__halluc__freq__pres_sx",
+            "items/mh_p_ksads__psych__halluc__impfunct__past_sx",
+            "items/mh_p_ksads__psych__halluc__impfunct__pres_sx",
+            "items/mh_p_ksads__psych__halluc__notrma__past_sx",
+            "items/mh_p_ksads__psych__halluc__notrma__pres_sx",
+            "items/mh_p_ksads__psych__halluc__oth__altw__pres_sx",
+            "items/mh_p_ksads__psych__halluc__oth__ap__pres_sx",
+            "items/mh_p_ksads__psych__halluc__oth__past_sx",
+            "items/mh_p_ksads__psych__halluc__oth__pres_sx",
+            "items/mh_p_ksads__psych__halluc__past_sx",
+            "items/mh_p_ksads__psych__halluc__pres_sx",
+            "items/mh_p_ksads__psych__halluc__wake__past_sx",
+            "items/mh_p_ksads__psych__halluc__wake__pres_sx",
+            "items/mh_p_ksads__psych__neg__pres_sx",
+            "items/mh_p_ksads__psych__tenacblf__past_sx",
+            "items/mh_p_ksads__psych__tenacblf__pres_sx",
+            "items/mh_p_ksads__psych__no3mosymptfree__past_sx",
+            "items/mh_p_ksads__psych__aps__past_dx",
+            "items/mh_p_ksads__psych__aps__pres_dx",
+            "items/mh_p_ksads__psych__delus__past_dx",
+            "items/mh_p_ksads__psych__delus__pres_dx",
+            "items/mh_p_ksads__psych__hlcn__past_dx",
+            "items/mh_p_ksads__psych__hlcn__pres_dx",
+            "items/mh_p_ksads__psych__schiz__pres_dx",
+            "items/mh_p_ksads__psych__schizaffct__pres_dx",
+            "items/mh_p_ksads__psych__schizform__pres_dx",
+            "items/mh_p_ksads__psych__schiz__oth__past_dx",
+            "items/mh_p_ksads__psych__schiz__oth__pres_dx",
+            "items/mh_p_ksads__psych__oth__pres_dx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__psych__aps__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__aps__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__aps__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__aps__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__culturacpt__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__culturacpt__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__affctill__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__affctill__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__affctill__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__affctill__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__drguse__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__drguse__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__drguse__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__drguse__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__freq__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__freq__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__freq__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__freq__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__imp__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__imp__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__imp__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__imp__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__persec__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__persec__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__persec__2wk__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__persec__2wk__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__oth__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__oth__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__oth__2wk__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__oth__2wk__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__tenac__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__tenac__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__tenac__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__tenac__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__disorg__behav__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__disorg__behav__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__disorg__speech__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__disorg__speech__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__adt__ext__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__adt__ext__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__adt__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__adt__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__adt__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__adt__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__affctill__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__affctill__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__affctill__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__affctill__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__clust__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__clust__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__clust__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__clust__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__drguse__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__drguse__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__drguse__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__drguse__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__freq__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__freq__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__freq__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__freq__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__impfunct__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__impfunct__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__impfunct__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__impfunct__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__notrma__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__notrma__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__notrma__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__notrma__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__oth__altw__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__oth__altw__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__oth__ap__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__oth__ap__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__oth__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__oth__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__oth__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__oth__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__wake__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__wake__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__halluc__wake__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__halluc__wake__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__neg__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__neg__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__tenacblf__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__tenacblf__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__tenacblf__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__tenacblf__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__no3mosymptfree__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__no3mosymptfree__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__aps__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__aps__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__aps__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__aps__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__hlcn__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__hlcn__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__hlcn__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__hlcn__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__schiz__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__schiz__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__schizaffct__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__schizaffct__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__schizform__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__schizform__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__schiz__oth__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__schiz__oth__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__schiz__oth__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__schiz__oth__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__oth__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__oth__pres_dx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

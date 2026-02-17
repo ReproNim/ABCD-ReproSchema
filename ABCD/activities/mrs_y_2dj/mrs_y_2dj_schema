@@ -1,0 +1,401 @@
+{
+    "id": "mrs_y_2dj_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mrs_y_2dj"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mrs_y_2dj_dt",
+            "items/mrs_y_2dj_age",
+            "items/mrs_y_2dj_site",
+            "items/mrs_y_2dj__ala_area",
+            "items/mrs_y_2dj__ala__crlb_prcnt",
+            "items/mrs_y_2dj__asc_area",
+            "items/mrs_y_2dj__asc__crlb_prcnt",
+            "items/mrs_y_2dj__asp_area",
+            "items/mrs_y_2dj__asp__crlb_prcnt",
+            "items/mrs_y_2dj__cre303_area",
+            "items/mrs_y_2dj__cre303__crlb_prcnt",
+            "items/mrs_y_2dj__cre391_area",
+            "items/mrs_y_2dj__cre391__crlb_prcnt",
+            "items/mrs_y_2dj__gaba_area",
+            "items/mrs_y_2dj__gaba__crlb_prcnt",
+            "items/mrs_y_2dj__glc_area",
+            "items/mrs_y_2dj__glc__crlb_prcnt",
+            "items/mrs_y_2dj__gln_area",
+            "items/mrs_y_2dj__gln__crlb_prcnt",
+            "items/mrs_y_2dj__glu_area",
+            "items/mrs_y_2dj__glu__crlb_prcnt",
+            "items/mrs_y_2dj__gly_area",
+            "items/mrs_y_2dj__gly__crlb_prcnt",
+            "items/mrs_y_2dj__gpc_area",
+            "items/mrs_y_2dj__gpc__crlb_prcnt",
+            "items/mrs_y_2dj__gsh_area",
+            "items/mrs_y_2dj__gsh__crlb_prcnt",
+            "items/mrs_y_2dj__lac_area",
+            "items/mrs_y_2dj__lac__crlb_prcnt",
+            "items/mrs_y_2dj__mi_area",
+            "items/mrs_y_2dj__mi__crlb_prcnt",
+            "items/mrs_y_2dj__naa_area",
+            "items/mrs_y_2dj__naa__crlb_prcnt",
+            "items/mrs_y_2dj__naag_area",
+            "items/mrs_y_2dj__naag__crlb_prcnt",
+            "items/mrs_y_2dj__pch_area",
+            "items/mrs_y_2dj__pch__crlb_prcnt",
+            "items/mrs_y_2dj__pe_area",
+            "items/mrs_y_2dj__pe__crlb_prcnt",
+            "items/mrs_y_2dj__scy_area",
+            "items/mrs_y_2dj__scy__crlb_prcnt",
+            "items/mrs_y_2dj__tau_area",
+            "items/mrs_y_2dj__tau__crlb_prcnt",
+            "items/mrs_y_2dj__ala__cre_ratio",
+            "items/mrs_y_2dj__asc__cre_ratio",
+            "items/mrs_y_2dj__asp__cre_ratio",
+            "items/mrs_y_2dj__cho__cre_ratio",
+            "items/mrs_y_2dj__cre391__cre_ratio",
+            "items/mrs_y_2dj__gaba__cre_ratio",
+            "items/mrs_y_2dj__glc__cre_ratio",
+            "items/mrs_y_2dj__gln__cre_ratio",
+            "items/mrs_y_2dj__glu__cre_ratio",
+            "items/mrs_y_2dj__gly__cre_ratio",
+            "items/mrs_y_2dj__gpc__cre_ratio",
+            "items/mrs_y_2dj__gsh__cre_ratio",
+            "items/mrs_y_2dj__lac__cre_ratio",
+            "items/mrs_y_2dj__mi__cre_ratio",
+            "items/mrs_y_2dj__naa__cre_ratio",
+            "items/mrs_y_2dj__naa__naag__cre_ratio",
+            "items/mrs_y_2dj__naag__cre_ratio",
+            "items/mrs_y_2dj__pch__cre_ratio",
+            "items/mrs_y_2dj__pe__cre_ratio",
+            "items/mrs_y_2dj__scy__cre_ratio",
+            "items/mrs_y_2dj__tau__cre_ratio"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mrs_y_2dj_dt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj_dt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj_age",
+                "isVis": true,
+                "variableName": "mrs_y_2dj_age"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj_site",
+                "isVis": true,
+                "variableName": "mrs_y_2dj_site"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__ala_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__ala_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__ala__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__ala__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__asc_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__asc_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__asc__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__asc__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__asp_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__asp_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__asp__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__asp__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__cre303_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__cre303_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__cre303__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__cre303__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__cre391_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__cre391_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__cre391__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__cre391__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gaba_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gaba_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gaba__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gaba__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__glc_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__glc_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__glc__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__glc__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gln_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gln_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gln__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gln__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__glu_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__glu_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__glu__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__glu__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gly_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gly_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gly__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gly__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gpc_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gpc_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gpc__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gpc__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gsh_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gsh_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gsh__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gsh__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__lac_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__lac_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__lac__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__lac__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__mi_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__mi_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__mi__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__mi__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__naa_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__naa_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__naa__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__naa__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__naag_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__naag_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__naag__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__naag__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__pch_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__pch_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__pch__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__pch__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__pe_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__pe_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__pe__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__pe__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__scy_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__scy_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__scy__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__scy__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__tau_area",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__tau_area"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__tau__crlb_prcnt",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__tau__crlb_prcnt"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__ala__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__ala__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__asc__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__asc__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__asp__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__asp__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__cho__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__cho__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__cre391__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__cre391__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gaba__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gaba__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__glc__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__glc__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gln__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gln__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__glu__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__glu__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gly__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gly__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gpc__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gpc__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__gsh__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__gsh__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__lac__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__lac__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__mi__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__mi__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__naa__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__naa__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__naa__naag__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__naa__naag__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__naag__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__naag__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__pch__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__pch__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__pe__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__pe__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__scy__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__scy__cre_ratio"
+            },
+            {
+                "isAbout": "items/mrs_y_2dj__tau__cre_ratio",
+                "isVis": true,
+                "variableName": "mrs_y_2dj__tau__cre_ratio"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

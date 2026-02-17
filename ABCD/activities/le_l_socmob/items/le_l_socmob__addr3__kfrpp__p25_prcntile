@@ -1,0 +1,71 @@
+{
+    "id": "le_l_socmob__addr3__kfrpp__p25_prcntile",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Neighborhood Social Factors"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_rhds01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_opat_kfrpp_p25"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_socmob"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_socmob__addr3__kfrpp__p25_prcntile"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_socmob_0017"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_socmob"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_socmob__addr3__kfrpp__p25_prcntile"
+    },
+    "question": {
+        "en": "Mean household income rank for children whose parents were at the 25th percentile of the national income distribution. Incomes for children were measured as mean earnings in 2014-2015 when they were between the ages 31-37 [opportunity atlas; census tract] (the 25th percentile variable is what is termed as ''upward mobility'' by Chetty, et al.) (Address 3) (address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

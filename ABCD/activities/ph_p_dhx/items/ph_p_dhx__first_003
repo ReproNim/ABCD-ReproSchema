@@ -1,0 +1,91 @@
+{
+    "id": "ph_p_dhx__first_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "CDC Average = 18 months, If you don't know, please choose \"don't know\" in what follows below"
+        },
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "months"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Development"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "dhx01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "developmental_history_questionnaire_devhxparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "devhx_19c_p"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "devhx_19c_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_dhx"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_dhx__first_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_dhx_0047"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_dhx"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_dhx__first_003"
+    },
+    "question": {
+        "en": "At approximately what age was this child first able to do each of the following?: Walk without assistance"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

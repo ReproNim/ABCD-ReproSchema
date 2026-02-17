@@ -1,0 +1,81 @@
+{
+    "id": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_count",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Monetary Incentive Delay"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Behavior"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_mid02"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tfmri_mid_r1_beh_srwpfb_nt"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_tfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_count"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_tfmri_mid_beh_0068"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__mid__beh"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_tfmri__mid__beh__r01__trial__rwrd__sm__crct_count"
+    },
+    "question": {
+        "en": "Task fMRI - Monetary Incentive Delay task - Behavioral (run 1): Total number of small reward trials answered correctly for run 1"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

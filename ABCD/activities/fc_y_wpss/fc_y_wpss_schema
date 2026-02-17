@@ -1,0 +1,83 @@
+{
+    "id": "fc_y_wpss_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_y_wpss"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_y_wpss_dtt",
+            "items/fc_y_wpss_age",
+            "items/fc_y_wpss_adm",
+            "items/fc_y_wpss_001",
+            "items/fc_y_wpss_002",
+            "items/fc_y_wpss_003",
+            "items/fc_y_wpss_004",
+            "items/fc_y_wpss_005",
+            "items/fc_y_wpss_006",
+            "items/fc_y_wpss_mean",
+            "items/fc_y_wpss_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_y_wpss_dtt",
+                "isVis": true,
+                "variableName": "fc_y_wpss_dtt"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_age",
+                "isVis": true,
+                "variableName": "fc_y_wpss_age"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_adm",
+                "isVis": true,
+                "variableName": "fc_y_wpss_adm"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_001",
+                "isVis": true,
+                "variableName": "fc_y_wpss_001"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_002",
+                "isVis": true,
+                "variableName": "fc_y_wpss_002"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_003",
+                "isVis": true,
+                "variableName": "fc_y_wpss_003"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_004",
+                "isVis": true,
+                "variableName": "fc_y_wpss_004"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_005",
+                "isVis": true,
+                "variableName": "fc_y_wpss_005"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_006",
+                "isVis": true,
+                "variableName": "fc_y_wpss_006"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_mean",
+                "isVis": true,
+                "variableName": "fc_y_wpss_mean"
+            },
+            {
+                "isAbout": "items/fc_y_wpss_nm",
+                "isVis": true,
+                "variableName": "fc_y_wpss_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

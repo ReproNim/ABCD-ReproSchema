@@ -1,0 +1,71 @@
+{
+    "id": "su_y_otu__inh_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Environment"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "opportunity_to_use"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "su_liquids"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_otu"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_otu__inh_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_otu_0006"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_otu"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_otu__inh_001"
+    },
+    "question": {
+        "en": "In the past year, have you had a chance or opportunity to use: Liquid, sprays, and gases that people sniff or inhale to get high (such as gasoline, glue, and nitrous oxide)?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

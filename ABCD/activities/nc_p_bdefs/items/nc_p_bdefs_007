@@ -1,0 +1,81 @@
+{
+    "id": "nc_p_bdefs_007",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Questionnaire"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "barkley_exec_func01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "barkley"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "bdefs_explain_pt_p"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "bdefs_explain_pt_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_p_bdefs"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_p_bdefs_007"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_p_bdefs_0010"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_p_bdefs"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_p_bdefs_007"
+    },
+    "question": {
+        "en": "How often does this child experience each of these problems during the past six months: Can't seem to get to the point of their explanations"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

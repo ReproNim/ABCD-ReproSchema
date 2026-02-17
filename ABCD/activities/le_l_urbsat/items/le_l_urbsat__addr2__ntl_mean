@@ -1,0 +1,71 @@
+{
+    "id": "le_l_urbsat__addr2__ntl_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "nanowatts per square centimeters per steradians (nW/cm\u00b2/sr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Natural Space and Satellite"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr2_urbsat_ntl"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_urbsat"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_urbsat__addr2__ntl_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_urbsat_0019"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_urbsat"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_urbsat__addr2__ntl_mean"
+    },
+    "question": {
+        "en": "Nighttime lights- (2017) total monthly average night light radiance (nW/cm2/sr) (Address 2) (address 2)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

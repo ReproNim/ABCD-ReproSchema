@@ -1,0 +1,81 @@
+{
+    "id": "mh_p_kbi_001__01___4",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosocial"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "dibf01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "ksads5_background_items_parent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "kbi_p_c_guard___4"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "kbi_p_c_guard"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_kbi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_kbi_001__01___4"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_kbi_0009"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_kbi"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_kbi_001__01___4"
+    },
+    "question": {
+        "en": "Who else does your child live with at least part of the time? [Multi-select]: Stepfather"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

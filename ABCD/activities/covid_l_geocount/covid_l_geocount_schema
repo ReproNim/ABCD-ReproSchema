@@ -1,0 +1,2117 @@
+{
+    "id": "covid_l_geocount_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "covid_l_geocount"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/covid_l_geocount__addr1__cases100k_count__db0",
+            "items/covid_l_geocount__addr1__cases100k_count__db1",
+            "items/covid_l_geocount__addr1__cases100k_count__db2",
+            "items/covid_l_geocount__addr1__cases100k_count__db3",
+            "items/covid_l_geocount__addr1__cases100k_count__db4",
+            "items/covid_l_geocount__addr1__cases100k_count__db5",
+            "items/covid_l_geocount__addr1__cases100k_count__db6",
+            "items/covid_l_geocount__addr1__cases_count__db0",
+            "items/covid_l_geocount__addr1__cases_count__db1",
+            "items/covid_l_geocount__addr1__cases_count__db2",
+            "items/covid_l_geocount__addr1__cases_count__db3",
+            "items/covid_l_geocount__addr1__cases_count__db4",
+            "items/covid_l_geocount__addr1__cases_count__db5",
+            "items/covid_l_geocount__addr1__cases_count__db6",
+            "items/covid_l_geocount__addr1__deaths100k_count__db0",
+            "items/covid_l_geocount__addr1__deaths100k_count__db1",
+            "items/covid_l_geocount__addr1__deaths100k_count__db2",
+            "items/covid_l_geocount__addr1__deaths100k_count__db3",
+            "items/covid_l_geocount__addr1__deaths100k_count__db4",
+            "items/covid_l_geocount__addr1__deaths100k_count__db5",
+            "items/covid_l_geocount__addr1__deaths100k_count__db6",
+            "items/covid_l_geocount__addr1__deaths_count__db0",
+            "items/covid_l_geocount__addr1__deaths_count__db1",
+            "items/covid_l_geocount__addr1__deaths_count__db2",
+            "items/covid_l_geocount__addr1__deaths_count__db3",
+            "items/covid_l_geocount__addr1__deaths_count__db4",
+            "items/covid_l_geocount__addr1__deaths_count__db5",
+            "items/covid_l_geocount__addr1__deaths_count__db6",
+            "items/covid_l_geocount__addr1__newcase100k7day_mean__db0",
+            "items/covid_l_geocount__addr1__newcase100k7day_mean__db1",
+            "items/covid_l_geocount__addr1__newcase100k7day_mean__db2",
+            "items/covid_l_geocount__addr1__newcase100k7day_mean__db3",
+            "items/covid_l_geocount__addr1__newcase100k7day_mean__db4",
+            "items/covid_l_geocount__addr1__newcase100k7day_mean__db5",
+            "items/covid_l_geocount__addr1__newcase100k7day_mean__db6",
+            "items/covid_l_geocount__addr1__newcases100k_count__db0",
+            "items/covid_l_geocount__addr1__newcases100k_count__db1",
+            "items/covid_l_geocount__addr1__newcases100k_count__db2",
+            "items/covid_l_geocount__addr1__newcases100k_count__db3",
+            "items/covid_l_geocount__addr1__newcases100k_count__db4",
+            "items/covid_l_geocount__addr1__newcases100k_count__db5",
+            "items/covid_l_geocount__addr1__newcases100k_count__db6",
+            "items/covid_l_geocount__addr1__newcases_count__db0",
+            "items/covid_l_geocount__addr1__newcases_count__db1",
+            "items/covid_l_geocount__addr1__newcases_count__db2",
+            "items/covid_l_geocount__addr1__newcases_count__db3",
+            "items/covid_l_geocount__addr1__newcases_count__db4",
+            "items/covid_l_geocount__addr1__newcases_count__db5",
+            "items/covid_l_geocount__addr1__newcases_count__db6",
+            "items/covid_l_geocount__addr1__newdeath100k7day_mean__db0",
+            "items/covid_l_geocount__addr1__newdeath100k7day_mean__db1",
+            "items/covid_l_geocount__addr1__newdeath100k7day_mean__db2",
+            "items/covid_l_geocount__addr1__newdeath100k7day_mean__db3",
+            "items/covid_l_geocount__addr1__newdeath100k7day_mean__db4",
+            "items/covid_l_geocount__addr1__newdeath100k7day_mean__db5",
+            "items/covid_l_geocount__addr1__newdeath100k7day_mean__db6",
+            "items/covid_l_geocount__addr1__newdeaths100k_count__db0",
+            "items/covid_l_geocount__addr1__newdeaths100k_count__db1",
+            "items/covid_l_geocount__addr1__newdeaths100k_count__db2",
+            "items/covid_l_geocount__addr1__newdeaths100k_count__db3",
+            "items/covid_l_geocount__addr1__newdeaths100k_count__db4",
+            "items/covid_l_geocount__addr1__newdeaths100k_count__db5",
+            "items/covid_l_geocount__addr1__newdeaths100k_count__db6",
+            "items/covid_l_geocount__addr1__newdeaths_count__db0",
+            "items/covid_l_geocount__addr1__newdeaths_count__db1",
+            "items/covid_l_geocount__addr1__newdeaths_count__db2",
+            "items/covid_l_geocount__addr1__newdeaths_count__db3",
+            "items/covid_l_geocount__addr1__newdeaths_count__db4",
+            "items/covid_l_geocount__addr1__newdeaths_count__db5",
+            "items/covid_l_geocount__addr1__newdeaths_count__db6",
+            "items/covid_l_geocount__addr2__cases100k_count__db0",
+            "items/covid_l_geocount__addr2__cases100k_count__db1",
+            "items/covid_l_geocount__addr2__cases100k_count__db2",
+            "items/covid_l_geocount__addr2__cases100k_count__db3",
+            "items/covid_l_geocount__addr2__cases100k_count__db4",
+            "items/covid_l_geocount__addr2__cases100k_count__db5",
+            "items/covid_l_geocount__addr2__cases100k_count__db6",
+            "items/covid_l_geocount__addr2__cases_count__db0",
+            "items/covid_l_geocount__addr2__cases_count__db1",
+            "items/covid_l_geocount__addr2__cases_count__db2",
+            "items/covid_l_geocount__addr2__cases_count__db3",
+            "items/covid_l_geocount__addr2__cases_count__db4",
+            "items/covid_l_geocount__addr2__cases_count__db5",
+            "items/covid_l_geocount__addr2__cases_count__db6",
+            "items/covid_l_geocount__addr2__deaths100k_count__db0",
+            "items/covid_l_geocount__addr2__deaths100k_count__db1",
+            "items/covid_l_geocount__addr2__deaths100k_count__db2",
+            "items/covid_l_geocount__addr2__deaths100k_count__db3",
+            "items/covid_l_geocount__addr2__deaths100k_count__db4",
+            "items/covid_l_geocount__addr2__deaths100k_count__db5",
+            "items/covid_l_geocount__addr2__deaths100k_count__db6",
+            "items/covid_l_geocount__addr2__deaths_count__db0",
+            "items/covid_l_geocount__addr2__deaths_count__db1",
+            "items/covid_l_geocount__addr2__deaths_count__db2",
+            "items/covid_l_geocount__addr2__deaths_count__db3",
+            "items/covid_l_geocount__addr2__deaths_count__db4",
+            "items/covid_l_geocount__addr2__deaths_count__db5",
+            "items/covid_l_geocount__addr2__deaths_count__db6",
+            "items/covid_l_geocount__addr2__newcase100k7day_mean__db0",
+            "items/covid_l_geocount__addr2__newcase100k7day_mean__db1",
+            "items/covid_l_geocount__addr2__newcase100k7day_mean__db2",
+            "items/covid_l_geocount__addr2__newcase100k7day_mean__db3",
+            "items/covid_l_geocount__addr2__newcase100k7day_mean__db4",
+            "items/covid_l_geocount__addr2__newcase100k7day_mean__db5",
+            "items/covid_l_geocount__addr2__newcase100k7day_mean__db6",
+            "items/covid_l_geocount__addr2__newcases100k_count__db0",
+            "items/covid_l_geocount__addr2__newcases100k_count__db1",
+            "items/covid_l_geocount__addr2__newcases100k_count__db2",
+            "items/covid_l_geocount__addr2__newcases100k_count__db3",
+            "items/covid_l_geocount__addr2__newcases100k_count__db4",
+            "items/covid_l_geocount__addr2__newcases100k_count__db5",
+            "items/covid_l_geocount__addr2__newcases100k_count__db6",
+            "items/covid_l_geocount__addr2__newcases_count__db0",
+            "items/covid_l_geocount__addr2__newcases_count__db1",
+            "items/covid_l_geocount__addr2__newcases_count__db2",
+            "items/covid_l_geocount__addr2__newcases_count__db3",
+            "items/covid_l_geocount__addr2__newcases_count__db4",
+            "items/covid_l_geocount__addr2__newcases_count__db5",
+            "items/covid_l_geocount__addr2__newcases_count__db6",
+            "items/covid_l_geocount__addr2__newdeath100k7day_mean__db0",
+            "items/covid_l_geocount__addr2__newdeath100k7day_mean__db1",
+            "items/covid_l_geocount__addr2__newdeath100k7day_mean__db2",
+            "items/covid_l_geocount__addr2__newdeath100k7day_mean__db3",
+            "items/covid_l_geocount__addr2__newdeath100k7day_mean__db4",
+            "items/covid_l_geocount__addr2__newdeath100k7day_mean__db5",
+            "items/covid_l_geocount__addr2__newdeath100k7day_mean__db6",
+            "items/covid_l_geocount__addr2__newdeaths100k_count__db0",
+            "items/covid_l_geocount__addr2__newdeaths100k_count__db1",
+            "items/covid_l_geocount__addr2__newdeaths100k_count__db2",
+            "items/covid_l_geocount__addr2__newdeaths100k_count__db3",
+            "items/covid_l_geocount__addr2__newdeaths100k_count__db4",
+            "items/covid_l_geocount__addr2__newdeaths100k_count__db5",
+            "items/covid_l_geocount__addr2__newdeaths100k_count__db6",
+            "items/covid_l_geocount__addr2__newdeaths_count__db0",
+            "items/covid_l_geocount__addr2__newdeaths_count__db1",
+            "items/covid_l_geocount__addr2__newdeaths_count__db2",
+            "items/covid_l_geocount__addr2__newdeaths_count__db3",
+            "items/covid_l_geocount__addr2__newdeaths_count__db4",
+            "items/covid_l_geocount__addr2__newdeaths_count__db5",
+            "items/covid_l_geocount__addr2__newdeaths_count__db6",
+            "items/covid_l_geocount__addr3__cases100k_count__db0",
+            "items/covid_l_geocount__addr3__cases100k_count__db1",
+            "items/covid_l_geocount__addr3__cases100k_count__db2",
+            "items/covid_l_geocount__addr3__cases100k_count__db3",
+            "items/covid_l_geocount__addr3__cases100k_count__db4",
+            "items/covid_l_geocount__addr3__cases100k_count__db5",
+            "items/covid_l_geocount__addr3__cases100k_count__db6",
+            "items/covid_l_geocount__addr3__cases_count__db0",
+            "items/covid_l_geocount__addr3__cases_count__db1",
+            "items/covid_l_geocount__addr3__cases_count__db2",
+            "items/covid_l_geocount__addr3__cases_count__db3",
+            "items/covid_l_geocount__addr3__cases_count__db4",
+            "items/covid_l_geocount__addr3__cases_count__db5",
+            "items/covid_l_geocount__addr3__cases_count__db6",
+            "items/covid_l_geocount__addr3__deaths100k_count__db0",
+            "items/covid_l_geocount__addr3__deaths100k_count__db1",
+            "items/covid_l_geocount__addr3__deaths100k_count__db2",
+            "items/covid_l_geocount__addr3__deaths100k_count__db3",
+            "items/covid_l_geocount__addr3__deaths100k_count__db4",
+            "items/covid_l_geocount__addr3__deaths100k_count__db5",
+            "items/covid_l_geocount__addr3__deaths100k_count__db6",
+            "items/covid_l_geocount__addr3__deaths_count__db0",
+            "items/covid_l_geocount__addr3__deaths_count__db1",
+            "items/covid_l_geocount__addr3__deaths_count__db2",
+            "items/covid_l_geocount__addr3__deaths_count__db3",
+            "items/covid_l_geocount__addr3__deaths_count__db4",
+            "items/covid_l_geocount__addr3__deaths_count__db5",
+            "items/covid_l_geocount__addr3__deaths_count__db6",
+            "items/covid_l_geocount__addr3__newcase100k7day_mean__db0",
+            "items/covid_l_geocount__addr3__newcase100k7day_mean__db1",
+            "items/covid_l_geocount__addr3__newcase100k7day_mean__db2",
+            "items/covid_l_geocount__addr3__newcase100k7day_mean__db3",
+            "items/covid_l_geocount__addr3__newcase100k7day_mean__db4",
+            "items/covid_l_geocount__addr3__newcase100k7day_mean__db5",
+            "items/covid_l_geocount__addr3__newcase100k7day_mean__db6",
+            "items/covid_l_geocount__addr3__newcases100k_count__db0",
+            "items/covid_l_geocount__addr3__newcases100k_count__db1",
+            "items/covid_l_geocount__addr3__newcases100k_count__db2",
+            "items/covid_l_geocount__addr3__newcases100k_count__db3",
+            "items/covid_l_geocount__addr3__newcases100k_count__db4",
+            "items/covid_l_geocount__addr3__newcases100k_count__db5",
+            "items/covid_l_geocount__addr3__newcases100k_count__db6",
+            "items/covid_l_geocount__addr3__newcases_count__db0",
+            "items/covid_l_geocount__addr3__newcases_count__db1",
+            "items/covid_l_geocount__addr3__newcases_count__db2",
+            "items/covid_l_geocount__addr3__newcases_count__db3",
+            "items/covid_l_geocount__addr3__newcases_count__db4",
+            "items/covid_l_geocount__addr3__newcases_count__db5",
+            "items/covid_l_geocount__addr3__newcases_count__db6",
+            "items/covid_l_geocount__addr3__newdeath100k7day_mean__db0",
+            "items/covid_l_geocount__addr3__newdeath100k7day_mean__db1",
+            "items/covid_l_geocount__addr3__newdeath100k7day_mean__db2",
+            "items/covid_l_geocount__addr3__newdeath100k7day_mean__db3",
+            "items/covid_l_geocount__addr3__newdeath100k7day_mean__db4",
+            "items/covid_l_geocount__addr3__newdeath100k7day_mean__db5",
+            "items/covid_l_geocount__addr3__newdeath100k7day_mean__db6",
+            "items/covid_l_geocount__addr3__newdeaths100k_count__db0",
+            "items/covid_l_geocount__addr3__newdeaths100k_count__db1",
+            "items/covid_l_geocount__addr3__newdeaths100k_count__db2",
+            "items/covid_l_geocount__addr3__newdeaths100k_count__db3",
+            "items/covid_l_geocount__addr3__newdeaths100k_count__db4",
+            "items/covid_l_geocount__addr3__newdeaths100k_count__db5",
+            "items/covid_l_geocount__addr3__newdeaths100k_count__db6",
+            "items/covid_l_geocount__addr3__newdeaths_count__db0",
+            "items/covid_l_geocount__addr3__newdeaths_count__db1",
+            "items/covid_l_geocount__addr3__newdeaths_count__db2",
+            "items/covid_l_geocount__addr3__newdeaths_count__db3",
+            "items/covid_l_geocount__addr3__newdeaths_count__db4",
+            "items/covid_l_geocount__addr3__newdeaths_count__db5",
+            "items/covid_l_geocount__addr3__newdeaths_count__db6",
+            "items/covid_l_geocount__addr4__cases100k_count__db0",
+            "items/covid_l_geocount__addr4__cases100k_count__db1",
+            "items/covid_l_geocount__addr4__cases100k_count__db2",
+            "items/covid_l_geocount__addr4__cases100k_count__db3",
+            "items/covid_l_geocount__addr4__cases100k_count__db4",
+            "items/covid_l_geocount__addr4__cases100k_count__db5",
+            "items/covid_l_geocount__addr4__cases100k_count__db6",
+            "items/covid_l_geocount__addr4__cases_count__db0",
+            "items/covid_l_geocount__addr4__cases_count__db1",
+            "items/covid_l_geocount__addr4__cases_count__db2",
+            "items/covid_l_geocount__addr4__cases_count__db3",
+            "items/covid_l_geocount__addr4__cases_count__db4",
+            "items/covid_l_geocount__addr4__cases_count__db5",
+            "items/covid_l_geocount__addr4__cases_count__db6",
+            "items/covid_l_geocount__addr4__deaths100k_count__db0",
+            "items/covid_l_geocount__addr4__deaths100k_count__db1",
+            "items/covid_l_geocount__addr4__deaths100k_count__db2",
+            "items/covid_l_geocount__addr4__deaths100k_count__db3",
+            "items/covid_l_geocount__addr4__deaths100k_count__db4",
+            "items/covid_l_geocount__addr4__deaths100k_count__db5",
+            "items/covid_l_geocount__addr4__deaths100k_count__db6",
+            "items/covid_l_geocount__addr4__deaths_count__db0",
+            "items/covid_l_geocount__addr4__deaths_count__db1",
+            "items/covid_l_geocount__addr4__deaths_count__db2",
+            "items/covid_l_geocount__addr4__deaths_count__db3",
+            "items/covid_l_geocount__addr4__deaths_count__db4",
+            "items/covid_l_geocount__addr4__deaths_count__db5",
+            "items/covid_l_geocount__addr4__deaths_count__db6",
+            "items/covid_l_geocount__addr4__newcase100k7day_mean__db0",
+            "items/covid_l_geocount__addr4__newcase100k7day_mean__db1",
+            "items/covid_l_geocount__addr4__newcase100k7day_mean__db2",
+            "items/covid_l_geocount__addr4__newcase100k7day_mean__db3",
+            "items/covid_l_geocount__addr4__newcase100k7day_mean__db4",
+            "items/covid_l_geocount__addr4__newcase100k7day_mean__db5",
+            "items/covid_l_geocount__addr4__newcase100k7day_mean__db6",
+            "items/covid_l_geocount__addr4__newcases100k_count__db0",
+            "items/covid_l_geocount__addr4__newcases100k_count__db1",
+            "items/covid_l_geocount__addr4__newcases100k_count__db2",
+            "items/covid_l_geocount__addr4__newcases100k_count__db3",
+            "items/covid_l_geocount__addr4__newcases100k_count__db4",
+            "items/covid_l_geocount__addr4__newcases100k_count__db5",
+            "items/covid_l_geocount__addr4__newcases100k_count__db6",
+            "items/covid_l_geocount__addr4__newcases_count__db0",
+            "items/covid_l_geocount__addr4__newcases_count__db1",
+            "items/covid_l_geocount__addr4__newcases_count__db2",
+            "items/covid_l_geocount__addr4__newcases_count__db3",
+            "items/covid_l_geocount__addr4__newcases_count__db4",
+            "items/covid_l_geocount__addr4__newcases_count__db5",
+            "items/covid_l_geocount__addr4__newcases_count__db6",
+            "items/covid_l_geocount__addr4__newdeath100k7day_mean__db0",
+            "items/covid_l_geocount__addr4__newdeath100k7day_mean__db1",
+            "items/covid_l_geocount__addr4__newdeath100k7day_mean__db2",
+            "items/covid_l_geocount__addr4__newdeath100k7day_mean__db3",
+            "items/covid_l_geocount__addr4__newdeath100k7day_mean__db4",
+            "items/covid_l_geocount__addr4__newdeath100k7day_mean__db5",
+            "items/covid_l_geocount__addr4__newdeath100k7day_mean__db6",
+            "items/covid_l_geocount__addr4__newdeaths100k_count__db0",
+            "items/covid_l_geocount__addr4__newdeaths100k_count__db1",
+            "items/covid_l_geocount__addr4__newdeaths100k_count__db2",
+            "items/covid_l_geocount__addr4__newdeaths100k_count__db3",
+            "items/covid_l_geocount__addr4__newdeaths100k_count__db4",
+            "items/covid_l_geocount__addr4__newdeaths100k_count__db5",
+            "items/covid_l_geocount__addr4__newdeaths100k_count__db6",
+            "items/covid_l_geocount__addr4__newdeaths_count__db0",
+            "items/covid_l_geocount__addr4__newdeaths_count__db1",
+            "items/covid_l_geocount__addr4__newdeaths_count__db2",
+            "items/covid_l_geocount__addr4__newdeaths_count__db3",
+            "items/covid_l_geocount__addr4__newdeaths_count__db4",
+            "items/covid_l_geocount__addr4__newdeaths_count__db5",
+            "items/covid_l_geocount__addr4__newdeaths_count__db6",
+            "items/covid_l_geocount__addr5__cases100k_count__db0",
+            "items/covid_l_geocount__addr5__cases100k_count__db1",
+            "items/covid_l_geocount__addr5__cases100k_count__db2",
+            "items/covid_l_geocount__addr5__cases100k_count__db3",
+            "items/covid_l_geocount__addr5__cases100k_count__db4",
+            "items/covid_l_geocount__addr5__cases100k_count__db5",
+            "items/covid_l_geocount__addr5__cases100k_count__db6",
+            "items/covid_l_geocount__addr5__cases_count__db0",
+            "items/covid_l_geocount__addr5__cases_count__db1",
+            "items/covid_l_geocount__addr5__cases_count__db2",
+            "items/covid_l_geocount__addr5__cases_count__db3",
+            "items/covid_l_geocount__addr5__cases_count__db4",
+            "items/covid_l_geocount__addr5__cases_count__db5",
+            "items/covid_l_geocount__addr5__cases_count__db6",
+            "items/covid_l_geocount__addr5__deaths100k_count__db0",
+            "items/covid_l_geocount__addr5__deaths100k_count__db1",
+            "items/covid_l_geocount__addr5__deaths100k_count__db2",
+            "items/covid_l_geocount__addr5__deaths100k_count__db3",
+            "items/covid_l_geocount__addr5__deaths100k_count__db4",
+            "items/covid_l_geocount__addr5__deaths100k_count__db5",
+            "items/covid_l_geocount__addr5__deaths100k_count__db6",
+            "items/covid_l_geocount__addr5__deaths_count__db0",
+            "items/covid_l_geocount__addr5__deaths_count__db1",
+            "items/covid_l_geocount__addr5__deaths_count__db2",
+            "items/covid_l_geocount__addr5__deaths_count__db3",
+            "items/covid_l_geocount__addr5__deaths_count__db4",
+            "items/covid_l_geocount__addr5__deaths_count__db5",
+            "items/covid_l_geocount__addr5__deaths_count__db6",
+            "items/covid_l_geocount__addr5__newcase100k7day_mean__db0",
+            "items/covid_l_geocount__addr5__newcase100k7day_mean__db1",
+            "items/covid_l_geocount__addr5__newcase100k7day_mean__db2",
+            "items/covid_l_geocount__addr5__newcase100k7day_mean__db3",
+            "items/covid_l_geocount__addr5__newcase100k7day_mean__db4",
+            "items/covid_l_geocount__addr5__newcase100k7day_mean__db5",
+            "items/covid_l_geocount__addr5__newcase100k7day_mean__db6",
+            "items/covid_l_geocount__addr5__newcases100k_count__db0",
+            "items/covid_l_geocount__addr5__newcases100k_count__db1",
+            "items/covid_l_geocount__addr5__newcases100k_count__db2",
+            "items/covid_l_geocount__addr5__newcases100k_count__db3",
+            "items/covid_l_geocount__addr5__newcases100k_count__db4",
+            "items/covid_l_geocount__addr5__newcases100k_count__db5",
+            "items/covid_l_geocount__addr5__newcases100k_count__db6",
+            "items/covid_l_geocount__addr5__newcases_count__db0",
+            "items/covid_l_geocount__addr5__newcases_count__db1",
+            "items/covid_l_geocount__addr5__newcases_count__db2",
+            "items/covid_l_geocount__addr5__newcases_count__db3",
+            "items/covid_l_geocount__addr5__newcases_count__db4",
+            "items/covid_l_geocount__addr5__newcases_count__db5",
+            "items/covid_l_geocount__addr5__newcases_count__db6",
+            "items/covid_l_geocount__addr5__newdeath100k7day_mean__db0",
+            "items/covid_l_geocount__addr5__newdeath100k7day_mean__db1",
+            "items/covid_l_geocount__addr5__newdeath100k7day_mean__db2",
+            "items/covid_l_geocount__addr5__newdeath100k7day_mean__db3",
+            "items/covid_l_geocount__addr5__newdeath100k7day_mean__db4",
+            "items/covid_l_geocount__addr5__newdeath100k7day_mean__db5",
+            "items/covid_l_geocount__addr5__newdeath100k7day_mean__db6",
+            "items/covid_l_geocount__addr5__newdeaths100k_count__db0",
+            "items/covid_l_geocount__addr5__newdeaths100k_count__db1",
+            "items/covid_l_geocount__addr5__newdeaths100k_count__db2",
+            "items/covid_l_geocount__addr5__newdeaths100k_count__db3",
+            "items/covid_l_geocount__addr5__newdeaths100k_count__db4",
+            "items/covid_l_geocount__addr5__newdeaths100k_count__db5",
+            "items/covid_l_geocount__addr5__newdeaths100k_count__db6",
+            "items/covid_l_geocount__addr5__newdeaths_count__db0",
+            "items/covid_l_geocount__addr5__newdeaths_count__db1",
+            "items/covid_l_geocount__addr5__newdeaths_count__db2",
+            "items/covid_l_geocount__addr5__newdeaths_count__db3",
+            "items/covid_l_geocount__addr5__newdeaths_count__db4",
+            "items/covid_l_geocount__addr5__newdeaths_count__db5",
+            "items/covid_l_geocount__addr5__newdeaths_count__db6"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__cases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__cases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__deaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__deaths_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcase100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcase100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcase100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcase100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcase100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcase100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcase100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcase100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcase100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcase100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcase100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcase100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcase100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcase100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newcases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newcases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeath100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeath100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeath100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeath100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeath100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeath100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeath100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeath100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeath100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeath100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeath100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeath100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeath100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeath100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr1__newdeaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr1__newdeaths_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__cases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__cases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__deaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__deaths_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcase100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcase100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcase100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcase100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcase100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcase100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcase100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcase100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcase100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcase100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcase100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcase100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcase100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcase100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newcases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newcases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeath100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeath100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeath100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeath100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeath100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeath100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeath100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeath100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeath100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeath100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeath100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeath100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeath100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeath100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr2__newdeaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr2__newdeaths_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__cases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__cases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__deaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__deaths_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcase100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcase100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcase100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcase100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcase100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcase100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcase100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcase100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcase100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcase100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcase100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcase100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcase100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcase100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newcases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newcases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeath100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeath100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeath100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeath100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeath100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeath100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeath100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeath100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeath100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeath100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeath100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeath100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeath100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeath100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr3__newdeaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr3__newdeaths_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__cases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__cases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__deaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__deaths_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcase100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcase100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcase100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcase100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcase100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcase100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcase100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcase100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcase100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcase100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcase100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcase100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcase100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcase100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newcases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newcases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeath100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeath100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeath100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeath100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeath100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeath100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeath100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeath100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeath100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeath100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeath100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeath100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeath100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeath100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr4__newdeaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr4__newdeaths_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__cases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__cases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__deaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__deaths_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcase100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcase100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcase100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcase100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcase100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcase100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcase100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcase100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcase100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcase100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcase100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcase100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcase100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcase100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newcases_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newcases_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeath100k7day_mean__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeath100k7day_mean__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeath100k7day_mean__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeath100k7day_mean__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeath100k7day_mean__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeath100k7day_mean__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeath100k7day_mean__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeath100k7day_mean__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeath100k7day_mean__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeath100k7day_mean__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeath100k7day_mean__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeath100k7day_mean__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeath100k7day_mean__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeath100k7day_mean__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths100k_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths100k_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths100k_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths100k_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths100k_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths100k_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths100k_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths100k_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths100k_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths100k_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths100k_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths100k_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths100k_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths100k_count__db6"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths_count__db0",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths_count__db0"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths_count__db1",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths_count__db1"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths_count__db2",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths_count__db2"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths_count__db3",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths_count__db3"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths_count__db4",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths_count__db4"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths_count__db5",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths_count__db5"
+            },
+            {
+                "isAbout": "items/covid_l_geocount__addr5__newdeaths_count__db6",
+                "isVis": true,
+                "variableName": "covid_l_geocount__addr5__newdeaths_count__db6"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

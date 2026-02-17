@@ -1,0 +1,233 @@
+{
+    "id": "nc_y_wisc_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nc_y_wisc"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nc_y_wisc_001",
+            "items/nc_y_wisc_002",
+            "items/nc_y_wisc_003",
+            "items/nc_y_wisc_004",
+            "items/nc_y_wisc_005",
+            "items/nc_y_wisc_006",
+            "items/nc_y_wisc_007",
+            "items/nc_y_wisc_008",
+            "items/nc_y_wisc_009",
+            "items/nc_y_wisc_010",
+            "items/nc_y_wisc_011",
+            "items/nc_y_wisc_012",
+            "items/nc_y_wisc_013",
+            "items/nc_y_wisc_014",
+            "items/nc_y_wisc_015",
+            "items/nc_y_wisc_016",
+            "items/nc_y_wisc_017",
+            "items/nc_y_wisc_018",
+            "items/nc_y_wisc_019",
+            "items/nc_y_wisc_020",
+            "items/nc_y_wisc_021",
+            "items/nc_y_wisc_022",
+            "items/nc_y_wisc_023",
+            "items/nc_y_wisc_024",
+            "items/nc_y_wisc_025",
+            "items/nc_y_wisc_026",
+            "items/nc_y_wisc_027",
+            "items/nc_y_wisc_028",
+            "items/nc_y_wisc_029",
+            "items/nc_y_wisc_030",
+            "items/nc_y_wisc_031",
+            "items/nc_y_wisc_032",
+            "items/nc_y_wisc__samp_001",
+            "items/nc_y_wisc__samp_002",
+            "items/nc_y_wisc__raw_score",
+            "items/nc_y_wisc__scaled_score"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nc_y_wisc_001",
+                "isVis": true,
+                "variableName": "nc_y_wisc_001"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_002",
+                "isVis": true,
+                "variableName": "nc_y_wisc_002"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_003",
+                "isVis": true,
+                "variableName": "nc_y_wisc_003"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_004",
+                "isVis": true,
+                "variableName": "nc_y_wisc_004"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_005",
+                "isVis": true,
+                "variableName": "nc_y_wisc_005"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_006",
+                "isVis": true,
+                "variableName": "nc_y_wisc_006"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_007",
+                "isVis": true,
+                "variableName": "nc_y_wisc_007"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_008",
+                "isVis": true,
+                "variableName": "nc_y_wisc_008"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_009",
+                "isVis": true,
+                "variableName": "nc_y_wisc_009"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_010",
+                "isVis": true,
+                "variableName": "nc_y_wisc_010"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_011",
+                "isVis": true,
+                "variableName": "nc_y_wisc_011"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_012",
+                "isVis": true,
+                "variableName": "nc_y_wisc_012"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_013",
+                "isVis": true,
+                "variableName": "nc_y_wisc_013"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_014",
+                "isVis": true,
+                "variableName": "nc_y_wisc_014"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_015",
+                "isVis": true,
+                "variableName": "nc_y_wisc_015"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_016",
+                "isVis": true,
+                "variableName": "nc_y_wisc_016"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_017",
+                "isVis": true,
+                "variableName": "nc_y_wisc_017"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_018",
+                "isVis": true,
+                "variableName": "nc_y_wisc_018"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_019",
+                "isVis": true,
+                "variableName": "nc_y_wisc_019"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_020",
+                "isVis": true,
+                "variableName": "nc_y_wisc_020"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_021",
+                "isVis": true,
+                "variableName": "nc_y_wisc_021"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_022",
+                "isVis": true,
+                "variableName": "nc_y_wisc_022"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_023",
+                "isVis": true,
+                "variableName": "nc_y_wisc_023"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_024",
+                "isVis": true,
+                "variableName": "nc_y_wisc_024"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_025",
+                "isVis": true,
+                "variableName": "nc_y_wisc_025"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_026",
+                "isVis": true,
+                "variableName": "nc_y_wisc_026"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_027",
+                "isVis": true,
+                "variableName": "nc_y_wisc_027"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_028",
+                "isVis": true,
+                "variableName": "nc_y_wisc_028"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_029",
+                "isVis": true,
+                "variableName": "nc_y_wisc_029"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_030",
+                "isVis": true,
+                "variableName": "nc_y_wisc_030"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_031",
+                "isVis": true,
+                "variableName": "nc_y_wisc_031"
+            },
+            {
+                "isAbout": "items/nc_y_wisc_032",
+                "isVis": true,
+                "variableName": "nc_y_wisc_032"
+            },
+            {
+                "isAbout": "items/nc_y_wisc__samp_001",
+                "isVis": true,
+                "variableName": "nc_y_wisc__samp_001"
+            },
+            {
+                "isAbout": "items/nc_y_wisc__samp_002",
+                "isVis": true,
+                "variableName": "nc_y_wisc__samp_002"
+            },
+            {
+                "isAbout": "items/nc_y_wisc__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_wisc__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_wisc__scaled_score",
+                "isVis": true,
+                "variableName": "nc_y_wisc__scaled_score"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

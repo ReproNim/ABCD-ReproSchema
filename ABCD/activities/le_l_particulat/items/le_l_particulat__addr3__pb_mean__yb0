@@ -1,0 +1,71 @@
+{
+    "id": "le_l_particulat__addr3__pb_mean__yb0",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "nanograms per cubic meters (ng/m\u00b3)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Air Pollution"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_pb"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_particulat"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_particulat__addr3__pb_mean__yb0"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_particulat_0041"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_particulat"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_particulat__addr3__pb_mean__yb0"
+    },
+    "question": {
+        "en": "Annual average of Lead in ng/m^3 at 50m (Address 3) (address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

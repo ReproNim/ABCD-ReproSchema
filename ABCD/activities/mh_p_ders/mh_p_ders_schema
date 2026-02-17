@@ -1,0 +1,257 @@
+{
+    "id": "mh_p_ders_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_ders"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_ders_dtt",
+            "items/mh_p_ders_age",
+            "items/mh_p_ders_lang",
+            "items/mh_p_ders__attun_001",
+            "items/mh_p_ders__attun_002",
+            "items/mh_p_ders__attun_003",
+            "items/mh_p_ders__attun_004",
+            "items/mh_p_ders__attun_005",
+            "items/mh_p_ders__attun_006",
+            "items/mh_p_ders__catast_001",
+            "items/mh_p_ders__catast_002",
+            "items/mh_p_ders__catast_003",
+            "items/mh_p_ders__catast_004",
+            "items/mh_p_ders__catast_005",
+            "items/mh_p_ders__catast_006",
+            "items/mh_p_ders__catast_007",
+            "items/mh_p_ders__catast_008",
+            "items/mh_p_ders__catast_009",
+            "items/mh_p_ders__catast_010",
+            "items/mh_p_ders__catast_011",
+            "items/mh_p_ders__catast_012",
+            "items/mh_p_ders__distract_001",
+            "items/mh_p_ders__distract_002",
+            "items/mh_p_ders__distract_003",
+            "items/mh_p_ders__distract_004",
+            "items/mh_p_ders__negscnd_001",
+            "items/mh_p_ders__negscnd_002",
+            "items/mh_p_ders__negscnd_003",
+            "items/mh_p_ders__negscnd_004",
+            "items/mh_p_ders__negscnd_005",
+            "items/mh_p_ders__negscnd_006",
+            "items/mh_p_ders__negscnd_007",
+            "items/mh_p_ders__attun_mean",
+            "items/mh_p_ders__attun_nm",
+            "items/mh_p_ders__catast_mean",
+            "items/mh_p_ders__catast_nm",
+            "items/mh_p_ders__distract_mean",
+            "items/mh_p_ders__distract_nm",
+            "items/mh_p_ders__negscnd_mean",
+            "items/mh_p_ders__negscnd_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_ders_dtt",
+                "isVis": true,
+                "variableName": "mh_p_ders_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_ders_age",
+                "isVis": true,
+                "variableName": "mh_p_ders_age"
+            },
+            {
+                "isAbout": "items/mh_p_ders_lang",
+                "isVis": true,
+                "variableName": "mh_p_ders_lang"
+            },
+            {
+                "isAbout": "items/mh_p_ders__attun_001",
+                "isVis": true,
+                "variableName": "mh_p_ders__attun_001"
+            },
+            {
+                "isAbout": "items/mh_p_ders__attun_002",
+                "isVis": true,
+                "variableName": "mh_p_ders__attun_002"
+            },
+            {
+                "isAbout": "items/mh_p_ders__attun_003",
+                "isVis": true,
+                "variableName": "mh_p_ders__attun_003"
+            },
+            {
+                "isAbout": "items/mh_p_ders__attun_004",
+                "isVis": true,
+                "variableName": "mh_p_ders__attun_004"
+            },
+            {
+                "isAbout": "items/mh_p_ders__attun_005",
+                "isVis": true,
+                "variableName": "mh_p_ders__attun_005"
+            },
+            {
+                "isAbout": "items/mh_p_ders__attun_006",
+                "isVis": true,
+                "variableName": "mh_p_ders__attun_006"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_001",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_001"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_002",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_002"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_003",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_003"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_004",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_004"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_005",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_005"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_006",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_006"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_007",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_007"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_008",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_008"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_009",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_009"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_010",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_010"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_011",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_011"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_012",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_012"
+            },
+            {
+                "isAbout": "items/mh_p_ders__distract_001",
+                "isVis": true,
+                "variableName": "mh_p_ders__distract_001"
+            },
+            {
+                "isAbout": "items/mh_p_ders__distract_002",
+                "isVis": true,
+                "variableName": "mh_p_ders__distract_002"
+            },
+            {
+                "isAbout": "items/mh_p_ders__distract_003",
+                "isVis": true,
+                "variableName": "mh_p_ders__distract_003"
+            },
+            {
+                "isAbout": "items/mh_p_ders__distract_004",
+                "isVis": true,
+                "variableName": "mh_p_ders__distract_004"
+            },
+            {
+                "isAbout": "items/mh_p_ders__negscnd_001",
+                "isVis": true,
+                "variableName": "mh_p_ders__negscnd_001"
+            },
+            {
+                "isAbout": "items/mh_p_ders__negscnd_002",
+                "isVis": true,
+                "variableName": "mh_p_ders__negscnd_002"
+            },
+            {
+                "isAbout": "items/mh_p_ders__negscnd_003",
+                "isVis": true,
+                "variableName": "mh_p_ders__negscnd_003"
+            },
+            {
+                "isAbout": "items/mh_p_ders__negscnd_004",
+                "isVis": true,
+                "variableName": "mh_p_ders__negscnd_004"
+            },
+            {
+                "isAbout": "items/mh_p_ders__negscnd_005",
+                "isVis": true,
+                "variableName": "mh_p_ders__negscnd_005"
+            },
+            {
+                "isAbout": "items/mh_p_ders__negscnd_006",
+                "isVis": true,
+                "variableName": "mh_p_ders__negscnd_006"
+            },
+            {
+                "isAbout": "items/mh_p_ders__negscnd_007",
+                "isVis": true,
+                "variableName": "mh_p_ders__negscnd_007"
+            },
+            {
+                "isAbout": "items/mh_p_ders__attun_mean",
+                "isVis": true,
+                "variableName": "mh_p_ders__attun_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ders__attun_nm",
+                "isVis": true,
+                "variableName": "mh_p_ders__attun_nm"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_mean",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ders__catast_nm",
+                "isVis": true,
+                "variableName": "mh_p_ders__catast_nm"
+            },
+            {
+                "isAbout": "items/mh_p_ders__distract_mean",
+                "isVis": true,
+                "variableName": "mh_p_ders__distract_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ders__distract_nm",
+                "isVis": true,
+                "variableName": "mh_p_ders__distract_nm"
+            },
+            {
+                "isAbout": "items/mh_p_ders__negscnd_mean",
+                "isVis": true,
+                "variableName": "mh_p_ders__negscnd_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ders__negscnd_nm",
+                "isVis": true,
+                "variableName": "mh_p_ders__negscnd_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

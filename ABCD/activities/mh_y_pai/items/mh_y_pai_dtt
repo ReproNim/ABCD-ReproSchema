@@ -1,0 +1,72 @@
+{
+    "id": "mh_y_pai_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Emotion"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_nih_tb_positive_affect_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "poa_start_time | y_nih_tb_positive_affect_l_start_time"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_pai"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_pai_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_pai_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_pai"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_pai_dtt"
+    },
+    "question": {
+        "en": "NIH Toolbox - Positive Affect Items [Youth]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,66 @@
+{
+    "id": "le_l_lodes__addr3__job__black_count",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Neighborhood Social Factors"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_LODES_jobbn"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_lodes"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_lodes__addr3__job__black_count"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_lodes_0041"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_lodes"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_lodes__addr3__job__black_count"
+    },
+    "question": {
+        "en": "Number of jobs for workers with Race: Black or African American Alone [LODES; census tract] (Address 3) (address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

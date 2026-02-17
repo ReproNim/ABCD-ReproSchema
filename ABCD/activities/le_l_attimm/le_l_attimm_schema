@@ -1,0 +1,23 @@
+{
+    "id": "le_l_attimm_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_attimm"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_attimm__immigrant__state_indicator"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_attimm__immigrant__state_indicator",
+                "isVis": true,
+                "variableName": "le_l_attimm__immigrant__state_indicator"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

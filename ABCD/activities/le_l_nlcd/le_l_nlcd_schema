@@ -1,0 +1,557 @@
+{
+    "id": "le_l_nlcd_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_nlcd"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_nlcd__addr1__barren__cnty_prcnt",
+            "items/le_l_nlcd__addr1__barren_prcnt",
+            "items/le_l_nlcd__addr1__crops__cnty_prcnt",
+            "items/le_l_nlcd__addr1__crops_prcnt",
+            "items/le_l_nlcd__addr1__decfor__cnty_prcnt",
+            "items/le_l_nlcd__addr1__decfor_prcnt",
+            "items/le_l_nlcd__addr1__devhi__cnty_prcnt",
+            "items/le_l_nlcd__addr1__devhi_prcnt",
+            "items/le_l_nlcd__addr1__devlow__cnty_prcnt",
+            "items/le_l_nlcd__addr1__devlow_prcnt",
+            "items/le_l_nlcd__addr1__devmed__cnty_prcnt",
+            "items/le_l_nlcd__addr1__devmed_prcnt",
+            "items/le_l_nlcd__addr1__devop__cnty_prcnt",
+            "items/le_l_nlcd__addr1__devop_prcnt",
+            "items/le_l_nlcd__addr1__egforr__cnty_prcnt",
+            "items/le_l_nlcd__addr1__egforr_prcnt",
+            "items/le_l_nlcd__addr1__haypst__cnty_prcnt",
+            "items/le_l_nlcd__addr1__haypst_prcnt",
+            "items/le_l_nlcd__addr1__herb__cnty_prcnt",
+            "items/le_l_nlcd__addr1__herb_prcnt",
+            "items/le_l_nlcd__addr1__herbwt__cnty_prcnt",
+            "items/le_l_nlcd__addr1__herbwt_prcnt",
+            "items/le_l_nlcd__addr1__mixfor__cnty_prcnt",
+            "items/le_l_nlcd__addr1__mixfor_prcnt",
+            "items/le_l_nlcd__addr1__shrub__cnty_prcnt",
+            "items/le_l_nlcd__addr1__shrub_prcnt",
+            "items/le_l_nlcd__addr1__treecn__cnty_prcnt",
+            "items/le_l_nlcd__addr1__treecn_prcnt",
+            "items/le_l_nlcd__addr1__woodwt__cnty_prcnt",
+            "items/le_l_nlcd__addr1__woodwt_prcnt",
+            "items/le_l_nlcd__addr2__barren__cnty_prcnt",
+            "items/le_l_nlcd__addr2__barren_prcnt",
+            "items/le_l_nlcd__addr2__crops__cnty_prcnt",
+            "items/le_l_nlcd__addr2__crops_prcnt",
+            "items/le_l_nlcd__addr2__decfor__cnty_prcnt",
+            "items/le_l_nlcd__addr2__decfor_prcnt",
+            "items/le_l_nlcd__addr2__devhi__cnty_prcnt",
+            "items/le_l_nlcd__addr2__devhi_prcnt",
+            "items/le_l_nlcd__addr2__devlow__cnty_prcnt",
+            "items/le_l_nlcd__addr2__devlow_prcnt",
+            "items/le_l_nlcd__addr2__devmed__cnty_prcnt",
+            "items/le_l_nlcd__addr2__devmed_prcnt",
+            "items/le_l_nlcd__addr2__devop__cnty_prcnt",
+            "items/le_l_nlcd__addr2__devop_prcnt",
+            "items/le_l_nlcd__addr2__egforr__cnty_prcnt",
+            "items/le_l_nlcd__addr2__egforr_prcnt",
+            "items/le_l_nlcd__addr2__haypst__cnty_prcnt",
+            "items/le_l_nlcd__addr2__haypst_prcnt",
+            "items/le_l_nlcd__addr2__herb__cnty_prcnt",
+            "items/le_l_nlcd__addr2__herb_prcnt",
+            "items/le_l_nlcd__addr2__herbwt__cnty_prcnt",
+            "items/le_l_nlcd__addr2__herbwt_prcnt",
+            "items/le_l_nlcd__addr2__mixfor__cnty_prcnt",
+            "items/le_l_nlcd__addr2__mixfor_prcnt",
+            "items/le_l_nlcd__addr2__shrub__cnty_prcnt",
+            "items/le_l_nlcd__addr2__shrub_prcnt",
+            "items/le_l_nlcd__addr2__treecn__cnty_prcnt",
+            "items/le_l_nlcd__addr2__treecn_prcnt",
+            "items/le_l_nlcd__addr2__woodwt__cnty_prcnt",
+            "items/le_l_nlcd__addr2__woodwt_prcnt",
+            "items/le_l_nlcd__addr3__barren__cnty_prcnt",
+            "items/le_l_nlcd__addr3__barren_prcnt",
+            "items/le_l_nlcd__addr3__crops__cnty_prcnt",
+            "items/le_l_nlcd__addr3__crops_prcnt",
+            "items/le_l_nlcd__addr3__decfor__cnty_prcnt",
+            "items/le_l_nlcd__addr3__decfor_prcnt",
+            "items/le_l_nlcd__addr3__devhi__cnty_prcnt",
+            "items/le_l_nlcd__addr3__devhi_prcnt",
+            "items/le_l_nlcd__addr3__devlow__cnty_prcnt",
+            "items/le_l_nlcd__addr3__devlow_prcnt",
+            "items/le_l_nlcd__addr3__devmed__cnty_prcnt",
+            "items/le_l_nlcd__addr3__devmed_prcnt",
+            "items/le_l_nlcd__addr3__devop__cnty_prcnt",
+            "items/le_l_nlcd__addr3__devop_prcnt",
+            "items/le_l_nlcd__addr3__egforr__cnty_prcnt",
+            "items/le_l_nlcd__addr3__egforr_prcnt",
+            "items/le_l_nlcd__addr3__haypst__cnty_prcnt",
+            "items/le_l_nlcd__addr3__haypst_prcnt",
+            "items/le_l_nlcd__addr3__herb__cnty_prcnt",
+            "items/le_l_nlcd__addr3__herb_prcnt",
+            "items/le_l_nlcd__addr3__herbwt__cnty_prcnt",
+            "items/le_l_nlcd__addr3__herbwt_prcnt",
+            "items/le_l_nlcd__addr3__mixfor__cnty_prcnt",
+            "items/le_l_nlcd__addr3__mixfor_prcnt",
+            "items/le_l_nlcd__addr3__shrub__cnty_prcnt",
+            "items/le_l_nlcd__addr3__shrub_prcnt",
+            "items/le_l_nlcd__addr3__treecn__cnty_prcnt",
+            "items/le_l_nlcd__addr3__treecn_prcnt",
+            "items/le_l_nlcd__addr3__woodwt__cnty_prcnt",
+            "items/le_l_nlcd__addr3__woodwt_prcnt"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_nlcd__addr1__barren__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__barren__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__barren_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__barren_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__crops__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__crops__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__crops_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__crops_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__decfor__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__decfor__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__decfor_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__decfor_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__devhi__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__devhi__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__devhi_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__devhi_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__devlow__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__devlow__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__devlow_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__devlow_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__devmed__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__devmed__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__devmed_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__devmed_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__devop__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__devop__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__devop_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__devop_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__egforr__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__egforr__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__egforr_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__egforr_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__haypst__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__haypst__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__haypst_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__haypst_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__herb__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__herb__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__herb_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__herb_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__herbwt__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__herbwt__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__herbwt_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__herbwt_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__mixfor__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__mixfor__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__mixfor_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__mixfor_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__shrub__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__shrub__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__shrub_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__shrub_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__treecn__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__treecn__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__treecn_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__treecn_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__woodwt__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__woodwt__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr1__woodwt_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr1__woodwt_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__barren__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__barren__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__barren_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__barren_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__crops__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__crops__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__crops_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__crops_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__decfor__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__decfor__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__decfor_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__decfor_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__devhi__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__devhi__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__devhi_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__devhi_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__devlow__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__devlow__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__devlow_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__devlow_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__devmed__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__devmed__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__devmed_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__devmed_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__devop__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__devop__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__devop_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__devop_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__egforr__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__egforr__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__egforr_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__egforr_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__haypst__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__haypst__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__haypst_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__haypst_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__herb__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__herb__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__herb_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__herb_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__herbwt__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__herbwt__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__herbwt_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__herbwt_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__mixfor__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__mixfor__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__mixfor_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__mixfor_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__shrub__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__shrub__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__shrub_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__shrub_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__treecn__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__treecn__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__treecn_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__treecn_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__woodwt__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__woodwt__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr2__woodwt_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr2__woodwt_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__barren__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__barren__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__barren_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__barren_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__crops__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__crops__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__crops_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__crops_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__decfor__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__decfor__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__decfor_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__decfor_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__devhi__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__devhi__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__devhi_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__devhi_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__devlow__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__devlow__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__devlow_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__devlow_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__devmed__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__devmed__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__devmed_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__devmed_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__devop__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__devop__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__devop_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__devop_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__egforr__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__egforr__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__egforr_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__egforr_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__haypst__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__haypst__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__haypst_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__haypst_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__herb__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__herb__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__herb_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__herb_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__herbwt__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__herbwt__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__herbwt_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__herbwt_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__mixfor__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__mixfor__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__mixfor_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__mixfor_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__shrub__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__shrub__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__shrub_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__shrub_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__treecn__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__treecn__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__treecn_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__treecn_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__woodwt__cnty_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__woodwt__cnty_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_nlcd__addr3__woodwt_prcnt",
+                "isVis": true,
+                "variableName": "le_l_nlcd__addr3__woodwt_prcnt"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

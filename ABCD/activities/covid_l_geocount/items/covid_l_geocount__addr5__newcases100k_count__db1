@@ -1,0 +1,66 @@
+{
+    "id": "covid_l_geocount__addr5__newcases100k_count__db1",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Geocoded Data"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr5_covidgeo_jhu_newcases100k_db1"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_l_geocount"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_l_geocount__addr5__newcases100k_count__db1"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_l_geocount_0317"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_l_geocount"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_l_geocount__addr5__newcases100k_count__db1"
+    },
+    "question": {
+        "en": "Johns Hopkins COVID-19 new case count normalized by population (per 100k) county-level. 1 days before questionnaire dissemenation date (Address 5)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

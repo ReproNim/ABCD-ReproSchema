@@ -1,0 +1,72 @@
+{
+    "id": "nc_y_cct_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "cash_choice_task"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "cash_choice_task_start_time"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_y_cct"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_y_cct_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_y_cct_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_y_cct"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_y_cct_dtt"
+    },
+    "question": {
+        "en": "Cash Choice Task [Youth]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

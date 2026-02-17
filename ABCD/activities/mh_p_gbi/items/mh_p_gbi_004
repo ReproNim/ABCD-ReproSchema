@@ -1,0 +1,81 @@
+{
+    "id": "mh_p_gbi_004",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Mood"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_pgbi01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "general_behavior_inventory_gbiparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "gen_child_behav_4"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "gen_child_behav_4"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_gbi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_gbi_004"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_gbi_0007"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_gbi"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_gbi_004"
+    },
+    "question": {
+        "en": "Has your child had periods of extreme happiness and intense energy that last several days or more when he/she also felt more anxious or tense (jittery, nervous, uptight) than usual (other than relates to the menstrual cycle)?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

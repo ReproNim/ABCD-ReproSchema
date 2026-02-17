@@ -1,0 +1,81 @@
+{
+    "id": "sdev_y_vict_028__14",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Victimization"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_socdev_child_vic01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_child_victimization"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "socialdev_cvict_sc1_f_12"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_cvict_sc1_f_12"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/sdev.html#sdev_y_vict"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_vict_028__14"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_vict_1451"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_vict"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_vict_028__14"
+    },
+    "question": {
+        "en": "School terrorism: Any time kids tried to hurt you by hitting or kicking your Private parts [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

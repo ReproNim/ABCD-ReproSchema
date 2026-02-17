@@ -1,0 +1,1031 @@
+{
+    "id": "mr_y_rsfmri__corr__gpnet_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_rsfmri__corr__gpnet"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_rsfmri__corr__gpnet__aud__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__aud__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cio__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__cip__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__def__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__doa__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__frp__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__non__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__ret__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__sal__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smh__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__smm__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vea__vis_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__aud_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__cio_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__cip_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__def_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__doa_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__frp_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__non_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__ret_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__sal_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__smh_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__smm_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__vea_mean",
+            "items/mr_y_rsfmri__corr__gpnet__vis__vis_mean"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__aud__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__aud__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cio__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cio__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__cip__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__cip__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__def__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__def__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__doa__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__doa__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__frp__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__frp__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__non__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__non__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__ret__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__ret__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__sal__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__sal__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smh__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smh__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__smm__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__smm__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vea__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vea__vis_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__aud_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__aud_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__cio_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__cio_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__cip_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__cip_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__def_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__def_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__doa_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__doa_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__frp_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__frp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__non_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__non_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__ret_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__ret_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__sal_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__sal_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__smh_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__smh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__smm_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__smm_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__vea_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__vea_mean"
+            },
+            {
+                "isAbout": "items/mr_y_rsfmri__corr__gpnet__vis__vis_mean",
+                "isVis": true,
+                "variableName": "mr_y_rsfmri__corr__gpnet__vis__vis_mean"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

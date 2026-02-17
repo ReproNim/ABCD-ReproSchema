@@ -1,0 +1,71 @@
+{
+    "id": "le_l_walk__addr3_idx",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Built Environment"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_rhds01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_walkindex"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_walk"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_walk__addr3_idx"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_walk_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_walk"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_walk__addr3_idx"
+    },
+    "question": {
+        "en": "National walkability index (Address 3) (address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,82 @@
+{
+    "id": "nt_p_yst_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "stq01 |"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "screen_time_stparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "screentime_start_time_p |"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "screentime_start_time_p | screen_time_stparent_start_time"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_p_yst"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_p_yst_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_p_yst_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_p_yst"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_p_yst_dtt"
+    },
+    "question": {
+        "en": "Screen Time Questionnaire [Parent]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

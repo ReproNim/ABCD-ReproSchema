@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_tfmri__nback__emo__r02__dst__gr__rh_beta",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "percent signal change (psc)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Emotional N-Back"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Destrieux"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_tfnbr2bwdp101"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tfnbr2bwdp_549"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_tfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__nback__emo__r02__dst__gr__rh_beta"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_tfmr_nb_e_r2_dst_0097"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__nback__emo__r02__dst"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_tfmri__nback__emo__r02__dst__gr__rh_beta"
+    },
+    "question": {
+        "en": "Average beta weight for Emotional N-back task (contrast: emotion; run 2) in Destrieux ROI: gyrus rectus (right hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

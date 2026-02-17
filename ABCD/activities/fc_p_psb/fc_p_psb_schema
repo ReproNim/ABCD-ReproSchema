@@ -1,0 +1,65 @@
+{
+    "id": "fc_p_psb_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_p_psb"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_p_psb_dtt",
+            "items/fc_p_psb_age",
+            "items/fc_p_psb_lang",
+            "items/fc_p_psb_001",
+            "items/fc_p_psb_002",
+            "items/fc_p_psb_003",
+            "items/fc_p_psb_mean",
+            "items/fc_p_psb_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_p_psb_dtt",
+                "isVis": true,
+                "variableName": "fc_p_psb_dtt"
+            },
+            {
+                "isAbout": "items/fc_p_psb_age",
+                "isVis": true,
+                "variableName": "fc_p_psb_age"
+            },
+            {
+                "isAbout": "items/fc_p_psb_lang",
+                "isVis": true,
+                "variableName": "fc_p_psb_lang"
+            },
+            {
+                "isAbout": "items/fc_p_psb_001",
+                "isVis": true,
+                "variableName": "fc_p_psb_001"
+            },
+            {
+                "isAbout": "items/fc_p_psb_002",
+                "isVis": true,
+                "variableName": "fc_p_psb_002"
+            },
+            {
+                "isAbout": "items/fc_p_psb_003",
+                "isVis": true,
+                "variableName": "fc_p_psb_003"
+            },
+            {
+                "isAbout": "items/fc_p_psb_mean",
+                "isVis": true,
+                "variableName": "fc_p_psb_mean"
+            },
+            {
+                "isAbout": "items/fc_p_psb_nm",
+                "isVis": true,
+                "variableName": "fc_p_psb_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

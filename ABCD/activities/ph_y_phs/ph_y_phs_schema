@@ -1,0 +1,299 @@
+{
+    "id": "ph_y_phs_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ph_y_phs"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ph_y_phs_dtt",
+            "items/ph_y_phs_age",
+            "items/ph_y_phs_001",
+            "items/ph_y_phs_001__v01",
+            "items/ph_y_phs_002",
+            "items/ph_y_phs_003",
+            "items/ph_y_phs_003__01",
+            "items/ph_y_phs_004",
+            "items/ph_y_phs_004__01",
+            "items/ph_y_phs__freeze_001",
+            "items/ph_y_phs__lastmeal_hr",
+            "items/ph_y_phs__dhea__r01_insuff",
+            "items/ph_y_phs__dhea__r01_low",
+            "items/ph_y_phs__dhea__r01_null",
+            "items/ph_y_phs__dhea__r01_qnt",
+            "items/ph_y_phs__dhea__r02_insuff",
+            "items/ph_y_phs__dhea__r02_low",
+            "items/ph_y_phs__dhea__r02_null",
+            "items/ph_y_phs__dhea__r02_qnt",
+            "items/ph_y_phs__dhea_mean",
+            "items/ph_y_phs__ert__r01_insuff",
+            "items/ph_y_phs__ert__r01_low",
+            "items/ph_y_phs__ert__r01_null",
+            "items/ph_y_phs__ert__r01_qnt",
+            "items/ph_y_phs__ert__r02_insuff",
+            "items/ph_y_phs__ert__r02_low",
+            "items/ph_y_phs__ert__r02_null",
+            "items/ph_y_phs__ert__r02_qnt",
+            "items/ph_y_phs__ert_mean",
+            "items/ph_y_phs__hse__r01_insuff",
+            "items/ph_y_phs__hse__r01_low",
+            "items/ph_y_phs__hse__r01_null",
+            "items/ph_y_phs__hse__r01_qnt",
+            "items/ph_y_phs__hse__r02_insuff",
+            "items/ph_y_phs__hse__r02_low",
+            "items/ph_y_phs__hse__r02_null",
+            "items/ph_y_phs__hse__r02_qnt",
+            "items/ph_y_phs__hse_mean",
+            "items/ph_y_phs_005___1",
+            "items/ph_y_phs_005___2",
+            "items/ph_y_phs_005___3",
+            "items/ph_y_phs_005___4",
+            "items/ph_y_phs_005___5",
+            "items/ph_y_phs_005___6",
+            "items/ph_y_phs__coll__end_t",
+            "items/ph_y_phs__coll_t",
+            "items/ph_y_phs__freeze_t"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ph_y_phs_dtt",
+                "isVis": true,
+                "variableName": "ph_y_phs_dtt"
+            },
+            {
+                "isAbout": "items/ph_y_phs_age",
+                "isVis": true,
+                "variableName": "ph_y_phs_age"
+            },
+            {
+                "isAbout": "items/ph_y_phs_001",
+                "isVis": true,
+                "variableName": "ph_y_phs_001"
+            },
+            {
+                "isAbout": "items/ph_y_phs_001__v01",
+                "isVis": true,
+                "variableName": "ph_y_phs_001__v01"
+            },
+            {
+                "isAbout": "items/ph_y_phs_002",
+                "isVis": true,
+                "variableName": "ph_y_phs_002"
+            },
+            {
+                "isAbout": "items/ph_y_phs_003",
+                "isVis": true,
+                "variableName": "ph_y_phs_003"
+            },
+            {
+                "isAbout": "items/ph_y_phs_003__01",
+                "isVis": true,
+                "variableName": "ph_y_phs_003__01"
+            },
+            {
+                "isAbout": "items/ph_y_phs_004",
+                "isVis": true,
+                "variableName": "ph_y_phs_004"
+            },
+            {
+                "isAbout": "items/ph_y_phs_004__01",
+                "isVis": true,
+                "variableName": "ph_y_phs_004__01"
+            },
+            {
+                "isAbout": "items/ph_y_phs__freeze_001",
+                "isVis": true,
+                "variableName": "ph_y_phs__freeze_001"
+            },
+            {
+                "isAbout": "items/ph_y_phs__lastmeal_hr",
+                "isVis": true,
+                "variableName": "ph_y_phs__lastmeal_hr"
+            },
+            {
+                "isAbout": "items/ph_y_phs__dhea__r01_insuff",
+                "isVis": true,
+                "variableName": "ph_y_phs__dhea__r01_insuff"
+            },
+            {
+                "isAbout": "items/ph_y_phs__dhea__r01_low",
+                "isVis": true,
+                "variableName": "ph_y_phs__dhea__r01_low"
+            },
+            {
+                "isAbout": "items/ph_y_phs__dhea__r01_null",
+                "isVis": true,
+                "variableName": "ph_y_phs__dhea__r01_null"
+            },
+            {
+                "isAbout": "items/ph_y_phs__dhea__r01_qnt",
+                "isVis": true,
+                "variableName": "ph_y_phs__dhea__r01_qnt"
+            },
+            {
+                "isAbout": "items/ph_y_phs__dhea__r02_insuff",
+                "isVis": true,
+                "variableName": "ph_y_phs__dhea__r02_insuff"
+            },
+            {
+                "isAbout": "items/ph_y_phs__dhea__r02_low",
+                "isVis": true,
+                "variableName": "ph_y_phs__dhea__r02_low"
+            },
+            {
+                "isAbout": "items/ph_y_phs__dhea__r02_null",
+                "isVis": true,
+                "variableName": "ph_y_phs__dhea__r02_null"
+            },
+            {
+                "isAbout": "items/ph_y_phs__dhea__r02_qnt",
+                "isVis": true,
+                "variableName": "ph_y_phs__dhea__r02_qnt"
+            },
+            {
+                "isAbout": "items/ph_y_phs__dhea_mean",
+                "isVis": true,
+                "variableName": "ph_y_phs__dhea_mean"
+            },
+            {
+                "isAbout": "items/ph_y_phs__ert__r01_insuff",
+                "isVis": true,
+                "variableName": "ph_y_phs__ert__r01_insuff"
+            },
+            {
+                "isAbout": "items/ph_y_phs__ert__r01_low",
+                "isVis": true,
+                "variableName": "ph_y_phs__ert__r01_low"
+            },
+            {
+                "isAbout": "items/ph_y_phs__ert__r01_null",
+                "isVis": true,
+                "variableName": "ph_y_phs__ert__r01_null"
+            },
+            {
+                "isAbout": "items/ph_y_phs__ert__r01_qnt",
+                "isVis": true,
+                "variableName": "ph_y_phs__ert__r01_qnt"
+            },
+            {
+                "isAbout": "items/ph_y_phs__ert__r02_insuff",
+                "isVis": true,
+                "variableName": "ph_y_phs__ert__r02_insuff"
+            },
+            {
+                "isAbout": "items/ph_y_phs__ert__r02_low",
+                "isVis": true,
+                "variableName": "ph_y_phs__ert__r02_low"
+            },
+            {
+                "isAbout": "items/ph_y_phs__ert__r02_null",
+                "isVis": true,
+                "variableName": "ph_y_phs__ert__r02_null"
+            },
+            {
+                "isAbout": "items/ph_y_phs__ert__r02_qnt",
+                "isVis": true,
+                "variableName": "ph_y_phs__ert__r02_qnt"
+            },
+            {
+                "isAbout": "items/ph_y_phs__ert_mean",
+                "isVis": true,
+                "variableName": "ph_y_phs__ert_mean"
+            },
+            {
+                "isAbout": "items/ph_y_phs__hse__r01_insuff",
+                "isVis": true,
+                "variableName": "ph_y_phs__hse__r01_insuff"
+            },
+            {
+                "isAbout": "items/ph_y_phs__hse__r01_low",
+                "isVis": true,
+                "variableName": "ph_y_phs__hse__r01_low"
+            },
+            {
+                "isAbout": "items/ph_y_phs__hse__r01_null",
+                "isVis": true,
+                "variableName": "ph_y_phs__hse__r01_null"
+            },
+            {
+                "isAbout": "items/ph_y_phs__hse__r01_qnt",
+                "isVis": true,
+                "variableName": "ph_y_phs__hse__r01_qnt"
+            },
+            {
+                "isAbout": "items/ph_y_phs__hse__r02_insuff",
+                "isVis": true,
+                "variableName": "ph_y_phs__hse__r02_insuff"
+            },
+            {
+                "isAbout": "items/ph_y_phs__hse__r02_low",
+                "isVis": true,
+                "variableName": "ph_y_phs__hse__r02_low"
+            },
+            {
+                "isAbout": "items/ph_y_phs__hse__r02_null",
+                "isVis": true,
+                "variableName": "ph_y_phs__hse__r02_null"
+            },
+            {
+                "isAbout": "items/ph_y_phs__hse__r02_qnt",
+                "isVis": true,
+                "variableName": "ph_y_phs__hse__r02_qnt"
+            },
+            {
+                "isAbout": "items/ph_y_phs__hse_mean",
+                "isVis": true,
+                "variableName": "ph_y_phs__hse_mean"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___1",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___1"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___2",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___2"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___3",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___3"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___4",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___4"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___5",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___5"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___6",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___6"
+            },
+            {
+                "isAbout": "items/ph_y_phs__coll__end_t",
+                "isVis": true,
+                "variableName": "ph_y_phs__coll__end_t"
+            },
+            {
+                "isAbout": "items/ph_y_phs__coll_t",
+                "isVis": true,
+                "variableName": "ph_y_phs__coll_t"
+            },
+            {
+                "isAbout": "items/ph_y_phs__freeze_t",
+                "isVis": true,
+                "variableName": "ph_y_phs__freeze_t"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

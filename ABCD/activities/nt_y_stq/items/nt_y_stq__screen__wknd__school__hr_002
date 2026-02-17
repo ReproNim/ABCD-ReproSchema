@@ -1,0 +1,86 @@
+{
+    "id": "nt_y_stq__screen__wknd__school__hr_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "hours (h)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_stq01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "screen_time_styouth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "screen_wknd_school_hr_y"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "screen_wknd_school_hr_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_stq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_stq__screen__wknd__school__hr_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_stq_0096"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_stq"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_stq__screen__wknd__school__hr_002"
+    },
+    "question": {
+        "en": "On a typical weekend day (or non-school day, like during summer or holiday breaks), how much time do you spend in total on school-related work on a phone, tablet, computer, or other digital/mobile technology: How much of this time is on your smartphone?: Hours"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,2171 @@
+{
+    "id": "su_y_ksads__dud_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_ksads__dud"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_ksads__dud__abstn__pres_sx",
+            "items/su_y_ksads__dud__freq__past_sx",
+            "items/su_y_ksads__dud__freq__pres_sx",
+            "items/su_y_ksads__dud__freq__spcl__pres_sx",
+            "items/su_y_ksads__dud__tried__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__past_sx",
+            "items/su_y_ksads__dud__actvdecr__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__coc__past_sx",
+            "items/su_y_ksads__dud__actvdecr__coc__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__hall__past_sx",
+            "items/su_y_ksads__dud__actvdecr__hall__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__mj__past_sx",
+            "items/su_y_ksads__dud__actvdecr__mj__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__nic__past_sx",
+            "items/su_y_ksads__dud__actvdecr__nic__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__opi__past_sx",
+            "items/su_y_ksads__dud__actvdecr__opi__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__othdrg__past_sx",
+            "items/su_y_ksads__dud__actvdecr__othdrg__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__pcp__past_sx",
+            "items/su_y_ksads__dud__actvdecr__pcp__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__sed__past_sx",
+            "items/su_y_ksads__dud__actvdecr__sed__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__solv__past_sx",
+            "items/su_y_ksads__dud__actvdecr__solv__pres_sx",
+            "items/su_y_ksads__dud__actvdecr__stim__past_sx",
+            "items/su_y_ksads__dud__actvdecr__stim__pres_sx",
+            "items/su_y_ksads__dud__crave__past_sx",
+            "items/su_y_ksads__dud__crave__pres_sx",
+            "items/su_y_ksads__dud__crave__coc__past_sx",
+            "items/su_y_ksads__dud__crave__coc__pres_sx",
+            "items/su_y_ksads__dud__crave__hall__past_sx",
+            "items/su_y_ksads__dud__crave__hall__pres_sx",
+            "items/su_y_ksads__dud__crave__mj__past_sx",
+            "items/su_y_ksads__dud__crave__mj__pres_sx",
+            "items/su_y_ksads__dud__crave__nic__past_sx",
+            "items/su_y_ksads__dud__crave__nic__pres_sx",
+            "items/su_y_ksads__dud__crave__opi__past_sx",
+            "items/su_y_ksads__dud__crave__opi__pres_sx",
+            "items/su_y_ksads__dud__crave__othdrg__past_sx",
+            "items/su_y_ksads__dud__crave__othdrg__pres_sx",
+            "items/su_y_ksads__dud__crave__pcp__past_sx",
+            "items/su_y_ksads__dud__crave__pcp__pres_sx",
+            "items/su_y_ksads__dud__crave__sed__past_sx",
+            "items/su_y_ksads__dud__crave__sed__pres_sx",
+            "items/su_y_ksads__dud__crave__solv__past_sx",
+            "items/su_y_ksads__dud__crave__solv__pres_sx",
+            "items/su_y_ksads__dud__crave__stim__past_sx",
+            "items/su_y_ksads__dud__crave__stim__pres_sx",
+            "items/su_y_ksads__dud__dwi__past_sx",
+            "items/su_y_ksads__dud__dwi__pres_sx",
+            "items/su_y_ksads__dud__dwi__coc__past_sx",
+            "items/su_y_ksads__dud__dwi__coc__pres_sx",
+            "items/su_y_ksads__dud__dwi__hall__past_sx",
+            "items/su_y_ksads__dud__dwi__hall__pres_sx",
+            "items/su_y_ksads__dud__dwi__mj__past_sx",
+            "items/su_y_ksads__dud__dwi__mj__pres_sx",
+            "items/su_y_ksads__dud__dwi__nic__past_sx",
+            "items/su_y_ksads__dud__dwi__nic__pres_sx",
+            "items/su_y_ksads__dud__dwi__opi__past_sx",
+            "items/su_y_ksads__dud__dwi__opi__pres_sx",
+            "items/su_y_ksads__dud__dwi__othdrg__past_sx",
+            "items/su_y_ksads__dud__dwi__othdrg__pres_sx",
+            "items/su_y_ksads__dud__dwi__pcp__past_sx",
+            "items/su_y_ksads__dud__dwi__pcp__pres_sx",
+            "items/su_y_ksads__dud__dwi__sed__past_sx",
+            "items/su_y_ksads__dud__dwi__sed__pres_sx",
+            "items/su_y_ksads__dud__dwi__solv__past_sx",
+            "items/su_y_ksads__dud__dwi__solv__pres_sx",
+            "items/su_y_ksads__dud__dwi__stim__past_sx",
+            "items/su_y_ksads__dud__dwi__stim__pres_sx",
+            "items/su_y_ksads__dud__failrespons__past_sx",
+            "items/su_y_ksads__dud__failrespons__pres_sx",
+            "items/su_y_ksads__dud__failrespons__coc__past_sx",
+            "items/su_y_ksads__dud__failrespons__coc__pres_sx",
+            "items/su_y_ksads__dud__failrespons__hall__past_sx",
+            "items/su_y_ksads__dud__failrespons__hall__pres_sx",
+            "items/su_y_ksads__dud__failrespons__mj__past_sx",
+            "items/su_y_ksads__dud__failrespons__mj__pres_sx",
+            "items/su_y_ksads__dud__failrespons__nic__past_sx",
+            "items/su_y_ksads__dud__failrespons__nic__pres_sx",
+            "items/su_y_ksads__dud__failrespons__opi__past_sx",
+            "items/su_y_ksads__dud__failrespons__opi__pres_sx",
+            "items/su_y_ksads__dud__failrespons__othdrg__past_sx",
+            "items/su_y_ksads__dud__failrespons__othdrg__pres_sx",
+            "items/su_y_ksads__dud__failrespons__pcp__past_sx",
+            "items/su_y_ksads__dud__failrespons__pcp__pres_sx",
+            "items/su_y_ksads__dud__failrespons__sed__past_sx",
+            "items/su_y_ksads__dud__failrespons__sed__pres_sx",
+            "items/su_y_ksads__dud__failrespons__solv__past_sx",
+            "items/su_y_ksads__dud__failrespons__solv__pres_sx",
+            "items/su_y_ksads__dud__failrespons__stim__past_sx",
+            "items/su_y_ksads__dud__failrespons__stim__pres_sx",
+            "items/su_y_ksads__dud__haz__past_sx",
+            "items/su_y_ksads__dud__haz__pres_sx",
+            "items/su_y_ksads__dud__haz__coc__past_sx",
+            "items/su_y_ksads__dud__haz__coc__pres_sx",
+            "items/su_y_ksads__dud__haz__hall__past_sx",
+            "items/su_y_ksads__dud__haz__hall__pres_sx",
+            "items/su_y_ksads__dud__haz__mj__past_sx",
+            "items/su_y_ksads__dud__haz__mj__pres_sx",
+            "items/su_y_ksads__dud__haz__nic__past_sx",
+            "items/su_y_ksads__dud__haz__nic__pres_sx",
+            "items/su_y_ksads__dud__haz__opi__past_sx",
+            "items/su_y_ksads__dud__haz__opi__pres_sx",
+            "items/su_y_ksads__dud__haz__othdrg__past_sx",
+            "items/su_y_ksads__dud__haz__othdrg__pres_sx",
+            "items/su_y_ksads__dud__haz__pcp__past_sx",
+            "items/su_y_ksads__dud__haz__pcp__pres_sx",
+            "items/su_y_ksads__dud__haz__sed__past_sx",
+            "items/su_y_ksads__dud__haz__sed__pres_sx",
+            "items/su_y_ksads__dud__haz__solv__past_sx",
+            "items/su_y_ksads__dud__haz__solv__pres_sx",
+            "items/su_y_ksads__dud__haz__stim__past_sx",
+            "items/su_y_ksads__dud__haz__stim__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__coc__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__coc__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__hall__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__hall__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__mj__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__mj__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__nic__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__nic__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__opi__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__opi__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__othdrg__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__othdrg__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__pcp__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__pcp__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__sed__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__sed__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__solv__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__solv__pres_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__stim__past_sx",
+            "items/su_y_ksads__dud__negimpct__interprs__stim__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__coc__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__coc__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__hall__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__hall__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__mj__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__mj__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__nic__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__nic__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__opi__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__opi__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__othdrg__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__othdrg__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__pcp__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__pcp__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__sed__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__sed__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__solv__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__solv__pres_sx",
+            "items/su_y_ksads__dud__negimpct__obl__stim__past_sx",
+            "items/su_y_ksads__dud__negimpct__obl__stim__pres_sx",
+            "items/su_y_ksads__dud__overuse__past_sx",
+            "items/su_y_ksads__dud__overuse__pres_sx",
+            "items/su_y_ksads__dud__overuse__coc__past_sx",
+            "items/su_y_ksads__dud__overuse__coc__pres_sx",
+            "items/su_y_ksads__dud__overuse__hall__past_sx",
+            "items/su_y_ksads__dud__overuse__hall__pres_sx",
+            "items/su_y_ksads__dud__overuse__mj__past_sx",
+            "items/su_y_ksads__dud__overuse__mj__pres_sx",
+            "items/su_y_ksads__dud__overuse__nic__past_sx",
+            "items/su_y_ksads__dud__overuse__nic__pres_sx",
+            "items/su_y_ksads__dud__overuse__opi__past_sx",
+            "items/su_y_ksads__dud__overuse__opi__pres_sx",
+            "items/su_y_ksads__dud__overuse__othdrg__past_sx",
+            "items/su_y_ksads__dud__overuse__othdrg__pres_sx",
+            "items/su_y_ksads__dud__overuse__pcp__past_sx",
+            "items/su_y_ksads__dud__overuse__pcp__pres_sx",
+            "items/su_y_ksads__dud__overuse__sed__past_sx",
+            "items/su_y_ksads__dud__overuse__sed__pres_sx",
+            "items/su_y_ksads__dud__overuse__solv__past_sx",
+            "items/su_y_ksads__dud__overuse__solv__pres_sx",
+            "items/su_y_ksads__dud__overuse__stim__past_sx",
+            "items/su_y_ksads__dud__overuse__stim__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__past_sx",
+            "items/su_y_ksads__dud__prob__phys__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__coc__past_sx",
+            "items/su_y_ksads__dud__prob__phys__coc__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__hall__past_sx",
+            "items/su_y_ksads__dud__prob__phys__hall__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__mj__past_sx",
+            "items/su_y_ksads__dud__prob__phys__mj__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__nic__past_sx",
+            "items/su_y_ksads__dud__prob__phys__nic__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__opi__past_sx",
+            "items/su_y_ksads__dud__prob__phys__opi__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__othdrg__past_sx",
+            "items/su_y_ksads__dud__prob__phys__othdrg__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__pcp__past_sx",
+            "items/su_y_ksads__dud__prob__phys__pcp__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__sed__past_sx",
+            "items/su_y_ksads__dud__prob__phys__sed__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__solv__past_sx",
+            "items/su_y_ksads__dud__prob__phys__solv__pres_sx",
+            "items/su_y_ksads__dud__prob__phys__stim__past_sx",
+            "items/su_y_ksads__dud__prob__phys__stim__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__past_sx",
+            "items/su_y_ksads__dud__prob__psych__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__coc__past_sx",
+            "items/su_y_ksads__dud__prob__psych__coc__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__hall__past_sx",
+            "items/su_y_ksads__dud__prob__psych__hall__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__mj__past_sx",
+            "items/su_y_ksads__dud__prob__psych__mj__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__nic__past_sx",
+            "items/su_y_ksads__dud__prob__psych__nic__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__opi__past_sx",
+            "items/su_y_ksads__dud__prob__psych__opi__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__othdrg__past_sx",
+            "items/su_y_ksads__dud__prob__psych__othdrg__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__pcp__past_sx",
+            "items/su_y_ksads__dud__prob__psych__pcp__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__sed__past_sx",
+            "items/su_y_ksads__dud__prob__psych__sed__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__solv__past_sx",
+            "items/su_y_ksads__dud__prob__psych__solv__pres_sx",
+            "items/su_y_ksads__dud__prob__psych__stim__past_sx",
+            "items/su_y_ksads__dud__prob__psych__stim__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__coc__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__coc__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__hall__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__hall__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__mj__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__mj__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__nic__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__nic__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__opi__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__opi__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__othdrg__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__othdrg__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__pcp__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__pcp__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__sed__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__sed__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__solv__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__solv__pres_sx",
+            "items/su_y_ksads__dud__reduce__dsr__stim__past_sx",
+            "items/su_y_ksads__dud__reduce__dsr__stim__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__coc__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__coc__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__hall__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__hall__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__mj__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__mj__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__nic__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__nic__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__opi__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__opi__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__othdrg__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__othdrg__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__pcp__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__pcp__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__sed__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__sed__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__solv__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__solv__pres_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__stim__past_sx",
+            "items/su_y_ksads__dud__reduce__unsucces__stim__pres_sx",
+            "items/su_y_ksads__dud__time__pres_sx",
+            "items/su_y_ksads__dud__time__coc__past_sx",
+            "items/su_y_ksads__dud__time__coc__pres_sx",
+            "items/su_y_ksads__dud__time__drg__past_sx",
+            "items/su_y_ksads__dud__time__hall__past_sx",
+            "items/su_y_ksads__dud__time__hall__pres_sx",
+            "items/su_y_ksads__dud__time__mj__past_sx",
+            "items/su_y_ksads__dud__time__mj__pres_sx",
+            "items/su_y_ksads__dud__time__nic__past_sx",
+            "items/su_y_ksads__dud__time__nic__pres_sx",
+            "items/su_y_ksads__dud__time__opi__past_sx",
+            "items/su_y_ksads__dud__time__opi__pres_sx",
+            "items/su_y_ksads__dud__time__othdrg__past_sx",
+            "items/su_y_ksads__dud__time__othdrg__pres_sx",
+            "items/su_y_ksads__dud__time__pcp__past_sx",
+            "items/su_y_ksads__dud__time__pcp__pres_sx",
+            "items/su_y_ksads__dud__time__sed__past_sx",
+            "items/su_y_ksads__dud__time__sed__pres_sx",
+            "items/su_y_ksads__dud__time__solv__past_sx",
+            "items/su_y_ksads__dud__time__solv__pres_sx",
+            "items/su_y_ksads__dud__time__stim__past_sx",
+            "items/su_y_ksads__dud__time__stim__pres_sx",
+            "items/su_y_ksads__dud__tol__past_sx",
+            "items/su_y_ksads__dud__tol__pres_sx",
+            "items/su_y_ksads__dud__tol__coc__past_sx",
+            "items/su_y_ksads__dud__tol__coc__pres_sx",
+            "items/su_y_ksads__dud__tol__hall__past_sx",
+            "items/su_y_ksads__dud__tol__hall__pres_sx",
+            "items/su_y_ksads__dud__tol__mj__past_sx",
+            "items/su_y_ksads__dud__tol__mj__pres_sx",
+            "items/su_y_ksads__dud__tol__nic__past_sx",
+            "items/su_y_ksads__dud__tol__nic__pres_sx",
+            "items/su_y_ksads__dud__tol__opi__past_sx",
+            "items/su_y_ksads__dud__tol__opi__pres_sx",
+            "items/su_y_ksads__dud__tol__othdrg__past_sx",
+            "items/su_y_ksads__dud__tol__othdrg__pres_sx",
+            "items/su_y_ksads__dud__tol__pcp__past_sx",
+            "items/su_y_ksads__dud__tol__pcp__pres_sx",
+            "items/su_y_ksads__dud__tol__sed__past_sx",
+            "items/su_y_ksads__dud__tol__sed__pres_sx",
+            "items/su_y_ksads__dud__tol__solv__past_sx",
+            "items/su_y_ksads__dud__tol__solv__pres_sx",
+            "items/su_y_ksads__dud__tol__stim__past_sx",
+            "items/su_y_ksads__dud__tol__stim__pres_sx",
+            "items/su_y_ksads__dud__withdr__past_sx",
+            "items/su_y_ksads__dud__withdr__pres_sx",
+            "items/su_y_ksads__dud__withdr__coc__past_sx",
+            "items/su_y_ksads__dud__withdr__coc__pres_sx",
+            "items/su_y_ksads__dud__withdr__hall__past_sx",
+            "items/su_y_ksads__dud__withdr__hall__pres_sx",
+            "items/su_y_ksads__dud__withdr__mj__past_sx",
+            "items/su_y_ksads__dud__withdr__mj__pres_sx",
+            "items/su_y_ksads__dud__withdr__nic__past_sx",
+            "items/su_y_ksads__dud__withdr__nic__pres_sx",
+            "items/su_y_ksads__dud__withdr__opi__past_sx",
+            "items/su_y_ksads__dud__withdr__opi__pres_sx",
+            "items/su_y_ksads__dud__withdr__othdrg__past_sx",
+            "items/su_y_ksads__dud__withdr__othdrg__pres_sx",
+            "items/su_y_ksads__dud__withdr__pcp__past_sx",
+            "items/su_y_ksads__dud__withdr__pcp__pres_sx",
+            "items/su_y_ksads__dud__withdr__sed__past_sx",
+            "items/su_y_ksads__dud__withdr__sed__pres_sx",
+            "items/su_y_ksads__dud__withdr__solv__past_sx",
+            "items/su_y_ksads__dud__withdr__solv__pres_sx",
+            "items/su_y_ksads__dud__withdr__stim__past_sx",
+            "items/su_y_ksads__dud__withdr__stim__pres_sx",
+            "items/su_y_ksads__dud__past_dx",
+            "items/su_y_ksads__dud__pres_dx",
+            "items/su_y_ksads__dud__coc__past_dx",
+            "items/su_y_ksads__dud__coc__pres_dx",
+            "items/su_y_ksads__dud__hall__past_dx",
+            "items/su_y_ksads__dud__hall__pres_dx",
+            "items/su_y_ksads__dud__illdrg__past_dx",
+            "items/su_y_ksads__dud__illdrg__pres_dx",
+            "items/su_y_ksads__dud__inh__past_dx",
+            "items/su_y_ksads__dud__inh__pres_dx",
+            "items/su_y_ksads__dud__mj__past_dx",
+            "items/su_y_ksads__dud__mj__pres_dx",
+            "items/su_y_ksads__dud__nic__past_dx",
+            "items/su_y_ksads__dud__nic__pres_dx",
+            "items/su_y_ksads__dud__opi__past_dx",
+            "items/su_y_ksads__dud__opi__pres_dx",
+            "items/su_y_ksads__dud__pcp__past_dx",
+            "items/su_y_ksads__dud__pcp__pres_dx",
+            "items/su_y_ksads__dud__stim__past_dx",
+            "items/su_y_ksads__dud__stim__pres_dx",
+            "items/su_y_ksads__dud__tranq__past_dx",
+            "items/su_y_ksads__dud__tranq__pres_dx",
+            "items/su_y_ksads__dud__unspec__past_dx",
+            "items/su_y_ksads__dud__unspec__pres_dx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_ksads__dud__abstn__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__abstn__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__freq__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__freq__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__freq__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__freq__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__freq__spcl__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__freq__spcl__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tried__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tried__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__actvdecr__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__actvdecr__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__crave__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__crave__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__dwi__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__dwi__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__failrespons__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__failrespons__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__haz__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__haz__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__interprs__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__interprs__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__negimpct__obl__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__negimpct__obl__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__overuse__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__overuse__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__phys__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__phys__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__prob__psych__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__prob__psych__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__dsr__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__dsr__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__reduce__unsucces__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__reduce__unsucces__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__drg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__drg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__time__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__time__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tol__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tol__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__coc__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__coc__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__coc__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__coc__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__hall__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__hall__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__hall__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__hall__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__mj__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__mj__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__mj__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__mj__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__nic__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__nic__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__nic__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__nic__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__opi__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__opi__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__opi__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__opi__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__othdrg__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__othdrg__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__othdrg__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__othdrg__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__pcp__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__pcp__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__pcp__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__pcp__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__sed__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__sed__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__sed__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__sed__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__solv__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__solv__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__solv__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__solv__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__stim__past_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__stim__past_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__withdr__stim__pres_sx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__withdr__stim__pres_sx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__coc__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__coc__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__coc__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__coc__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__hall__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__hall__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__hall__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__hall__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__illdrg__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__illdrg__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__illdrg__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__illdrg__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__inh__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__inh__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__inh__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__inh__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__mj__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__mj__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__mj__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__mj__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__nic__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__nic__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__nic__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__nic__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__opi__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__opi__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__opi__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__opi__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__pcp__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__pcp__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__pcp__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__pcp__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__stim__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__stim__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__stim__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__stim__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tranq__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tranq__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__tranq__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__tranq__pres_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__unspec__past_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__unspec__past_dx"
+            },
+            {
+                "isAbout": "items/su_y_ksads__dud__unspec__pres_dx",
+                "isVis": true,
+                "variableName": "su_y_ksads__dud__unspec__pres_dx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

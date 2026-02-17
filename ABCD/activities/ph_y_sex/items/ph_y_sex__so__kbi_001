@@ -1,0 +1,71 @@
+{
+    "id": "ph_y_sex__so__kbi_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Sex"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "ksads5background_items_youth"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "kbi_y_sex_orient"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_sex"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_sex__so__kbi_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_sex_0076"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_sex"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_sex__so__kbi_001"
+    },
+    "question": {
+        "en": "Are you gay or bisexual? [Cross-listed: mh_y_kbi__so_001]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

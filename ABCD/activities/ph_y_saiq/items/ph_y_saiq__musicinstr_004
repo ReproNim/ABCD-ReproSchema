@@ -1,0 +1,71 @@
+{
+    "id": "ph_y_saiq__musicinstr_004",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Physical Activity"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sports_activities_read_music_youth"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sai_music"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_saiq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_saiq__musicinstr_004"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_saiq_0174"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_saiq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_saiq__musicinstr_004"
+    },
+    "question": {
+        "en": "Musical instrument or singing (e.g. Choir, Guitar, Piano, Drums, Violin, Flute, Band, Rock Band, Orchestra) Was any of this activity part of an organized team, group, band, orchestra, chorus, or program at school? [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

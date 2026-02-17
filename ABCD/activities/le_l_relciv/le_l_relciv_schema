@@ -1,0 +1,161 @@
+{
+    "id": "le_l_relciv_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_relciv"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_relciv__addr1__civsoc__cnty_count",
+            "items/le_l_relciv__addr1__civsoc__cnty_rate",
+            "items/le_l_relciv__addr1__civsoc_count",
+            "items/le_l_relciv__addr1__civsoc_rate",
+            "items/le_l_relciv__addr1__relorg__cnty_count",
+            "items/le_l_relciv__addr1__relorg__cnty_rate",
+            "items/le_l_relciv__addr1__relorg_count",
+            "items/le_l_relciv__addr1__relorg_rate",
+            "items/le_l_relciv__addr2__civsoc__cnty_count",
+            "items/le_l_relciv__addr2__civsoc__cnty_rate",
+            "items/le_l_relciv__addr2__civsoc_count",
+            "items/le_l_relciv__addr2__civsoc_rate",
+            "items/le_l_relciv__addr2__relorg__cnty_count",
+            "items/le_l_relciv__addr2__relorg__cnty_rate",
+            "items/le_l_relciv__addr2__relorg_count",
+            "items/le_l_relciv__addr2__relorg_rate",
+            "items/le_l_relciv__addr3__civsoc__cnty_count",
+            "items/le_l_relciv__addr3__civsoc__cnty_rate",
+            "items/le_l_relciv__addr3__civsoc_count",
+            "items/le_l_relciv__addr3__civsoc_rate",
+            "items/le_l_relciv__addr3__relorg__cnty_count",
+            "items/le_l_relciv__addr3__relorg__cnty_rate",
+            "items/le_l_relciv__addr3__relorg_count",
+            "items/le_l_relciv__addr3__relorg_rate"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_relciv__addr1__civsoc__cnty_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr1__civsoc__cnty_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr1__civsoc__cnty_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr1__civsoc__cnty_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr1__civsoc_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr1__civsoc_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr1__civsoc_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr1__civsoc_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr1__relorg__cnty_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr1__relorg__cnty_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr1__relorg__cnty_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr1__relorg__cnty_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr1__relorg_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr1__relorg_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr1__relorg_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr1__relorg_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr2__civsoc__cnty_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr2__civsoc__cnty_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr2__civsoc__cnty_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr2__civsoc__cnty_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr2__civsoc_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr2__civsoc_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr2__civsoc_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr2__civsoc_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr2__relorg__cnty_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr2__relorg__cnty_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr2__relorg__cnty_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr2__relorg__cnty_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr2__relorg_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr2__relorg_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr2__relorg_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr2__relorg_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr3__civsoc__cnty_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr3__civsoc__cnty_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr3__civsoc__cnty_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr3__civsoc__cnty_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr3__civsoc_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr3__civsoc_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr3__civsoc_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr3__civsoc_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr3__relorg__cnty_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr3__relorg__cnty_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr3__relorg__cnty_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr3__relorg__cnty_rate"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr3__relorg_count",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr3__relorg_count"
+            },
+            {
+                "isAbout": "items/le_l_relciv__addr3__relorg_rate",
+                "isVis": true,
+                "variableName": "le_l_relciv__addr3__relorg_rate"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,66 @@
+{
+    "id": "covid_l_geosg__addr5__devathome_prop__db0",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Geocoded Data"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr5_covidgeo_sg_devathome_db0"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_l_geosg"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_l_geosg__addr5__devathome_prop__db0"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_l_geosg_0288"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_l_geosg"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_l_geosg__addr5__devathome_prop__db0"
+    },
+    "question": {
+        "en": "SafeGraph Device completely at home by census block ratio: Same day as questionnaire dissemenation date (Address 5)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

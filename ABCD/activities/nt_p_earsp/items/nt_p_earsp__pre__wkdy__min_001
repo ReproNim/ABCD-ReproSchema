@@ -1,0 +1,86 @@
+{
+    "id": "nt_p_earsp__pre__wkdy__min_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "minutes (min)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_mtpap01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "mobil_tech_preassessment_p"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "mtpr_1_wkdy_total_mins_p"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "mtpr_1_wkdy_total_mins_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_p_earsp"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_p_earsp__pre__wkdy__min_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_p_earsp_0024"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_p_earsp"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_p_earsp__pre__wkdy__min_001"
+    },
+    "question": {
+        "en": "On a typical weekday (Monday- Friday), how much time per day does your child spend in total on a computer, cell phone, tablet, iPod, or other electronic device: Minutes [Pilot; Pre-survey]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

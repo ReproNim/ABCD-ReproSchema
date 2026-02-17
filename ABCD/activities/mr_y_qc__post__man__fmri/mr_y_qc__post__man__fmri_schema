@@ -1,0 +1,71 @@
+{
+    "id": "mr_y_qc__post__man__fmri_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_qc__post__man__fmri"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_qc__post__man__fmri__container_type",
+            "items/mr_y_qc__post__man__fmri__cutoff_score",
+            "items/mr_y_qc__post__man__fmri__distort_score",
+            "items/mr_y_qc__post__man__fmri__quality_score",
+            "items/mr_y_qc__post__man__fmri__regist_score",
+            "items/mr_y_qc__post__man__fmri__rev__disp_indicator",
+            "items/mr_y_qc__post__man__fmri__rev_count",
+            "items/mr_y_qc__post__man__fmri_notes",
+            "items/mr_y_qc__post__man__fmri_score"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_qc__post__man__fmri__container_type",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__fmri__container_type"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__fmri__cutoff_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__fmri__cutoff_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__fmri__distort_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__fmri__distort_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__fmri__quality_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__fmri__quality_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__fmri__regist_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__fmri__regist_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__fmri__rev__disp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__fmri__rev__disp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__fmri__rev_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__fmri__rev_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__fmri_notes",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__fmri_notes"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__man__fmri_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__man__fmri_score"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,61 @@
+{
+    "id": "mrs_y_hermes__gm__voxvol_prop",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "MR Spectroscopy"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Neurometabolites"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/mrs.html#mrs_y_hermes"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mrs_y_hermes__gm__voxvol_prop"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mrs_y_hermes_0041"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mrs_y_hermes"
+        }
+    ],
+    "prefLabel": {
+        "en": "mrs_y_hermes__gm__voxvol_prop"
+    },
+    "question": {
+        "en": "Voxel volume fraction of gray matter"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,66 @@
+{
+    "id": "covid_l_geopolicy__addr1__stayhome__start_dt__11",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "COVID-19"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Geocoded Data"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr1_stay_home_dates"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/covid.html#covid_l_geopolicy"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "covid_l_geopolicy__addr1__stayhome__start_dt__11"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "covid_l_geopolicy_0222"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "covid_l_geopolicy"
+        }
+    ],
+    "prefLabel": {
+        "en": "covid_l_geopolicy__addr1__stayhome__start_dt__11"
+    },
+    "question": {
+        "en": "Start date of policy change in Stay At Home Orders due to COVID (Address 1; Policy change 11)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:date"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

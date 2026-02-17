@@ -1,0 +1,76 @@
+{
+    "id": "nt_p_earsq_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_ears_post_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "ears_post_fam_rules_p"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ears_post_fam_rules_p"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_p_earsq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_p_earsq_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_p_earsq_0015"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_p_earsq"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_p_earsq_002"
+    },
+    "question": {
+        "en": "What were the family rules about smartphone use for your child over the past 3 weeks? [Post-survey]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

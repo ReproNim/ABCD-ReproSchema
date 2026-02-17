@@ -1,0 +1,72 @@
+{
+    "id": "mr_y_qc__raw__dmri__fm__ap__import_count",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Quality Control"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "mriqcrp302"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "iqc_dmri_fm_ap_imported"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_qc.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_qc__raw__dmri__fm__ap__import_count"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_qc_raw_dmri_0037"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_qc__raw__dmri"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_qc__raw__dmri__fm__ap__import_count"
+    },
+    "question": {
+        "en": "Diffusion MRI - Field map (AP phase encode): Total number imported"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

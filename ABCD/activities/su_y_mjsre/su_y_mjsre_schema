@@ -1,0 +1,137 @@
+{
+    "id": "su_y_mjsre_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_mjsre"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_mjsre_dtt",
+            "items/su_y_mjsre_age",
+            "items/su_y_mjsre_adm",
+            "items/su_y_mjsre__neg_001",
+            "items/su_y_mjsre__neg_002",
+            "items/su_y_mjsre__neg_003",
+            "items/su_y_mjsre__neg_004",
+            "items/su_y_mjsre__neg_005",
+            "items/su_y_mjsre__neg_006",
+            "items/su_y_mjsre__neg_007",
+            "items/su_y_mjsre__neg_008",
+            "items/su_y_mjsre__pos_001",
+            "items/su_y_mjsre__pos_002",
+            "items/su_y_mjsre__pos_003",
+            "items/su_y_mjsre__neg_nm",
+            "items/su_y_mjsre__neg_sum",
+            "items/su_y_mjsre__pos_nm",
+            "items/su_y_mjsre__pos_sum",
+            "items/su_y_mjsre_nm",
+            "items/su_y_mjsre_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_mjsre_dtt",
+                "isVis": true,
+                "variableName": "su_y_mjsre_dtt"
+            },
+            {
+                "isAbout": "items/su_y_mjsre_age",
+                "isVis": true,
+                "variableName": "su_y_mjsre_age"
+            },
+            {
+                "isAbout": "items/su_y_mjsre_adm",
+                "isVis": true,
+                "variableName": "su_y_mjsre_adm"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_001",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_001"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_002",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_002"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_003",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_003"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_004",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_004"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_005",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_005"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_006",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_006"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_007",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_007"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_008",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_008"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__pos_001",
+                "isVis": true,
+                "variableName": "su_y_mjsre__pos_001"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__pos_002",
+                "isVis": true,
+                "variableName": "su_y_mjsre__pos_002"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__pos_003",
+                "isVis": true,
+                "variableName": "su_y_mjsre__pos_003"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_nm",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_nm"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__neg_sum",
+                "isVis": true,
+                "variableName": "su_y_mjsre__neg_sum"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__pos_nm",
+                "isVis": true,
+                "variableName": "su_y_mjsre__pos_nm"
+            },
+            {
+                "isAbout": "items/su_y_mjsre__pos_sum",
+                "isVis": true,
+                "variableName": "su_y_mjsre__pos_sum"
+            },
+            {
+                "isAbout": "items/su_y_mjsre_nm",
+                "isVis": true,
+                "variableName": "su_y_mjsre_nm"
+            },
+            {
+                "isAbout": "items/su_y_mjsre_sum",
+                "isVis": true,
+                "variableName": "su_y_mjsre_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

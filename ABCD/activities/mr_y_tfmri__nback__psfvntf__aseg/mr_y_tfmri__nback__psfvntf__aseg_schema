@@ -1,0 +1,377 @@
+{
+    "id": "mr_y_tfmri__nback__psfvntf__aseg_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_tfmri__nback__psfvntf__aseg"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ab__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ag__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cbc__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cbwm__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cd__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cwm__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__hc__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ilv__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__lv__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__pl__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__pt__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__th__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__vdc__lh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ab__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ag__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cbc__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cbwm__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cd__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cwm__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__hc__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ilv__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__lv__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__pl__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__pt__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__th__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__vdc__rh_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__3rdv_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__4thv_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__bs_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__csf_beta",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ab__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ag__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cbc__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cbwm__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cd__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cwm__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__hc__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ilv__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__lv__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__pl__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__pt__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__th__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__vdc__lh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ab__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ag__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cbc__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cbwm__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cd__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__cwm__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__hc__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__ilv__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__lv__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__pl__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__pt__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__th__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__vdc__rh_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__3rdv_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__4thv_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__bs_sem",
+            "items/mr_y_tfmri__nback__psfvntf__aseg__csf_sem"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ab__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ab__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ag__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ag__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cbc__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cbc__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cbwm__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cbwm__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cd__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cd__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cwm__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cwm__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__hc__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__hc__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ilv__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ilv__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__lv__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__lv__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__pl__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__pl__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__pt__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__pt__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__th__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__th__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__vdc__lh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__vdc__lh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ab__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ab__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ag__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ag__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cbc__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cbc__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cbwm__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cbwm__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cd__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cd__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cwm__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cwm__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__hc__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__hc__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ilv__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ilv__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__lv__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__lv__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__pl__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__pl__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__pt__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__pt__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__th__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__th__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__vdc__rh_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__vdc__rh_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__3rdv_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__3rdv_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__4thv_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__4thv_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__bs_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__bs_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__csf_beta",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__csf_beta"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ab__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ab__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ag__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ag__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cbc__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cbc__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cbwm__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cbwm__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cd__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cd__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cwm__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cwm__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__hc__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__hc__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ilv__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ilv__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__lv__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__lv__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__pl__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__pl__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__pt__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__pt__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__th__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__th__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__vdc__lh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__vdc__lh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ab__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ab__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ag__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ag__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cbc__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cbc__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cbwm__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cbwm__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cd__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cd__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__cwm__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__cwm__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__hc__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__hc__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__ilv__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__ilv__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__lv__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__lv__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__pl__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__pl__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__pt__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__pt__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__th__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__th__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__vdc__rh_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__vdc__rh_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__3rdv_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__3rdv_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__4thv_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__4thv_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__bs_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__bs_sem"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__nback__psfvntf__aseg__csf_sem",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__nback__psfvntf__aseg__csf_sem"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

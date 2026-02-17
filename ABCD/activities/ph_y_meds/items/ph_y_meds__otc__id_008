@@ -1,0 +1,71 @@
+{
+    "id": "ph_y_meds__otc__id_008",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_medication_inventoryphenx"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "med_otc_8_rxnorm_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_meds"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_meds__otc__id_008"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_meds_0074"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_meds"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_meds__otc__id_008"
+    },
+    "question": {
+        "en": "Over the counter - Medication 8: RxNorm ID"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

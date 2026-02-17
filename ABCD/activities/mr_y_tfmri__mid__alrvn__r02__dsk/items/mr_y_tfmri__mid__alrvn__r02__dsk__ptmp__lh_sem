@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_tfmri__mid__alrvn__r02__dsk__ptmp__lh_sem",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "percent signal change (psc)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Monetary Incentive Delay"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Desikan"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_midr2semp202"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tfmrimr2_604"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_tfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__mid__alrvn__r02__dsk__ptmp__lh_sem"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_tfmr_md_alrvn_r2_dsk_0095"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__mid__alrvn__r02__dsk"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_tfmri__mid__alrvn__r02__dsk__ptmp__lh_sem"
+    },
+    "question": {
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: anticipated large reward vs. neutral; run 2) in Desikan ROI: temporal pole (left hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

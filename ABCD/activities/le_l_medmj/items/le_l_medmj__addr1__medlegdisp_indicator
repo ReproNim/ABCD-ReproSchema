@@ -1,0 +1,66 @@
+{
+    "id": "le_l_medmj__addr1__medlegdisp_indicator",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Policy"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr1_active_medlegdisp"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_medmj"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_medmj__addr1__medlegdisp_indicator"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_medmj_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_medmj"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_medmj__addr1__medlegdisp_indicator"
+    },
+    "question": {
+        "en": "Indicates if medical marijuana dispensaries were a legal source of supply in the state at date of baseline visit (Address 1) (address 1)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

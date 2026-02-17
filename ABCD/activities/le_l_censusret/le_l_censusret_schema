@@ -1,0 +1,53 @@
+{
+    "id": "le_l_censusret_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_censusret"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_censusret__addr1__return_rate__2010",
+            "items/le_l_censusret__addr1__selfresponse_rate__20142018",
+            "items/le_l_censusret__addr2__return_rate__2010",
+            "items/le_l_censusret__addr2__selfresponse_rate__20142018",
+            "items/le_l_censusret__addr3__return_rate__2010",
+            "items/le_l_censusret__addr3__selfresponse_rate__20142018"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_censusret__addr1__return_rate__2010",
+                "isVis": true,
+                "variableName": "le_l_censusret__addr1__return_rate__2010"
+            },
+            {
+                "isAbout": "items/le_l_censusret__addr1__selfresponse_rate__20142018",
+                "isVis": true,
+                "variableName": "le_l_censusret__addr1__selfresponse_rate__20142018"
+            },
+            {
+                "isAbout": "items/le_l_censusret__addr2__return_rate__2010",
+                "isVis": true,
+                "variableName": "le_l_censusret__addr2__return_rate__2010"
+            },
+            {
+                "isAbout": "items/le_l_censusret__addr2__selfresponse_rate__20142018",
+                "isVis": true,
+                "variableName": "le_l_censusret__addr2__selfresponse_rate__20142018"
+            },
+            {
+                "isAbout": "items/le_l_censusret__addr3__return_rate__2010",
+                "isVis": true,
+                "variableName": "le_l_censusret__addr3__return_rate__2010"
+            },
+            {
+                "isAbout": "items/le_l_censusret__addr3__selfresponse_rate__20142018",
+                "isVis": true,
+                "variableName": "le_l_censusret__addr3__selfresponse_rate__20142018"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

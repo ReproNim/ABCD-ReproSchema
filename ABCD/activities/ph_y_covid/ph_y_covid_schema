@@ -1,0 +1,305 @@
+{
+    "id": "ph_y_covid_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ph_y_covid"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ph_y_covid_dtt",
+            "items/ph_y_covid_age",
+            "items/ph_y_covid_adm",
+            "items/ph_y_covid_001",
+            "items/ph_y_covid_002",
+            "items/ph_y_covid_002__01",
+            "items/ph_y_covid_002__02",
+            "items/ph_y_covid_002__03",
+            "items/ph_y_covid_002__04",
+            "items/ph_y_covid_002__05",
+            "items/ph_y_covid_002__06",
+            "items/ph_y_covid_002__07",
+            "items/ph_y_covid_002__08",
+            "items/ph_y_covid_002__09",
+            "items/ph_y_covid_002__10",
+            "items/ph_y_covid_002__11",
+            "items/ph_y_covid_002__12",
+            "items/ph_y_covid_002__13",
+            "items/ph_y_covid_002__14",
+            "items/ph_y_covid_002__15",
+            "items/ph_y_covid_002__16",
+            "items/ph_y_covid_002__17",
+            "items/ph_y_covid_002__18",
+            "items/ph_y_covid_002__19",
+            "items/ph_y_covid_002__20",
+            "items/ph_y_covid__comm_001",
+            "items/ph_y_covid__comm_002",
+            "items/ph_y_covid__comm_003",
+            "items/ph_y_covid__comm_004",
+            "items/ph_y_covid__educsup_001",
+            "items/ph_y_covid__educsup_002",
+            "items/ph_y_covid__educsup_003",
+            "items/ph_y_covid__educsup_004",
+            "items/ph_y_covid__safety_001",
+            "items/ph_y_covid__safety_002",
+            "items/ph_y_covid__safety_003",
+            "items/ph_y_covid__school_001",
+            "items/ph_y_covid__school_002",
+            "items/ph_y_covid__school_003",
+            "items/ph_y_covid__school_004",
+            "items/ph_y_covid__school_005",
+            "items/ph_y_covid__school_006",
+            "items/ph_y_covid__school_007",
+            "items/ph_y_covid__school_008",
+            "items/ph_y_covid__school_009",
+            "items/ph_y_covid__school_010",
+            "items/ph_y_covid__stress_001",
+            "items/ph_y_covid__stress_002"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ph_y_covid_dtt",
+                "isVis": true,
+                "variableName": "ph_y_covid_dtt"
+            },
+            {
+                "isAbout": "items/ph_y_covid_age",
+                "isVis": true,
+                "variableName": "ph_y_covid_age"
+            },
+            {
+                "isAbout": "items/ph_y_covid_adm",
+                "isVis": true,
+                "variableName": "ph_y_covid_adm"
+            },
+            {
+                "isAbout": "items/ph_y_covid_001",
+                "isVis": true,
+                "variableName": "ph_y_covid_001"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002",
+                "isVis": true,
+                "variableName": "ph_y_covid_002"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__01",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__01"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__02",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__02"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__03",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__03"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__04",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__04"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__05",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__05"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__06",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__06"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__07",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__07"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__08",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__08"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__09",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__09"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__10",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__10"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__11",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__11"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__12",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__12"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__13",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__13"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__14",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__14"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__15",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__15"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__16",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__16"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__17",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__17"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__18",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__18"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__19",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__19"
+            },
+            {
+                "isAbout": "items/ph_y_covid_002__20",
+                "isVis": true,
+                "variableName": "ph_y_covid_002__20"
+            },
+            {
+                "isAbout": "items/ph_y_covid__comm_001",
+                "isVis": true,
+                "variableName": "ph_y_covid__comm_001"
+            },
+            {
+                "isAbout": "items/ph_y_covid__comm_002",
+                "isVis": true,
+                "variableName": "ph_y_covid__comm_002"
+            },
+            {
+                "isAbout": "items/ph_y_covid__comm_003",
+                "isVis": true,
+                "variableName": "ph_y_covid__comm_003"
+            },
+            {
+                "isAbout": "items/ph_y_covid__comm_004",
+                "isVis": true,
+                "variableName": "ph_y_covid__comm_004"
+            },
+            {
+                "isAbout": "items/ph_y_covid__educsup_001",
+                "isVis": true,
+                "variableName": "ph_y_covid__educsup_001"
+            },
+            {
+                "isAbout": "items/ph_y_covid__educsup_002",
+                "isVis": true,
+                "variableName": "ph_y_covid__educsup_002"
+            },
+            {
+                "isAbout": "items/ph_y_covid__educsup_003",
+                "isVis": true,
+                "variableName": "ph_y_covid__educsup_003"
+            },
+            {
+                "isAbout": "items/ph_y_covid__educsup_004",
+                "isVis": true,
+                "variableName": "ph_y_covid__educsup_004"
+            },
+            {
+                "isAbout": "items/ph_y_covid__safety_001",
+                "isVis": true,
+                "variableName": "ph_y_covid__safety_001"
+            },
+            {
+                "isAbout": "items/ph_y_covid__safety_002",
+                "isVis": true,
+                "variableName": "ph_y_covid__safety_002"
+            },
+            {
+                "isAbout": "items/ph_y_covid__safety_003",
+                "isVis": true,
+                "variableName": "ph_y_covid__safety_003"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_001",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_001"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_002",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_002"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_003",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_003"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_004",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_004"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_005",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_005"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_006",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_006"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_007",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_007"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_008",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_008"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_009",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_009"
+            },
+            {
+                "isAbout": "items/ph_y_covid__school_010",
+                "isVis": true,
+                "variableName": "ph_y_covid__school_010"
+            },
+            {
+                "isAbout": "items/ph_y_covid__stress_001",
+                "isVis": true,
+                "variableName": "ph_y_covid__stress_001"
+            },
+            {
+                "isAbout": "items/ph_y_covid__stress_002",
+                "isVis": true,
+                "variableName": "ph_y_covid__stress_002"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,86 @@
+{
+    "id": "mr_y_tfmri__sst__csvis__r02__aseg__4thv_beta",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "percent signal change (psc)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Task fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Stop Signal Task"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Subcortical"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "mrisstr2bw01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tfmri_sstr2_131"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_tfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__sst__csvis__r02__aseg__4thv_beta"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_tfmr_ss_csvis_r2_asg_0028"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_tfmri__sst__csvis__r02__aseg"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_tfmri__sst__csvis__r02__aseg__4thv_beta"
+    },
+    "question": {
+        "en": "Average beta weight for Stop Signal task (contrast: correct stop vs. incorrect stop; run 2) in Subcortical ROI: 4th ventricle"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

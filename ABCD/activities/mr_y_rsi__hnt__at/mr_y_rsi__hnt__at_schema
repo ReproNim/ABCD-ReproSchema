@@ -1,0 +1,269 @@
+{
+    "id": "mr_y_rsi__hnt__at_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_rsi__hnt__at"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_rsi__hnt__at__atr__lh_wmean",
+            "items/mr_y_rsi__hnt__at__cgc__lh_wmean",
+            "items/mr_y_rsi__hnt__at__cgh__lh_wmean",
+            "items/mr_y_rsi__hnt__at__cst__lh_wmean",
+            "items/mr_y_rsi__hnt__at__fscs__lh_wmean",
+            "items/mr_y_rsi__hnt__at__fx__lh_wmean",
+            "items/mr_y_rsi__hnt__at__fxcut__lh_wmean",
+            "items/mr_y_rsi__hnt__at__ifo__lh_wmean",
+            "items/mr_y_rsi__hnt__at__ifsfc__lh_wmean",
+            "items/mr_y_rsi__hnt__at__ilf__lh_wmean",
+            "items/mr_y_rsi__hnt__at__pscs__lh_wmean",
+            "items/mr_y_rsi__hnt__at__pslf__lh_wmean",
+            "items/mr_y_rsi__hnt__at__scs__lh_wmean",
+            "items/mr_y_rsi__hnt__at__sifc__lh_wmean",
+            "items/mr_y_rsi__hnt__at__slf__lh_wmean",
+            "items/mr_y_rsi__hnt__at__tslf__lh_wmean",
+            "items/mr_y_rsi__hnt__at__unc__lh_wmean",
+            "items/mr_y_rsi__hnt__at__atr__rh_wmean",
+            "items/mr_y_rsi__hnt__at__cgc__rh_wmean",
+            "items/mr_y_rsi__hnt__at__cgh__rh_wmean",
+            "items/mr_y_rsi__hnt__at__cst__rh_wmean",
+            "items/mr_y_rsi__hnt__at__fscs__rh_wmean",
+            "items/mr_y_rsi__hnt__at__fx__rh_wmean",
+            "items/mr_y_rsi__hnt__at__fxcut__rh_wmean",
+            "items/mr_y_rsi__hnt__at__ifo__rh_wmean",
+            "items/mr_y_rsi__hnt__at__ifsfc__rh_wmean",
+            "items/mr_y_rsi__hnt__at__ilf__rh_wmean",
+            "items/mr_y_rsi__hnt__at__pscs__rh_wmean",
+            "items/mr_y_rsi__hnt__at__pslf__rh_wmean",
+            "items/mr_y_rsi__hnt__at__scs__rh_wmean",
+            "items/mr_y_rsi__hnt__at__sifc__rh_wmean",
+            "items/mr_y_rsi__hnt__at__slf__rh_wmean",
+            "items/mr_y_rsi__hnt__at__tslf__rh_wmean",
+            "items/mr_y_rsi__hnt__at__unc__rh_wmean",
+            "items/mr_y_rsi__hnt__at__cc_wmean",
+            "items/mr_y_rsi__hnt__at__fmaj_wmean",
+            "items/mr_y_rsi__hnt__at__fmin_wmean",
+            "items/mr_y_rsi__hnt__at__lh_wmean",
+            "items/mr_y_rsi__hnt__at__rh_wmean",
+            "items/mr_y_rsi__hnt__at__nocc__lh_wmean",
+            "items/mr_y_rsi__hnt__at__nocc__rh_wmean",
+            "items/mr_y_rsi__hnt__at_wmean"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__atr__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__atr__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__cgc__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__cgc__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__cgh__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__cgh__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__cst__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__cst__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__fscs__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__fscs__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__fx__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__fx__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__fxcut__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__fxcut__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__ifo__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__ifo__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__ifsfc__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__ifsfc__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__ilf__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__ilf__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__pscs__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__pscs__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__pslf__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__pslf__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__scs__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__scs__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__sifc__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__sifc__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__slf__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__slf__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__tslf__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__tslf__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__unc__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__unc__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__atr__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__atr__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__cgc__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__cgc__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__cgh__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__cgh__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__cst__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__cst__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__fscs__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__fscs__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__fx__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__fx__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__fxcut__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__fxcut__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__ifo__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__ifo__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__ifsfc__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__ifsfc__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__ilf__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__ilf__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__pscs__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__pscs__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__pslf__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__pslf__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__scs__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__scs__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__sifc__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__sifc__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__slf__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__slf__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__tslf__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__tslf__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__unc__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__unc__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__cc_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__cc_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__fmaj_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__fmaj_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__fmin_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__fmin_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__nocc__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__nocc__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at__nocc__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at__nocc__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_rsi__hnt__at_wmean",
+                "isVis": true,
+                "variableName": "mr_y_rsi__hnt__at_wmean"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

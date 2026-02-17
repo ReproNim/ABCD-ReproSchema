@@ -1,0 +1,995 @@
+{
+    "id": "nc_y_nihtb_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nc_y_nihtb"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nc_y_nihtb_adm__rmt___1",
+            "items/nc_y_nihtb_adm__rmt___2",
+            "items/nc_y_nihtb_dev",
+            "items/nc_y_nihtb__comp__cryst_ver",
+            "items/nc_y_nihtb__comp__cryst__agecorr_score",
+            "items/nc_y_nihtb__comp__cryst__computed_score",
+            "items/nc_y_nihtb__comp__cryst__fullcorr_tscore",
+            "items/nc_y_nihtb__comp__cryst__item_count",
+            "items/nc_y_nihtb__comp__cryst__raw_score",
+            "items/nc_y_nihtb__comp__cryst__uncor_score",
+            "items/nc_y_nihtb__comp__cryst_theta",
+            "items/nc_y_nihtb__comp__fluid_dtt",
+            "items/nc_y_nihtb__comp__fluid_age",
+            "items/nc_y_nihtb__comp__fluid_ver",
+            "items/nc_y_nihtb__comp__fluid__agecorr_score",
+            "items/nc_y_nihtb__comp__fluid__computed_score",
+            "items/nc_y_nihtb__comp__fluid__fullcorr_tscore",
+            "items/nc_y_nihtb__comp__fluid__item_count",
+            "items/nc_y_nihtb__comp__fluid__raw_score",
+            "items/nc_y_nihtb__comp__fluid__uncor_score",
+            "items/nc_y_nihtb__comp__fluid_theta",
+            "items/nc_y_nihtb__comp__tot_dtt",
+            "items/nc_y_nihtb__comp__tot_age",
+            "items/nc_y_nihtb__comp__tot_ver",
+            "items/nc_y_nihtb__comp__tot__agecor_score",
+            "items/nc_y_nihtb__comp__tot__computed_score",
+            "items/nc_y_nihtb__comp__tot__fullcor_tscore",
+            "items/nc_y_nihtb__comp__tot__item_count",
+            "items/nc_y_nihtb__comp__tot__raw_score",
+            "items/nc_y_nihtb__comp__tot__uncor_score",
+            "items/nc_y_nihtb__comp__tot_theta",
+            "items/nc_y_nihtb__crdst_dtt",
+            "items/nc_y_nihtb__crdst_age",
+            "items/nc_y_nihtb__crdst_ver",
+            "items/nc_y_nihtb__crdst_adm___1",
+            "items/nc_y_nihtb__crdst_adm___2",
+            "items/nc_y_nihtb__crdst_adm___3",
+            "items/nc_y_nihtb__crdst_adm__01",
+            "items/nc_y_nihtb__crdst_adm__rmt___1",
+            "items/nc_y_nihtb__crdst_adm__rmt___2",
+            "items/nc_y_nihtb__crdst_adm__rmt___3",
+            "items/nc_y_nihtb__crdst_adm__rmt___4",
+            "items/nc_y_nihtb__crdst_adm__v01",
+            "items/nc_y_nihtb__crdst__agecorr_score",
+            "items/nc_y_nihtb__crdst__computed_score",
+            "items/nc_y_nihtb__crdst__fullcorr_tscore",
+            "items/nc_y_nihtb__crdst__item_count",
+            "items/nc_y_nihtb__crdst__raw_score",
+            "items/nc_y_nihtb__crdst__uncor_score",
+            "items/nc_y_nihtb__crdst_theta",
+            "items/nc_y_nihtb__flnkr_dtt",
+            "items/nc_y_nihtb__flnkr_age",
+            "items/nc_y_nihtb__flnkr_ver",
+            "items/nc_y_nihtb__flnkr_adm___1",
+            "items/nc_y_nihtb__flnkr_adm___2",
+            "items/nc_y_nihtb__flnkr_adm___3",
+            "items/nc_y_nihtb__flnkr_adm__01",
+            "items/nc_y_nihtb__flnkr_adm__rmt___1",
+            "items/nc_y_nihtb__flnkr_adm__rmt___2",
+            "items/nc_y_nihtb__flnkr_adm__rmt___3",
+            "items/nc_y_nihtb__flnkr_adm__rmt___4",
+            "items/nc_y_nihtb__flnkr_adm__v01",
+            "items/nc_y_nihtb__flnkr__agecor_score",
+            "items/nc_y_nihtb__flnkr__computed_score",
+            "items/nc_y_nihtb__flnkr__fullcor_tscore",
+            "items/nc_y_nihtb__flnkr__item_count",
+            "items/nc_y_nihtb__flnkr__raw_score",
+            "items/nc_y_nihtb__flnkr__uncor_score",
+            "items/nc_y_nihtb__flnkr_theta",
+            "items/nc_y_nihtb__lswmt_dtt",
+            "items/nc_y_nihtb__lswmt_age",
+            "items/nc_y_nihtb__lswmt_ver",
+            "items/nc_y_nihtb__lswmt_adm___1",
+            "items/nc_y_nihtb__lswmt_adm___2",
+            "items/nc_y_nihtb__lswmt_adm___3",
+            "items/nc_y_nihtb__lswmt_adm__01",
+            "items/nc_y_nihtb__lswmt_adm__rmt___1",
+            "items/nc_y_nihtb__lswmt_adm__rmt___2",
+            "items/nc_y_nihtb__lswmt_adm__rmt___3",
+            "items/nc_y_nihtb__lswmt_adm__rmt___4",
+            "items/nc_y_nihtb__lswmt_adm__v01",
+            "items/nc_y_nihtb__lswmt__agecor_score",
+            "items/nc_y_nihtb__lswmt__computed_score",
+            "items/nc_y_nihtb__lswmt__fullcor_tscore",
+            "items/nc_y_nihtb__lswmt__item_count",
+            "items/nc_y_nihtb__lswmt__raw_score",
+            "items/nc_y_nihtb__lswmt__uncor_score",
+            "items/nc_y_nihtb__lswmt_theta",
+            "items/nc_y_nihtb__picsq_dtt",
+            "items/nc_y_nihtb__picsq_age",
+            "items/nc_y_nihtb__picsq_ver",
+            "items/nc_y_nihtb__picsq_adm___1",
+            "items/nc_y_nihtb__picsq_adm___2",
+            "items/nc_y_nihtb__picsq_adm___3",
+            "items/nc_y_nihtb__picsq_adm__01",
+            "items/nc_y_nihtb__picsq_adm__rmt___1",
+            "items/nc_y_nihtb__picsq_adm__rmt___2",
+            "items/nc_y_nihtb__picsq_adm__rmt___3",
+            "items/nc_y_nihtb__picsq_adm__rmt___4",
+            "items/nc_y_nihtb__picsq_adm__v01",
+            "items/nc_y_nihtb__picsq__agecor_score",
+            "items/nc_y_nihtb__picsq__computed_score",
+            "items/nc_y_nihtb__picsq__fullcor_tscore",
+            "items/nc_y_nihtb__picsq__item_count",
+            "items/nc_y_nihtb__picsq__raw_score",
+            "items/nc_y_nihtb__picsq__uncor_score",
+            "items/nc_y_nihtb__picsq_theta",
+            "items/nc_y_nihtb__picvcb_dtt",
+            "items/nc_y_nihtb__picvcb_age",
+            "items/nc_y_nihtb__picvcb_ver",
+            "items/nc_y_nihtb__picvcb_adm___1",
+            "items/nc_y_nihtb__picvcb_adm___2",
+            "items/nc_y_nihtb__picvcb_adm___3",
+            "items/nc_y_nihtb__picvcb_adm__01",
+            "items/nc_y_nihtb__picvcb_adm__rmt___1",
+            "items/nc_y_nihtb__picvcb_adm__rmt___2",
+            "items/nc_y_nihtb__picvcb_adm__rmt___3",
+            "items/nc_y_nihtb__picvcb_adm__rmt___4",
+            "items/nc_y_nihtb__picvcb_adm__v01",
+            "items/nc_y_nihtb__picvcb__agecor_score",
+            "items/nc_y_nihtb__picvcb__computed_score",
+            "items/nc_y_nihtb__picvcb__fullcor_tscore",
+            "items/nc_y_nihtb__picvcb__item_count",
+            "items/nc_y_nihtb__picvcb__uncor_score",
+            "items/nc_y_nihtb__picvcb_theta",
+            "items/nc_y_nihtb__pttcp_dtt",
+            "items/nc_y_nihtb__pttcp_age",
+            "items/nc_y_nihtb__pttcp_ver",
+            "items/nc_y_nihtb__pttcp_adm___1",
+            "items/nc_y_nihtb__pttcp_adm___2",
+            "items/nc_y_nihtb__pttcp_adm___3",
+            "items/nc_y_nihtb__pttcp_adm__01",
+            "items/nc_y_nihtb__pttcp_adm__rmt___1",
+            "items/nc_y_nihtb__pttcp_adm__rmt___2",
+            "items/nc_y_nihtb__pttcp_adm__rmt___3",
+            "items/nc_y_nihtb__pttcp_adm__rmt___4",
+            "items/nc_y_nihtb__pttcp_adm__v01",
+            "items/nc_y_nihtb__pttcp__agecor_score",
+            "items/nc_y_nihtb__pttcp__computed_score",
+            "items/nc_y_nihtb__pttcp__fullcor_tscore",
+            "items/nc_y_nihtb__pttcp__item_count",
+            "items/nc_y_nihtb__pttcp__raw_score",
+            "items/nc_y_nihtb__pttcp__uncor_score",
+            "items/nc_y_nihtb__pttcp_theta",
+            "items/nc_y_nihtb__readr_dtt",
+            "items/nc_y_nihtb__readr_age",
+            "items/nc_y_nihtb__readr_ver",
+            "items/nc_y_nihtb__readr_adm___1",
+            "items/nc_y_nihtb__readr_adm___2",
+            "items/nc_y_nihtb__readr_adm___3",
+            "items/nc_y_nihtb__readr_adm__01",
+            "items/nc_y_nihtb__readr_adm__rmt___1",
+            "items/nc_y_nihtb__readr_adm__rmt___2",
+            "items/nc_y_nihtb__readr_adm__rmt___3",
+            "items/nc_y_nihtb__readr_adm__rmt___4",
+            "items/nc_y_nihtb__readr_adm__v01",
+            "items/nc_y_nihtb__readr__agecor_score",
+            "items/nc_y_nihtb__readr__computed_score",
+            "items/nc_y_nihtb__readr__fullcor_tscore",
+            "items/nc_y_nihtb__readr__item_count",
+            "items/nc_y_nihtb__readr__raw_score",
+            "items/nc_y_nihtb__readr__uncor_score",
+            "items/nc_y_nihtb__readr_theta"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nc_y_nihtb_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb_dev",
+                "isVis": true,
+                "variableName": "nc_y_nihtb_dev"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__cryst_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__cryst_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__cryst__agecorr_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__cryst__agecorr_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__cryst__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__cryst__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__cryst__fullcorr_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__cryst__fullcorr_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__cryst__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__cryst__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__cryst__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__cryst__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__cryst__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__cryst__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__cryst_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__cryst_theta"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid_dtt",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid_age",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid_age"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid__agecorr_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid__agecorr_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid__fullcorr_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid__fullcorr_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__fluid_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__fluid_theta"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot_dtt",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot_age",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot_age"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot__agecor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot__agecor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot__fullcor_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot__fullcor_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__comp__tot_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__comp__tot_theta"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_dtt",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_age",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_age"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_adm___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_adm___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_adm___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_adm___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_adm___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_adm___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_adm__01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_adm__01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_adm__rmt___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_adm__rmt___4",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_adm__rmt___4"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_adm__v01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_adm__v01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst__agecorr_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst__agecorr_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst__fullcorr_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst__fullcorr_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__crdst_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__crdst_theta"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_dtt",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_age",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_age"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_adm___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_adm___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_adm___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_adm___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_adm___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_adm___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_adm__01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_adm__01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_adm__rmt___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_adm__rmt___4",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_adm__rmt___4"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_adm__v01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_adm__v01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr__agecor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr__agecor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr__fullcor_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr__fullcor_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__flnkr_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__flnkr_theta"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_dtt",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_age",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_age"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_adm___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_adm___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_adm___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_adm___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_adm___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_adm___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_adm__01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_adm__01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_adm__rmt___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_adm__rmt___4",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_adm__rmt___4"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_adm__v01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_adm__v01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt__agecor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt__agecor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt__fullcor_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt__fullcor_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__lswmt_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__lswmt_theta"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_dtt",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_age",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_age"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_adm___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_adm___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_adm___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_adm___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_adm___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_adm___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_adm__01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_adm__01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_adm__rmt___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_adm__rmt___4",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_adm__rmt___4"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_adm__v01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_adm__v01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq__agecor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq__agecor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq__fullcor_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq__fullcor_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picsq_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picsq_theta"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_dtt",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_age",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_age"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_adm___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_adm___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_adm___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_adm___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_adm___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_adm___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_adm__01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_adm__01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_adm__rmt___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_adm__rmt___4",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_adm__rmt___4"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_adm__v01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_adm__v01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb__agecor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb__agecor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb__fullcor_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb__fullcor_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__picvcb_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__picvcb_theta"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_dtt",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_age",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_age"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_adm___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_adm___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_adm___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_adm___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_adm___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_adm___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_adm__01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_adm__01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_adm__rmt___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_adm__rmt___4",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_adm__rmt___4"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_adm__v01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_adm__v01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp__agecor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp__agecor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp__fullcor_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp__fullcor_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__pttcp_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__pttcp_theta"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_dtt",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_dtt"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_age",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_age"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_ver",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_ver"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_adm___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_adm___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_adm___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_adm___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_adm___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_adm___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_adm__01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_adm__01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_adm__rmt___1",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_adm__rmt___1"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_adm__rmt___2",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_adm__rmt___2"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_adm__rmt___3",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_adm__rmt___3"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_adm__rmt___4",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_adm__rmt___4"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_adm__v01",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_adm__v01"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr__agecor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr__agecor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr__computed_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr__computed_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr__fullcor_tscore",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr__fullcor_tscore"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr__item_count",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr__item_count"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr__raw_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr__raw_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr__uncor_score",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr__uncor_score"
+            },
+            {
+                "isAbout": "items/nc_y_nihtb__readr_theta",
+                "isVis": true,
+                "variableName": "nc_y_nihtb__readr_theta"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

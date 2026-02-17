@@ -1,0 +1,81 @@
+{
+    "id": "fc_y_psb_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Temperament/Personality"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_psb01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "prosocial_tendencies_pstyouth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "prosocial_q1_y"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "prosocial_q1_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_y_psb"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_psb_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_psb_0004"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_psb"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_psb_001"
+    },
+    "question": {
+        "en": "I try to be nice to other people. I care about their feelings."
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

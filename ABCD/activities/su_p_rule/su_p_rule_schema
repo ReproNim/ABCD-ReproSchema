@@ -1,0 +1,113 @@
+{
+    "id": "su_p_rule_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_p_rule"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_p_rule_dtt",
+            "items/su_p_rule_age",
+            "items/su_p_rule_lang",
+            "items/su_p_rule__alc_001",
+            "items/su_p_rule__alc_001__01",
+            "items/su_p_rule__alc_001__02",
+            "items/su_p_rule__alc_001__03",
+            "items/su_p_rule__mj_001",
+            "items/su_p_rule__mj_001__01",
+            "items/su_p_rule__mj_001__02",
+            "items/su_p_rule__nic__cig_001",
+            "items/su_p_rule__nic__cig_001__01",
+            "items/su_p_rule__nic__cig_001__02",
+            "items/su_p_rule__nic__vape_001",
+            "items/su_p_rule__nic__vape_001__01",
+            "items/su_p_rule__nic__vape_001__02"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_p_rule_dtt",
+                "isVis": true,
+                "variableName": "su_p_rule_dtt"
+            },
+            {
+                "isAbout": "items/su_p_rule_age",
+                "isVis": true,
+                "variableName": "su_p_rule_age"
+            },
+            {
+                "isAbout": "items/su_p_rule_lang",
+                "isVis": true,
+                "variableName": "su_p_rule_lang"
+            },
+            {
+                "isAbout": "items/su_p_rule__alc_001",
+                "isVis": true,
+                "variableName": "su_p_rule__alc_001"
+            },
+            {
+                "isAbout": "items/su_p_rule__alc_001__01",
+                "isVis": true,
+                "variableName": "su_p_rule__alc_001__01"
+            },
+            {
+                "isAbout": "items/su_p_rule__alc_001__02",
+                "isVis": true,
+                "variableName": "su_p_rule__alc_001__02"
+            },
+            {
+                "isAbout": "items/su_p_rule__alc_001__03",
+                "isVis": true,
+                "variableName": "su_p_rule__alc_001__03"
+            },
+            {
+                "isAbout": "items/su_p_rule__mj_001",
+                "isVis": true,
+                "variableName": "su_p_rule__mj_001"
+            },
+            {
+                "isAbout": "items/su_p_rule__mj_001__01",
+                "isVis": true,
+                "variableName": "su_p_rule__mj_001__01"
+            },
+            {
+                "isAbout": "items/su_p_rule__mj_001__02",
+                "isVis": true,
+                "variableName": "su_p_rule__mj_001__02"
+            },
+            {
+                "isAbout": "items/su_p_rule__nic__cig_001",
+                "isVis": true,
+                "variableName": "su_p_rule__nic__cig_001"
+            },
+            {
+                "isAbout": "items/su_p_rule__nic__cig_001__01",
+                "isVis": true,
+                "variableName": "su_p_rule__nic__cig_001__01"
+            },
+            {
+                "isAbout": "items/su_p_rule__nic__cig_001__02",
+                "isVis": true,
+                "variableName": "su_p_rule__nic__cig_001__02"
+            },
+            {
+                "isAbout": "items/su_p_rule__nic__vape_001",
+                "isVis": true,
+                "variableName": "su_p_rule__nic__vape_001"
+            },
+            {
+                "isAbout": "items/su_p_rule__nic__vape_001__01",
+                "isVis": true,
+                "variableName": "su_p_rule__nic__vape_001__01"
+            },
+            {
+                "isAbout": "items/su_p_rule__nic__vape_001__02",
+                "isVis": true,
+                "variableName": "su_p_rule__nic__vape_001__02"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

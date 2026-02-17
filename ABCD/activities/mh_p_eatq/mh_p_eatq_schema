@@ -1,0 +1,563 @@
+{
+    "id": "mh_p_eatq_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_eatq"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_eatq_dtt",
+            "items/mh_p_eatq_age",
+            "items/mh_p_eatq_lang",
+            "items/mh_p_eatq__actv_001",
+            "items/mh_p_eatq__actv_002",
+            "items/mh_p_eatq__actv_003",
+            "items/mh_p_eatq__actv_004",
+            "items/mh_p_eatq__actv_005",
+            "items/mh_p_eatq__actv_006",
+            "items/mh_p_eatq__actv_007",
+            "items/mh_p_eatq__affl_001",
+            "items/mh_p_eatq__affl_002",
+            "items/mh_p_eatq__affl_003",
+            "items/mh_p_eatq__affl_004",
+            "items/mh_p_eatq__affl_005",
+            "items/mh_p_eatq__affl_006",
+            "items/mh_p_eatq__aggr_001",
+            "items/mh_p_eatq__aggr_002",
+            "items/mh_p_eatq__aggr_003",
+            "items/mh_p_eatq__aggr_004",
+            "items/mh_p_eatq__aggr_005",
+            "items/mh_p_eatq__aggr_006",
+            "items/mh_p_eatq__aggr_007",
+            "items/mh_p_eatq__attn_001",
+            "items/mh_p_eatq__attn_002",
+            "items/mh_p_eatq__attn_003",
+            "items/mh_p_eatq__attn_004",
+            "items/mh_p_eatq__attn_005",
+            "items/mh_p_eatq__attn_006",
+            "items/mh_p_eatq__depm_001",
+            "items/mh_p_eatq__depm_002",
+            "items/mh_p_eatq__depm_003",
+            "items/mh_p_eatq__depm_004",
+            "items/mh_p_eatq__depm_005",
+            "items/mh_p_eatq__fear_001",
+            "items/mh_p_eatq__fear_002",
+            "items/mh_p_eatq__fear_003",
+            "items/mh_p_eatq__fear_004",
+            "items/mh_p_eatq__fear_005",
+            "items/mh_p_eatq__fear_006",
+            "items/mh_p_eatq__frust_001",
+            "items/mh_p_eatq__frust_002",
+            "items/mh_p_eatq__frust_003",
+            "items/mh_p_eatq__frust_004",
+            "items/mh_p_eatq__frust_005",
+            "items/mh_p_eatq__frust_006",
+            "items/mh_p_eatq__inhib_001",
+            "items/mh_p_eatq__inhib_002",
+            "items/mh_p_eatq__inhib_003",
+            "items/mh_p_eatq__inhib_004",
+            "items/mh_p_eatq__inhib_005",
+            "items/mh_p_eatq__shy_001",
+            "items/mh_p_eatq__shy_002",
+            "items/mh_p_eatq__shy_003",
+            "items/mh_p_eatq__shy_004",
+            "items/mh_p_eatq__shy_005",
+            "items/mh_p_eatq__surg_001",
+            "items/mh_p_eatq__surg_002",
+            "items/mh_p_eatq__surg_003",
+            "items/mh_p_eatq__surg_004",
+            "items/mh_p_eatq__surg_005",
+            "items/mh_p_eatq__surg_006",
+            "items/mh_p_eatq__surg_007",
+            "items/mh_p_eatq__surg_008",
+            "items/mh_p_eatq__surg_009",
+            "items/mh_p_eatq__actv_mean",
+            "items/mh_p_eatq__actv_nm",
+            "items/mh_p_eatq__affl_mean",
+            "items/mh_p_eatq__affl_nm",
+            "items/mh_p_eatq__aggr_mean",
+            "items/mh_p_eatq__aggr_nm",
+            "items/mh_p_eatq__attn_mean",
+            "items/mh_p_eatq__attn_nm",
+            "items/mh_p_eatq__depm_mean",
+            "items/mh_p_eatq__depm_nm",
+            "items/mh_p_eatq__fear_mean",
+            "items/mh_p_eatq__fear_nm",
+            "items/mh_p_eatq__frust_mean",
+            "items/mh_p_eatq__frust_nm",
+            "items/mh_p_eatq__inhib_mean",
+            "items/mh_p_eatq__inhib_nm",
+            "items/mh_p_eatq__shy_mean",
+            "items/mh_p_eatq__shy_nm",
+            "items/mh_p_eatq__ss__efcon_mean",
+            "items/mh_p_eatq__ss__efcon_nm",
+            "items/mh_p_eatq__ss__negaff_mean",
+            "items/mh_p_eatq__ss__negaff_nm",
+            "items/mh_p_eatq__ss__surg_mean",
+            "items/mh_p_eatq__ss__surg_nm",
+            "items/mh_p_eatq__surg_mean",
+            "items/mh_p_eatq__surg_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_eatq_dtt",
+                "isVis": true,
+                "variableName": "mh_p_eatq_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_eatq_age",
+                "isVis": true,
+                "variableName": "mh_p_eatq_age"
+            },
+            {
+                "isAbout": "items/mh_p_eatq_lang",
+                "isVis": true,
+                "variableName": "mh_p_eatq_lang"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__actv_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__actv_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__actv_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__actv_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__actv_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__actv_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__actv_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__actv_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__actv_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__actv_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__actv_006",
+                "isVis": true,
+                "variableName": "mh_p_eatq__actv_006"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__actv_007",
+                "isVis": true,
+                "variableName": "mh_p_eatq__actv_007"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__affl_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__affl_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__affl_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__affl_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__affl_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__affl_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__affl_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__affl_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__affl_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__affl_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__affl_006",
+                "isVis": true,
+                "variableName": "mh_p_eatq__affl_006"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__aggr_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__aggr_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__aggr_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__aggr_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__aggr_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__aggr_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__aggr_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__aggr_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__aggr_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__aggr_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__aggr_006",
+                "isVis": true,
+                "variableName": "mh_p_eatq__aggr_006"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__aggr_007",
+                "isVis": true,
+                "variableName": "mh_p_eatq__aggr_007"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__attn_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__attn_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__attn_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__attn_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__attn_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__attn_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__attn_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__attn_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__attn_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__attn_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__attn_006",
+                "isVis": true,
+                "variableName": "mh_p_eatq__attn_006"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__depm_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__depm_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__depm_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__depm_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__depm_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__depm_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__depm_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__depm_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__depm_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__depm_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__fear_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__fear_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__fear_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__fear_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__fear_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__fear_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__fear_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__fear_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__fear_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__fear_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__fear_006",
+                "isVis": true,
+                "variableName": "mh_p_eatq__fear_006"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__frust_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__frust_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__frust_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__frust_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__frust_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__frust_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__frust_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__frust_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__frust_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__frust_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__frust_006",
+                "isVis": true,
+                "variableName": "mh_p_eatq__frust_006"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__inhib_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__inhib_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__inhib_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__inhib_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__inhib_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__inhib_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__inhib_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__inhib_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__inhib_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__inhib_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__shy_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__shy_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__shy_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__shy_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__shy_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__shy_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__shy_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__shy_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__shy_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__shy_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_001",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_001"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_002",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_002"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_003",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_003"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_004",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_004"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_005",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_005"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_006",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_006"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_007",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_007"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_008",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_008"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_009",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_009"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__actv_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__actv_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__actv_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__actv_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__affl_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__affl_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__affl_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__affl_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__aggr_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__aggr_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__aggr_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__aggr_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__attn_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__attn_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__attn_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__attn_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__depm_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__depm_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__depm_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__depm_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__fear_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__fear_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__fear_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__fear_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__frust_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__frust_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__frust_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__frust_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__inhib_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__inhib_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__inhib_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__inhib_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__shy_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__shy_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__shy_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__shy_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__ss__efcon_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__ss__efcon_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__ss__efcon_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__ss__efcon_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__ss__negaff_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__ss__negaff_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__ss__negaff_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__ss__negaff_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__ss__surg_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__ss__surg_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__ss__surg_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__ss__surg_nm"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_mean",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_mean"
+            },
+            {
+                "isAbout": "items/mh_p_eatq__surg_nm",
+                "isVis": true,
+                "variableName": "mh_p_eatq__surg_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

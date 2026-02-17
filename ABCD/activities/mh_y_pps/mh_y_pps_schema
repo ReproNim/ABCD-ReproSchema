@@ -1,0 +1,455 @@
+{
+    "id": "mh_y_pps_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_pps"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_pps_dtt",
+            "items/mh_y_pps_age",
+            "items/mh_y_pps_001",
+            "items/mh_y_pps__bother_001",
+            "items/mh_y_pps__severity_001",
+            "items/mh_y_pps_002",
+            "items/mh_y_pps__bother_002",
+            "items/mh_y_pps__severity_002",
+            "items/mh_y_pps_003",
+            "items/mh_y_pps__bother_003",
+            "items/mh_y_pps__severity_003",
+            "items/mh_y_pps_004",
+            "items/mh_y_pps__bother_004",
+            "items/mh_y_pps__severity_004",
+            "items/mh_y_pps_005",
+            "items/mh_y_pps__bother_005",
+            "items/mh_y_pps__severity_005",
+            "items/mh_y_pps_006",
+            "items/mh_y_pps__bother_006",
+            "items/mh_y_pps__severity_006",
+            "items/mh_y_pps_007",
+            "items/mh_y_pps__bother_007",
+            "items/mh_y_pps__severity_007",
+            "items/mh_y_pps_008",
+            "items/mh_y_pps__bother_008",
+            "items/mh_y_pps__severity_008",
+            "items/mh_y_pps_009",
+            "items/mh_y_pps__bother_009",
+            "items/mh_y_pps__severity_009",
+            "items/mh_y_pps_010",
+            "items/mh_y_pps__bother_010",
+            "items/mh_y_pps__severity_010",
+            "items/mh_y_pps_011",
+            "items/mh_y_pps__bother_011",
+            "items/mh_y_pps__severity_011",
+            "items/mh_y_pps_012",
+            "items/mh_y_pps__bother_012",
+            "items/mh_y_pps__severity_012",
+            "items/mh_y_pps_013",
+            "items/mh_y_pps__bother_013",
+            "items/mh_y_pps__severity_013",
+            "items/mh_y_pps_014",
+            "items/mh_y_pps__bother_014",
+            "items/mh_y_pps__severity_014",
+            "items/mh_y_pps_015",
+            "items/mh_y_pps__bother_015",
+            "items/mh_y_pps__severity_015",
+            "items/mh_y_pps_016",
+            "items/mh_y_pps__bother_016",
+            "items/mh_y_pps__severity_016",
+            "items/mh_y_pps_017",
+            "items/mh_y_pps__bother_017",
+            "items/mh_y_pps__severity_017",
+            "items/mh_y_pps_018",
+            "items/mh_y_pps__bother_018",
+            "items/mh_y_pps__severity_018",
+            "items/mh_y_pps_019",
+            "items/mh_y_pps__bother_019",
+            "items/mh_y_pps__severity_019",
+            "items/mh_y_pps_020",
+            "items/mh_y_pps__bother_020",
+            "items/mh_y_pps__severity_020",
+            "items/mh_y_pps_021",
+            "items/mh_y_pps__bother_021",
+            "items/mh_y_pps__severity_021",
+            "items/mh_y_pps__bother__no_count",
+            "items/mh_y_pps__bother__yes_count",
+            "items/mh_y_pps__bother_nm",
+            "items/mh_y_pps__severity_mean",
+            "items/mh_y_pps__severity_nm",
+            "items/mh_y_pps__severity_score",
+            "items/mh_y_pps_count",
+            "items/mh_y_pps_nm"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_pps_dtt",
+                "isVis": true,
+                "variableName": "mh_y_pps_dtt"
+            },
+            {
+                "isAbout": "items/mh_y_pps_age",
+                "isVis": true,
+                "variableName": "mh_y_pps_age"
+            },
+            {
+                "isAbout": "items/mh_y_pps_001",
+                "isVis": true,
+                "variableName": "mh_y_pps_001"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_001",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_001"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_001",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_001"
+            },
+            {
+                "isAbout": "items/mh_y_pps_002",
+                "isVis": true,
+                "variableName": "mh_y_pps_002"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_002",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_002"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_002",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_002"
+            },
+            {
+                "isAbout": "items/mh_y_pps_003",
+                "isVis": true,
+                "variableName": "mh_y_pps_003"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_003",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_003"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_003",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_003"
+            },
+            {
+                "isAbout": "items/mh_y_pps_004",
+                "isVis": true,
+                "variableName": "mh_y_pps_004"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_004",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_004"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_004",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_004"
+            },
+            {
+                "isAbout": "items/mh_y_pps_005",
+                "isVis": true,
+                "variableName": "mh_y_pps_005"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_005",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_005"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_005",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_005"
+            },
+            {
+                "isAbout": "items/mh_y_pps_006",
+                "isVis": true,
+                "variableName": "mh_y_pps_006"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_006",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_006"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_006",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_006"
+            },
+            {
+                "isAbout": "items/mh_y_pps_007",
+                "isVis": true,
+                "variableName": "mh_y_pps_007"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_007",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_007"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_007",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_007"
+            },
+            {
+                "isAbout": "items/mh_y_pps_008",
+                "isVis": true,
+                "variableName": "mh_y_pps_008"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_008",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_008"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_008",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_008"
+            },
+            {
+                "isAbout": "items/mh_y_pps_009",
+                "isVis": true,
+                "variableName": "mh_y_pps_009"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_009",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_009"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_009",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_009"
+            },
+            {
+                "isAbout": "items/mh_y_pps_010",
+                "isVis": true,
+                "variableName": "mh_y_pps_010"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_010",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_010"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_010",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_010"
+            },
+            {
+                "isAbout": "items/mh_y_pps_011",
+                "isVis": true,
+                "variableName": "mh_y_pps_011"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_011",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_011"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_011",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_011"
+            },
+            {
+                "isAbout": "items/mh_y_pps_012",
+                "isVis": true,
+                "variableName": "mh_y_pps_012"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_012",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_012"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_012",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_012"
+            },
+            {
+                "isAbout": "items/mh_y_pps_013",
+                "isVis": true,
+                "variableName": "mh_y_pps_013"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_013",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_013"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_013",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_013"
+            },
+            {
+                "isAbout": "items/mh_y_pps_014",
+                "isVis": true,
+                "variableName": "mh_y_pps_014"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_014",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_014"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_014",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_014"
+            },
+            {
+                "isAbout": "items/mh_y_pps_015",
+                "isVis": true,
+                "variableName": "mh_y_pps_015"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_015",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_015"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_015",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_015"
+            },
+            {
+                "isAbout": "items/mh_y_pps_016",
+                "isVis": true,
+                "variableName": "mh_y_pps_016"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_016",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_016"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_016",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_016"
+            },
+            {
+                "isAbout": "items/mh_y_pps_017",
+                "isVis": true,
+                "variableName": "mh_y_pps_017"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_017",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_017"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_017",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_017"
+            },
+            {
+                "isAbout": "items/mh_y_pps_018",
+                "isVis": true,
+                "variableName": "mh_y_pps_018"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_018",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_018"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_018",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_018"
+            },
+            {
+                "isAbout": "items/mh_y_pps_019",
+                "isVis": true,
+                "variableName": "mh_y_pps_019"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_019",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_019"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_019",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_019"
+            },
+            {
+                "isAbout": "items/mh_y_pps_020",
+                "isVis": true,
+                "variableName": "mh_y_pps_020"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_020",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_020"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_020",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_020"
+            },
+            {
+                "isAbout": "items/mh_y_pps_021",
+                "isVis": true,
+                "variableName": "mh_y_pps_021"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_021",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_021"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_021",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_021"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother__no_count",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother__no_count"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother__yes_count",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother__yes_count"
+            },
+            {
+                "isAbout": "items/mh_y_pps__bother_nm",
+                "isVis": true,
+                "variableName": "mh_y_pps__bother_nm"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_mean",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_mean"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_nm",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_nm"
+            },
+            {
+                "isAbout": "items/mh_y_pps__severity_score",
+                "isVis": true,
+                "variableName": "mh_y_pps__severity_score"
+            },
+            {
+                "isAbout": "items/mh_y_pps_count",
+                "isVis": true,
+                "variableName": "mh_y_pps_count"
+            },
+            {
+                "isAbout": "items/mh_y_pps_nm",
+                "isVis": true,
+                "variableName": "mh_y_pps_nm"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

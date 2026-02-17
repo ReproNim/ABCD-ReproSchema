@@ -1,0 +1,72 @@
+{
+    "id": "nt_y_earskey__wknd__day_count",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Novel Technologies"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Screen Use"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "nt_y_ears_kb_day_wke_n"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nt.html#nt_y_earskey"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nt_y_earskey__wknd__day_count"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nt_y_earskey_0005"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nt_y_earskey"
+        }
+    ],
+    "prefLabel": {
+        "en": "nt_y_earskey__wknd__day_count"
+    },
+    "question": {
+        "en": "Number of weekend days with at least 1 upload (keyboard input)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

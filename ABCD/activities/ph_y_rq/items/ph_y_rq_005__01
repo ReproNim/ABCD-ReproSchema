@@ -1,0 +1,81 @@
+{
+    "id": "ph_y_rq_005__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_respiratory_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "resp_diagnosis_age_y"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "resp_diagnosis_age_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_rq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_rq_005__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_rq_0049"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_rq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_rq_005__01"
+    },
+    "question": {
+        "en": "At what age were you diagnosed with asthma?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,81 @@
+{
+    "id": "ecb_y_ecb__coll_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "degrees Celsius (\u00b0C)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Endocannabinoid"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "ecb_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "cbq_temp_store"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "cbq_temp_store"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/ecb.html#ecb_y_ecb"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ecb_y_ecb__coll_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ecb_y_ecb_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ecb_y_ecb"
+        }
+    ],
+    "prefLabel": {
+        "en": "ecb_y_ecb__coll_001"
+    },
+    "question": {
+        "en": "Endocannabinoid Substudy: Temperature of site fridge for ECB blood sample storage"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,161 @@
+{
+    "id": "le_l_crime_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_crime"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_crime__addr1__drg__possess_count",
+            "items/le_l_crime__addr1__drg__sale_count",
+            "items/le_l_crime__addr1__drg_count",
+            "items/le_l_crime__addr1__dui_count",
+            "items/le_l_crime__addr1__mj__sale_count",
+            "items/le_l_crime__addr1__p1__violent_count",
+            "items/le_l_crime__addr1__p1_count",
+            "items/le_l_crime__addr1_count",
+            "items/le_l_crime__addr2__drg__possess_count",
+            "items/le_l_crime__addr2__drg__sale_count",
+            "items/le_l_crime__addr2__drg_count",
+            "items/le_l_crime__addr2__dui_count",
+            "items/le_l_crime__addr2__mj__sale_count",
+            "items/le_l_crime__addr2__p1__violent_count",
+            "items/le_l_crime__addr2__p1_count",
+            "items/le_l_crime__addr2_count",
+            "items/le_l_crime__addr3__drg__possess_count",
+            "items/le_l_crime__addr3__drg__sale_count",
+            "items/le_l_crime__addr3__drg_count",
+            "items/le_l_crime__addr3__dui_count",
+            "items/le_l_crime__addr3__mj__sale_count",
+            "items/le_l_crime__addr3__p1__violent_count",
+            "items/le_l_crime__addr3__p1_count",
+            "items/le_l_crime__addr3_count"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_crime__addr1__drg__possess_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr1__drg__possess_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr1__drg__sale_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr1__drg__sale_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr1__drg_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr1__drg_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr1__dui_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr1__dui_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr1__mj__sale_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr1__mj__sale_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr1__p1__violent_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr1__p1__violent_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr1__p1_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr1__p1_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr1_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr1_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr2__drg__possess_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr2__drg__possess_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr2__drg__sale_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr2__drg__sale_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr2__drg_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr2__drg_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr2__dui_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr2__dui_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr2__mj__sale_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr2__mj__sale_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr2__p1__violent_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr2__p1__violent_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr2__p1_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr2__p1_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr2_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr2_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr3__drg__possess_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr3__drg__possess_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr3__drg__sale_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr3__drg__sale_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr3__drg_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr3__drg_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr3__dui_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr3__dui_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr3__mj__sale_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr3__mj__sale_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr3__p1__violent_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr3__p1__violent_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr3__p1_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr3__p1_count"
+            },
+            {
+                "isAbout": "items/le_l_crime__addr3_count",
+                "isVis": true,
+                "variableName": "le_l_crime__addr3_count"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

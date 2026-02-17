@@ -1,0 +1,143 @@
+{
+    "id": "le_l_vpd_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_vpd"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_vpd__addr1__vpd_max__db0",
+            "items/le_l_vpd__addr1__vpd_max__db1",
+            "items/le_l_vpd__addr1__vpd_max__db2",
+            "items/le_l_vpd__addr1__vpd_max__db3",
+            "items/le_l_vpd__addr1__vpd_max__db4",
+            "items/le_l_vpd__addr1__vpd_max__db5",
+            "items/le_l_vpd__addr1__vpd_max__db6",
+            "items/le_l_vpd__addr2__vpd_max__db0",
+            "items/le_l_vpd__addr2__vpd_max__db1",
+            "items/le_l_vpd__addr2__vpd_max__db2",
+            "items/le_l_vpd__addr2__vpd_max__db3",
+            "items/le_l_vpd__addr2__vpd_max__db4",
+            "items/le_l_vpd__addr2__vpd_max__db5",
+            "items/le_l_vpd__addr2__vpd_max__db6",
+            "items/le_l_vpd__addr3__vpd_max__db0",
+            "items/le_l_vpd__addr3__vpd_max__db1",
+            "items/le_l_vpd__addr3__vpd_max__db2",
+            "items/le_l_vpd__addr3__vpd_max__db3",
+            "items/le_l_vpd__addr3__vpd_max__db4",
+            "items/le_l_vpd__addr3__vpd_max__db5",
+            "items/le_l_vpd__addr3__vpd_max__db6"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_vpd__addr1__vpd_max__db0",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr1__vpd_max__db0"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr1__vpd_max__db1",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr1__vpd_max__db1"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr1__vpd_max__db2",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr1__vpd_max__db2"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr1__vpd_max__db3",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr1__vpd_max__db3"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr1__vpd_max__db4",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr1__vpd_max__db4"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr1__vpd_max__db5",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr1__vpd_max__db5"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr1__vpd_max__db6",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr1__vpd_max__db6"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr2__vpd_max__db0",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr2__vpd_max__db0"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr2__vpd_max__db1",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr2__vpd_max__db1"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr2__vpd_max__db2",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr2__vpd_max__db2"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr2__vpd_max__db3",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr2__vpd_max__db3"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr2__vpd_max__db4",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr2__vpd_max__db4"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr2__vpd_max__db5",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr2__vpd_max__db5"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr2__vpd_max__db6",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr2__vpd_max__db6"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr3__vpd_max__db0",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr3__vpd_max__db0"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr3__vpd_max__db1",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr3__vpd_max__db1"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr3__vpd_max__db2",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr3__vpd_max__db2"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr3__vpd_max__db3",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr3__vpd_max__db3"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr3__vpd_max__db4",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr3__vpd_max__db4"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr3__vpd_max__db5",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr3__vpd_max__db5"
+            },
+            {
+                "isAbout": "items/le_l_vpd__addr3__vpd_max__db6",
+                "isVis": true,
+                "variableName": "le_l_vpd__addr3__vpd_max__db6"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

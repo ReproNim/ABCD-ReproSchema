@@ -1,0 +1,71 @@
+{
+    "id": "le_l_rxmonit_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_rxmonit"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_rxmonit__addr1__pdmp__mustaccess_indicator",
+            "items/le_l_rxmonit__addr1__pdmp__op_indicator",
+            "items/le_l_rxmonit__addr1__pdmp_indicator",
+            "items/le_l_rxmonit__addr2__pdmp__mustaccess_indicator",
+            "items/le_l_rxmonit__addr2__pdmp__op_indicator",
+            "items/le_l_rxmonit__addr2__pdmp_indicator",
+            "items/le_l_rxmonit__addr3__pdmp__mustaccess_indicator",
+            "items/le_l_rxmonit__addr3__pdmp__op_indicator",
+            "items/le_l_rxmonit__addr3__pdmp_indicator"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_rxmonit__addr1__pdmp__mustaccess_indicator",
+                "isVis": true,
+                "variableName": "le_l_rxmonit__addr1__pdmp__mustaccess_indicator"
+            },
+            {
+                "isAbout": "items/le_l_rxmonit__addr1__pdmp__op_indicator",
+                "isVis": true,
+                "variableName": "le_l_rxmonit__addr1__pdmp__op_indicator"
+            },
+            {
+                "isAbout": "items/le_l_rxmonit__addr1__pdmp_indicator",
+                "isVis": true,
+                "variableName": "le_l_rxmonit__addr1__pdmp_indicator"
+            },
+            {
+                "isAbout": "items/le_l_rxmonit__addr2__pdmp__mustaccess_indicator",
+                "isVis": true,
+                "variableName": "le_l_rxmonit__addr2__pdmp__mustaccess_indicator"
+            },
+            {
+                "isAbout": "items/le_l_rxmonit__addr2__pdmp__op_indicator",
+                "isVis": true,
+                "variableName": "le_l_rxmonit__addr2__pdmp__op_indicator"
+            },
+            {
+                "isAbout": "items/le_l_rxmonit__addr2__pdmp_indicator",
+                "isVis": true,
+                "variableName": "le_l_rxmonit__addr2__pdmp_indicator"
+            },
+            {
+                "isAbout": "items/le_l_rxmonit__addr3__pdmp__mustaccess_indicator",
+                "isVis": true,
+                "variableName": "le_l_rxmonit__addr3__pdmp__mustaccess_indicator"
+            },
+            {
+                "isAbout": "items/le_l_rxmonit__addr3__pdmp__op_indicator",
+                "isVis": true,
+                "variableName": "le_l_rxmonit__addr3__pdmp__op_indicator"
+            },
+            {
+                "isAbout": "items/le_l_rxmonit__addr3__pdmp_indicator",
+                "isVis": true,
+                "variableName": "le_l_rxmonit__addr3__pdmp_indicator"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

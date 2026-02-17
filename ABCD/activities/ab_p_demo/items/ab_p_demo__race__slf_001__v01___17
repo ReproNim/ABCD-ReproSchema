@@ -1,0 +1,81 @@
+{
+    "id": "ab_p_demo__race__slf_001__v01___17",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Demographics"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_lpds01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_demographicsdem_parent_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "demo_prnt_race_a_v2_l___17"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_prnt_race_a_v2_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_p_demo"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_p_demo__race__slf_001__v01___17"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_p_demo_0214"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_p_demo"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_p_demo__race__slf_001__v01___17"
+    },
+    "question": {
+        "en": "What race do you consider yourself to be? [Multi-select]: Other Pacific Islander [Version 1]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

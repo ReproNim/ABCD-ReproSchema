@@ -1,0 +1,81 @@
+{
+    "id": "irma_p_qtn__bef_009___5",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Hurricane Irma"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Natural Disasters"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ip01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "substudy_irma_parent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "irma_hurtep_b7___5"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "irma_hurtep_b7"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/irma.html#irma_p_qtn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "irma_p_qtn__bef_009___5"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "irma_p_qtn_0053"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "irma_p_qtn"
+        }
+    ],
+    "prefLabel": {
+        "en": "irma_p_qtn__bef_009___5"
+    },
+    "question": {
+        "en": "How did you get news of information about Hurricane Irma? [Multi-select]: Other [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,215 @@
+{
+    "id": "mh_y_upps_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_upps"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_upps_dtt",
+            "items/mh_y_upps_age",
+            "items/mh_y_upps_adm",
+            "items/mh_y_upps__nurg_001",
+            "items/mh_y_upps__nurg_002",
+            "items/mh_y_upps__nurg_003",
+            "items/mh_y_upps__nurg_004",
+            "items/mh_y_upps__pers_001",
+            "items/mh_y_upps__pers_002",
+            "items/mh_y_upps__pers_003",
+            "items/mh_y_upps__pers_004",
+            "items/mh_y_upps__plan_001",
+            "items/mh_y_upps__plan_002",
+            "items/mh_y_upps__plan_003",
+            "items/mh_y_upps__plan_004",
+            "items/mh_y_upps__purg_001",
+            "items/mh_y_upps__purg_002",
+            "items/mh_y_upps__purg_003",
+            "items/mh_y_upps__purg_004",
+            "items/mh_y_upps__sens_001",
+            "items/mh_y_upps__sens_002",
+            "items/mh_y_upps__sens_003",
+            "items/mh_y_upps__sens_004",
+            "items/mh_y_upps__nurg_nm",
+            "items/mh_y_upps__nurg_sum",
+            "items/mh_y_upps__pers_nm",
+            "items/mh_y_upps__pers_sum",
+            "items/mh_y_upps__plan_nm",
+            "items/mh_y_upps__plan_sum",
+            "items/mh_y_upps__purg_nm",
+            "items/mh_y_upps__purg_sum",
+            "items/mh_y_upps__sens_nm",
+            "items/mh_y_upps__sens_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_upps_dtt",
+                "isVis": true,
+                "variableName": "mh_y_upps_dtt"
+            },
+            {
+                "isAbout": "items/mh_y_upps_age",
+                "isVis": true,
+                "variableName": "mh_y_upps_age"
+            },
+            {
+                "isAbout": "items/mh_y_upps_adm",
+                "isVis": true,
+                "variableName": "mh_y_upps_adm"
+            },
+            {
+                "isAbout": "items/mh_y_upps__nurg_001",
+                "isVis": true,
+                "variableName": "mh_y_upps__nurg_001"
+            },
+            {
+                "isAbout": "items/mh_y_upps__nurg_002",
+                "isVis": true,
+                "variableName": "mh_y_upps__nurg_002"
+            },
+            {
+                "isAbout": "items/mh_y_upps__nurg_003",
+                "isVis": true,
+                "variableName": "mh_y_upps__nurg_003"
+            },
+            {
+                "isAbout": "items/mh_y_upps__nurg_004",
+                "isVis": true,
+                "variableName": "mh_y_upps__nurg_004"
+            },
+            {
+                "isAbout": "items/mh_y_upps__pers_001",
+                "isVis": true,
+                "variableName": "mh_y_upps__pers_001"
+            },
+            {
+                "isAbout": "items/mh_y_upps__pers_002",
+                "isVis": true,
+                "variableName": "mh_y_upps__pers_002"
+            },
+            {
+                "isAbout": "items/mh_y_upps__pers_003",
+                "isVis": true,
+                "variableName": "mh_y_upps__pers_003"
+            },
+            {
+                "isAbout": "items/mh_y_upps__pers_004",
+                "isVis": true,
+                "variableName": "mh_y_upps__pers_004"
+            },
+            {
+                "isAbout": "items/mh_y_upps__plan_001",
+                "isVis": true,
+                "variableName": "mh_y_upps__plan_001"
+            },
+            {
+                "isAbout": "items/mh_y_upps__plan_002",
+                "isVis": true,
+                "variableName": "mh_y_upps__plan_002"
+            },
+            {
+                "isAbout": "items/mh_y_upps__plan_003",
+                "isVis": true,
+                "variableName": "mh_y_upps__plan_003"
+            },
+            {
+                "isAbout": "items/mh_y_upps__plan_004",
+                "isVis": true,
+                "variableName": "mh_y_upps__plan_004"
+            },
+            {
+                "isAbout": "items/mh_y_upps__purg_001",
+                "isVis": true,
+                "variableName": "mh_y_upps__purg_001"
+            },
+            {
+                "isAbout": "items/mh_y_upps__purg_002",
+                "isVis": true,
+                "variableName": "mh_y_upps__purg_002"
+            },
+            {
+                "isAbout": "items/mh_y_upps__purg_003",
+                "isVis": true,
+                "variableName": "mh_y_upps__purg_003"
+            },
+            {
+                "isAbout": "items/mh_y_upps__purg_004",
+                "isVis": true,
+                "variableName": "mh_y_upps__purg_004"
+            },
+            {
+                "isAbout": "items/mh_y_upps__sens_001",
+                "isVis": true,
+                "variableName": "mh_y_upps__sens_001"
+            },
+            {
+                "isAbout": "items/mh_y_upps__sens_002",
+                "isVis": true,
+                "variableName": "mh_y_upps__sens_002"
+            },
+            {
+                "isAbout": "items/mh_y_upps__sens_003",
+                "isVis": true,
+                "variableName": "mh_y_upps__sens_003"
+            },
+            {
+                "isAbout": "items/mh_y_upps__sens_004",
+                "isVis": true,
+                "variableName": "mh_y_upps__sens_004"
+            },
+            {
+                "isAbout": "items/mh_y_upps__nurg_nm",
+                "isVis": true,
+                "variableName": "mh_y_upps__nurg_nm"
+            },
+            {
+                "isAbout": "items/mh_y_upps__nurg_sum",
+                "isVis": true,
+                "variableName": "mh_y_upps__nurg_sum"
+            },
+            {
+                "isAbout": "items/mh_y_upps__pers_nm",
+                "isVis": true,
+                "variableName": "mh_y_upps__pers_nm"
+            },
+            {
+                "isAbout": "items/mh_y_upps__pers_sum",
+                "isVis": true,
+                "variableName": "mh_y_upps__pers_sum"
+            },
+            {
+                "isAbout": "items/mh_y_upps__plan_nm",
+                "isVis": true,
+                "variableName": "mh_y_upps__plan_nm"
+            },
+            {
+                "isAbout": "items/mh_y_upps__plan_sum",
+                "isVis": true,
+                "variableName": "mh_y_upps__plan_sum"
+            },
+            {
+                "isAbout": "items/mh_y_upps__purg_nm",
+                "isVis": true,
+                "variableName": "mh_y_upps__purg_nm"
+            },
+            {
+                "isAbout": "items/mh_y_upps__purg_sum",
+                "isVis": true,
+                "variableName": "mh_y_upps__purg_sum"
+            },
+            {
+                "isAbout": "items/mh_y_upps__sens_nm",
+                "isVis": true,
+                "variableName": "mh_y_upps__sens_nm"
+            },
+            {
+                "isAbout": "items/mh_y_upps__sens_sum",
+                "isVis": true,
+                "variableName": "mh_y_upps__sens_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

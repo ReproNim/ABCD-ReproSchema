@@ -1,0 +1,81 @@
+{
+    "id": "ab_g_dyn__cohort_grade",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Standard Variables"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "General"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "pdem02 | abcd_lpds01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "demographicsdem_parent | p_demographicsdem_parent_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "demo_ed_v2 | demo_ed_v2_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_ed_v2 | demo_ed_v2_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_g_dyn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_g_dyn__cohort_grade"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_g_dyn_0020"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_g_dyn"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_g_dyn__cohort_grade"
+    },
+    "question": {
+        "en": "Cohort description: Current school grade [Cross-listed: ab_p_demo__ed__yth_001]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "le_l_prenatal_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_prenatal"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_prenatal__addr1__no2_mean",
+            "items/le_l_prenatal__addr1__o3_mean",
+            "items/le_l_prenatal__addr1__pm25_mean",
+            "items/le_l_prenatal_qc"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_prenatal__addr1__no2_mean",
+                "isVis": true,
+                "variableName": "le_l_prenatal__addr1__no2_mean"
+            },
+            {
+                "isAbout": "items/le_l_prenatal__addr1__o3_mean",
+                "isVis": true,
+                "variableName": "le_l_prenatal__addr1__o3_mean"
+            },
+            {
+                "isAbout": "items/le_l_prenatal__addr1__pm25_mean",
+                "isVis": true,
+                "variableName": "le_l_prenatal__addr1__pm25_mean"
+            },
+            {
+                "isAbout": "items/le_l_prenatal_qc",
+                "isVis": true,
+                "variableName": "le_l_prenatal_qc"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

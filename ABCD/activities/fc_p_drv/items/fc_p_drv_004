@@ -1,0 +1,71 @@
+{
+    "id": "fc_p_drv_004",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Family"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "p_youth_driving"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "y_drivers_accident"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_p_drv"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_p_drv_004"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_p_drv_0011"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_p_drv"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_p_drv_004"
+    },
+    "question": {
+        "en": "How many times has your child been determined to be at fault in a driving accident?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

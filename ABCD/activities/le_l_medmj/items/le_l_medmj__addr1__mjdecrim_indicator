@@ -1,0 +1,66 @@
+{
+    "id": "le_l_medmj__addr1__mjdecrim_indicator",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Policy"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr1_decrimmmj_ind"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_medmj"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_medmj__addr1__mjdecrim_indicator"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_medmj_0004"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_medmj"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_medmj__addr1__mjdecrim_indicator"
+    },
+    "question": {
+        "en": "Indicates as of Jan 1st variable in which the level of offense for possessing one ounce of MJ in a state is classified as a civil offense/infraction/petty offense or not an offense. 0 = MJ not decriminalized as of Jan 1st of the baseline visit year. 1 = MJ decriminilized as of Jan 1st of the baseline visit year. (Address 1) (address 1)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

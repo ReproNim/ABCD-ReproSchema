@@ -1,0 +1,227 @@
+{
+    "id": "mh_y_ksads__cond_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_ksads__cond"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_ksads__cond__breakin__past_sx",
+            "items/mh_y_ksads__cond__breakin__pres_sx",
+            "items/mh_y_ksads__cond__bully__past_sx",
+            "items/mh_y_ksads__cond__bully__pres_sx",
+            "items/mh_y_ksads__cond__evntstrsr__pres_sx",
+            "items/mh_y_ksads__cond__fight__past_sx",
+            "items/mh_y_ksads__cond__fight__pres_sx",
+            "items/mh_y_ksads__cond__fire__past_sx",
+            "items/mh_y_ksads__cond__fire__pres_sx",
+            "items/mh_y_ksads__cond__forcesex__past_sx",
+            "items/mh_y_ksads__cond__forcesex__pres_sx",
+            "items/mh_y_ksads__cond__lies__past_sx",
+            "items/mh_y_ksads__cond__lies__pres_sx",
+            "items/mh_y_ksads__cond__outlate__past_sx",
+            "items/mh_y_ksads__cond__outlate__pres_sx",
+            "items/mh_y_ksads__cond__physcruel__anml__past_sx",
+            "items/mh_y_ksads__cond__physcruel__anml__pres_sx",
+            "items/mh_y_ksads__cond__physcruel__ppl__past_sx",
+            "items/mh_y_ksads__cond__physcruel__ppl__pres_sx",
+            "items/mh_y_ksads__cond__rob__past_sx",
+            "items/mh_y_ksads__cond__rob__pres_sx",
+            "items/mh_y_ksads__cond__runaway__past_sx",
+            "items/mh_y_ksads__cond__runaway__pres_sx",
+            "items/mh_y_ksads__cond__steal__past_sx",
+            "items/mh_y_ksads__cond__steal__pres_sx",
+            "items/mh_y_ksads__cond__truant__past_sx",
+            "items/mh_y_ksads__cond__truant__pres_sx",
+            "items/mh_y_ksads__cond__vandal__past_sx",
+            "items/mh_y_ksads__cond__vandal__pres_sx",
+            "items/mh_y_ksads__cond__weapon__past_sx",
+            "items/mh_y_ksads__cond__weapon__pres_sx",
+            "items/mh_y_ksads__cond__onset__adoles__past_dx",
+            "items/mh_y_ksads__cond__onset__adoles__pres_dx",
+            "items/mh_y_ksads__cond__onset__chld__past_dx",
+            "items/mh_y_ksads__cond__onset__chld__pres_dx"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_ksads__cond__breakin__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__breakin__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__breakin__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__breakin__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__bully__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__bully__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__bully__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__bully__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__evntstrsr__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__evntstrsr__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__fight__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__fight__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__fight__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__fight__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__fire__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__fire__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__fire__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__fire__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__forcesex__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__forcesex__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__forcesex__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__forcesex__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__lies__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__lies__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__lies__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__lies__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__outlate__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__outlate__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__outlate__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__outlate__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__physcruel__anml__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__physcruel__anml__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__physcruel__anml__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__physcruel__anml__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__physcruel__ppl__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__physcruel__ppl__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__physcruel__ppl__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__physcruel__ppl__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__rob__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__rob__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__rob__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__rob__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__runaway__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__runaway__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__runaway__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__runaway__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__steal__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__steal__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__steal__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__steal__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__truant__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__truant__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__truant__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__truant__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__vandal__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__vandal__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__vandal__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__vandal__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__weapon__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__weapon__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__weapon__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__weapon__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__onset__adoles__past_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__onset__adoles__past_dx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__onset__adoles__pres_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__onset__adoles__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__onset__chld__past_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__onset__chld__past_dx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__cond__onset__chld__pres_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__cond__onset__chld__pres_dx"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

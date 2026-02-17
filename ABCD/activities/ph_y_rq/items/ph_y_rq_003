@@ -1,0 +1,76 @@
+{
+    "id": "ph_y_rq_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_respiratory_questionnaire"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "resp_exercise_yn_y"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "resp_exercise_yn_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_rq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_rq_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_rq_0034"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_rq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_rq_003"
+    },
+    "question": {
+        "en": "In the past 12 months, has your chest sounded wheezy during or after exercise?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

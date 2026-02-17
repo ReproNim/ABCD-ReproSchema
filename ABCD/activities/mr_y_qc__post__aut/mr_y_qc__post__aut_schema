@@ -1,0 +1,131 @@
+{
+    "id": "mr_y_qc__post__aut_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_qc__post__aut"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_qc__post__aut__dmri__b0__unwarp_indicator",
+            "items/mr_y_qc__post__aut__dmri__b0_rms",
+            "items/mr_y_qc__post__aut__dmri__fov__cutoff__dorsal_max",
+            "items/mr_y_qc__post__aut__dmri__fov__cutoff__ventral_max",
+            "items/mr_y_qc__post__aut__dmri__polardiff_score",
+            "items/mr_y_qc__post__aut__dmri__rigid_score",
+            "items/mr_y_qc__post__aut__dmri__warp_score",
+            "items/mr_y_qc__post__aut__fmri__b0__unwarp_indicator",
+            "items/mr_y_qc__post__aut__fmri__b0_rms",
+            "items/mr_y_qc__post__aut__fmri__fov__cutoff__dorsal_max",
+            "items/mr_y_qc__post__aut__fmri__fov__cutoff__ventral_max",
+            "items/mr_y_qc__post__aut__fmri__inter__temp__snr_mean",
+            "items/mr_y_qc__post__aut__fmri__intra__temp__snr_mean",
+            "items/mr_y_qc__post__aut__fmri__polardiff_score",
+            "items/mr_y_qc__post__aut__fmri__rigid_score",
+            "items/mr_y_qc__post__aut__fmri__warp_score",
+            "items/mr_y_qc__post__aut__smri__t2__rigid_score",
+            "items/mr_y_qc__post__aut__smri__t2__warp_score",
+            "items/mr_y_qc__post__aut__smri__topodfct_count"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_qc__post__aut__dmri__b0__unwarp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__dmri__b0__unwarp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__dmri__b0_rms",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__dmri__b0_rms"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__dmri__fov__cutoff__dorsal_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__dmri__fov__cutoff__dorsal_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__dmri__fov__cutoff__ventral_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__dmri__fov__cutoff__ventral_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__dmri__polardiff_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__dmri__polardiff_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__dmri__rigid_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__dmri__rigid_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__dmri__warp_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__dmri__warp_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__fmri__b0__unwarp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__fmri__b0__unwarp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__fmri__b0_rms",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__fmri__b0_rms"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__fmri__fov__cutoff__dorsal_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__fmri__fov__cutoff__dorsal_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__fmri__fov__cutoff__ventral_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__fmri__fov__cutoff__ventral_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__fmri__inter__temp__snr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__fmri__inter__temp__snr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__fmri__intra__temp__snr_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__fmri__intra__temp__snr_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__fmri__polardiff_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__fmri__polardiff_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__fmri__rigid_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__fmri__rigid_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__fmri__warp_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__fmri__warp_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__t2__rigid_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__t2__rigid_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__t2__warp_score",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__t2__warp_score"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__topodfct_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__topodfct_count"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

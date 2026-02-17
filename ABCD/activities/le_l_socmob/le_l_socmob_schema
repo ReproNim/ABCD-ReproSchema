@@ -1,0 +1,143 @@
+{
+    "id": "le_l_socmob_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_socmob"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_socmob__addr1__kfrpp__p100_prcntile",
+            "items/le_l_socmob__addr1__kfrpp__p1_prcntile",
+            "items/le_l_socmob__addr1__kfrpp__p25_prcntile",
+            "items/le_l_socmob__addr1__kfrpp__p50_prcntile",
+            "items/le_l_socmob__addr1__kfrpp__p75_prcntile",
+            "items/le_l_socmob__addr1__kfrpp_count",
+            "items/le_l_socmob__addr1__kfrpp_mean",
+            "items/le_l_socmob__addr2__kfrpp__p100_prcntile",
+            "items/le_l_socmob__addr2__kfrpp__p1_prcntile",
+            "items/le_l_socmob__addr2__kfrpp__p25_prcntile",
+            "items/le_l_socmob__addr2__kfrpp__p50_prcntile",
+            "items/le_l_socmob__addr2__kfrpp__p75_prcntile",
+            "items/le_l_socmob__addr2__kfrpp_count",
+            "items/le_l_socmob__addr2__kfrpp_mean",
+            "items/le_l_socmob__addr3__kfrpp__p100_prcntile",
+            "items/le_l_socmob__addr3__kfrpp__p1_prcntile",
+            "items/le_l_socmob__addr3__kfrpp__p25_prcntile",
+            "items/le_l_socmob__addr3__kfrpp__p50_prcntile",
+            "items/le_l_socmob__addr3__kfrpp__p75_prcntile",
+            "items/le_l_socmob__addr3__kfrpp_count",
+            "items/le_l_socmob__addr3__kfrpp_mean"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_socmob__addr1__kfrpp__p100_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr1__kfrpp__p100_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr1__kfrpp__p1_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr1__kfrpp__p1_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr1__kfrpp__p25_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr1__kfrpp__p25_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr1__kfrpp__p50_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr1__kfrpp__p50_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr1__kfrpp__p75_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr1__kfrpp__p75_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr1__kfrpp_count",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr1__kfrpp_count"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr1__kfrpp_mean",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr1__kfrpp_mean"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr2__kfrpp__p100_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr2__kfrpp__p100_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr2__kfrpp__p1_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr2__kfrpp__p1_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr2__kfrpp__p25_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr2__kfrpp__p25_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr2__kfrpp__p50_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr2__kfrpp__p50_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr2__kfrpp__p75_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr2__kfrpp__p75_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr2__kfrpp_count",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr2__kfrpp_count"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr2__kfrpp_mean",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr2__kfrpp_mean"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr3__kfrpp__p100_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr3__kfrpp__p100_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr3__kfrpp__p1_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr3__kfrpp__p1_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr3__kfrpp__p25_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr3__kfrpp__p25_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr3__kfrpp__p50_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr3__kfrpp__p50_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr3__kfrpp__p75_prcntile",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr3__kfrpp__p75_prcntile"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr3__kfrpp_count",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr3__kfrpp_count"
+            },
+            {
+                "isAbout": "items/le_l_socmob__addr3__kfrpp_mean",
+                "isVis": true,
+                "variableName": "le_l_socmob__addr3__kfrpp_mean"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

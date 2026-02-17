@@ -1,0 +1,76 @@
+{
+    "id": "mr_y_rsfmri__corr__gpnet__cip__def_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Resting State fMRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "Correlation"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_betnet02"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "rsfmri_c_ngd_ca_ngd_dt"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_rsfmri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_rsfmri__corr__gpnet__cip__def_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_rsfmri_corr_gpnet_0030"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_rsfmri__corr__gpnet"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_rsfmri__corr__gpnet__cip__def_mean"
+    },
+    "question": {
+        "en": "Average correlation between Gordon networks: cingulo-parietal & default"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

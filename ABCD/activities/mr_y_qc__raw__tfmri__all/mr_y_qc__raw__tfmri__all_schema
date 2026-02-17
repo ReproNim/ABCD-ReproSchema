@@ -1,0 +1,197 @@
+{
+    "id": "mr_y_qc__raw__tfmri__all_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_qc__raw__tfmri__all"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_qc__raw__tfmri__all__eprime__comp_indicator",
+            "items/mr_y_qc__raw__tfmri__all__eprime__match_indicator",
+            "items/mr_y_qc__raw__tfmri__all__eprime__mssng__laptop_indicator",
+            "items/mr_y_qc__raw__tfmri__all__eprime__mssng__scnr_indicator",
+            "items/mr_y_qc__raw__tfmri__all__eprime__mssng_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__ap__import_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__ap__needrqc_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__ap__pendaqc_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__ap__procerr_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__ap__receive_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__ap__rename__err_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__ap__unpack__err_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__ap__unpack_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__import_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__needrqc_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__pa__import_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__pa__needrqc_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__pa__pendaqc_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__pa__procerr_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__pa__receive_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__pa__rename__err_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__pa__unpack__err_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__pa__unpack_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__pendaqc_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__procerr_indicator",
+            "items/mr_y_qc__raw__tfmri__all__fm__receive_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__rename__err_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__unpack__err_count",
+            "items/mr_y_qc__raw__tfmri__all__fm__unpack_count",
+            "items/mr_y_qc__raw__tfmri__all__sumask_count"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__eprime__comp_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__eprime__comp_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__eprime__match_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__eprime__match_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__eprime__mssng__laptop_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__eprime__mssng__laptop_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__eprime__mssng__scnr_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__eprime__mssng__scnr_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__eprime__mssng_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__eprime__mssng_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__ap__import_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__ap__import_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__ap__needrqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__ap__needrqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__ap__pendaqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__ap__pendaqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__ap__procerr_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__ap__procerr_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__ap__receive_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__ap__receive_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__ap__rename__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__ap__rename__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__ap__unpack__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__ap__unpack__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__ap__unpack_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__ap__unpack_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__import_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__import_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__needrqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__needrqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__pa__import_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__pa__import_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__pa__needrqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__pa__needrqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__pa__pendaqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__pa__pendaqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__pa__procerr_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__pa__procerr_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__pa__receive_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__pa__receive_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__pa__rename__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__pa__rename__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__pa__unpack__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__pa__unpack__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__pa__unpack_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__pa__unpack_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__pendaqc_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__pendaqc_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__procerr_indicator",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__procerr_indicator"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__receive_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__receive_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__rename__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__rename__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__unpack__err_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__unpack__err_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__fm__unpack_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__fm__unpack_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__tfmri__all__sumask_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__tfmri__all__sumask_count"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

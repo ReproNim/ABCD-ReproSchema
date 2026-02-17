@@ -1,0 +1,215 @@
+{
+    "id": "mh_t_bpm_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_t_bpm"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_t_bpm_dtt",
+            "items/mh_t_bpm_age",
+            "items/mh_t_bpm_001",
+            "items/mh_t_bpm__attn_001",
+            "items/mh_t_bpm__attn_002",
+            "items/mh_t_bpm__attn_003",
+            "items/mh_t_bpm__attn_004",
+            "items/mh_t_bpm__attn_005",
+            "items/mh_t_bpm__attn_006",
+            "items/mh_t_bpm__ext_001",
+            "items/mh_t_bpm__ext_002",
+            "items/mh_t_bpm__ext_003",
+            "items/mh_t_bpm__ext_004",
+            "items/mh_t_bpm__ext_005",
+            "items/mh_t_bpm__ext_006",
+            "items/mh_t_bpm__int_001",
+            "items/mh_t_bpm__int_002",
+            "items/mh_t_bpm__int_003",
+            "items/mh_t_bpm__int_004",
+            "items/mh_t_bpm__int_005",
+            "items/mh_t_bpm__int_006",
+            "items/mh_t_bpm__attn_nm",
+            "items/mh_t_bpm__attn_sum",
+            "items/mh_t_bpm__attn_tscore",
+            "items/mh_t_bpm__ext_nm",
+            "items/mh_t_bpm__ext_sum",
+            "items/mh_t_bpm__ext_tscore",
+            "items/mh_t_bpm__int_nm",
+            "items/mh_t_bpm__int_sum",
+            "items/mh_t_bpm__int_tscore",
+            "items/mh_t_bpm_nm",
+            "items/mh_t_bpm_sum",
+            "items/mh_t_bpm_tscore"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_t_bpm_dtt",
+                "isVis": true,
+                "variableName": "mh_t_bpm_dtt"
+            },
+            {
+                "isAbout": "items/mh_t_bpm_age",
+                "isVis": true,
+                "variableName": "mh_t_bpm_age"
+            },
+            {
+                "isAbout": "items/mh_t_bpm_001",
+                "isVis": true,
+                "variableName": "mh_t_bpm_001"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__attn_001",
+                "isVis": true,
+                "variableName": "mh_t_bpm__attn_001"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__attn_002",
+                "isVis": true,
+                "variableName": "mh_t_bpm__attn_002"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__attn_003",
+                "isVis": true,
+                "variableName": "mh_t_bpm__attn_003"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__attn_004",
+                "isVis": true,
+                "variableName": "mh_t_bpm__attn_004"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__attn_005",
+                "isVis": true,
+                "variableName": "mh_t_bpm__attn_005"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__attn_006",
+                "isVis": true,
+                "variableName": "mh_t_bpm__attn_006"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__ext_001",
+                "isVis": true,
+                "variableName": "mh_t_bpm__ext_001"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__ext_002",
+                "isVis": true,
+                "variableName": "mh_t_bpm__ext_002"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__ext_003",
+                "isVis": true,
+                "variableName": "mh_t_bpm__ext_003"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__ext_004",
+                "isVis": true,
+                "variableName": "mh_t_bpm__ext_004"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__ext_005",
+                "isVis": true,
+                "variableName": "mh_t_bpm__ext_005"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__ext_006",
+                "isVis": true,
+                "variableName": "mh_t_bpm__ext_006"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__int_001",
+                "isVis": true,
+                "variableName": "mh_t_bpm__int_001"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__int_002",
+                "isVis": true,
+                "variableName": "mh_t_bpm__int_002"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__int_003",
+                "isVis": true,
+                "variableName": "mh_t_bpm__int_003"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__int_004",
+                "isVis": true,
+                "variableName": "mh_t_bpm__int_004"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__int_005",
+                "isVis": true,
+                "variableName": "mh_t_bpm__int_005"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__int_006",
+                "isVis": true,
+                "variableName": "mh_t_bpm__int_006"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__attn_nm",
+                "isVis": true,
+                "variableName": "mh_t_bpm__attn_nm"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__attn_sum",
+                "isVis": true,
+                "variableName": "mh_t_bpm__attn_sum"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__attn_tscore",
+                "isVis": true,
+                "variableName": "mh_t_bpm__attn_tscore"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__ext_nm",
+                "isVis": true,
+                "variableName": "mh_t_bpm__ext_nm"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__ext_sum",
+                "isVis": true,
+                "variableName": "mh_t_bpm__ext_sum"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__ext_tscore",
+                "isVis": true,
+                "variableName": "mh_t_bpm__ext_tscore"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__int_nm",
+                "isVis": true,
+                "variableName": "mh_t_bpm__int_nm"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__int_sum",
+                "isVis": true,
+                "variableName": "mh_t_bpm__int_sum"
+            },
+            {
+                "isAbout": "items/mh_t_bpm__int_tscore",
+                "isVis": true,
+                "variableName": "mh_t_bpm__int_tscore"
+            },
+            {
+                "isAbout": "items/mh_t_bpm_nm",
+                "isVis": true,
+                "variableName": "mh_t_bpm_nm"
+            },
+            {
+                "isAbout": "items/mh_t_bpm_sum",
+                "isVis": true,
+                "variableName": "mh_t_bpm_sum"
+            },
+            {
+                "isAbout": "items/mh_t_bpm_tscore",
+                "isVis": true,
+                "variableName": "mh_t_bpm_tscore"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

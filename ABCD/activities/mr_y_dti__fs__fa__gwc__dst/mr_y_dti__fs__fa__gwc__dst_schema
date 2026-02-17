@@ -1,0 +1,923 @@
+{
+    "id": "mr_y_dti__fs__fa__gwc__dst_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_dti__fs__fa__gwc__dst"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_dti__fs__fa__gwc__dst__gcn__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gcpd__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gcpv__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfio__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfiob__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfit__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfm__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfs__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gilsci__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gis__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__go__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gom__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gos__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gotlf__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gotml__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gotmp__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gpc__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gpia__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gpis__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gprcn__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gprct__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gps__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gr__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gs__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gsca__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gscma__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gscmp__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gsfm__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gsoi__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gspc__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gssc__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gstf__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gti__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtm__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtsgtt__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtsl__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtspp__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtspt__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__lfah__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__lfav__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__lfp__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__pocc__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__ptmp__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sc__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scc__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scia__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scii__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scis__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scm__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scta__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sctp__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sfi__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sfm__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sfs__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sipj__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sipt__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__soa__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sohs__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sol__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__soml__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__somo__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sost__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sotl__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sotml__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__spc__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__spct__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__spo__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sprip__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sprsp__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sso__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__ssp__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sti__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sts__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__stt__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gcn__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gcpd__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gcpv__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfio__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfiob__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfit__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfm__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gfs__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gilsci__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gis__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__go__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gom__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gos__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gotlf__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gotml__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gotmp__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gpc__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gpia__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gpis__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gprcn__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gprct__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gps__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gr__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gs__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gsca__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gscma__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gscmp__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gsfm__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gsoi__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gspc__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gssc__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gstf__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gti__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtm__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtsgtt__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtsl__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtspp__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__gtspt__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__lfah__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__lfav__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__lfp__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__pocc__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__ptmp__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sc__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scc__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scia__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scii__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scis__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scm__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__scta__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sctp__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sfi__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sfm__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sfs__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sipj__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sipt__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__soa__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sohs__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sol__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__soml__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__somo__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sost__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sotl__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sotml__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__spc__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__spct__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__spo__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sprip__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sprsp__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sso__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__ssp__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sti__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__sts__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__stt__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__lh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst__rh_mean",
+            "items/mr_y_dti__fs__fa__gwc__dst_mean"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gcn__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gcn__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gcpd__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gcpd__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gcpv__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gcpv__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfio__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfio__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfiob__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfiob__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfit__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfit__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfm__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfm__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfs__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfs__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gilsci__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gilsci__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gis__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gis__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__go__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__go__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gom__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gom__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gos__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gos__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gotlf__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gotlf__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gotml__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gotml__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gotmp__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gotmp__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gpc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gpc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gpia__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gpia__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gpis__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gpis__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gprcn__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gprcn__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gprct__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gprct__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gps__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gps__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gr__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gr__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gs__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gs__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gsca__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gsca__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gscma__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gscma__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gscmp__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gscmp__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gsfm__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gsfm__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gsoi__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gsoi__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gspc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gspc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gssc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gssc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gstf__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gstf__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gti__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gti__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtm__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtm__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtsgtt__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtsgtt__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtsl__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtsl__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtspp__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtspp__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtspt__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtspt__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__lfah__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__lfah__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__lfav__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__lfav__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__lfp__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__lfp__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__pocc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__pocc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__ptmp__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__ptmp__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scia__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scia__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scii__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scii__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scis__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scis__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scm__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scm__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scta__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scta__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sctp__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sctp__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sfi__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sfi__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sfm__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sfm__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sfs__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sfs__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sipj__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sipj__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sipt__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sipt__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__soa__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__soa__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sohs__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sohs__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sol__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sol__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__soml__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__soml__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__somo__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__somo__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sost__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sost__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sotl__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sotl__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sotml__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sotml__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__spc__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__spc__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__spct__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__spct__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__spo__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__spo__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sprip__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sprip__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sprsp__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sprsp__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sso__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sso__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__ssp__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__ssp__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sti__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sti__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sts__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sts__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__stt__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__stt__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gcn__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gcn__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gcpd__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gcpd__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gcpv__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gcpv__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfio__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfio__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfiob__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfiob__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfit__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfit__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfm__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfm__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gfs__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gfs__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gilsci__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gilsci__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gis__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gis__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__go__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__go__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gom__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gom__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gos__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gos__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gotlf__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gotlf__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gotml__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gotml__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gotmp__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gotmp__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gpc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gpc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gpia__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gpia__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gpis__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gpis__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gprcn__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gprcn__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gprct__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gprct__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gps__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gps__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gr__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gr__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gs__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gs__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gsca__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gsca__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gscma__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gscma__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gscmp__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gscmp__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gsfm__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gsfm__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gsoi__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gsoi__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gspc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gspc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gssc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gssc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gstf__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gstf__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gti__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gti__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtm__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtm__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtsgtt__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtsgtt__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtsl__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtsl__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtspp__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtspp__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__gtspt__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__gtspt__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__lfah__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__lfah__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__lfav__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__lfav__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__lfp__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__lfp__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__pocc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__pocc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__ptmp__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__ptmp__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scia__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scia__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scii__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scii__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scis__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scis__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scm__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scm__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__scta__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__scta__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sctp__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sctp__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sfi__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sfi__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sfm__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sfm__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sfs__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sfs__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sipj__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sipj__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sipt__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sipt__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__soa__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__soa__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sohs__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sohs__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sol__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sol__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__soml__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__soml__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__somo__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__somo__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sost__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sost__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sotl__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sotl__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sotml__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sotml__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__spc__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__spc__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__spct__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__spct__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__spo__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__spo__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sprip__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sprip__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sprsp__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sprsp__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sso__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sso__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__ssp__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__ssp__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sti__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sti__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__sts__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__sts__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__stt__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__stt__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__lh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__lh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst__rh_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst__rh_mean"
+            },
+            {
+                "isAbout": "items/mr_y_dti__fs__fa__gwc__dst_mean",
+                "isVis": true,
+                "variableName": "mr_y_dti__fs__fa__gwc__dst_mean"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

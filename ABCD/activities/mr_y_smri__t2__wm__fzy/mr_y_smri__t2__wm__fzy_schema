@@ -1,0 +1,233 @@
+{
+    "id": "mr_y_smri__t2__wm__fzy_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_smri__t2__wm__fzy"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_smri__t2__wm__fzy__02__frt__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__02__pst__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__04__frt__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__04__occ__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__04__prt__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__04__tmp__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__amtmp__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__ctr__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__dlpfrt__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__dmfrt__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__iprt__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__obfrt__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__occ__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__pltmp__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__pop__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__prcn__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__sprt__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__stmp__lh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__02__frt__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__02__pst__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__04__frt__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__04__occ__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__04__prt__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__04__tmp__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__amtmp__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__ctr__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__dlpfrt__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__dmfrt__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__iprt__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__obfrt__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__occ__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__pltmp__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__pop__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__prcn__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__sprt__rh_wmean",
+            "items/mr_y_smri__t2__wm__fzy__12__stmp__rh_wmean"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__02__frt__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__02__frt__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__02__pst__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__02__pst__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__04__frt__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__04__frt__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__04__occ__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__04__occ__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__04__prt__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__04__prt__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__04__tmp__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__04__tmp__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__amtmp__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__amtmp__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__ctr__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__ctr__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__dlpfrt__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__dlpfrt__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__dmfrt__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__dmfrt__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__iprt__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__iprt__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__obfrt__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__obfrt__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__occ__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__occ__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__pltmp__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__pltmp__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__pop__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__pop__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__prcn__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__prcn__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__sprt__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__sprt__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__stmp__lh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__stmp__lh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__02__frt__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__02__frt__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__02__pst__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__02__pst__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__04__frt__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__04__frt__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__04__occ__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__04__occ__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__04__prt__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__04__prt__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__04__tmp__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__04__tmp__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__amtmp__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__amtmp__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__ctr__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__ctr__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__dlpfrt__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__dlpfrt__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__dmfrt__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__dmfrt__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__iprt__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__iprt__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__obfrt__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__obfrt__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__occ__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__occ__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__pltmp__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__pltmp__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__pop__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__pop__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__prcn__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__prcn__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__sprt__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__sprt__rh_wmean"
+            },
+            {
+                "isAbout": "items/mr_y_smri__t2__wm__fzy__12__stmp__rh_wmean",
+                "isVis": true,
+                "variableName": "mr_y_smri__t2__wm__fzy__12__stmp__rh_wmean"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,76 @@
+{
+    "id": "le_l_o3__addr2__o3_mean__2016",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "parts per billion (ppb)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Air Pollution"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_rhds01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr1_o3_2016_annavg"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_o3"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_o3__addr2__o3_mean__2016"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_o3_0005"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_o3"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_o3__addr2__o3_mean__2016"
+    },
+    "question": {
+        "en": "Annual average of O3 ppb (parts per billion) in 2016 at 1x1km2 (Address 2) (address 2)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

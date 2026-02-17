@@ -1,0 +1,76 @@
+{
+    "id": "fc_y_wpss_nm",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Cognition"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_sscey01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "wps_ss_sum_nm"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_y_wpss"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_fc_y_wpss_nm.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_wpss_nm"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_wpss_0011"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_wpss"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_wpss_nm"
+    },
+    "question": {
+        "en": "Wills Problem Solving Scale [Youth]: Number missing"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

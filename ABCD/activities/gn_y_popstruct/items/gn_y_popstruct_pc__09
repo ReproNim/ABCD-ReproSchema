@@ -1,0 +1,66 @@
+{
+    "id": "gn_y_popstruct_pc__09",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Genetics"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Population Structure"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "genetic_pc_9"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/gn.html#gn_y_popstruct"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "gn_y_popstruct_pc__09"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "gn_y_popstruct_0009"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "gn_y_popstruct"
+        }
+    ],
+    "prefLabel": {
+        "en": "gn_y_popstruct_pc__09"
+    },
+    "question": {
+        "en": "Ninth principal component of genetic ancestry"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

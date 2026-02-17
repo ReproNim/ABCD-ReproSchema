@@ -1,0 +1,66 @@
+{
+    "id": "le_l_artsports__addr3__artorg__cnty_rate",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Amenities & Services"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "reshist_addr3_nanda_artorg_pdc"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html#le_l_artsports"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_artsports__addr3__artorg__cnty_rate"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_artsports_0018"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_artsports"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_artsports__addr3__artorg__cnty_rate"
+    },
+    "question": {
+        "en": "Number of all art organizations per 1000 people [NaNDA; county] (Address 3) (address 3)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

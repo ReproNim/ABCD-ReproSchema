@@ -1,0 +1,82 @@
+{
+    "id": "nc_p_bdefs_lang",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Neurocognition"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Questionnaire"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "barkley_exec_func01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "barkley"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "bdefs_p_select_language___1"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "bdefs_p_select_language"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/nc.html#nc_p_bdefs"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "nc_p_bdefs_lang"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "nc_p_bdefs_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "nc_p_bdefs"
+        }
+    ],
+    "prefLabel": {
+        "en": "nc_p_bdefs_lang"
+    },
+    "question": {
+        "en": "Barkley Deficits in Executive Functioning Scale [Parent]: Language of administration"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

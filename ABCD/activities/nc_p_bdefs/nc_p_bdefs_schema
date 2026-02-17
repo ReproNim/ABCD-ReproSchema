@@ -1,0 +1,173 @@
+{
+    "id": "nc_p_bdefs_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nc_p_bdefs"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nc_p_bdefs_dtt",
+            "items/nc_p_bdefs_age",
+            "items/nc_p_bdefs_lang",
+            "items/nc_p_bdefs_001",
+            "items/nc_p_bdefs_002",
+            "items/nc_p_bdefs_003",
+            "items/nc_p_bdefs_004",
+            "items/nc_p_bdefs_005",
+            "items/nc_p_bdefs_006",
+            "items/nc_p_bdefs_007",
+            "items/nc_p_bdefs_008",
+            "items/nc_p_bdefs_009",
+            "items/nc_p_bdefs_010",
+            "items/nc_p_bdefs_011",
+            "items/nc_p_bdefs_012",
+            "items/nc_p_bdefs_013",
+            "items/nc_p_bdefs_014",
+            "items/nc_p_bdefs_015",
+            "items/nc_p_bdefs_016",
+            "items/nc_p_bdefs_017",
+            "items/nc_p_bdefs_018",
+            "items/nc_p_bdefs_019",
+            "items/nc_p_bdefs_020",
+            "items/nc_p_bdefs__sympt_count",
+            "items/nc_p_bdefs_nm",
+            "items/nc_p_bdefs_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nc_p_bdefs_dtt",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_dtt"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_age",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_age"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_lang",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_lang"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_001",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_001"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_002",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_002"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_003",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_003"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_004",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_004"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_005",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_005"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_006",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_006"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_007",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_007"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_008",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_008"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_009",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_009"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_010",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_010"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_011",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_011"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_012",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_012"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_013",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_013"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_014",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_014"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_015",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_015"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_016",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_016"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_017",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_017"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_018",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_018"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_019",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_019"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_020",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_020"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs__sympt_count",
+                "isVis": true,
+                "variableName": "nc_p_bdefs__sympt_count"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_nm",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_nm"
+            },
+            {
+                "isAbout": "items/nc_p_bdefs_sum",
+                "isVis": true,
+                "variableName": "nc_p_bdefs_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

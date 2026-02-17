@@ -1,0 +1,341 @@
+{
+    "id": "le_l_lodes_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_lodes"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_lodes__addr1__job__aian_count",
+            "items/le_l_lodes__addr1__job__aian_density",
+            "items/le_l_lodes__addr1__job__asian_count",
+            "items/le_l_lodes__addr1__job__asian_density",
+            "items/le_l_lodes__addr1__job__black_count",
+            "items/le_l_lodes__addr1__job__black_density",
+            "items/le_l_lodes__addr1__job__hisp_count",
+            "items/le_l_lodes__addr1__job__hisp_density",
+            "items/le_l_lodes__addr1__job__multi_count",
+            "items/le_l_lodes__addr1__job__multi_density",
+            "items/le_l_lodes__addr1__job__nhpi_count",
+            "items/le_l_lodes__addr1__job__nhpi_density",
+            "items/le_l_lodes__addr1__job__nonhisp_count",
+            "items/le_l_lodes__addr1__job__nonhisp_density",
+            "items/le_l_lodes__addr1__job__white_count",
+            "items/le_l_lodes__addr1__job__white_density",
+            "items/le_l_lodes__addr1__job_count",
+            "items/le_l_lodes__addr1__job_density",
+            "items/le_l_lodes__addr2__job__aian_count",
+            "items/le_l_lodes__addr2__job__aian_density",
+            "items/le_l_lodes__addr2__job__asian_count",
+            "items/le_l_lodes__addr2__job__asian_density",
+            "items/le_l_lodes__addr2__job__black_count",
+            "items/le_l_lodes__addr2__job__black_density",
+            "items/le_l_lodes__addr2__job__hisp_count",
+            "items/le_l_lodes__addr2__job__hisp_density",
+            "items/le_l_lodes__addr2__job__multi_count",
+            "items/le_l_lodes__addr2__job__multi_density",
+            "items/le_l_lodes__addr2__job__nhpi_count",
+            "items/le_l_lodes__addr2__job__nhpi_density",
+            "items/le_l_lodes__addr2__job__nonhisp_count",
+            "items/le_l_lodes__addr2__job__nonhisp_density",
+            "items/le_l_lodes__addr2__job__white_count",
+            "items/le_l_lodes__addr2__job__white_density",
+            "items/le_l_lodes__addr2__job_count",
+            "items/le_l_lodes__addr2__job_density",
+            "items/le_l_lodes__addr3__job__aian_count",
+            "items/le_l_lodes__addr3__job__aian_density",
+            "items/le_l_lodes__addr3__job__asian_count",
+            "items/le_l_lodes__addr3__job__asian_density",
+            "items/le_l_lodes__addr3__job__black_count",
+            "items/le_l_lodes__addr3__job__black_density",
+            "items/le_l_lodes__addr3__job__hisp_count",
+            "items/le_l_lodes__addr3__job__hisp_density",
+            "items/le_l_lodes__addr3__job__multi_count",
+            "items/le_l_lodes__addr3__job__multi_density",
+            "items/le_l_lodes__addr3__job__nhpi_count",
+            "items/le_l_lodes__addr3__job__nhpi_density",
+            "items/le_l_lodes__addr3__job__nonhisp_count",
+            "items/le_l_lodes__addr3__job__nonhisp_density",
+            "items/le_l_lodes__addr3__job__white_count",
+            "items/le_l_lodes__addr3__job__white_density",
+            "items/le_l_lodes__addr3__job_count",
+            "items/le_l_lodes__addr3__job_density"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__aian_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__aian_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__aian_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__aian_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__asian_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__asian_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__asian_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__asian_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__black_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__black_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__black_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__black_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__hisp_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__hisp_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__hisp_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__hisp_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__multi_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__multi_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__multi_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__multi_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__nhpi_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__nhpi_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__nhpi_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__nhpi_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__nonhisp_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__nonhisp_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__nonhisp_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__nonhisp_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__white_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__white_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job__white_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job__white_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr1__job_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr1__job_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__aian_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__aian_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__aian_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__aian_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__asian_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__asian_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__asian_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__asian_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__black_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__black_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__black_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__black_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__hisp_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__hisp_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__hisp_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__hisp_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__multi_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__multi_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__multi_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__multi_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__nhpi_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__nhpi_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__nhpi_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__nhpi_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__nonhisp_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__nonhisp_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__nonhisp_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__nonhisp_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__white_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__white_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job__white_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job__white_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr2__job_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr2__job_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__aian_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__aian_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__aian_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__aian_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__asian_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__asian_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__asian_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__asian_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__black_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__black_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__black_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__black_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__hisp_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__hisp_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__hisp_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__hisp_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__multi_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__multi_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__multi_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__multi_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__nhpi_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__nhpi_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__nhpi_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__nhpi_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__nonhisp_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__nonhisp_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__nonhisp_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__nonhisp_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__white_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__white_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job__white_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job__white_density"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job_count",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job_count"
+            },
+            {
+                "isAbout": "items/le_l_lodes__addr3__job_density",
+                "isVis": true,
+                "variableName": "le_l_lodes__addr3__job_density"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

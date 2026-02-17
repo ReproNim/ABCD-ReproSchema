@@ -1,0 +1,515 @@
+{
+    "id": "ph_y_pq_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "ph_y_pq"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/ph_y_pq_dtt",
+            "items/ph_y_pq_age",
+            "items/ph_y_pq_adm",
+            "items/ph_y_pq_001",
+            "items/ph_y_pq_001__02",
+            "items/ph_y_pq_001__03",
+            "items/ph_y_pq_001__04",
+            "items/ph_y_pq_001__05",
+            "items/ph_y_pq__abdomen__frntl_001",
+            "items/ph_y_pq__abdomen__frntr_001",
+            "items/ph_y_pq__ankle__bckl_001",
+            "items/ph_y_pq__ankle__bckr_001",
+            "items/ph_y_pq__ankle__frntl_001",
+            "items/ph_y_pq__ankle__frntr_001",
+            "items/ph_y_pq__back__low__bckl_001",
+            "items/ph_y_pq__back__low__bckr_001",
+            "items/ph_y_pq__back__mid__bckl_001",
+            "items/ph_y_pq__back__mid__bckr_001",
+            "items/ph_y_pq__back__uppr__bckl_001",
+            "items/ph_y_pq__back__uppr__bckr_001",
+            "items/ph_y_pq__bicep__bckl_001",
+            "items/ph_y_pq__bicep__bckr_001",
+            "items/ph_y_pq__bicep__frntl_001",
+            "items/ph_y_pq__bicep__frntr_001",
+            "items/ph_y_pq__butt__bckl_001",
+            "items/ph_y_pq__butt__bckr_001",
+            "items/ph_y_pq__chest__frntl_001",
+            "items/ph_y_pq__chest__frntr_001",
+            "items/ph_y_pq__crnm__bckl_001",
+            "items/ph_y_pq__crnm__bckr_001",
+            "items/ph_y_pq__crnm__frntl_001",
+            "items/ph_y_pq__crnm__frntr_001",
+            "items/ph_y_pq__elbow__bckl_001",
+            "items/ph_y_pq__elbow__bckr_001",
+            "items/ph_y_pq__elbow__frntl_001",
+            "items/ph_y_pq__elbow__frntr_001",
+            "items/ph_y_pq__face__frntl_001",
+            "items/ph_y_pq__face__frntr_001",
+            "items/ph_y_pq__foot__btml_001",
+            "items/ph_y_pq__foot__btmr_001",
+            "items/ph_y_pq__foot__topl_001",
+            "items/ph_y_pq__foot__topr_001",
+            "items/ph_y_pq__forearm__bckl_001",
+            "items/ph_y_pq__forearm__bckr_001",
+            "items/ph_y_pq__forearm__frntl_001",
+            "items/ph_y_pq__forearm__frntr_001",
+            "items/ph_y_pq__hand__plml_001",
+            "items/ph_y_pq__hand__plmr_001",
+            "items/ph_y_pq__hand__topl_001",
+            "items/ph_y_pq__hand__topr_001",
+            "items/ph_y_pq__head__bckl_001",
+            "items/ph_y_pq__head__bckr_001",
+            "items/ph_y_pq__hip__bckl_001",
+            "items/ph_y_pq__hip__bckr_001",
+            "items/ph_y_pq__hip__frntl_001",
+            "items/ph_y_pq__hip__frntr_001",
+            "items/ph_y_pq__knee__bckl_001",
+            "items/ph_y_pq__knee__bckr_001",
+            "items/ph_y_pq__knee__frntl_001",
+            "items/ph_y_pq__knee__frntr_001",
+            "items/ph_y_pq__leg__low__bckl_001",
+            "items/ph_y_pq__leg__low__bckr_001",
+            "items/ph_y_pq__leg__low__frntl_001",
+            "items/ph_y_pq__leg__low__frntr_001",
+            "items/ph_y_pq__leg__uppr__bckl_001",
+            "items/ph_y_pq__leg__uppr__bckr_001",
+            "items/ph_y_pq__leg__uppr__frntl_001",
+            "items/ph_y_pq__leg__uppr__frntr_001",
+            "items/ph_y_pq__mouth_001",
+            "items/ph_y_pq__neck__bckl_001",
+            "items/ph_y_pq__neck__bckr_001",
+            "items/ph_y_pq__neck__frntl_001",
+            "items/ph_y_pq__neck__frntr_001",
+            "items/ph_y_pq__pubic__frntl_001",
+            "items/ph_y_pq__pubic__frntr_001",
+            "items/ph_y_pq__shldr__bckl_001",
+            "items/ph_y_pq__shldr__bckr_001",
+            "items/ph_y_pq__shldr__frntl_001",
+            "items/ph_y_pq__shldr__frntr_001",
+            "items/ph_y_pq__wrist__bckl_001",
+            "items/ph_y_pq__wrist__bckr_001",
+            "items/ph_y_pq__wrist__frntl_001",
+            "items/ph_y_pq__wrist__frntr_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/ph_y_pq_dtt",
+                "isVis": true,
+                "variableName": "ph_y_pq_dtt"
+            },
+            {
+                "isAbout": "items/ph_y_pq_age",
+                "isVis": true,
+                "variableName": "ph_y_pq_age"
+            },
+            {
+                "isAbout": "items/ph_y_pq_adm",
+                "isVis": true,
+                "variableName": "ph_y_pq_adm"
+            },
+            {
+                "isAbout": "items/ph_y_pq_001",
+                "isVis": true,
+                "variableName": "ph_y_pq_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq_001__02",
+                "isVis": true,
+                "variableName": "ph_y_pq_001__02"
+            },
+            {
+                "isAbout": "items/ph_y_pq_001__03",
+                "isVis": true,
+                "variableName": "ph_y_pq_001__03"
+            },
+            {
+                "isAbout": "items/ph_y_pq_001__04",
+                "isVis": true,
+                "variableName": "ph_y_pq_001__04"
+            },
+            {
+                "isAbout": "items/ph_y_pq_001__05",
+                "isVis": true,
+                "variableName": "ph_y_pq_001__05"
+            },
+            {
+                "isAbout": "items/ph_y_pq__abdomen__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__abdomen__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__abdomen__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__abdomen__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__ankle__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__ankle__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__ankle__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__ankle__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__ankle__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__ankle__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__ankle__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__ankle__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__back__low__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__back__low__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__back__low__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__back__low__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__back__mid__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__back__mid__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__back__mid__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__back__mid__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__back__uppr__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__back__uppr__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__back__uppr__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__back__uppr__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__bicep__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__bicep__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__bicep__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__bicep__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__bicep__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__bicep__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__bicep__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__bicep__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__butt__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__butt__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__butt__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__butt__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__chest__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__chest__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__chest__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__chest__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__crnm__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__crnm__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__crnm__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__crnm__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__crnm__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__crnm__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__crnm__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__crnm__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__elbow__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__elbow__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__elbow__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__elbow__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__elbow__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__elbow__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__elbow__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__elbow__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__face__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__face__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__face__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__face__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__foot__btml_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__foot__btml_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__foot__btmr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__foot__btmr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__foot__topl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__foot__topl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__foot__topr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__foot__topr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__forearm__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__forearm__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__forearm__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__forearm__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__forearm__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__forearm__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__forearm__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__forearm__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__hand__plml_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__hand__plml_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__hand__plmr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__hand__plmr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__hand__topl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__hand__topl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__hand__topr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__hand__topr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__head__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__head__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__head__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__head__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__hip__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__hip__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__hip__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__hip__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__hip__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__hip__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__hip__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__hip__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__knee__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__knee__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__knee__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__knee__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__knee__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__knee__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__knee__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__knee__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__leg__low__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__leg__low__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__leg__low__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__leg__low__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__leg__low__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__leg__low__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__leg__low__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__leg__low__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__leg__uppr__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__leg__uppr__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__leg__uppr__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__leg__uppr__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__leg__uppr__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__leg__uppr__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__leg__uppr__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__leg__uppr__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__mouth_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__mouth_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__neck__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__neck__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__neck__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__neck__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__neck__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__neck__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__neck__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__neck__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__pubic__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__pubic__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__pubic__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__pubic__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__shldr__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__shldr__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__shldr__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__shldr__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__shldr__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__shldr__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__shldr__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__shldr__frntr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__wrist__bckl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__wrist__bckl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__wrist__bckr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__wrist__bckr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__wrist__frntl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__wrist__frntl_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__wrist__frntr_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__wrist__frntr_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

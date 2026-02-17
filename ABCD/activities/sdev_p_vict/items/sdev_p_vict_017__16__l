@@ -1,0 +1,81 @@
+{
+    "id": "sdev_p_vict_017__16__l",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Victimization"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "soc_dev_fu_victimize_p01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_fu_parent_victimization"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "socialdev_pvict_p8_f_11_l"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_pvict_p8_f_11_l"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/sdev.html#sdev_p_vict"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_p_vict_017__16__l"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_p_vict_0807"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_p_vict"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_p_vict_017__16__l"
+    },
+    "question": {
+        "en": "Exclusion: Any time another kid hit your child at home, at school, or anywhere [Parent; Longitudinal]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

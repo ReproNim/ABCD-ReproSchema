@@ -1,0 +1,81 @@
+{
+    "id": "su_y_sui__alc__max_001__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Patterns"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ysu02"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "substance_use_interviewyouth"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tlfb_alc_max_dk"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "tlfb_alc_max_dk"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_sui"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_sui__alc__max_001__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_sui_0184"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_sui"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_sui__alc__max_001__dk"
+    },
+    "question": {
+        "en": "What is the largest amount of this substance that you have ever had in your life in one sitting: Alcohol [Non-response]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

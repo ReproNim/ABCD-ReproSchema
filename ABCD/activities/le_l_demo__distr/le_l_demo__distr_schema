@@ -1,0 +1,191 @@
+{
+    "id": "le_l_demo__distr_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_demo__distr"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_demo__distr__asian_prcnt",
+            "items/le_l_demo__distr__black_prcnt",
+            "items/le_l_demo__distr__ecd_prcnt",
+            "items/le_l_demo__distr__ecdnec_ii",
+            "items/le_l_demo__distr__ecdnec_rdi",
+            "items/le_l_demo__distr__ell_prcnt",
+            "items/le_l_demo__distr__enrl_count",
+            "items/le_l_demo__distr__fl_prcnt",
+            "items/le_l_demo__distr__flnfl_ii",
+            "items/le_l_demo__distr__flnfl_rdi",
+            "items/le_l_demo__distr__frl_prcnt",
+            "items/le_l_demo__distr__grade_max",
+            "items/le_l_demo__distr__grade_min",
+            "items/le_l_demo__distr__hisp_prcnt",
+            "items/le_l_demo__distr__ntvam_prcnt",
+            "items/le_l_demo__distr__poverty_rate",
+            "items/le_l_demo__distr__rl_prcnt",
+            "items/le_l_demo__distr__rural_locale",
+            "items/le_l_demo__distr__singlmoth_rate",
+            "items/le_l_demo__distr__snap_rate",
+            "items/le_l_demo__distr__speced_prcnt",
+            "items/le_l_demo__distr__suburb_locale",
+            "items/le_l_demo__distr__town_locale",
+            "items/le_l_demo__distr__unemp_rate",
+            "items/le_l_demo__distr__urban_locale",
+            "items/le_l_demo__distr__white_prcnt",
+            "items/le_l_demo__distr_baplus",
+            "items/le_l_demo__distr_lminc",
+            "items/le_l_demo__distr_ses"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_demo__distr__asian_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__asian_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__black_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__black_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__ecd_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__ecd_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__ecdnec_ii",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__ecdnec_ii"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__ecdnec_rdi",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__ecdnec_rdi"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__ell_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__ell_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__enrl_count",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__enrl_count"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__fl_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__fl_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__flnfl_ii",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__flnfl_ii"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__flnfl_rdi",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__flnfl_rdi"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__frl_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__frl_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__grade_max",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__grade_max"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__grade_min",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__grade_min"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__hisp_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__hisp_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__ntvam_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__ntvam_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__poverty_rate",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__poverty_rate"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__rl_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__rl_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__rural_locale",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__rural_locale"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__singlmoth_rate",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__singlmoth_rate"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__snap_rate",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__snap_rate"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__speced_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__speced_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__suburb_locale",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__suburb_locale"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__town_locale",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__town_locale"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__unemp_rate",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__unemp_rate"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__urban_locale",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__urban_locale"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr__white_prcnt",
+                "isVis": true,
+                "variableName": "le_l_demo__distr__white_prcnt"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr_baplus",
+                "isVis": true,
+                "variableName": "le_l_demo__distr_baplus"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr_lminc",
+                "isVis": true,
+                "variableName": "le_l_demo__distr_lminc"
+            },
+            {
+                "isAbout": "items/le_l_demo__distr_ses",
+                "isVis": true,
+                "variableName": "le_l_demo__distr_ses"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

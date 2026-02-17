@@ -1,0 +1,95 @@
+{
+    "id": "su_y_mjexp_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_mjexp"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_mjexp_dtt",
+            "items/su_y_mjexp_age",
+            "items/su_y_mjexp_adm",
+            "items/su_y_mjexp__neg_001",
+            "items/su_y_mjexp__neg_002",
+            "items/su_y_mjexp__neg_003",
+            "items/su_y_mjexp__pos_001",
+            "items/su_y_mjexp__pos_002",
+            "items/su_y_mjexp__pos_003",
+            "items/su_y_mjexp__neg_nm",
+            "items/su_y_mjexp__neg_prsum",
+            "items/su_y_mjexp__pos_nm",
+            "items/su_y_mjexp__pos_prsum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_mjexp_dtt",
+                "isVis": true,
+                "variableName": "su_y_mjexp_dtt"
+            },
+            {
+                "isAbout": "items/su_y_mjexp_age",
+                "isVis": true,
+                "variableName": "su_y_mjexp_age"
+            },
+            {
+                "isAbout": "items/su_y_mjexp_adm",
+                "isVis": true,
+                "variableName": "su_y_mjexp_adm"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__neg_001",
+                "isVis": true,
+                "variableName": "su_y_mjexp__neg_001"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__neg_002",
+                "isVis": true,
+                "variableName": "su_y_mjexp__neg_002"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__neg_003",
+                "isVis": true,
+                "variableName": "su_y_mjexp__neg_003"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__pos_001",
+                "isVis": true,
+                "variableName": "su_y_mjexp__pos_001"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__pos_002",
+                "isVis": true,
+                "variableName": "su_y_mjexp__pos_002"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__pos_003",
+                "isVis": true,
+                "variableName": "su_y_mjexp__pos_003"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__neg_nm",
+                "isVis": true,
+                "variableName": "su_y_mjexp__neg_nm"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__neg_prsum",
+                "isVis": true,
+                "variableName": "su_y_mjexp__neg_prsum"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__pos_nm",
+                "isVis": true,
+                "variableName": "su_y_mjexp__pos_nm"
+            },
+            {
+                "isAbout": "items/su_y_mjexp__pos_prsum",
+                "isVis": true,
+                "variableName": "su_y_mjexp__pos_prsum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

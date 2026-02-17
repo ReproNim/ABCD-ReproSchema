@@ -1,0 +1,557 @@
+{
+    "id": "su_y_caff_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_caff"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_caff_dtt",
+            "items/su_y_caff_age",
+            "items/su_y_caff__coffee_001",
+            "items/su_y_caff__coffee_001__l",
+            "items/su_y_caff__coffee_001__01__01",
+            "items/su_y_caff__coffee_001__01__02",
+            "items/su_y_caff__coffee_001__01__03",
+            "items/su_y_caff__coffee_001__02__01",
+            "items/su_y_caff__coffee_001__02__02",
+            "items/su_y_caff__coffee_001__02__03",
+            "items/su_y_caff__coffee_001__03__01",
+            "items/su_y_caff__coffee_001__03__02",
+            "items/su_y_caff__coffee_001__03__03",
+            "items/su_y_caff__coffee_001__04__01",
+            "items/su_y_caff__coffee_001__04__02",
+            "items/su_y_caff__coffee_001__04__03",
+            "items/su_y_caff__energy_001",
+            "items/su_y_caff__energy_001__l",
+            "items/su_y_caff__energy__drink_001__01__01",
+            "items/su_y_caff__energy__drink_001__01__02",
+            "items/su_y_caff__energy__drink_001__01__03",
+            "items/su_y_caff__energy__drink_001__02__01",
+            "items/su_y_caff__energy__drink_001__02__02",
+            "items/su_y_caff__energy__drink_001__02__03",
+            "items/su_y_caff__energy__drink_001__03__01",
+            "items/su_y_caff__energy__drink_001__03__02",
+            "items/su_y_caff__energy__drink_001__03__03",
+            "items/su_y_caff__energy__drink_001__04__01",
+            "items/su_y_caff__energy__drink_001__04__02",
+            "items/su_y_caff__energy__drink_001__04__03",
+            "items/su_y_caff__energy__shot_001__01",
+            "items/su_y_caff__energy__shot_001__02",
+            "items/su_y_caff__espres_001",
+            "items/su_y_caff__espres_001__l",
+            "items/su_y_caff__espres_001__01",
+            "items/su_y_caff__espres_001__02",
+            "items/su_y_caff__max_001",
+            "items/su_y_caff__max_001__l",
+            "items/su_y_caff__max_001__01",
+            "items/su_y_caff__max_001__01__v1",
+            "items/su_y_caff__max_001__01__v2",
+            "items/su_y_caff__oth_001__l",
+            "items/su_y_caff__oth_001__01",
+            "items/su_y_caff__oth_001__02",
+            "items/su_y_caff__oth_sum",
+            "items/su_y_caff__soda_001",
+            "items/su_y_caff__soda_001__l",
+            "items/su_y_caff__soda_001__01__01",
+            "items/su_y_caff__soda_001__01__02",
+            "items/su_y_caff__soda_001__01__03",
+            "items/su_y_caff__soda_001__02__01",
+            "items/su_y_caff__soda_001__02__02",
+            "items/su_y_caff__soda_001__02__03",
+            "items/su_y_caff__soda_001__03__01",
+            "items/su_y_caff__soda_001__03__02",
+            "items/su_y_caff__soda_001__03__03",
+            "items/su_y_caff__soda_001__04__01",
+            "items/su_y_caff__soda_001__04__02",
+            "items/su_y_caff__soda_001__04__03",
+            "items/su_y_caff__suppl_001__l",
+            "items/su_y_caff__suppl_001__01__01",
+            "items/su_y_caff__suppl_001__01__02",
+            "items/su_y_caff__suppl_001__02__01",
+            "items/su_y_caff__suppl_001__02__02",
+            "items/su_y_caff__suppl_001__03__01",
+            "items/su_y_caff__suppl_001__03__02",
+            "items/su_y_caff__suppl_001__04__01",
+            "items/su_y_caff__suppl_001__04__02",
+            "items/su_y_caff__tea_001",
+            "items/su_y_caff__tea_001__l",
+            "items/su_y_caff__tea_001__01__01",
+            "items/su_y_caff__tea_001__01__02",
+            "items/su_y_caff__tea_001__01__03",
+            "items/su_y_caff__tea_001__02__01",
+            "items/su_y_caff__tea_001__02__02",
+            "items/su_y_caff__tea_001__02__03",
+            "items/su_y_caff__tea_001__03__01",
+            "items/su_y_caff__tea_001__03__02",
+            "items/su_y_caff__tea_001__03__03",
+            "items/su_y_caff__tea_001__04__01",
+            "items/su_y_caff__tea_001__04__02",
+            "items/su_y_caff__tea_001__04__03",
+            "items/su_y_caff__coffee_sum",
+            "items/su_y_caff__energy_sum",
+            "items/su_y_caff__energy__drink_sum",
+            "items/su_y_caff__energy__shot_sum",
+            "items/su_y_caff__espres_sum",
+            "items/su_y_caff__soda_sum",
+            "items/su_y_caff__suppl_sum",
+            "items/su_y_caff__tea_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_caff_dtt",
+                "isVis": true,
+                "variableName": "su_y_caff_dtt"
+            },
+            {
+                "isAbout": "items/su_y_caff_age",
+                "isVis": true,
+                "variableName": "su_y_caff_age"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__l",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__l"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__01__01",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__01__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__01__02",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__01__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__01__03",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__01__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__02__01",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__02__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__02__02",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__02__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__02__03",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__02__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__03__01",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__03__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__03__02",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__03__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__03__03",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__03__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__04__01",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__04__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__04__02",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__04__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_001__04__03",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_001__04__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy_001",
+                "isVis": true,
+                "variableName": "su_y_caff__energy_001"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy_001__l",
+                "isVis": true,
+                "variableName": "su_y_caff__energy_001__l"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__01__01",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__01__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__01__02",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__01__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__01__03",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__01__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__02__01",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__02__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__02__02",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__02__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__02__03",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__02__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__03__01",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__03__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__03__02",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__03__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__03__03",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__03__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__04__01",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__04__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__04__02",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__04__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_001__04__03",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_001__04__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__shot_001__01",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__shot_001__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__shot_001__02",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__shot_001__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__espres_001",
+                "isVis": true,
+                "variableName": "su_y_caff__espres_001"
+            },
+            {
+                "isAbout": "items/su_y_caff__espres_001__l",
+                "isVis": true,
+                "variableName": "su_y_caff__espres_001__l"
+            },
+            {
+                "isAbout": "items/su_y_caff__espres_001__01",
+                "isVis": true,
+                "variableName": "su_y_caff__espres_001__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__espres_001__02",
+                "isVis": true,
+                "variableName": "su_y_caff__espres_001__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__max_001",
+                "isVis": true,
+                "variableName": "su_y_caff__max_001"
+            },
+            {
+                "isAbout": "items/su_y_caff__max_001__l",
+                "isVis": true,
+                "variableName": "su_y_caff__max_001__l"
+            },
+            {
+                "isAbout": "items/su_y_caff__max_001__01",
+                "isVis": true,
+                "variableName": "su_y_caff__max_001__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__max_001__01__v1",
+                "isVis": true,
+                "variableName": "su_y_caff__max_001__01__v1"
+            },
+            {
+                "isAbout": "items/su_y_caff__max_001__01__v2",
+                "isVis": true,
+                "variableName": "su_y_caff__max_001__01__v2"
+            },
+            {
+                "isAbout": "items/su_y_caff__oth_001__l",
+                "isVis": true,
+                "variableName": "su_y_caff__oth_001__l"
+            },
+            {
+                "isAbout": "items/su_y_caff__oth_001__01",
+                "isVis": true,
+                "variableName": "su_y_caff__oth_001__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__oth_001__02",
+                "isVis": true,
+                "variableName": "su_y_caff__oth_001__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__oth_sum",
+                "isVis": true,
+                "variableName": "su_y_caff__oth_sum"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__l",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__l"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__01__01",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__01__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__01__02",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__01__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__01__03",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__01__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__02__01",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__02__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__02__02",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__02__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__02__03",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__02__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__03__01",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__03__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__03__02",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__03__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__03__03",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__03__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__04__01",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__04__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__04__02",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__04__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_001__04__03",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_001__04__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_001__l",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_001__l"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_001__01__01",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_001__01__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_001__01__02",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_001__01__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_001__02__01",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_001__02__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_001__02__02",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_001__02__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_001__03__01",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_001__03__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_001__03__02",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_001__03__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_001__04__01",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_001__04__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_001__04__02",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_001__04__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__l",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__l"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__01__01",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__01__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__01__02",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__01__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__01__03",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__01__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__02__01",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__02__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__02__02",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__02__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__02__03",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__02__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__03__01",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__03__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__03__02",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__03__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__03__03",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__03__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__04__01",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__04__01"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__04__02",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__04__02"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_001__04__03",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_001__04__03"
+            },
+            {
+                "isAbout": "items/su_y_caff__coffee_sum",
+                "isVis": true,
+                "variableName": "su_y_caff__coffee_sum"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy_sum",
+                "isVis": true,
+                "variableName": "su_y_caff__energy_sum"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__drink_sum",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__drink_sum"
+            },
+            {
+                "isAbout": "items/su_y_caff__energy__shot_sum",
+                "isVis": true,
+                "variableName": "su_y_caff__energy__shot_sum"
+            },
+            {
+                "isAbout": "items/su_y_caff__espres_sum",
+                "isVis": true,
+                "variableName": "su_y_caff__espres_sum"
+            },
+            {
+                "isAbout": "items/su_y_caff__soda_sum",
+                "isVis": true,
+                "variableName": "su_y_caff__soda_sum"
+            },
+            {
+                "isAbout": "items/su_y_caff__suppl_sum",
+                "isVis": true,
+                "variableName": "su_y_caff__suppl_sum"
+            },
+            {
+                "isAbout": "items/su_y_caff__tea_sum",
+                "isVis": true,
+                "variableName": "su_y_caff__tea_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

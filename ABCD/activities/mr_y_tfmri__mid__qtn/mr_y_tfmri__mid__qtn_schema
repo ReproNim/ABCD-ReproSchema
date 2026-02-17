@@ -1,0 +1,221 @@
+{
+    "id": "mr_y_tfmri__mid__qtn_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mr_y_tfmri__mid__qtn"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mr_y_tfmri__mid__qtn__r01_001",
+            "items/mr_y_tfmri__mid__qtn__r01__excit_001",
+            "items/mr_y_tfmri__mid__qtn__r01__excit_002",
+            "items/mr_y_tfmri__mid__qtn__r01__excit_003",
+            "items/mr_y_tfmri__mid__qtn__r01__excit_004",
+            "items/mr_y_tfmri__mid__qtn__r01__excit_005",
+            "items/mr_y_tfmri__mid__qtn__r01__nerv_001",
+            "items/mr_y_tfmri__mid__qtn__r01__nerv_002",
+            "items/mr_y_tfmri__mid__qtn__r01__nerv_003",
+            "items/mr_y_tfmri__mid__qtn__r01__nerv_004",
+            "items/mr_y_tfmri__mid__qtn__r01__nerv_005",
+            "items/mr_y_tfmri__mid__qtn__r01__try_001",
+            "items/mr_y_tfmri__mid__qtn__r01__try_002",
+            "items/mr_y_tfmri__mid__qtn__r01__try_003",
+            "items/mr_y_tfmri__mid__qtn__r01__try_004",
+            "items/mr_y_tfmri__mid__qtn__r01__try_005",
+            "items/mr_y_tfmri__mid__qtn__r02_001",
+            "items/mr_y_tfmri__mid__qtn__r02__excit_001",
+            "items/mr_y_tfmri__mid__qtn__r02__excit_002",
+            "items/mr_y_tfmri__mid__qtn__r02__excit_003",
+            "items/mr_y_tfmri__mid__qtn__r02__excit_004",
+            "items/mr_y_tfmri__mid__qtn__r02__excit_005",
+            "items/mr_y_tfmri__mid__qtn__r02__nerv_001",
+            "items/mr_y_tfmri__mid__qtn__r02__nerv_002",
+            "items/mr_y_tfmri__mid__qtn__r02__nerv_003",
+            "items/mr_y_tfmri__mid__qtn__r02__nerv_004",
+            "items/mr_y_tfmri__mid__qtn__r02__nerv_005",
+            "items/mr_y_tfmri__mid__qtn__r02__try_001",
+            "items/mr_y_tfmri__mid__qtn__r02__try_002",
+            "items/mr_y_tfmri__mid__qtn__r02__try_003",
+            "items/mr_y_tfmri__mid__qtn__r02__try_004",
+            "items/mr_y_tfmri__mid__qtn__r02__try_005",
+            "items/mr_y_tfmri__mid__qtn__r01_age",
+            "items/mr_y_tfmri__mid__qtn__r01_dtt"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01_001",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01_001"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__excit_001",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__excit_001"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__excit_002",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__excit_002"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__excit_003",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__excit_003"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__excit_004",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__excit_004"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__excit_005",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__excit_005"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__nerv_001",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__nerv_001"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__nerv_002",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__nerv_002"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__nerv_003",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__nerv_003"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__nerv_004",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__nerv_004"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__nerv_005",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__nerv_005"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__try_001",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__try_001"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__try_002",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__try_002"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__try_003",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__try_003"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__try_004",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__try_004"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01__try_005",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01__try_005"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02_001",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02_001"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__excit_001",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__excit_001"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__excit_002",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__excit_002"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__excit_003",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__excit_003"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__excit_004",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__excit_004"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__excit_005",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__excit_005"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__nerv_001",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__nerv_001"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__nerv_002",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__nerv_002"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__nerv_003",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__nerv_003"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__nerv_004",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__nerv_004"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__nerv_005",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__nerv_005"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__try_001",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__try_001"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__try_002",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__try_002"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__try_003",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__try_003"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__try_004",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__try_004"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r02__try_005",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r02__try_005"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01_age",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01_age"
+            },
+            {
+                "isAbout": "items/mr_y_tfmri__mid__qtn__r01_dtt",
+                "isVis": true,
+                "variableName": "mr_y_tfmri__mid__qtn__r01_dtt"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

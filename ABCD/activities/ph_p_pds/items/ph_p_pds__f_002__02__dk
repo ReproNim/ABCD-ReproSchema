@@ -1,0 +1,71 @@
+{
+    "id": "ph_p_pds__f_002__02__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Puberty"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "pubertal_development_scale_pdsmenstrual_historypar"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "menstrualcycle1_p_dk"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_pds"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_pds__f_002__02__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_pds_0012"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_pds"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_pds__f_002__02__dk"
+    },
+    "question": {
+        "en": "What was the date of the first day of your child's last period? [Non-response]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

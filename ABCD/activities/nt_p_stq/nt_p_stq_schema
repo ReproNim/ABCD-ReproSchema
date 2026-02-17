@@ -1,0 +1,311 @@
+{
+    "id": "nt_p_stq_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "nt_p_stq"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/nt_p_stq_dtt",
+            "items/nt_p_stq_age",
+            "items/nt_p_stq_lang",
+            "items/nt_p_stq_001",
+            "items/nt_p_stq_002",
+            "items/nt_p_stq_003",
+            "items/nt_p_stq_004",
+            "items/nt_p_stq_005",
+            "items/nt_p_stq_006",
+            "items/nt_p_stq_007",
+            "items/nt_p_stq_008",
+            "items/nt_p_stq_009",
+            "items/nt_p_stq_010",
+            "items/nt_p_stq_011",
+            "items/nt_p_stq_012",
+            "items/nt_p_stq_013",
+            "items/nt_p_stq_014",
+            "items/nt_p_stq__wkdy__hr_001",
+            "items/nt_p_stq__wkdy__min_001",
+            "items/nt_p_stq__wkdy__hr_002",
+            "items/nt_p_stq__wkdy__min_002",
+            "items/nt_p_stq__wkdy__hr_003",
+            "items/nt_p_stq__wkdy__min_003",
+            "items/nt_p_stq__wkdy__hr_004",
+            "items/nt_p_stq__wkdy__min_004",
+            "items/nt_p_stq__wkdy__hr_005",
+            "items/nt_p_stq__wkdy__min_005",
+            "items/nt_p_stq__wkdy__hr_006",
+            "items/nt_p_stq__wkdy__min_006",
+            "items/nt_p_stq__wkdy__hr_007",
+            "items/nt_p_stq__wkdy__min_007",
+            "items/nt_p_stq__wkdy__hr_008",
+            "items/nt_p_stq__wkdy__min_008",
+            "items/nt_p_stq__wknd__hr_001",
+            "items/nt_p_stq__wknd__min_001",
+            "items/nt_p_stq__wknd__hr_002",
+            "items/nt_p_stq__wknd__min_002",
+            "items/nt_p_stq__wknd__hr_003",
+            "items/nt_p_stq__wknd__min_003",
+            "items/nt_p_stq__wknd__hr_004",
+            "items/nt_p_stq__wknd__min_004",
+            "items/nt_p_stq__wknd__hr_005",
+            "items/nt_p_stq__wknd__min_005",
+            "items/nt_p_stq__wknd__hr_006",
+            "items/nt_p_stq__wknd__min_006",
+            "items/nt_p_stq__wknd__hr_007",
+            "items/nt_p_stq__wknd__min_007",
+            "items/nt_p_stq__wknd__hr_008",
+            "items/nt_p_stq__wknd__min_008"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/nt_p_stq_dtt",
+                "isVis": true,
+                "variableName": "nt_p_stq_dtt"
+            },
+            {
+                "isAbout": "items/nt_p_stq_age",
+                "isVis": true,
+                "variableName": "nt_p_stq_age"
+            },
+            {
+                "isAbout": "items/nt_p_stq_lang",
+                "isVis": true,
+                "variableName": "nt_p_stq_lang"
+            },
+            {
+                "isAbout": "items/nt_p_stq_001",
+                "isVis": true,
+                "variableName": "nt_p_stq_001"
+            },
+            {
+                "isAbout": "items/nt_p_stq_002",
+                "isVis": true,
+                "variableName": "nt_p_stq_002"
+            },
+            {
+                "isAbout": "items/nt_p_stq_003",
+                "isVis": true,
+                "variableName": "nt_p_stq_003"
+            },
+            {
+                "isAbout": "items/nt_p_stq_004",
+                "isVis": true,
+                "variableName": "nt_p_stq_004"
+            },
+            {
+                "isAbout": "items/nt_p_stq_005",
+                "isVis": true,
+                "variableName": "nt_p_stq_005"
+            },
+            {
+                "isAbout": "items/nt_p_stq_006",
+                "isVis": true,
+                "variableName": "nt_p_stq_006"
+            },
+            {
+                "isAbout": "items/nt_p_stq_007",
+                "isVis": true,
+                "variableName": "nt_p_stq_007"
+            },
+            {
+                "isAbout": "items/nt_p_stq_008",
+                "isVis": true,
+                "variableName": "nt_p_stq_008"
+            },
+            {
+                "isAbout": "items/nt_p_stq_009",
+                "isVis": true,
+                "variableName": "nt_p_stq_009"
+            },
+            {
+                "isAbout": "items/nt_p_stq_010",
+                "isVis": true,
+                "variableName": "nt_p_stq_010"
+            },
+            {
+                "isAbout": "items/nt_p_stq_011",
+                "isVis": true,
+                "variableName": "nt_p_stq_011"
+            },
+            {
+                "isAbout": "items/nt_p_stq_012",
+                "isVis": true,
+                "variableName": "nt_p_stq_012"
+            },
+            {
+                "isAbout": "items/nt_p_stq_013",
+                "isVis": true,
+                "variableName": "nt_p_stq_013"
+            },
+            {
+                "isAbout": "items/nt_p_stq_014",
+                "isVis": true,
+                "variableName": "nt_p_stq_014"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__min_001",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__min_002",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__min_002"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__hr_003",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__hr_003"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__min_003",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__min_003"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__hr_004",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__hr_004"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__min_004",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__min_004"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__hr_005",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__hr_005"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__min_005",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__min_005"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__hr_006",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__hr_006"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__min_006",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__min_006"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__hr_007",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__hr_007"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__min_007",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__min_007"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__hr_008",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__hr_008"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wkdy__min_008",
+                "isVis": true,
+                "variableName": "nt_p_stq__wkdy__min_008"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__hr_001",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__hr_001"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__min_001",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__min_001"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__hr_002",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__hr_002"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__min_002",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__min_002"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__hr_003",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__hr_003"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__min_003",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__min_003"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__hr_004",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__hr_004"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__min_004",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__min_004"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__hr_005",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__hr_005"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__min_005",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__min_005"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__hr_006",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__hr_006"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__min_006",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__min_006"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__hr_007",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__hr_007"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__min_007",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__min_007"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__hr_008",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__hr_008"
+            },
+            {
+                "isAbout": "items/nt_p_stq__wknd__min_008",
+                "isVis": true,
+                "variableName": "nt_p_stq__wknd__min_008"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

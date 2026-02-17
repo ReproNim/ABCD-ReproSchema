@@ -1,0 +1,71 @@
+{
+    "id": "mr_y_qc__clfind__prev_score",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Quality Control"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_mrfindings02"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "mrif_fu_diff"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_qc.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_qc__clfind__prev_score"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_qc_clfind_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_qc__clfind"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_qc__clfind__prev_score"
+    },
+    "question": {
+        "en": "Does follow up study show significant difference compared with previous study?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

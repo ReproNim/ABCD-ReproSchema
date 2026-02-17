@@ -1,0 +1,81 @@
+{
+    "id": "ph_p_otbi_005",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_otbi01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "tbi_screenmodified_ohio_state_screen_tbiparent"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "tbi_5"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "tbi_5"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_otbi"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_otbi_005"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_otbi_0020"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_otbi"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_otbi_005"
+    },
+    "question": {
+        "en": "Has your child ever been nearby when an explosion or blast has occurred?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

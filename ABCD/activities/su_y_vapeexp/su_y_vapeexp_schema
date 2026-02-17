@@ -1,0 +1,89 @@
+{
+    "id": "su_y_vapeexp_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_vapeexp"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_vapeexp_dtt",
+            "items/su_y_vapeexp_age",
+            "items/su_y_vapeexp_adm",
+            "items/su_y_vapeexp_001",
+            "items/su_y_vapeexp_002",
+            "items/su_y_vapeexp_003",
+            "items/su_y_vapeexp_004",
+            "items/su_y_vapeexp_005",
+            "items/su_y_vapeexp_006",
+            "items/su_y_vapeexp_007",
+            "items/su_y_vapeexp_008",
+            "items/su_y_vapeexp_009"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_vapeexp_dtt",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_dtt"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_age",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_age"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_adm",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_adm"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_001",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_001"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_002",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_002"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_003",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_003"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_004",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_004"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_005",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_005"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_006",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_006"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_007",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_007"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_008",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_008"
+            },
+            {
+                "isAbout": "items/su_y_vapeexp_009",
+                "isVis": true,
+                "variableName": "su_y_vapeexp_009"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "su_y_oftox__rslt__meth__r02_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Drug Toxicology"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "toxicology_test_dtyouth"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "tox2_meth_2_y"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_oftox"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_oftox__rslt__meth__r02_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_oftox_0057"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_oftox"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_oftox__rslt__meth__r02_002"
+    },
+    "question": {
+        "en": "Oral fluid toxicology (Day 2; Test 2): Positive for Methamphetamine?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

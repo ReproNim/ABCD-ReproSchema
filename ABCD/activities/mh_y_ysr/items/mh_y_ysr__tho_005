@@ -1,0 +1,71 @@
+{
+    "id": "mh_y_ysr__tho_005",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Broad Psychopathology"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "youth_self_report"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ysr_q66"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_ysr"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_ysr__tho_005"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_ysr_0106"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_ysr"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_ysr__tho_005"
+    },
+    "question": {
+        "en": "I repeat certain acts over and over [Youth; YSR item 66]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

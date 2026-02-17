@@ -1,0 +1,81 @@
+{
+    "id": "mr_y_smri__t2__wm__dsk__ptmp__rh_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Structural MRI"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "metric",
+            "source": "nbdc",
+            "value": "T2 Intensity"
+        },
+        {
+            "column": "atlas",
+            "source": "nbdc",
+            "value": "Desikan"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_smrip302"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "smri_t2ww02_cdk_tmpolerh"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/type_smri.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_smri__t2__wm__dsk__ptmp__rh_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_smri_t2_wm_dsk_0061"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_smri__t2__wm__dsk"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_smri__t2__wm__dsk__ptmp__rh_mean"
+    },
+    "question": {
+        "en": "Average T2-weighted intensity (white matter) in Desikan ROI: temporal pole (right hemisphere)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

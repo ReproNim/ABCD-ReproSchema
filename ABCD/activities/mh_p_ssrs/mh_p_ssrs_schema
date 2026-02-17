@@ -1,0 +1,113 @@
+{
+    "id": "mh_p_ssrs_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_p_ssrs"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_p_ssrs_dtt",
+            "items/mh_p_ssrs_age",
+            "items/mh_p_ssrs_lang",
+            "items/mh_p_ssrs_001",
+            "items/mh_p_ssrs_002",
+            "items/mh_p_ssrs_003",
+            "items/mh_p_ssrs_004",
+            "items/mh_p_ssrs_005",
+            "items/mh_p_ssrs_006",
+            "items/mh_p_ssrs_007",
+            "items/mh_p_ssrs_008",
+            "items/mh_p_ssrs_009",
+            "items/mh_p_ssrs_010",
+            "items/mh_p_ssrs_011",
+            "items/mh_p_ssrs_nm",
+            "items/mh_p_ssrs_sum"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_p_ssrs_dtt",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_age",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_age"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_lang",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_lang"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_001",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_001"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_002",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_002"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_003",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_003"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_004",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_004"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_005",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_005"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_006",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_006"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_007",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_007"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_008",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_008"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_009",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_009"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_010",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_010"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_011",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_011"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_nm",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_nm"
+            },
+            {
+                "isAbout": "items/mh_p_ssrs_sum",
+                "isVis": true,
+                "variableName": "mh_p_ssrs_sum"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

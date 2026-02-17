@@ -1,0 +1,77 @@
+{
+    "id": "su_y_tlfb_adm__rmt___2",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Patterns"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_substance_introduction_and_use_patterns_l"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "xskipout_remote___2"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "xskipout_remote"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_tlfb"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_tlfb_adm__rmt___2"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_tlfb_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_tlfb"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_tlfb_adm__rmt___2"
+    },
+    "question": {
+        "en": "Timeline Followback Interview Results: Method of administration (Remote visit) [Multi-select]: Video/webcam"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

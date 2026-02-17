@@ -1,0 +1,81 @@
+{
+    "id": "fc_y_pbp_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Peers"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_pbp01"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "peer_behavior_profile"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "pbp_shoplifted"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "pbp_shoplifted"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/fc.html#fc_y_pbp"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_pbp_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_pbp_0006"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_pbp"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_pbp_003"
+    },
+    "question": {
+        "en": "How many of your friends: Have shoplifted occasionally"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

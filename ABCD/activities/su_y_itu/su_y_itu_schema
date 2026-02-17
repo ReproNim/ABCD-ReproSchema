@@ -1,0 +1,125 @@
+{
+    "id": "su_y_itu_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_itu"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_itu_dtt",
+            "items/su_y_itu_age",
+            "items/su_y_itu_adm",
+            "items/su_y_itu__alc_001",
+            "items/su_y_itu__alc_002",
+            "items/su_y_itu__alc_003",
+            "items/su_y_itu__mj_001",
+            "items/su_y_itu__mj_002",
+            "items/su_y_itu__mj_003",
+            "items/su_y_itu__nic_001",
+            "items/su_y_itu__nic_002",
+            "items/su_y_itu__nic_003",
+            "items/su_y_itu__nic__cig_001",
+            "items/su_y_itu__nic__cig_002",
+            "items/su_y_itu__nic__cig_003",
+            "items/su_y_itu__nic__vape_001",
+            "items/su_y_itu__nic__vape_002",
+            "items/su_y_itu__nic__vape_003"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_itu_dtt",
+                "isVis": true,
+                "variableName": "su_y_itu_dtt"
+            },
+            {
+                "isAbout": "items/su_y_itu_age",
+                "isVis": true,
+                "variableName": "su_y_itu_age"
+            },
+            {
+                "isAbout": "items/su_y_itu_adm",
+                "isVis": true,
+                "variableName": "su_y_itu_adm"
+            },
+            {
+                "isAbout": "items/su_y_itu__alc_001",
+                "isVis": true,
+                "variableName": "su_y_itu__alc_001"
+            },
+            {
+                "isAbout": "items/su_y_itu__alc_002",
+                "isVis": true,
+                "variableName": "su_y_itu__alc_002"
+            },
+            {
+                "isAbout": "items/su_y_itu__alc_003",
+                "isVis": true,
+                "variableName": "su_y_itu__alc_003"
+            },
+            {
+                "isAbout": "items/su_y_itu__mj_001",
+                "isVis": true,
+                "variableName": "su_y_itu__mj_001"
+            },
+            {
+                "isAbout": "items/su_y_itu__mj_002",
+                "isVis": true,
+                "variableName": "su_y_itu__mj_002"
+            },
+            {
+                "isAbout": "items/su_y_itu__mj_003",
+                "isVis": true,
+                "variableName": "su_y_itu__mj_003"
+            },
+            {
+                "isAbout": "items/su_y_itu__nic_001",
+                "isVis": true,
+                "variableName": "su_y_itu__nic_001"
+            },
+            {
+                "isAbout": "items/su_y_itu__nic_002",
+                "isVis": true,
+                "variableName": "su_y_itu__nic_002"
+            },
+            {
+                "isAbout": "items/su_y_itu__nic_003",
+                "isVis": true,
+                "variableName": "su_y_itu__nic_003"
+            },
+            {
+                "isAbout": "items/su_y_itu__nic__cig_001",
+                "isVis": true,
+                "variableName": "su_y_itu__nic__cig_001"
+            },
+            {
+                "isAbout": "items/su_y_itu__nic__cig_002",
+                "isVis": true,
+                "variableName": "su_y_itu__nic__cig_002"
+            },
+            {
+                "isAbout": "items/su_y_itu__nic__cig_003",
+                "isVis": true,
+                "variableName": "su_y_itu__nic__cig_003"
+            },
+            {
+                "isAbout": "items/su_y_itu__nic__vape_001",
+                "isVis": true,
+                "variableName": "su_y_itu__nic__vape_001"
+            },
+            {
+                "isAbout": "items/su_y_itu__nic__vape_002",
+                "isVis": true,
+                "variableName": "su_y_itu__nic__vape_002"
+            },
+            {
+                "isAbout": "items/su_y_itu__nic__vape_003",
+                "isVis": true,
+                "variableName": "su_y_itu__nic__vape_003"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "6.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}
