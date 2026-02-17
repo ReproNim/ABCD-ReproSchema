@@ -3,6 +3,11 @@
     "category": "reproschema:Item",
     "additionalNotesObj": [
         {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "pounds (lb)"
+        },
+        {
             "column": "study",
             "source": "nbdc",
             "value": "Core"
@@ -50,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_y_anthr_0013"
+            "value": "ph_y_anthr_0012"
         },
         {
             "column": "activity",

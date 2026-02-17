@@ -5,7 +5,7 @@
         {
             "column": "note",
             "source": "nbdc",
-            "value": "The parent will need to have the original bottles and packaging, or be absolutely certain of the information, to collect all the information accurately. If parent did NOT bring the medications but knows some/all of the information with certainty enter the information in the section below and follow-up shortly after the visit."
+            "value": "The parent will need to have the original bottles and packaging, or be absolutely certain of the information, to collect all the information accurately. If parent did NOT bring the medications but knows some/all of the information with certainty enter the information in the section below and follow-up shortly after the visit. | The parent needs to be absolutely certain of the medications to collect all the information accurately. The parent may bring the medications, review digital healthcare records, or recall with certainty the medications to be entered into the section below. Medications may also be reviewed via telephone/video call shortly after the visit to increase accuracy of responses."
         },
         {
             "column": "study",
@@ -30,22 +30,22 @@
         {
             "column": "table_nda",
             "source": "nbdc",
-            "value": "medsy01"
+            "value": "medsy01 |"
         },
         {
             "column": "table_redcap",
             "source": "nbdc",
-            "value": "medication_inventoryphenx_medsparent"
+            "value": "medication_inventoryphenx_medsparent | medication_inventoryphenx_medsparent"
         },
         {
             "column": "name_nda",
             "source": "nbdc",
-            "value": "brought_medications_1yr_p"
+            "value": "brought_medications_1yr_p |"
         },
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "brought_medications_1yr_p"
+            "value": "brought_medications_1yr_p | brought_medications_1yr_p_6yr"
         },
         {
             "column": "url_table",

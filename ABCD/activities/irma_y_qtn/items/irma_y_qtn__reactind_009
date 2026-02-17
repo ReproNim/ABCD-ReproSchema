@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "irma_y_qtn_0090"
+            "value": "irma_y_qtn_0084"
         },
         {
             "column": "activity",

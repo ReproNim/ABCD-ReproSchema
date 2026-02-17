@@ -47,7 +47,11 @@
             "items/fc_y_vs__relig_mean",
             "items/fc_y_vs__relig_nm",
             "items/fc_y_vs__supp_mean",
-            "items/fc_y_vs__supp_nm"
+            "items/fc_y_vs__supp_nm",
+            "items/fc_y_vs__famil_mean",
+            "items/fc_y_vs__famil_nm",
+            "items/fc_y_vs__famil_mean__v01",
+            "items/fc_y_vs__famil_nm__v01"
         ],
         "addProperties": [
             {
@@ -254,10 +258,30 @@
                 "isAbout": "items/fc_y_vs__supp_nm",
                 "isVis": true,
                 "variableName": "fc_y_vs__supp_nm"
+            },
+            {
+                "isAbout": "items/fc_y_vs__famil_mean",
+                "isVis": true,
+                "variableName": "fc_y_vs__famil_mean"
+            },
+            {
+                "isAbout": "items/fc_y_vs__famil_nm",
+                "isVis": true,
+                "variableName": "fc_y_vs__famil_nm"
+            },
+            {
+                "isAbout": "items/fc_y_vs__famil_mean__v01",
+                "isVis": true,
+                "variableName": "fc_y_vs__famil_mean__v01"
+            },
+            {
+                "isAbout": "items/fc_y_vs__famil_nm__v01",
+                "isVis": true,
+                "variableName": "fc_y_vs__famil_nm__v01"
             }
         ],
         "shuffle": false
     },
-    "version": "6.0",
+    "version": "6.1",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

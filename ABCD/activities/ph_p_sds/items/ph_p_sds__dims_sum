@@ -1,0 +1,76 @@
+{
+    "id": "ph_p_sds__dims_sum",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Sleep"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "abcd_ssphp01"
+        },
+        {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "sds_p_ss_dims"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_sds"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_ph_p_sds__dims_sum.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_sds__dims_sum"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_sds_0032"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_sds"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_sds__dims_sum"
+    },
+    "question": {
+        "en": "Sleep Disturbance Scale [Parent] (Disorders of initiating and maintaining sleep): Sum [Validation: No more than 0 missing or declined]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -23,16 +23,6 @@
             "value": "General"
         },
         {
-            "column": "table_nda",
-            "source": "nbdc",
-            "value": "general"
-        },
-        {
-            "column": "name_nda",
-            "source": "nbdc",
-            "value": "all tables"
-        },
-        {
             "column": "url_table",
             "source": "nbdc",
             "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_g_dyn"
@@ -57,7 +47,7 @@
         "en": "ab_g_dyn__visit_dtt"
     },
     "question": {
-        "en": "Visit information: Date and time at the start of the visit"
+        "en": "Visit information: Date and time at the start of the event"
     },
     "responseOptions": {
         "valueType": [

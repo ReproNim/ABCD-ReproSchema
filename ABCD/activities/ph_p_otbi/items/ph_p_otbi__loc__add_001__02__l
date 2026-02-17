@@ -60,7 +60,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_otbi_0061"
+            "value": "ph_p_otbi_0051"
         },
         {
             "column": "activity",

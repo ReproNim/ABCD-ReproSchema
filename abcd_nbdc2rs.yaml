@@ -3,4 +3,4 @@ protocol_description: The Adolescent Brain Cognitive Development (ABCD) Study Pr
 protocol_display_name: ABCD Protocol (NBDC)
 protocol_name: ABCD
 source: NBDCtoolsData
-source_version: '6.0'
+source_version: '6.1'

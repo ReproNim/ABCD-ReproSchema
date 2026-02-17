@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "nc_y_est_0014"
+            "value": "nc_y_est_0013"
         },
         {
             "column": "activity",

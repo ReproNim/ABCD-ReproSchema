@@ -12,7 +12,6 @@
             "items/ph_p_meds_lang",
             "items/ph_p_meds_001",
             "items/ph_p_meds_001__v01",
-            "items/ph_p_meds_001__v02",
             "items/ph_p_meds__otc__id_001",
             "items/ph_p_meds__otc__label_001",
             "items/ph_p_meds__otc__id_001__v01",
@@ -426,11 +425,6 @@
                 "isAbout": "items/ph_p_meds_001__v01",
                 "isVis": true,
                 "variableName": "ph_p_meds_001__v01"
-            },
-            {
-                "isAbout": "items/ph_p_meds_001__v02",
-                "isVis": true,
-                "variableName": "ph_p_meds_001__v02"
             },
             {
                 "isAbout": "items/ph_p_meds__otc__id_001",
@@ -2370,6 +2364,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.0",
+    "version": "6.1",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

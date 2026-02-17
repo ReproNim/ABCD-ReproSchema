@@ -35,7 +35,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0308"
+            "value": "ph_p_meds_0307"
         },
         {
             "column": "activity",

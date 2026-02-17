@@ -52,7 +52,7 @@
         "en": "ab_g_dyn__visit_type"
     },
     "question": {
-        "en": "Visit information: Type of visit (In-person, remote, hybrid)"
+        "en": "Visit information: Type of event (In-person, remote, hybrid)"
     },
     "responseOptions": {
         "valueType": [
