@@ -5,8 +5,9 @@ Convert ABCD release to ReproSchema format.
 Workflow:
   1. Clone NBDCtoolsData if needed
   2. Extract specific release from lst_dds.rda to CSV (using R)
-  3. Convert CSV to ReproSchema format
-  4. Cleanup temporary files
+  3. Update source_version in yaml config
+  4. Convert CSV to ReproSchema format
+  5. Cleanup temporary files
 
 Usage:
   python scripts/convert.py --release 6.0
@@ -19,6 +20,8 @@ import shutil
 import subprocess
 import sys
 from pathlib import Path
+
+import yaml
 
 NBDC_REPO_URL = "https://github.com/nbdc-datahub/NBDCtoolsData.git"
 NBDC_DATA_DIR = "NBDCtoolsData"
@@ -128,7 +131,16 @@ def main():
         if not extract_release(rda_path, args.release, csv_path):
             sys.exit(1)
 
-        # Step 2: Run reproschema conversion
+        # Step 2: Update yaml config with source_version from release argument
+        yaml_path = Path(args.config)
+        with open(yaml_path, 'r') as f:
+            config = yaml.safe_load(f)
+        config['source_version'] = args.release
+        with open(yaml_path, 'w') as f:
+            yaml.dump(config, f)
+        print(f"Set source_version to {args.release}")
+
+        # Step 3: Run reproschema conversion
         cmd = [
             "reproschema",
             "nbdc2reproschema",
@@ -141,7 +153,7 @@ def main():
             print(f"Conversion failed with exit code {result.returncode}")
             sys.exit(result.returncode)
 
-        # Step 3: Validate if requested (only validate the ABCD output directory)
+        # Step 4: Validate if requested (only validate the ABCD output directory)
         if args.validate:
             cmd = ["reproschema", "validate", "ABCD"]
             print(f"Running: {' '.join(cmd)}")
