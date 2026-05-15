@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0752"
+            "value": "su_y_tlfb_0783"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__roid__cum_totdose"
     },
     "question": {
-        "en": "Steroids: total dose (Cumulative period)"
+        "en": "Steroids: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

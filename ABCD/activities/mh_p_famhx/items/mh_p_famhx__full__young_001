@@ -67,7 +67,7 @@
         "en": "mh_p_famhx__full__young_001"
     },
     "question": {
-        "en": "How many of the full siblings are younger than the child? (please do not include a co-twin here as ABCD considers twins equal in age)"
+        "en": "How many of the full siblings are younger than the child? (Please do not include a co-twin here as ABCD considers twins equal in age)"
     },
     "responseOptions": {
         "valueType": [

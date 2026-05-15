@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__igvis__dst__sipj__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: incorrect go vs. incorrect stop; all runs) in Destrieux ROI: sulcus intermedius primus (left hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Incorrrect go vs. incorrect stop; All runs) in Destrieux ROI: Sulcus intermedius primus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

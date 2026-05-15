@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0511"
+            "value": "su_y_tlfb_0533"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__mj__vape__oil__wknd_totdose"
     },
     "question": {
-        "en": "Marijuana - Vaped oil: total dose on weekends"
+        "en": "Marijuana - Vaped oil: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

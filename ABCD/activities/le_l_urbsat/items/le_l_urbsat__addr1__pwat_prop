@@ -52,7 +52,7 @@
         "en": "le_l_urbsat__addr1__pwat_prop"
     },
     "question": {
-        "en": "Permanent inland water- (2017) fraction of total pixel area [0 1] (Address 1) (address 1)"
+        "en": "Permanent inland water- (2017) fraction of total pixel area [0 1] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

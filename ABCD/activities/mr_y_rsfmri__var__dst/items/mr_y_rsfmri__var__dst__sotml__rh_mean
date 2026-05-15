@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__dst__sotml__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Destrieux ROI: medial occipito-temporal sulcus and lingual sulcus (right hemisphere)"
+        "en": "Average temporal variance in Destrieux ROI: Medial occipito-temporal sulcus and lingual sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

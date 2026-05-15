@@ -3,11 +3,6 @@
     "category": "reproschema:Item",
     "additionalNotesObj": [
         {
-            "column": "note",
-            "source": "nbdc",
-            "value": "Inches"
-        },
-        {
             "column": "unit",
             "source": "nbdc",
             "value": "inches (in)"

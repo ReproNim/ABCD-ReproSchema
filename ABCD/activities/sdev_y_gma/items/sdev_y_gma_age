@@ -1,0 +1,62 @@
+{
+    "id": "sdev_y_gma_age",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Gang Involvement"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_gma_age"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_gma_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_gma"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_gma_age"
+    },
+    "question": {
+        "en": "Gang Membership and Activity [Youth]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

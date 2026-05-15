@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2bv0b__dst__gspc__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: 2-back vs. 0-back; all runs) in Destrieux ROI: paracentral lobule and sulcus (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - 2-back vs. 0-back; All runs) in Destrieux ROI: Paracentral lobule and sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

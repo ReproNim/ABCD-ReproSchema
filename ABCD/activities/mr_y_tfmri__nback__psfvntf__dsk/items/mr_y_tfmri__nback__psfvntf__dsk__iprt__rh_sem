@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__psfvntf__dsk__iprt__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: positive face vs. neutral face; all runs) in Desikan ROI: inferior parietal (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Positive face vs. neutral face; All runs) in Desikan ROI: Inferior parietal (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

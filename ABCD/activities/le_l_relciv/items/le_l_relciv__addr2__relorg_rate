@@ -52,7 +52,7 @@
         "en": "le_l_relciv__addr2__relorg_rate"
     },
     "question": {
-        "en": "Number of all religious organizations per 1000 people [NaNDA; census tract] (Address 2) (address 2)"
+        "en": "Number of all religious organizations per 1000 people [NaNDA; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

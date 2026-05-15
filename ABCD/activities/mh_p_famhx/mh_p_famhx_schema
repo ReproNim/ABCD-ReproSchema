@@ -1459,7 +1459,123 @@
             "items/mh_p_famhx__troub__pat__unc_005",
             "items/mh_p_famhx__troub__twin_001",
             "items/mh_p_famhx__troub__twin_002",
-            "items/mh_p_famhx__twin_001"
+            "items/mh_p_famhx__twin_001",
+            "items/mh_p_famhx__alc__fath_indicator",
+            "items/mh_p_famhx__alc__full__old_indicator__001",
+            "items/mh_p_famhx__alc__full__old_indicator__002",
+            "items/mh_p_famhx__alc__full__old_indicator__003",
+            "items/mh_p_famhx__alc__full__old_indicator__004",
+            "items/mh_p_famhx__alc__full__old_indicator__005",
+            "items/mh_p_famhx__alc__full__young_indicator__001",
+            "items/mh_p_famhx__alc__full__young_indicator__002",
+            "items/mh_p_famhx__alc__full__young_indicator__003",
+            "items/mh_p_famhx__alc__full__young_indicator__004",
+            "items/mh_p_famhx__alc__full__young_indicator__005",
+            "items/mh_p_famhx__alc__half__old_indicator__001",
+            "items/mh_p_famhx__alc__half__old_indicator__002",
+            "items/mh_p_famhx__alc__half__old_indicator__003",
+            "items/mh_p_famhx__alc__half__old_indicator__004",
+            "items/mh_p_famhx__alc__half__old_indicator__005",
+            "items/mh_p_famhx__alc__half__young_indicator__001",
+            "items/mh_p_famhx__alc__half__young_indicator__002",
+            "items/mh_p_famhx__alc__half__young_indicator__003",
+            "items/mh_p_famhx__alc__half__young_indicator__004",
+            "items/mh_p_famhx__alc__half__young_indicator__005",
+            "items/mh_p_famhx__alc__mat__aunt_indicator__001",
+            "items/mh_p_famhx__alc__mat__aunt_indicator__002",
+            "items/mh_p_famhx__alc__mat__aunt_indicator__003",
+            "items/mh_p_famhx__alc__mat__aunt_indicator__004",
+            "items/mh_p_famhx__alc__mat__aunt_indicator__005",
+            "items/mh_p_famhx__alc__mat__gfath_indicator",
+            "items/mh_p_famhx__alc__mat__gmoth_indicator",
+            "items/mh_p_famhx__alc__mat__unc_indicator__001",
+            "items/mh_p_famhx__alc__mat__unc_indicator__002",
+            "items/mh_p_famhx__alc__mat__unc_indicator__003",
+            "items/mh_p_famhx__alc__mat__unc_indicator__004",
+            "items/mh_p_famhx__alc__mat__unc_indicator__005",
+            "items/mh_p_famhx__alc__moth__fath_indicator",
+            "items/mh_p_famhx__alc__moth__fath_score",
+            "items/mh_p_famhx__alc__moth_indicator",
+            "items/mh_p_famhx__alc__pat__aunt_indicator__001",
+            "items/mh_p_famhx__alc__pat__aunt_indicator__002",
+            "items/mh_p_famhx__alc__pat__aunt_indicator__003",
+            "items/mh_p_famhx__alc__pat__aunt_indicator__004",
+            "items/mh_p_famhx__alc__pat__aunt_indicator__005",
+            "items/mh_p_famhx__alc__pat__gfath_indicator",
+            "items/mh_p_famhx__alc__pat__gmoth_indicator",
+            "items/mh_p_famhx__alc__pat__unc_indicator__001",
+            "items/mh_p_famhx__alc__pat__unc_indicator__002",
+            "items/mh_p_famhx__alc__pat__unc_indicator__003",
+            "items/mh_p_famhx__alc__pat__unc_indicator__004",
+            "items/mh_p_famhx__alc__pat__unc_indicator__005",
+            "items/mh_p_famhx__alc__twin_indicator__001",
+            "items/mh_p_famhx__alc__twin_indicator__002",
+            "items/mh_p_famhx__dep__moth__fath_indicator",
+            "items/mh_p_famhx__dep__moth__fath_score",
+            "items/mh_p_famhx__doc__moth__fath_indicator",
+            "items/mh_p_famhx__doc__moth__fath_score",
+            "items/mh_p_famhx__drg__fath_indicator",
+            "items/mh_p_famhx__drg__full__old_indicator__001",
+            "items/mh_p_famhx__drg__full__old_indicator__002",
+            "items/mh_p_famhx__drg__full__old_indicator__003",
+            "items/mh_p_famhx__drg__full__old_indicator__004",
+            "items/mh_p_famhx__drg__full__old_indicator__005",
+            "items/mh_p_famhx__drg__full__young_indicator__001",
+            "items/mh_p_famhx__drg__full__young_indicator__002",
+            "items/mh_p_famhx__drg__full__young_indicator__003",
+            "items/mh_p_famhx__drg__full__young_indicator__004",
+            "items/mh_p_famhx__drg__full__young_indicator__005",
+            "items/mh_p_famhx__drg__half__old_indicator__001",
+            "items/mh_p_famhx__drg__half__old_indicator__002",
+            "items/mh_p_famhx__drg__half__old_indicator__003",
+            "items/mh_p_famhx__drg__half__old_indicator__004",
+            "items/mh_p_famhx__drg__half__old_indicator__005",
+            "items/mh_p_famhx__drg__half__young_indicator__001",
+            "items/mh_p_famhx__drg__half__young_indicator__002",
+            "items/mh_p_famhx__drg__half__young_indicator__003",
+            "items/mh_p_famhx__drg__half__young_indicator__004",
+            "items/mh_p_famhx__drg__half__young_indicator__005",
+            "items/mh_p_famhx__drg__mat__aunt_indicator__001",
+            "items/mh_p_famhx__drg__mat__aunt_indicator__002",
+            "items/mh_p_famhx__drg__mat__aunt_indicator__003",
+            "items/mh_p_famhx__drg__mat__aunt_indicator__004",
+            "items/mh_p_famhx__drg__mat__aunt_indicator__005",
+            "items/mh_p_famhx__drg__mat__gfath_indicator",
+            "items/mh_p_famhx__drg__mat__gmoth_indicator",
+            "items/mh_p_famhx__drg__mat__unc_indicator__001",
+            "items/mh_p_famhx__drg__mat__unc_indicator__002",
+            "items/mh_p_famhx__drg__mat__unc_indicator__003",
+            "items/mh_p_famhx__drg__mat__unc_indicator__004",
+            "items/mh_p_famhx__drg__mat__unc_indicator__005",
+            "items/mh_p_famhx__drg__moth__fath_indicator",
+            "items/mh_p_famhx__drg__moth__fath_score",
+            "items/mh_p_famhx__drg__moth_indicator",
+            "items/mh_p_famhx__drg__pat__aunt_indicator__001",
+            "items/mh_p_famhx__drg__pat__aunt_indicator__002",
+            "items/mh_p_famhx__drg__pat__aunt_indicator__003",
+            "items/mh_p_famhx__drg__pat__aunt_indicator__004",
+            "items/mh_p_famhx__drg__pat__aunt_indicator__005",
+            "items/mh_p_famhx__drg__pat__gfath_indicator",
+            "items/mh_p_famhx__drg__pat__gmoth_indicator",
+            "items/mh_p_famhx__drg__pat__unc_indicator__001",
+            "items/mh_p_famhx__drg__pat__unc_indicator__002",
+            "items/mh_p_famhx__drg__pat__unc_indicator__003",
+            "items/mh_p_famhx__drg__pat__unc_indicator__004",
+            "items/mh_p_famhx__drg__pat__unc_indicator__005",
+            "items/mh_p_famhx__drg__twin_indicator__001",
+            "items/mh_p_famhx__drg__twin_indicator__002",
+            "items/mh_p_famhx__halluc__moth__fath_indicator",
+            "items/mh_p_famhx__halluc__moth__fath_score",
+            "items/mh_p_famhx__hosp__moth__fath_indicator",
+            "items/mh_p_famhx__hosp__moth__fath_score",
+            "items/mh_p_famhx__mania__moth__fath_indicator",
+            "items/mh_p_famhx__mania__moth__fath_score",
+            "items/mh_p_famhx__nerve__moth__fath_indicator",
+            "items/mh_p_famhx__nerve__moth__fath_score",
+            "items/mh_p_famhx__suic__moth__fath_indicator",
+            "items/mh_p_famhx__suic__moth__fath_score",
+            "items/mh_p_famhx__troub__moth__fath_indicator",
+            "items/mh_p_famhx__troub__moth__fath_score"
         ],
         "addProperties": [
             {
@@ -8726,10 +8842,590 @@
                 "isAbout": "items/mh_p_famhx__twin_001",
                 "isVis": true,
                 "variableName": "mh_p_famhx__twin_001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__old_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__old_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__old_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__old_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__old_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__old_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__old_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__old_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__old_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__old_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__young_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__young_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__young_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__young_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__young_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__young_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__young_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__young_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__full__young_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__full__young_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__old_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__old_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__old_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__old_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__old_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__old_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__old_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__old_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__old_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__old_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__young_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__young_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__young_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__young_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__young_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__young_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__young_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__young_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__half__young_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__half__young_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__aunt_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__aunt_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__aunt_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__aunt_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__aunt_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__aunt_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__aunt_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__aunt_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__aunt_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__aunt_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__gfath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__gfath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__gmoth_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__gmoth_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__unc_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__unc_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__unc_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__unc_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__unc_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__unc_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__unc_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__unc_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__mat__unc_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__mat__unc_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__moth__fath_score"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__moth_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__moth_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__aunt_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__aunt_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__aunt_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__aunt_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__aunt_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__aunt_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__aunt_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__aunt_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__aunt_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__aunt_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__gfath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__gfath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__gmoth_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__gmoth_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__unc_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__unc_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__unc_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__unc_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__unc_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__unc_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__unc_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__unc_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__pat__unc_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__pat__unc_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__twin_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__twin_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__alc__twin_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__alc__twin_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__dep__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__dep__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__dep__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__dep__moth__fath_score"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__doc__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__doc__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__doc__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__doc__moth__fath_score"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__old_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__old_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__old_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__old_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__old_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__old_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__old_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__old_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__old_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__old_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__young_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__young_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__young_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__young_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__young_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__young_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__young_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__young_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__full__young_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__full__young_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__old_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__old_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__old_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__old_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__old_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__old_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__old_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__old_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__old_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__old_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__young_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__young_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__young_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__young_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__young_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__young_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__young_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__young_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__half__young_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__half__young_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__aunt_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__aunt_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__aunt_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__aunt_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__aunt_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__aunt_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__aunt_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__aunt_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__aunt_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__aunt_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__gfath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__gfath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__gmoth_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__gmoth_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__unc_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__unc_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__unc_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__unc_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__unc_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__unc_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__unc_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__unc_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__mat__unc_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__mat__unc_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__moth__fath_score"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__moth_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__moth_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__aunt_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__aunt_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__aunt_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__aunt_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__aunt_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__aunt_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__aunt_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__aunt_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__aunt_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__aunt_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__gfath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__gfath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__gmoth_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__gmoth_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__unc_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__unc_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__unc_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__unc_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__unc_indicator__003",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__unc_indicator__003"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__unc_indicator__004",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__unc_indicator__004"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__pat__unc_indicator__005",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__pat__unc_indicator__005"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__twin_indicator__001",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__twin_indicator__001"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__drg__twin_indicator__002",
+                "isVis": true,
+                "variableName": "mh_p_famhx__drg__twin_indicator__002"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__halluc__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__halluc__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__halluc__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__halluc__moth__fath_score"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__hosp__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__hosp__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__hosp__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__hosp__moth__fath_score"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__mania__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__mania__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__mania__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__mania__moth__fath_score"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__nerve__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__nerve__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__nerve__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__nerve__moth__fath_score"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__suic__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__suic__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__suic__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__suic__moth__fath_score"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__troub__moth__fath_indicator",
+                "isVis": true,
+                "variableName": "mh_p_famhx__troub__moth__fath_indicator"
+            },
+            {
+                "isAbout": "items/mh_p_famhx__troub__moth__fath_score",
+                "isVis": true,
+                "variableName": "mh_p_famhx__troub__moth__fath_score"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

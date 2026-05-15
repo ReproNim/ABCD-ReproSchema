@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0362"
+            "value": "ph_p_meds_0388"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_014__01__01__dk"
     },
     "question": {
-        "en": "RX 14: Strength dose [Non-response] [Parent]"
+        "en": "Prescription - Medication 14: Strength dose [Non-response] [Parent]"
     },
     "responseOptions": {
         "valueType": [

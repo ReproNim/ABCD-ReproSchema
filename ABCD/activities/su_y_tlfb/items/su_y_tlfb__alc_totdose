@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0045"
+            "value": "su_y_tlfb_0048"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__alc_totdose"
     },
     "question": {
-        "en": "Alcohol: total dose"
+        "en": "Alcohol: Total dose"
     },
     "responseOptions": {
         "valueType": [

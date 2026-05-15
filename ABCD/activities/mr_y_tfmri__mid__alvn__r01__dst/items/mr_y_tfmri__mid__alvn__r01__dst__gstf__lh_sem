@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvn__r01__dst__gstf__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: anticipated loss vs. neutral; run 1) in Destrieux ROI: transverse frontopolar gyri and sulci (left hemisphere)"
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (Contrast - Anticipated loss vs. neutral; Run 1) in Destrieux ROI: Transverse frontopolar gyri and sulci (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

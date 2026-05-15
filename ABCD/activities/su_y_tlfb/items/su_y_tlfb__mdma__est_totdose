@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0265"
+            "value": "su_y_tlfb_0276"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__mdma__est_totdose"
     },
     "question": {
-        "en": "MDMA: total dose (Estimated period)"
+        "en": "MDMA: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

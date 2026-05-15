@@ -47,7 +47,7 @@
         "en": "sdev_y_rd_dt"
     },
     "question": {
-        "en": "Reported Delinquency - Date when collection was completed [Youth]"
+        "en": "Reported Delinquency - Date when data collection was completed [Youth]"
     },
     "responseOptions": {
         "valueType": [

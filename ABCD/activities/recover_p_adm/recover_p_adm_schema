@@ -1,0 +1,29 @@
+{
+    "id": "recover_p_adm_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_adm"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_adm__multi_indicator",
+            "items/recover_p_adm__multi_id"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_adm__multi_indicator",
+                "isVis": true,
+                "variableName": "recover_p_adm__multi_indicator"
+            },
+            {
+                "isAbout": "items/recover_p_adm__multi_id",
+                "isVis": true,
+                "variableName": "recover_p_adm__multi_id"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

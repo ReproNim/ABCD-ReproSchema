@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0036"
+            "value": "su_y_tlfb_0038"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__alc__cum_totdose"
     },
     "question": {
-        "en": "Alcohol: total dose (Cumulative period)"
+        "en": "Alcohol: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

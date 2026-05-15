@@ -52,7 +52,7 @@
         "en": "covid_l_geoadm__addr4_prcnt"
     },
     "question": {
-        "en": "Percentage of time spent at address [COVID substudy] (Address 4)"
+        "en": "Percentage of time spent at address [COVID substudy] (address 4)"
     },
     "responseOptions": {
         "valueType": [

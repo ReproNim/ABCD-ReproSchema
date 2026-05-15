@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2bv0b__r02__dsk__mobfrt__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: 2-back vs. 0-back; run 2) in Desikan ROI: medial orbitofrontal (left hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - 2-back vs. 0-back; Run 2) in Desikan ROI: Medial orbitofrontal (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

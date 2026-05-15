@@ -52,7 +52,7 @@
         "en": "le_l_oz__addr2__invest_decile"
     },
     "question": {
-        "en": "Investment Score, National Deciles [Urban Institute; census tract] (Address 2) (address 2)"
+        "en": "Investment Score, National Deciles [Urban Institute; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

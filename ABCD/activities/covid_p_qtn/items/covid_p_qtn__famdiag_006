@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__famdiag_006"
     },
     "question": {
-        "en": "Did the biological father require hospitalization (for COVID-19)? [COVID Substudy]"
+        "en": "Did the biological father require hospitalization (for COVID-19)? [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

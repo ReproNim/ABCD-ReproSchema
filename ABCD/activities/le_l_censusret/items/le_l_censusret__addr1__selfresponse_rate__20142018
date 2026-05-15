@@ -52,7 +52,7 @@
         "en": "le_l_censusret__addr1__selfresponse_rate__20142018"
     },
     "question": {
-        "en": "Self-response rate for the 2014-2018 ACS [Census Bureau Planning Database; census tract] (Address 1) (address 1)"
+        "en": "Self-response rate for the 2014-2018 ACS [Census Bureau Planning Database; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -90,7 +90,7 @@
             "items/mr_y_qc__raw__tfmri__mid__pass__protcom_count",
             "items/mr_y_qc__raw__tfmri__mid__pass__qc__comp_count",
             "items/mr_y_qc__raw__tfmri__mid__pass__qc__protcom__nofm_count",
-            "items/mr_y_qc__raw__tfmri__mid__pass__qc__protcom_count",
+            "items/mr_y_qc__raw__tfmri__mid__pass__qc__protcom__comp_count",
             "items/mr_y_qc__raw__tfmri__mid__pass__qc_count",
             "items/mr_y_qc__raw__tfmri__mid__pendaqc_indicator",
             "items/mr_y_qc__raw__tfmri__mid__procerr_indicator",
@@ -301,9 +301,9 @@
             "items/mr_y_qc__raw__tfmri__mid__rep__ok_mean",
             "items/mr_y_qc__raw__tfmri__mid__rep_mean",
             "items/mr_y_qc__raw__tfmri__mid__series_count",
-            "items/mr_y_qc__raw__tfmri__mid__snr__brain__comp_mean",
-            "items/mr_y_qc__raw__tfmri__mid__snr__brain__comp_med",
-            "items/mr_y_qc__raw__tfmri__mid__snr__brain__comp_std",
+            "items/mr_y_qc__raw__tfmri__mid__snr__comp_mean",
+            "items/mr_y_qc__raw__tfmri__mid__snr__comp_med",
+            "items/mr_y_qc__raw__tfmri__mid__snr__comp_std",
             "items/mr_y_qc__raw__tfmri__mid__snr__ok_mean",
             "items/mr_y_qc__raw__tfmri__mid__snr__ok_med",
             "items/mr_y_qc__raw__tfmri__mid__snr__ok_std",
@@ -754,9 +754,9 @@
                 "variableName": "mr_y_qc__raw__tfmri__mid__pass__qc__protcom__nofm_count"
             },
             {
-                "isAbout": "items/mr_y_qc__raw__tfmri__mid__pass__qc__protcom_count",
+                "isAbout": "items/mr_y_qc__raw__tfmri__mid__pass__qc__protcom__comp_count",
                 "isVis": true,
-                "variableName": "mr_y_qc__raw__tfmri__mid__pass__qc__protcom_count"
+                "variableName": "mr_y_qc__raw__tfmri__mid__pass__qc__protcom__comp_count"
             },
             {
                 "isAbout": "items/mr_y_qc__raw__tfmri__mid__pass__qc_count",
@@ -1809,19 +1809,19 @@
                 "variableName": "mr_y_qc__raw__tfmri__mid__series_count"
             },
             {
-                "isAbout": "items/mr_y_qc__raw__tfmri__mid__snr__brain__comp_mean",
+                "isAbout": "items/mr_y_qc__raw__tfmri__mid__snr__comp_mean",
                 "isVis": true,
-                "variableName": "mr_y_qc__raw__tfmri__mid__snr__brain__comp_mean"
+                "variableName": "mr_y_qc__raw__tfmri__mid__snr__comp_mean"
             },
             {
-                "isAbout": "items/mr_y_qc__raw__tfmri__mid__snr__brain__comp_med",
+                "isAbout": "items/mr_y_qc__raw__tfmri__mid__snr__comp_med",
                 "isVis": true,
-                "variableName": "mr_y_qc__raw__tfmri__mid__snr__brain__comp_med"
+                "variableName": "mr_y_qc__raw__tfmri__mid__snr__comp_med"
             },
             {
-                "isAbout": "items/mr_y_qc__raw__tfmri__mid__snr__brain__comp_std",
+                "isAbout": "items/mr_y_qc__raw__tfmri__mid__snr__comp_std",
                 "isVis": true,
-                "variableName": "mr_y_qc__raw__tfmri__mid__snr__brain__comp_std"
+                "variableName": "mr_y_qc__raw__tfmri__mid__snr__comp_std"
             },
             {
                 "isAbout": "items/mr_y_qc__raw__tfmri__mid__snr__ok_mean",
@@ -1986,6 +1986,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

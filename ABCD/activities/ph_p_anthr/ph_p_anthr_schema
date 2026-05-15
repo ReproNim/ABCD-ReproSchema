@@ -19,7 +19,11 @@
             "items/ph_p_anthr__weight__fath_001",
             "items/ph_p_anthr__weight__fath_001__dk",
             "items/ph_p_anthr__weight__moth_001",
-            "items/ph_p_anthr__weight__moth_001__dk"
+            "items/ph_p_anthr__weight__moth_001__dk",
+            "items/ph_p_anthr__moth_height__cm",
+            "items/ph_p_anthr__moth_height__in",
+            "items/ph_p_anthr__fath_height__cm",
+            "items/ph_p_anthr__fath_height__in"
         ],
         "addProperties": [
             {
@@ -86,10 +90,30 @@
                 "isAbout": "items/ph_p_anthr__weight__moth_001__dk",
                 "isVis": true,
                 "variableName": "ph_p_anthr__weight__moth_001__dk"
+            },
+            {
+                "isAbout": "items/ph_p_anthr__moth_height__cm",
+                "isVis": true,
+                "variableName": "ph_p_anthr__moth_height__cm"
+            },
+            {
+                "isAbout": "items/ph_p_anthr__moth_height__in",
+                "isVis": true,
+                "variableName": "ph_p_anthr__moth_height__in"
+            },
+            {
+                "isAbout": "items/ph_p_anthr__fath_height__cm",
+                "isVis": true,
+                "variableName": "ph_p_anthr__fath_height__cm"
+            },
+            {
+                "isAbout": "items/ph_p_anthr__fath_height__in",
+                "isVis": true,
+                "variableName": "ph_p_anthr__fath_height__in"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

@@ -52,7 +52,7 @@
         "en": "le_l_socsrv__addr1__socsrv_rate"
     },
     "question": {
-        "en": "Number of all social services per 1000 people [NaNDA; census tract] (Address 1) (address 1)"
+        "en": "Number of all social services per 1000 people [NaNDA; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

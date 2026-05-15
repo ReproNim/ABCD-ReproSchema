@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_001__01__04"
     },
     "question": {
-        "en": "RX 1: Is this a PRN (As needed) medication? [Parent]"
+        "en": "Prescription - Medication 1: Is this a PRN (As needed) medication? [Parent]"
     },
     "responseOptions": {
         "valueType": [

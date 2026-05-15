@@ -57,7 +57,7 @@
         "en": "le_l_crime__addr3_count"
     },
     "question": {
-        "en": "Grand total [Uniform Crime Reports] (Address 3) (address 3)"
+        "en": "Grand total [Uniform Crime Reports] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

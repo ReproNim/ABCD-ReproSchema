@@ -1,0 +1,101 @@
+{
+    "id": "recover_p_cthcg_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_cthcg"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_cthcg_dt",
+            "items/recover_p_cthcg_age",
+            "items/recover_p_cthcg_lang",
+            "items/recover_p_cthcg_ver",
+            "items/recover_p_cthcg_001",
+            "items/recover_p_cthcg_001__01",
+            "items/recover_p_cthcg_001__02",
+            "items/recover_p_cthcg_001__03___0",
+            "items/recover_p_cthcg_001__03___1",
+            "items/recover_p_cthcg_001__03___2",
+            "items/recover_p_cthcg_001__03___3",
+            "items/recover_p_cthcg_001__03___4",
+            "items/recover_p_cthcg_001__03___777",
+            "items/recover_p_cthcg_001__03___999"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_cthcg_dt",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_dt"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_age",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_age"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_lang",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_lang"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_ver",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_ver"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001__01",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001__01"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001__02",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001__02"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001__03___0",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001__03___0"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001__03___1",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001__03___1"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001__03___2",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001__03___2"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001__03___3",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001__03___3"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001__03___4",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001__03___4"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001__03___777",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001__03___777"
+            },
+            {
+                "isAbout": "items/recover_p_cthcg_001__03___999",
+                "isVis": true,
+                "variableName": "recover_p_cthcg_001__03___999"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

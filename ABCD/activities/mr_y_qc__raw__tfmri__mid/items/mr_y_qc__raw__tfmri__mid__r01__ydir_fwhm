@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__mid__r01__ydir_fwhm"
     },
     "question": {
-        "en": "Task fMRI - Monetary Incentive Delay task (run 1): Full width half max in y direction"
+        "en": "Task fMRI - Monetary Incentive Delay task (Run 1): Full width half max in y direction"
     },
     "responseOptions": {
         "valueType": [

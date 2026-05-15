@@ -67,7 +67,7 @@
         "en": "mr_y_smri__t2__wm__dst__scis__rh_mean"
     },
     "question": {
-        "en": "Average T2-weighted intensity (white matter) in Destrieux ROI: superior segment of the circular sulcus of the insula (right hemisphere)"
+        "en": "Average T2-weighted intensity (White matter) in Destrieux ROI: Superior segment of the circular sulcus of the insula (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

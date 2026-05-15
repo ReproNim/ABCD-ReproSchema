@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__sympt_003___2"
     },
     "question": {
-        "en": "Which of the following ever occurred as a result of your child's symptoms? [Multi-select]: My child saw a healthcare provider in person, such as in a clinic, doctor's office, urgent care, ER [COVID Substudy]"
+        "en": "Which of the following ever occurred as a result of your child's symptoms? [Multi-select]: My child saw a healthcare provider in person, such as in a clinic, doctor's office, urgent care, ER [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

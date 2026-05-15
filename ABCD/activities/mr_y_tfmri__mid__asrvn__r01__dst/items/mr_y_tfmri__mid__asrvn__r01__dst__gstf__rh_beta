@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__asrvn__r01__dst__gstf__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Monetary Incentive Delay task (contrast: anticipated small reward vs. neutral; run 1) in Destrieux ROI: transverse frontopolar gyri and sulci (right hemisphere)"
+        "en": "Average beta weight for Monetary Incentive Delay task (Contrast - Anticipated small reward vs. neutral; Run 1) in Destrieux ROI: Transverse frontopolar gyri and sulci (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

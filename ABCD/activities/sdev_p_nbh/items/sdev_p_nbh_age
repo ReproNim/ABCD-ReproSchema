@@ -52,7 +52,7 @@
         "en": "sdev_p_nbh_age"
     },
     "question": {
-        "en": "Perception of Neighborhood Scale [Parent]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Perception of Neighborhood Scale [Parent]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

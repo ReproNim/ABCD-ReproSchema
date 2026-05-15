@@ -57,7 +57,7 @@
         "en": "le_l_crime__addr2__drg_count"
     },
     "question": {
-        "en": "Drug abuse violations total [Uniform Crime Reports] (Address 2) (address 2)"
+        "en": "Drug abuse violations total [Uniform Crime Reports] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "ph_p_meds__otc_005__01__03"
     },
     "question": {
-        "en": "OTC 5: Is the medication extended-release (XR)? [Parent]"
+        "en": "Over the counter - Medication 5: Is the medication extended-release (XR)? [Parent]"
     },
     "responseOptions": {
         "valueType": [

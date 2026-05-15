@@ -1,0 +1,71 @@
+{
+    "id": "fc_y_ev__voc_002__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "US dollars ($)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Work & School"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_edu_vocation"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "edu_voc_job_04_y"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_ev__voc_002__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_ev_0042"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_ev"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_ev__voc_002__01"
+    },
+    "question": {
+        "en": "About how much did you earn per hour on the average? (Answer for your most important job and include all earnings before deductions. If not sure, guess.)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

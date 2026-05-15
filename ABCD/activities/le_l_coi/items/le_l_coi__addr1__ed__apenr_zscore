@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__ed__apenr_zscore"
     },
     "question": {
-        "en": "Advanced Placement course enrollment- ratio of students enrolled in at least one AP course to the number of 11th and 12th graders, transformed to z-scores [Education domain] (Address 1) (address 1)"
+        "en": "Advanced Placement course enrollment- ratio of students enrolled in at least one AP course to the number of 11th and 12th graders, transformed to z-scores [Education domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

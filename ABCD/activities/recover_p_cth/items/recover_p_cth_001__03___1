@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_cth_001__03___1",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_testing_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "cth_type"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_cth_001__03___1"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_cth_0009"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_cth"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_cth_001__03___1"
+    },
+    "question": {
+        "en": "How was the child tested for their most recent test [Multi-select]: Antigen test done in a laboratory, doctor's office, or testing center (sometimes called a rapid test)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

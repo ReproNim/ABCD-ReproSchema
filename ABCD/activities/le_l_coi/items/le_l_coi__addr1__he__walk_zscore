@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__he__walk_zscore"
     },
     "question": {
-        "en": "Walkability: EPA Walkability Index, transformed to z-scores [Health and environment domain] (Address 1) (address 1)"
+        "en": "Walkability: EPA Walkability Index, transformed to z-scores [Health and environment domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

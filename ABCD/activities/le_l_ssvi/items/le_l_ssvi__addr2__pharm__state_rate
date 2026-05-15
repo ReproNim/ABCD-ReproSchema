@@ -52,7 +52,7 @@
         "en": "le_l_ssvi__addr2__pharm__state_rate"
     },
     "question": {
-        "en": "Pharmacies per 1000,000 [Supplemental SVI] (Address 2) (address 2)"
+        "en": "Pharmacies per 1000,000 [Supplemental SVI] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

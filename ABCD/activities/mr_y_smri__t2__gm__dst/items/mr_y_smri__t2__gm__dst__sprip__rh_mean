@@ -67,7 +67,7 @@
         "en": "mr_y_smri__t2__gm__dst__sprip__rh_mean"
     },
     "question": {
-        "en": "Average T2-weighted intensity (gray matter) in Destrieux ROI: inferior part of the precentral sulcus (right hemisphere)"
+        "en": "Average T2-weighted intensity (Gray matter) in Destrieux ROI: Inferior part of the precentral sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

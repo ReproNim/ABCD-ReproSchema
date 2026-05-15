@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0581"
+            "value": "su_y_tlfb_0605"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__nic__cigar__est_totdose"
     },
     "question": {
-        "en": "Nicotine - Cigars: total dose (Estimated period)"
+        "en": "Nicotine - Cigars: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

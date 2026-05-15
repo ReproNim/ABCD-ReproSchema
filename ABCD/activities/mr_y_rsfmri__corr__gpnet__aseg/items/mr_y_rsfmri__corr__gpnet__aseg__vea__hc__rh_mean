@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aseg__vea__hc__rh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon network: ventral attention & Subcortical ROI: hippocampus (right hemisphere)"
+        "en": "Average correlation between Gordon network: Ventral attention & Subcortical ROI: Hippocampus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

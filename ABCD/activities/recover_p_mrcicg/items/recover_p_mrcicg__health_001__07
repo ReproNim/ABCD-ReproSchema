@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_mrcicg__health_001__07",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "most_recent_covid_infection_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "mrcih_treatav"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_mrcicg__health_001__07"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_mrcicg_0021"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_mrcicg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_mrcicg__health_001__07"
+    },
+    "question": {
+        "en": "During the most recent time you had COVID, did you receive any of the following treatments? [Multi-select]: Treatment with antiviral drug (medicines used to treat infections caused by a virus)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0443"
+            "value": "su_y_tlfb_0462"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__mj__synth_totdose"
     },
     "question": {
-        "en": "Marijuana - Synthetic: total dose"
+        "en": "Marijuana - Synthetic: Total dose"
     },
     "responseOptions": {
         "valueType": [

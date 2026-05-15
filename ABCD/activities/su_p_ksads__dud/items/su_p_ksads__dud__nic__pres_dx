@@ -23,16 +23,6 @@
             "value": "Parent"
         },
         {
-            "column": "table_nda",
-            "source": "nbdc",
-            "value": "ksads2daic_use_only_p01"
-        },
-        {
-            "column": "name_nda",
-            "source": "nbdc",
-            "value": "ksads2_20_836_p"
-        },
-        {
             "column": "url_table",
             "source": "nbdc",
             "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_p_ksads__dud"
@@ -45,7 +35,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_p_ksads_dud_0349"
+            "value": "su_p_ksads_dud_1078"
         },
         {
             "column": "activity",

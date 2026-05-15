@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__ld__gwc__dst__sprsp__lh_mean"
     },
     "question": {
-        "en": "Average longitudinal diffusivity (inner shell DTI; gray/white contrast) in Destrieux ROI: superior part of the precentral sulcus (left hemisphere)"
+        "en": "Average longitudinal diffusivity (inner shell DTI: Gray/white contrast) in Destrieux ROI: Superior part of the precentral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

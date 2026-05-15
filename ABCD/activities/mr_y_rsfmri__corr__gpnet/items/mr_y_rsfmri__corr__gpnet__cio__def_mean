@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__cio__def_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: cingulo-opercular & default"
+        "en": "Average correlation between Gordon networks: Cingulo-opercular & default"
     },
     "responseOptions": {
         "valueType": [

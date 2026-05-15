@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr2__ed__college_score"
     },
     "question": {
-        "en": "College enrollment in nearby institutions [Education domain] (Address 2) (address 2)"
+        "en": "College enrollment in nearby institutions [Education domain] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

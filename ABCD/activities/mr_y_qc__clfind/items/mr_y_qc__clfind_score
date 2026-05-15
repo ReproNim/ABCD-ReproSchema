@@ -28,7 +28,17 @@
             "value": "abcd_mrfindings02"
         },
         {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "mr_incidence_findings"
+        },
+        {
             "column": "name_nda",
+            "source": "nbdc",
+            "value": "mrif_score"
+        },
+        {
+            "column": "name_redcap",
             "source": "nbdc",
             "value": "mrif_score"
         },
@@ -45,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_clfind_0002"
+            "value": "mr_y_qc_clfind_0087"
         },
         {
             "column": "activity",
@@ -57,7 +67,7 @@
         "en": "mr_y_qc__clfind_score"
     },
     "question": {
-        "en": "Clinical findings: Report score"
+        "en": "Findings report score"
     },
     "responseOptions": {
         "valueType": [
@@ -65,7 +75,8 @@
         ]
     },
     "ui": {
-        "inputType": "number"
+        "inputType": "static",
+        "readonlyValue": true
     },
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__ed__food_zscore"
     },
     "question": {
-        "en": "Access to healthy food- percentage households without a car located further than a half-mile from the nearest supermarket, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1) (address 1)"
+        "en": "Access to healthy food- percentage households without a car located further than a half-mile from the nearest supermarket, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

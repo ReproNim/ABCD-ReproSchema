@@ -52,7 +52,7 @@
         "en": "le_l_lodes__addr3__job__black_density"
     },
     "question": {
-        "en": "Density of jobs (per sq. mile of land area) for workers with Race: Black or African American Alone [LODES; census tract] (Address 3) (address 3)"
+        "en": "Density of jobs (Per sq. mile of land area) for workers with Race: Black or African American Alone [LODES; census tract] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "ab_p_screen__weight_001__01"
     },
     "question": {
-        "en": "Is weight within acceptable range for MRI? (under 250 lbs)"
+        "en": "Is weight within acceptable range for MRI? (Under 250 lbs)"
     },
     "responseOptions": {
         "valueType": [

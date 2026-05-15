@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__rsfmri__r03__intensity__brain_mean"
     },
     "question": {
-        "en": "Resting State fMRI (run 3): Mean intensity within brain mask"
+        "en": "Resting State fMRI (Run 3): Mean intensity within brain mask"
     },
     "responseOptions": {
         "valueType": [

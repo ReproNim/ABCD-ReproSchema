@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__aseg__csf_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: face vs. place; all runs) in Subcortical ROI: cerebrospinal fluid"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Face vs. place; All runs) in Subcortical ROI: Cerebrospinal fluid"
     },
     "responseOptions": {
         "valueType": [

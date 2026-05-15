@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_sdohhh_036__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "household_social_determinants_of_health"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sdoh_cutmealsfreq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_036__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_0047"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_sdohhh_036__01"
+    },
+    "question": {
+        "en": "In the last 12 months, did anyone in your household ever cut the size of your meals or skip meals because there wasn't enough money for food? How often did this happen?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -7,6 +7,133 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
+            "items/mh_p_ksads__ocd_age",
+            "items/mh_p_ksads__ocd_dtt",
+            "items/mh_p_ksads__ocd__past_001",
+            "items/mh_p_ksads__ocd__past_002",
+            "items/mh_p_ksads__ocd__past_003___1",
+            "items/mh_p_ksads__ocd__past_003___2",
+            "items/mh_p_ksads__ocd__past_003___3",
+            "items/mh_p_ksads__ocd__past_003___4",
+            "items/mh_p_ksads__ocd__past_003___5",
+            "items/mh_p_ksads__ocd__past_003___6",
+            "items/mh_p_ksads__ocd__past_004",
+            "items/mh_p_ksads__ocd__past_005__mo",
+            "items/mh_p_ksads__ocd__past_005__mo__v01",
+            "items/mh_p_ksads__ocd__past_005__yr",
+            "items/mh_p_ksads__ocd__past_005__yr__v01",
+            "items/mh_p_ksads__ocd__past_006",
+            "items/mh_p_ksads__ocd__past_007___1",
+            "items/mh_p_ksads__ocd__past_007___2",
+            "items/mh_p_ksads__ocd__past_007___3",
+            "items/mh_p_ksads__ocd__past_007___4",
+            "items/mh_p_ksads__ocd__past_008___1",
+            "items/mh_p_ksads__ocd__past_008___2",
+            "items/mh_p_ksads__ocd__past_008___3",
+            "items/mh_p_ksads__ocd__past_008___4",
+            "items/mh_p_ksads__ocd__past_008___5",
+            "items/mh_p_ksads__ocd__past_008___6",
+            "items/mh_p_ksads__ocd__past_009",
+            "items/mh_p_ksads__ocd__past_010__mo",
+            "items/mh_p_ksads__ocd__past_010__yr",
+            "items/mh_p_ksads__ocd__pres_001",
+            "items/mh_p_ksads__ocd__pres_002",
+            "items/mh_p_ksads__ocd__pres_003",
+            "items/mh_p_ksads__ocd__pres_004___1",
+            "items/mh_p_ksads__ocd__pres_004___2",
+            "items/mh_p_ksads__ocd__pres_004___3",
+            "items/mh_p_ksads__ocd__pres_004___4",
+            "items/mh_p_ksads__ocd__pres_004___5",
+            "items/mh_p_ksads__ocd__pres_004___6",
+            "items/mh_p_ksads__ocd__pres_005",
+            "items/mh_p_ksads__ocd__pres_006",
+            "items/mh_p_ksads__ocd__pres_006__01___1",
+            "items/mh_p_ksads__ocd__pres_006__01___2",
+            "items/mh_p_ksads__ocd__pres_006__01___3",
+            "items/mh_p_ksads__ocd__pres_006__01___4",
+            "items/mh_p_ksads__ocd__pres_006__02___1",
+            "items/mh_p_ksads__ocd__pres_006__02___2",
+            "items/mh_p_ksads__ocd__pres_006__02___3",
+            "items/mh_p_ksads__ocd__pres_006__02___4",
+            "items/mh_p_ksads__ocd__pres_006__02___5",
+            "items/mh_p_ksads__ocd__pres_006__02___6",
+            "items/mh_p_ksads__ocd__pres_006__03",
+            "items/mh_p_ksads__ocd__screen__past_001___1",
+            "items/mh_p_ksads__ocd__screen__past_001___2",
+            "items/mh_p_ksads__ocd__screen__past_001___3",
+            "items/mh_p_ksads__ocd__screen__past_001___4",
+            "items/mh_p_ksads__ocd__screen__past_001___5",
+            "items/mh_p_ksads__ocd__screen__past_001___6",
+            "items/mh_p_ksads__ocd__screen__past_001___7",
+            "items/mh_p_ksads__ocd__screen__past_001___8",
+            "items/mh_p_ksads__ocd__screen__past_001__01",
+            "items/mh_p_ksads__ocd__screen__past_001__01__01",
+            "items/mh_p_ksads__ocd__screen__past_001__01__02__mo",
+            "items/mh_p_ksads__ocd__screen__past_001__01__02__yr",
+            "items/mh_p_ksads__ocd__screen__past_001__02",
+            "items/mh_p_ksads__ocd__screen__past_001__03__mo",
+            "items/mh_p_ksads__ocd__screen__past_001__03__wk",
+            "items/mh_p_ksads__ocd__screen__past_001__03__yr",
+            "items/mh_p_ksads__ocd__screen__past_001__v01___1",
+            "items/mh_p_ksads__ocd__screen__past_001__v01___2",
+            "items/mh_p_ksads__ocd__screen__past_001__v01___3",
+            "items/mh_p_ksads__ocd__screen__past_001__v01___4",
+            "items/mh_p_ksads__ocd__screen__past_001__v01___5",
+            "items/mh_p_ksads__ocd__screen__past_001__v01___6",
+            "items/mh_p_ksads__ocd__screen__past_001__v01___7",
+            "items/mh_p_ksads__ocd__screen__past_001__v01___8",
+            "items/mh_p_ksads__ocd__screen__past_002___1",
+            "items/mh_p_ksads__ocd__screen__past_002___2",
+            "items/mh_p_ksads__ocd__screen__past_002___3",
+            "items/mh_p_ksads__ocd__screen__past_002___4",
+            "items/mh_p_ksads__ocd__screen__past_002___5",
+            "items/mh_p_ksads__ocd__screen__past_002___6",
+            "items/mh_p_ksads__ocd__screen__past_002___7",
+            "items/mh_p_ksads__ocd__screen__past_002___8",
+            "items/mh_p_ksads__ocd__screen__past_002___9",
+            "items/mh_p_ksads__ocd__screen__past_002___10",
+            "items/mh_p_ksads__ocd__screen__past_002__01",
+            "items/mh_p_ksads__ocd__screen__past_002__01__02__mo",
+            "items/mh_p_ksads__ocd__screen__past_002__01__02__yr",
+            "items/mh_p_ksads__ocd__screen__past_002__02",
+            "items/mh_p_ksads__ocd__screen__past_002__03__mo",
+            "items/mh_p_ksads__ocd__screen__past_002__03__wk",
+            "items/mh_p_ksads__ocd__screen__past_002__03__yr",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___1",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___2",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___3",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___4",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___5",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___6",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___7",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___8",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___9",
+            "items/mh_p_ksads__ocd__screen__past_002__v01___10",
+            "items/mh_p_ksads__ocd__screen__pres_001___1",
+            "items/mh_p_ksads__ocd__screen__pres_001___2",
+            "items/mh_p_ksads__ocd__screen__pres_001___3",
+            "items/mh_p_ksads__ocd__screen__pres_001___4",
+            "items/mh_p_ksads__ocd__screen__pres_001___5",
+            "items/mh_p_ksads__ocd__screen__pres_001___6",
+            "items/mh_p_ksads__ocd__screen__pres_001___7",
+            "items/mh_p_ksads__ocd__screen__pres_001___8",
+            "items/mh_p_ksads__ocd__screen__pres_001__01__mo",
+            "items/mh_p_ksads__ocd__screen__pres_001__01__yr",
+            "items/mh_p_ksads__ocd__screen__pres_001__02",
+            "items/mh_p_ksads__ocd__screen__pres_002___1",
+            "items/mh_p_ksads__ocd__screen__pres_002___10",
+            "items/mh_p_ksads__ocd__screen__pres_002___2",
+            "items/mh_p_ksads__ocd__screen__pres_002___3",
+            "items/mh_p_ksads__ocd__screen__pres_002___4",
+            "items/mh_p_ksads__ocd__screen__pres_002___5",
+            "items/mh_p_ksads__ocd__screen__pres_002___6",
+            "items/mh_p_ksads__ocd__screen__pres_002___7",
+            "items/mh_p_ksads__ocd__screen__pres_002___8",
+            "items/mh_p_ksads__ocd__screen__pres_002___9",
+            "items/mh_p_ksads__ocd__screen__pres_002__01__01",
+            "items/mh_p_ksads__ocd__screen__pres_002__01__mo",
+            "items/mh_p_ksads__ocd__screen__pres_002__01__yr",
+            "items/mh_p_ksads__ocd__screen__pres_002__02",
             "items/mh_p_ksads__ocd__clndistrs__compuls__past_sx",
             "items/mh_p_ksads__ocd__clndistrs__compuls__pres_sx",
             "items/mh_p_ksads__ocd__clndistrs__obsess__past_sx",
@@ -27,14 +154,651 @@
             "items/mh_p_ksads__ocd__obsess__pres_sx",
             "items/mh_p_ksads__ocd__obsess__tcnsm__past_sx",
             "items/mh_p_ksads__ocd__obsess__tcnsm__pres_sx",
-            "items/mh_p_ksads__ocd__suprstho__past_sx",
-            "items/mh_p_ksads__ocd__suprstho__pres_sx",
-            "items/mh_p_ksads__ocd__past_dx",
-            "items/mh_p_ksads__ocd__pres_dx",
             "items/mh_p_ksads__ocd__oth__past_dx",
-            "items/mh_p_ksads__ocd__oth__pres_dx"
+            "items/mh_p_ksads__ocd__oth__pres_dx",
+            "items/mh_p_ksads__ocd__past__sx_mean",
+            "items/mh_p_ksads__ocd__past_dx",
+            "items/mh_p_ksads__ocd__pres__sx_mean",
+            "items/mh_p_ksads__ocd__pres_dx",
+            "items/mh_p_ksads__ocd__suprstho__past_sx",
+            "items/mh_p_ksads__ocd__suprstho__pres_sx"
         ],
         "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__ocd_age",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd_age"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd_dtt",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_003___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_003___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_003___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_003___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_003___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_003___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_003___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_003___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_003___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_003___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_003___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_003___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_005__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_005__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_005__mo__v01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_005__mo__v01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_005__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_005__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_005__yr__v01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_005__yr__v01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_006",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_006"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_007___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_007___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_007___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_007___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_007___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_007___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_007___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_007___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_008___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_008___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_008___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_008___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_008___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_008___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_008___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_008___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_008___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_008___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_008___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_008___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_009",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_009"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_010__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_010__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_010__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_010__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_004___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_004___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_004___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_004___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_004___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_004___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_004___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_004___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_004___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_004___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_004___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_004___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__01___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__01___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__01___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__01___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__01___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__01___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__01___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__01___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__02___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__02___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__02___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__02___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__02___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__02___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__02___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__02___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__02___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__02___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__02___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__02___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_006__03",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_006__03"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__01__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__01__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__01__02__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__01__02__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__01__02__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__01__02__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__02",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__02"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__03__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__03__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__03__wk",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__03__wk"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__03__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__03__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__v01___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__v01___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__v01___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__v01___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__v01___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__v01___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__v01___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__v01___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__v01___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__v01___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__v01___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__v01___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__v01___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__v01___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_001__v01___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_001__v01___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__01__02__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__01__02__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__01__02__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__01__02__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__02",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__02"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__03__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__03__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__03__wk",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__03__wk"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__03__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__03__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__past_002__v01___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__past_002__v01___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001__01__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001__01__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001__01__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001__01__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_001__02",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_001__02"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002__01__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002__01__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002__01__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002__01__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002__01__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002__01__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__screen__pres_002__02",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__screen__pres_002__02"
+            },
             {
                 "isAbout": "items/mh_p_ksads__ocd__clndistrs__compuls__past_sx",
                 "isVis": true,
@@ -136,26 +900,6 @@
                 "variableName": "mh_p_ksads__ocd__obsess__tcnsm__pres_sx"
             },
             {
-                "isAbout": "items/mh_p_ksads__ocd__suprstho__past_sx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__ocd__suprstho__past_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__ocd__suprstho__pres_sx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__ocd__suprstho__pres_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__ocd__past_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__ocd__past_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__ocd__pres_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__ocd__pres_dx"
-            },
-            {
                 "isAbout": "items/mh_p_ksads__ocd__oth__past_dx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__ocd__oth__past_dx"
@@ -164,10 +908,40 @@
                 "isAbout": "items/mh_p_ksads__ocd__oth__pres_dx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__ocd__oth__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__suprstho__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__suprstho__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__ocd__suprstho__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__ocd__suprstho__pres_sx"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

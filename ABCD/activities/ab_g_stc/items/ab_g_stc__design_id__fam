@@ -62,7 +62,7 @@
         "en": "ab_g_stc__design_id__fam"
     },
     "question": {
-        "en": "Design/nesting: Family ID - Participants belonging to the same family share a family ID (derived based on caregiver information)"
+        "en": "Design/nesting: Family ID - Participants belonging to the same family share a family ID (Derived based on caregiver information)"
     },
     "responseOptions": {
         "valueType": [

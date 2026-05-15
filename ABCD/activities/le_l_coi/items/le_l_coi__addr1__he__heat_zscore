@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__he__heat_zscore"
     },
     "question": {
-        "en": "Extreme heat exposure- summer days with maximum temperature above 90F, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1) (address 1)"
+        "en": "Extreme heat exposure- summer days with maximum temperature above 90F, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

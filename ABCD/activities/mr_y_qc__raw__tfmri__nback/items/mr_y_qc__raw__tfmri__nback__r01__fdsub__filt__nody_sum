@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__tfmri__nback__r01__fdsub__filt__nody_sum"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task (run 1): Total number of seconds of run with framewise displacement < 0.2 mm using the filtering technique and without y-displacement"
+        "en": "Task fMRI - Emotional N-Back task (Run 1): Total number of seconds of run with framewise displacement < 0.2 mm using the filtering technique and without y-displacement"
     },
     "responseOptions": {
         "valueType": [

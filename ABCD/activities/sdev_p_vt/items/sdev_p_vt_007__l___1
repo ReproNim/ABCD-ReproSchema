@@ -67,7 +67,7 @@
         "en": "sdev_p_vt_007__l___1"
     },
     "question": {
-        "en": "Did the child assent to allow reporting of sensitive information under conditions listed on the assent form? [Yes] [Longitudinal]"
+        "en": "Did the child assent to allow reporting of sensitive information under conditions listed on the assent form [Multi-select]: Yes [Longitudinal]"
     },
     "responseOptions": {
         "valueType": [

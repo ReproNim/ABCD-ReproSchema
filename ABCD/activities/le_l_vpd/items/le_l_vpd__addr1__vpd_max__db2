@@ -62,7 +62,7 @@
         "en": "le_l_vpd__addr1__vpd_max__db2"
     },
     "question": {
-        "en": "Maximum vapor pressure deficit in hPa at residence 2 days prior (t-2) to date of study visit (Address 1) (address 1)"
+        "en": "Maximum vapor pressure deficit in hPa at residence 2 days prior (t-2) to date of study visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "mh_y_ple_count__v03"
     },
     "question": {
-        "en": "Life Events [Youth] (Events): Count - Version 3 (Starting at Year 6) [Validation: No more than 6 missing or declined]"
+        "en": "Life Events [Youth] (Events): Count - Version 3 (Starting at Year 6)"
     },
     "responseOptions": {
         "valueType": [

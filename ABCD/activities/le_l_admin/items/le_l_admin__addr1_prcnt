@@ -57,7 +57,7 @@
         "en": "le_l_admin__addr1_prcnt"
     },
     "question": {
-        "en": "Percentage of time spent at address (Address 1) (address 1)"
+        "en": "Percentage of time spent at address (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "le_l_ssvi__addr1__nocomp_prcnt"
     },
     "question": {
-        "en": "Percentage population estimate persons with no computer access [Supplemental SVI] (Address 1) (address 1)"
+        "en": "Percentage population estimate persons with no computer access [Supplemental SVI] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

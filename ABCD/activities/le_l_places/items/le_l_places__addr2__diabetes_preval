@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__diabetes_preval"
     },
     "question": {
-        "en": "Diagnosed diabetes among adults aged >=18 years; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "Diagnosed diabetes among adults aged >=18 years; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

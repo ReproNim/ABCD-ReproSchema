@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aseg__vis__cbc__lh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon network: visual & Subcortical ROI: cerebellum cortex (left hemisphere)"
+        "en": "Average correlation between Gordon network: Visual & Subcortical ROI: Cerebellum cortex (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

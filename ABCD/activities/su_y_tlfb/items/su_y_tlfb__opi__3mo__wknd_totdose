@@ -40,7 +40,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0697"
+            "value": "su_y_tlfb_0726"
         },
         {
             "column": "activity",
@@ -52,7 +52,7 @@
         "en": "su_y_tlfb__opi__3mo__wknd_totdose"
     },
     "question": {
-        "en": "Opiods: total dose on weekends (Last 90 days)"
+        "en": "Opiods: Total dose on weekends (Last 90 days)"
     },
     "responseOptions": {
         "valueType": [

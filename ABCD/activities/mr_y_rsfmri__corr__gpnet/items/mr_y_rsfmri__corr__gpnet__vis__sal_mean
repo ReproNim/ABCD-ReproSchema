@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__vis__sal_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: visual & salience"
+        "en": "Average correlation between Gordon networks: Visual & salience"
     },
     "responseOptions": {
         "valueType": [

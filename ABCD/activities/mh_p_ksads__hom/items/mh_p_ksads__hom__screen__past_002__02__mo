@@ -1,0 +1,61 @@
+{
+    "id": "mh_p_ksads__hom__screen__past_002__02__mo",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Harm"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_ksads"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_ksads__hom__screen__past_002__02__mo"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_ksads_hom_0009"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_ksads__hom"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_ksads__hom__screen__past_002__02__mo"
+    },
+    "question": {
+        "en": "You said that in the past your child made plans to kill someone or go on a killing spree. When was that? If this was true of your child more than once, let me know when it was the most serious - Month"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

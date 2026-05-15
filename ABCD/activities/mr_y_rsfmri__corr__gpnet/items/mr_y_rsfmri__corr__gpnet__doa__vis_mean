@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__doa__vis_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: dorsal attention & visual"
+        "en": "Average correlation between Gordon networks: Dorsal attention & visual"
     },
     "responseOptions": {
         "valueType": [

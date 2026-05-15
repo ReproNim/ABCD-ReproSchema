@@ -1,0 +1,1511 @@
+{
+    "id": "le_l_seda__schl_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_seda__schl"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_seda__schl_dt",
+            "items/le_l_seda__schl__asian_prcnt__2009",
+            "items/le_l_seda__schl__asian_prcnt__2010",
+            "items/le_l_seda__schl__asian_prcnt__2011",
+            "items/le_l_seda__schl__asian_prcnt__2012",
+            "items/le_l_seda__schl__asian_prcnt__2013",
+            "items/le_l_seda__schl__asian_prcnt__2014",
+            "items/le_l_seda__schl__asian_prcnt__2015",
+            "items/le_l_seda__schl__asian_prcnt__2016",
+            "items/le_l_seda__schl__asian_prcnt__2017",
+            "items/le_l_seda__schl__asian_prcnt__2018",
+            "items/le_l_seda__schl__asian_prcnt__2019",
+            "items/le_l_seda__schl__asmts_count",
+            "items/le_l_seda__schl__asmts_mean",
+            "items/le_l_seda__schl__black_prcnt__2009",
+            "items/le_l_seda__schl__black_prcnt__2010",
+            "items/le_l_seda__schl__black_prcnt__2011",
+            "items/le_l_seda__schl__black_prcnt__2012",
+            "items/le_l_seda__schl__black_prcnt__2013",
+            "items/le_l_seda__schl__black_prcnt__2014",
+            "items/le_l_seda__schl__black_prcnt__2015",
+            "items/le_l_seda__schl__black_prcnt__2016",
+            "items/le_l_seda__schl__black_prcnt__2017",
+            "items/le_l_seda__schl__black_prcnt__2018",
+            "items/le_l_seda__schl__black_prcnt__2019",
+            "items/le_l_seda__schl__center_grade",
+            "items/le_l_seda__schl__charter_indicator__2009",
+            "items/le_l_seda__schl__charter_indicator__2010",
+            "items/le_l_seda__schl__charter_indicator__2011",
+            "items/le_l_seda__schl__charter_indicator__2012",
+            "items/le_l_seda__schl__charter_indicator__2013",
+            "items/le_l_seda__schl__charter_indicator__2014",
+            "items/le_l_seda__schl__charter_indicator__2015",
+            "items/le_l_seda__schl__charter_indicator__2016",
+            "items/le_l_seda__schl__charter_indicator__2017",
+            "items/le_l_seda__schl__charter_indicator__2018",
+            "items/le_l_seda__schl__charter_indicator__2019",
+            "items/le_l_seda__schl__disab__idea_prop__2012",
+            "items/le_l_seda__schl__disab__idea_prop__2014",
+            "items/le_l_seda__schl__disab__idea_prop__2016",
+            "items/le_l_seda__schl__disab__idea_prop__2018",
+            "items/le_l_seda__schl__disab_prop__2012",
+            "items/le_l_seda__schl__disab_prop__2014",
+            "items/le_l_seda__schl__disab_prop__2016",
+            "items/le_l_seda__schl__disab_prop__2018",
+            "items/le_l_seda__schl__eb__asmts_mean",
+            "items/le_l_seda__schl__eb__coh__slope_mean",
+            "items/le_l_seda__schl__eb__coh__slope_se",
+            "items/le_l_seda__schl__eb_diff",
+            "items/le_l_seda__schl__eb__diff_se",
+            "items/le_l_seda__schl__eb__grade__slope_se",
+            "items/le_l_seda__schl__eb__grade_slope",
+            "items/le_l_seda__schl__eb__mean_se",
+            "items/le_l_seda__schl__ecd_prop__2009",
+            "items/le_l_seda__schl__ecd_prop__2010",
+            "items/le_l_seda__schl__ecd_prop__2011",
+            "items/le_l_seda__schl__ecd_prop__2012",
+            "items/le_l_seda__schl__ecd_prop__2013",
+            "items/le_l_seda__schl__ecd_prop__2014",
+            "items/le_l_seda__schl__ecd_prop__2015",
+            "items/le_l_seda__schl__ecd_prop__2016",
+            "items/le_l_seda__schl__ecd_prop__2017",
+            "items/le_l_seda__schl__ecd_prop__2018",
+            "items/le_l_seda__schl__ecd_prop__2019",
+            "items/le_l_seda__schl__enrl_count__2009",
+            "items/le_l_seda__schl__enrl_count__2010",
+            "items/le_l_seda__schl__enrl_count__2011",
+            "items/le_l_seda__schl__enrl_count__2012",
+            "items/le_l_seda__schl__enrl_count__2013",
+            "items/le_l_seda__schl__enrl_count__2014",
+            "items/le_l_seda__schl__enrl_count__2015",
+            "items/le_l_seda__schl__enrl_count__2016",
+            "items/le_l_seda__schl__enrl_count__2017",
+            "items/le_l_seda__schl__enrl_count__2018",
+            "items/le_l_seda__schl__enrl_count__2019",
+            "items/le_l_seda__schl__enrl_mean__2009",
+            "items/le_l_seda__schl__enrl_mean__2010",
+            "items/le_l_seda__schl__enrl_mean__2011",
+            "items/le_l_seda__schl__enrl_mean__2012",
+            "items/le_l_seda__schl__enrl_mean__2013",
+            "items/le_l_seda__schl__enrl_mean__2014",
+            "items/le_l_seda__schl__enrl_mean__2015",
+            "items/le_l_seda__schl__enrl_mean__2016",
+            "items/le_l_seda__schl__enrl_mean__2017",
+            "items/le_l_seda__schl__enrl_mean__2018",
+            "items/le_l_seda__schl__enrl_mean__2019",
+            "items/le_l_seda__schl__fl_prcnt__2009",
+            "items/le_l_seda__schl__fl_prcnt__2010",
+            "items/le_l_seda__schl__fl_prcnt__2011",
+            "items/le_l_seda__schl__fl_prcnt__2012",
+            "items/le_l_seda__schl__fl_prcnt__2013",
+            "items/le_l_seda__schl__fl_prcnt__2014",
+            "items/le_l_seda__schl__fl_prcnt__2015",
+            "items/le_l_seda__schl__fl_prcnt__2016",
+            "items/le_l_seda__schl__fl_prcnt__2017",
+            "items/le_l_seda__schl__fl_prcnt__2018",
+            "items/le_l_seda__schl__fl_prcnt__2019",
+            "items/le_l_seda__schl__frl_prcnt__2009",
+            "items/le_l_seda__schl__frl_prcnt__2010",
+            "items/le_l_seda__schl__frl_prcnt__2011",
+            "items/le_l_seda__schl__frl_prcnt__2012",
+            "items/le_l_seda__schl__frl_prcnt__2013",
+            "items/le_l_seda__schl__frl_prcnt__2014",
+            "items/le_l_seda__schl__frl_prcnt__2015",
+            "items/le_l_seda__schl__frl_prcnt__2016",
+            "items/le_l_seda__schl__frl_prcnt__2017",
+            "items/le_l_seda__schl__frl_prcnt__2018",
+            "items/le_l_seda__schl__frl_prcnt__2019",
+            "items/le_l_seda__schl__gifted_prop__2012",
+            "items/le_l_seda__schl__gifted_prop__2014",
+            "items/le_l_seda__schl__gifted_prop__2016",
+            "items/le_l_seda__schl__gifted_prop__2018",
+            "items/le_l_seda__schl__grade_max__2009",
+            "items/le_l_seda__schl__grade_max__2010",
+            "items/le_l_seda__schl__grade_max__2011",
+            "items/le_l_seda__schl__grade_max__2012",
+            "items/le_l_seda__schl__grade_max__2013",
+            "items/le_l_seda__schl__grade_max__2014",
+            "items/le_l_seda__schl__grade_max__2015",
+            "items/le_l_seda__schl__grade_max__2016",
+            "items/le_l_seda__schl__grade_max__2017",
+            "items/le_l_seda__schl__grade_max__2018",
+            "items/le_l_seda__schl__grade_max__2019",
+            "items/le_l_seda__schl__grade_min__2009",
+            "items/le_l_seda__schl__grade_min__2010",
+            "items/le_l_seda__schl__grade_min__2011",
+            "items/le_l_seda__schl__grade_min__2012",
+            "items/le_l_seda__schl__grade_min__2013",
+            "items/le_l_seda__schl__grade_min__2014",
+            "items/le_l_seda__schl__grade_min__2015",
+            "items/le_l_seda__schl__grade_min__2016",
+            "items/le_l_seda__schl__grade_min__2017",
+            "items/le_l_seda__schl__grade_min__2018",
+            "items/le_l_seda__schl__grade_min__2019",
+            "items/le_l_seda__schl__hisp_prcnt__2009",
+            "items/le_l_seda__schl__hisp_prcnt__2010",
+            "items/le_l_seda__schl__hisp_prcnt__2011",
+            "items/le_l_seda__schl__hisp_prcnt__2012",
+            "items/le_l_seda__schl__hisp_prcnt__2013",
+            "items/le_l_seda__schl__hisp_prcnt__2014",
+            "items/le_l_seda__schl__hisp_prcnt__2015",
+            "items/le_l_seda__schl__hisp_prcnt__2016",
+            "items/le_l_seda__schl__hisp_prcnt__2017",
+            "items/le_l_seda__schl__hisp_prcnt__2018",
+            "items/le_l_seda__schl__hisp_prcnt__2019",
+            "items/le_l_seda__schl__lep_prop__2012",
+            "items/le_l_seda__schl__lep_prop__2014",
+            "items/le_l_seda__schl__lep_prop__2016",
+            "items/le_l_seda__schl__lep_prop__2018",
+            "items/le_l_seda__schl_level__2009",
+            "items/le_l_seda__schl_level__2010",
+            "items/le_l_seda__schl_level__2011",
+            "items/le_l_seda__schl_level__2012",
+            "items/le_l_seda__schl_level__2013",
+            "items/le_l_seda__schl_level__2014",
+            "items/le_l_seda__schl_level__2015",
+            "items/le_l_seda__schl_level__2016",
+            "items/le_l_seda__schl_level__2017",
+            "items/le_l_seda__schl_level__2018",
+            "items/le_l_seda__schl_level__2019",
+            "items/le_l_seda__schl__magnet_indicator__2009",
+            "items/le_l_seda__schl__magnet_indicator__2010",
+            "items/le_l_seda__schl__magnet_indicator__2011",
+            "items/le_l_seda__schl__magnet_indicator__2012",
+            "items/le_l_seda__schl__magnet_indicator__2013",
+            "items/le_l_seda__schl__magnet_indicator__2014",
+            "items/le_l_seda__schl__magnet_indicator__2015",
+            "items/le_l_seda__schl__magnet_indicator__2016",
+            "items/le_l_seda__schl__magnet_indicator__2017",
+            "items/le_l_seda__schl__magnet_indicator__2018",
+            "items/le_l_seda__schl__magnet_indicator__2019",
+            "items/le_l_seda__schl__ntvam_prcnt__2009",
+            "items/le_l_seda__schl__ntvam_prcnt__2010",
+            "items/le_l_seda__schl__ntvam_prcnt__2011",
+            "items/le_l_seda__schl__ntvam_prcnt__2012",
+            "items/le_l_seda__schl__ntvam_prcnt__2013",
+            "items/le_l_seda__schl__ntvam_prcnt__2014",
+            "items/le_l_seda__schl__ntvam_prcnt__2015",
+            "items/le_l_seda__schl__ntvam_prcnt__2016",
+            "items/le_l_seda__schl__ntvam_prcnt__2017",
+            "items/le_l_seda__schl__ntvam_prcnt__2018",
+            "items/le_l_seda__schl__ntvam_prcnt__2019",
+            "items/le_l_seda__schl__ols__asmts_mean",
+            "items/le_l_seda__schl__ols__coh__slope_mean",
+            "items/le_l_seda__schl__ols__coh__slope_se",
+            "items/le_l_seda__schl__ols__diff_se",
+            "items/le_l_seda__schl__ols__grade__slope_se",
+            "items/le_l_seda__schl__ols__grade_slope",
+            "items/le_l_seda__schl__ols__mean_se",
+            "items/le_l_seda__schl__ols_diff",
+            "items/le_l_seda__schl__rl_prcnt__2009",
+            "items/le_l_seda__schl__rl_prcnt__2010",
+            "items/le_l_seda__schl__rl_prcnt__2011",
+            "items/le_l_seda__schl__rl_prcnt__2012",
+            "items/le_l_seda__schl__rl_prcnt__2013",
+            "items/le_l_seda__schl__rl_prcnt__2014",
+            "items/le_l_seda__schl__rl_prcnt__2015",
+            "items/le_l_seda__schl__rl_prcnt__2016",
+            "items/le_l_seda__schl__rl_prcnt__2017",
+            "items/le_l_seda__schl__rl_prcnt__2018",
+            "items/le_l_seda__schl__rl_prcnt__2019",
+            "items/le_l_seda__schl__speced_indicator__2012",
+            "items/le_l_seda__schl__speced_indicator__2014",
+            "items/le_l_seda__schl__speced_indicator__2016",
+            "items/le_l_seda__schl__speced_indicator__2018",
+            "items/le_l_seda__schl_type__2009",
+            "items/le_l_seda__schl_type__2010",
+            "items/le_l_seda__schl_type__2011",
+            "items/le_l_seda__schl_type__2012",
+            "items/le_l_seda__schl_type__2013",
+            "items/le_l_seda__schl_type__2014",
+            "items/le_l_seda__schl_type__2015",
+            "items/le_l_seda__schl_type__2016",
+            "items/le_l_seda__schl_type__2017",
+            "items/le_l_seda__schl_type__2018",
+            "items/le_l_seda__schl_type__2019",
+            "items/le_l_seda__schl__urban_code__2009",
+            "items/le_l_seda__schl__urban_code__2010",
+            "items/le_l_seda__schl__urban_code__2011",
+            "items/le_l_seda__schl__urban_code__2012",
+            "items/le_l_seda__schl__urban_code__2013",
+            "items/le_l_seda__schl__urban_code__2014",
+            "items/le_l_seda__schl__urban_code__2015",
+            "items/le_l_seda__schl__urban_code__2016",
+            "items/le_l_seda__schl__urban_code__2017",
+            "items/le_l_seda__schl__urban_code__2018",
+            "items/le_l_seda__schl__urban_code__2019",
+            "items/le_l_seda__schl_urbanicity__2009",
+            "items/le_l_seda__schl_urbanicity__2010",
+            "items/le_l_seda__schl_urbanicity__2011",
+            "items/le_l_seda__schl_urbanicity__2012",
+            "items/le_l_seda__schl_urbanicity__2013",
+            "items/le_l_seda__schl_urbanicity__2014",
+            "items/le_l_seda__schl_urbanicity__2015",
+            "items/le_l_seda__schl_urbanicity__2016",
+            "items/le_l_seda__schl_urbanicity__2017",
+            "items/le_l_seda__schl_urbanicity__2018",
+            "items/le_l_seda__schl_urbanicity__2019",
+            "items/le_l_seda__schl__white_prcnt__2009",
+            "items/le_l_seda__schl__white_prcnt__2010",
+            "items/le_l_seda__schl__white_prcnt__2011",
+            "items/le_l_seda__schl__white_prcnt__2012",
+            "items/le_l_seda__schl__white_prcnt__2013",
+            "items/le_l_seda__schl__white_prcnt__2014",
+            "items/le_l_seda__schl__white_prcnt__2015",
+            "items/le_l_seda__schl__white_prcnt__2016",
+            "items/le_l_seda__schl__white_prcnt__2017",
+            "items/le_l_seda__schl__white_prcnt__2018",
+            "items/le_l_seda__schl__white_prcnt__2019"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_seda__schl_dt",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_dt"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asian_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asian_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__black_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__black_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__center_grade",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__center_grade"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__charter_indicator__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__charter_indicator__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__disab__idea_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__disab__idea_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__disab__idea_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__disab__idea_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__disab__idea_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__disab__idea_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__disab__idea_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__disab__idea_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__disab_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__disab_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__disab_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__disab_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__disab_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__disab_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__disab_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__disab_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__eb__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__eb__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__eb__coh__slope_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__eb__coh__slope_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__eb__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__eb__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__eb_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__eb_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__eb__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__eb__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__eb__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__eb__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__eb__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__eb__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__eb__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__eb__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ecd_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ecd_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_count__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__enrl_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__enrl_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__fl_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__fl_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__frl_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__frl_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__gifted_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__gifted_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__gifted_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__gifted_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__gifted_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__gifted_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__gifted_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__gifted_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_max__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_max__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__grade_min__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__grade_min__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__hisp_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__hisp_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__lep_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__lep_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__lep_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__lep_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__lep_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__lep_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__lep_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__lep_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_level__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_level__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__magnet_indicator__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__magnet_indicator__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ntvam_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ntvam_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ols__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ols__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ols__coh__slope_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ols__coh__slope_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ols__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ols__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ols__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ols__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ols__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ols__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ols__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ols__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ols__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ols__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__ols_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__ols_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__rl_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__rl_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__speced_indicator__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__speced_indicator__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__speced_indicator__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__speced_indicator__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__speced_indicator__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__speced_indicator__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__speced_indicator__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__speced_indicator__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_type__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_type__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__urban_code__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__urban_code__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl_urbanicity__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl_urbanicity__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__schl__white_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__schl__white_prcnt__2019"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

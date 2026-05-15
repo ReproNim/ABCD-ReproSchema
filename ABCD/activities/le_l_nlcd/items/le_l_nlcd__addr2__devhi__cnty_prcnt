@@ -52,7 +52,7 @@
         "en": "le_l_nlcd__addr2__devhi__cnty_prcnt"
     },
     "question": {
-        "en": "Percent classified as Developed, High Intensity [NLCD 2016; county] (Address 2) (address 2)"
+        "en": "Percent classified as Developed, High Intensity [NLCD 2016; county] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

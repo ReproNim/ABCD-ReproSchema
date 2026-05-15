@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_wbcg__gad_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "Now we are going to ask you questions about your wellbeing."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "caregiver_wellbeing"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "gad_2"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_wbcg__gad_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_wbcg_0023"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_wbcg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_wbcg__gad_002"
+    },
+    "question": {
+        "en": "Not being able to stop or control worrying"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

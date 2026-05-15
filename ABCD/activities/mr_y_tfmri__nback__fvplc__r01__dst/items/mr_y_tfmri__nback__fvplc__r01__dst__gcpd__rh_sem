@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__r01__dst__gcpd__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: face vs. place; run 1) in Destrieux ROI: posterior-dorsal part of the cingulate gyrus (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Face vs. place; Run 1) in Destrieux ROI: Posterior-dorsal part of the cingulate gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

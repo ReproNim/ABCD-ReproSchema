@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__psfvntf__r01__dst__gis__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: positive face vs. neutral face; run 1) in Destrieux ROI: short insular gyri (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Positive face vs. neutral face; Run 1) in Destrieux ROI: Short insular gyri (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

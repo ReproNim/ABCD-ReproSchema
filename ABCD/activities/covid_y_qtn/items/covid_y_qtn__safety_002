@@ -67,7 +67,7 @@
         "en": "covid_y_qtn__safety_002"
     },
     "question": {
-        "en": "Please rate how often you have done the things below in the last week: I wash my hands at times other than just after I use the bathroom or before eating [COVID Substudy]"
+        "en": "Please rate how often you have done the things below in the last week: I wash my hands at times other than just after I use the bathroom or before eating [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

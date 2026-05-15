@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr3__homeowner_prcnt"
     },
     "question": {
-        "en": "Percentage of owner [Area Deprivation Index] (Address 3) (address 3)"
+        "en": "Percentage of owner [Area Deprivation Index] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

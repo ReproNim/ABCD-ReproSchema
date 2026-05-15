@@ -1,0 +1,66 @@
+{
+    "id": "sdev_p_incar__cg1__days_004__02__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Parental Incarceration"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_follow_up_parent_parental_incarceration"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_ppi_17_c_dk"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_p_incar__cg1__days_004__02__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_p_incar_0018"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_p_incar"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_p_incar__cg1__days_004__02__dk"
+    },
+    "question": {
+        "en": "What was the longest amount of time that you spent in jail or prison while the child was growing up: Days [Non-response] [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

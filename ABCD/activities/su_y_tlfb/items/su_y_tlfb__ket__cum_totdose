@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0240"
+            "value": "su_y_tlfb_0250"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__ket__cum_totdose"
     },
     "question": {
-        "en": "Ketamine: total dose (Cumulative period)"
+        "en": "Ketamine: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

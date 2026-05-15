@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__csvis__r01__aseg__hc__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Stop Signal task (contrast: correct stop vs. incorrect stop; run 1) in Subcortical ROI: hippocampus (right hemisphere)"
+        "en": "Average standard error of the mean for Stop Signal task (Contrast - Correct stop vs. incorrect stop; Run 1) in Subcortical ROI: Hippocampus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "covid_y_qtn__famrel_001"
     },
     "question": {
-        "en": "How often do your parents/guardians know where you are? [COVID Substudy]"
+        "en": "How often do your parents/guardians know where you are? [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

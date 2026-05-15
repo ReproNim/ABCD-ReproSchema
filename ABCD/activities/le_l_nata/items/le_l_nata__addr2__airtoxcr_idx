@@ -52,7 +52,7 @@
         "en": "le_l_nata__addr2__airtoxcr_idx"
     },
     "question": {
-        "en": "Air Toxics Cancer Risk; Lifetime inhalation cancer risk [NATA] (Address 2) (address 2)"
+        "en": "Air Toxics Cancer Risk; Lifetime inhalation cancer risk [NATA] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

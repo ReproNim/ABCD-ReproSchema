@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0315"
+            "value": "mr_y_qc_raw_dmri_0316"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r06__dterr_mean"
     },
     "question": {
-        "en": "Diffusion MRI (run 6): Mean residual error of diffusion tensor fit"
+        "en": "Diffusion MRI (Run 6): Mean residual error of diffusion tensor fit"
     },
     "responseOptions": {
         "valueType": [

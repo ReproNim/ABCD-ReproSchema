@@ -67,7 +67,7 @@
         "en": "covid_y_qtn__stress_001"
     },
     "question": {
-        "en": "In the past 7 days, including today, how stressful have you found this (COVID-19 related) uncertainty to be? [COVID Substudy]"
+        "en": "In the past 7 days, including today, how stressful have you found this (COVID-19 related) uncertainty to be? [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

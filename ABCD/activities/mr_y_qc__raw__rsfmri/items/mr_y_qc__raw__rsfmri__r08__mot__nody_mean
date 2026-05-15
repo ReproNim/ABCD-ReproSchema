@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__rsfmri__r08__mot__nody_mean"
     },
     "question": {
-        "en": "Resting State fMRI (run 8): Mean framewise displacement without y-displacement"
+        "en": "Resting State fMRI (Run 8): Mean framewise displacement without y-displacement"
     },
     "responseOptions": {
         "valueType": [

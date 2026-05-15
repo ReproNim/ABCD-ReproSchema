@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0149"
+            "value": "su_y_tlfb_0156"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__dxm__wknd_totdose"
     },
     "question": {
-        "en": "Cough or cold medicine: total dose on weekends"
+        "en": "Cough or cold medicine: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

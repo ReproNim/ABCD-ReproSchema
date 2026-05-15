@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__csvis__r01__dst__gtspp__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Stop Signal task (contrast: correct stop vs. incorrect stop; run 1) in Destrieux ROI: planum polare of the superior temporal gyrus (left hemisphere)"
+        "en": "Average standard error of the mean for Stop Signal task (Contrast - Correct stop vs. incorrect stop; Run 1) in Destrieux ROI: Planum polare of the superior temporal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

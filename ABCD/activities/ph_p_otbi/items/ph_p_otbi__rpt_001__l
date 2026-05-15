@@ -67,7 +67,7 @@
         "en": "ph_p_otbi__rpt_001__l"
     },
     "question": {
-        "en": "Since we last saw you on [asnt_timestamp_c], did your child experience a period of time when they experienced multiple, repeated impacts to the head? (e.g., abused, contact sports)? [Longitudinal]"
+        "en": "Since we last saw you, did your child experience a period of time when they experienced multiple, repeated impacts to the head? (e.g., abused, contact sports)? [Longitudinal]"
     },
     "responseOptions": {
         "valueType": [

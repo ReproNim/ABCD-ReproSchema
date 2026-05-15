@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__csvis__r02__dst__gtspt__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: correct stop vs. incorrect stop; run 2) in Destrieux ROI: planum temporale (left hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Correct stop vs. incorrect stop; Run 2) in Destrieux ROI: Planum temporale (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvsl__dst__pocc__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Monetary Incentive Delay task (contrast: anticipated large vs. small loss; all runs) in Destrieux ROI: occipital pole (left hemisphere)"
+        "en": "Average beta weight for Monetary Incentive Delay task (Contrast - Anticipated large vs. small loss; All runs) in Destrieux ROI: Occipital pole (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

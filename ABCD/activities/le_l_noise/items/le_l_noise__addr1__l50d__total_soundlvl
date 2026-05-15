@@ -52,7 +52,7 @@
         "en": "le_l_noise__addr1__l50d__total_soundlvl"
     },
     "question": {
-        "en": "L50 daytime existing (all sounds); 7am-7pm (Address 1) (address 1)"
+        "en": "L50 daytime existing (all sounds); 7am-7pm (Address 1)"
     },
     "responseOptions": {
         "valueType": [

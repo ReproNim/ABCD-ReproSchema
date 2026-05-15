@@ -52,7 +52,7 @@
         "en": "covid_l_geocount__addr4__cases_count__db5"
     },
     "question": {
-        "en": "Johns Hopkins COVID-19 cumulative case count county-level. 5 days before questionnaire dissemenation date (Address 4)"
+        "en": "Johns Hopkins COVID-19 cumulative case count county-level. 5 days before questionnaire dissemenation date (address 4)"
     },
     "responseOptions": {
         "valueType": [

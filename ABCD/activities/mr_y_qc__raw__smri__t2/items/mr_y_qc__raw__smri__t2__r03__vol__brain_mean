@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__smri__t2__r03__vol__brain_mean"
     },
     "question": {
-        "en": "Structural MRI - T2 weighted (run 3): Volume of brain mask"
+        "en": "Structural MRI - T2 weighted (Run 3): Volume of brain mask"
     },
     "responseOptions": {
         "valueType": [

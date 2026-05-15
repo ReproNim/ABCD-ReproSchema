@@ -3,6 +3,11 @@
     "category": "reproschema:Item",
     "additionalNotesObj": [
         {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
             "column": "study",
             "source": "nbdc",
             "value": "Core"
@@ -40,7 +45,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "tbi_2d_l"
+            "value": "tbi_2d_l | tbi_2d_l__v1"
         },
         {
             "column": "url_table",

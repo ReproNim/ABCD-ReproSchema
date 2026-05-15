@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr3__coi__total__national_zscore"
     },
     "question": {
-        "en": "Z-scores- weighted average of three domain averaged z-scores (z_ED_nat, z_HE_nat, z_SE_nat) [Overall COI; Nationally-normed] (Address 3) (address 3)"
+        "en": "Z-scores- weighted average of three domain averaged z-scores (z_ED_nat, z_HE_nat, z_SE_nat) [Overall COI; Nationally-normed] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

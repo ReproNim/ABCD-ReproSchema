@@ -67,7 +67,7 @@
         "en": "su_y_sui__use__mj__edbl_001__l"
     },
     "question": {
-        "en": "Since we last saw you, have you used: Marijuana that you eat, such as pot cookies, gummy bears, brownies? [Longitudinal]"
+        "en": "Since we last saw you, have you used: Marijuana that contains THC that you eat or drink, such as pot cookies, gummy bears, brownies, protein powder, chocolates, THC-drinks (with no alcohol)? (Non-CBD) [Longitudinal]"
     },
     "responseOptions": {
         "valueType": [

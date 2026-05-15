@@ -25,7 +25,14 @@
             "items/mr_y_qc__post__aut__fmri__warp_score",
             "items/mr_y_qc__post__aut__smri__t2__rigid_score",
             "items/mr_y_qc__post__aut__smri__t2__warp_score",
-            "items/mr_y_qc__post__aut__smri__topodfct_count"
+            "items/mr_y_qc__post__aut__smri__topodfct_count",
+            "items/mr_y_qc__post__aut__smri__topovert__add_count",
+            "items/mr_y_qc__post__aut__smri__topovert__remove_count",
+            "items/mr_y_qc__post__aut__smri__topopatch_count",
+            "items/mr_y_qc__post__aut__smri__topopatch_max",
+            "items/mr_y_qc__post__aut__smri__topopatch_mean",
+            "items/mr_y_qc__post__aut__smri__topopatch_min",
+            "items/mr_y_qc__post__aut__smri__topopatch_med"
         ],
         "addProperties": [
             {
@@ -122,10 +129,45 @@
                 "isAbout": "items/mr_y_qc__post__aut__smri__topodfct_count",
                 "isVis": true,
                 "variableName": "mr_y_qc__post__aut__smri__topodfct_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__topovert__add_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__topovert__add_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__topovert__remove_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__topovert__remove_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__topopatch_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__topopatch_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__topopatch_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__topopatch_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__topopatch_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__topopatch_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__topopatch_min",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__topopatch_min"
+            },
+            {
+                "isAbout": "items/mr_y_qc__post__aut__smri__topopatch_med",
+                "isVis": true,
+                "variableName": "mr_y_qc__post__aut__smri__topopatch_med"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

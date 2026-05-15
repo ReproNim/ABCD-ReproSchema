@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_kbi_0150"
+            "value": "mh_p_kbi_0153"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "mh_p_kbi__school_007___4"
     },
     "question": {
-        "en": "Does your child receive special services at school? [Multi-select]: Special Education for specific subjects (partially mainstreamed)"
+        "en": "Does your child receive special services at school? [Multi-select]: Special Education for specific subjects (Partially mainstreamed)"
     },
     "responseOptions": {
         "valueType": [

@@ -40,6 +40,7 @@
             "items/fc_y_as__safe__rec_001",
             "items/fc_y_as__safe__relatv_001",
             "items/fc_y_as__safe__worsh_001",
+            "items/fc_y_as_002",
             "items/fc_y_as__safe_mean",
             "items/fc_y_as__safe_nm"
         ],
@@ -210,6 +211,11 @@
                 "variableName": "fc_y_as__safe__worsh_001"
             },
             {
+                "isAbout": "items/fc_y_as_002",
+                "isVis": true,
+                "variableName": "fc_y_as_002"
+            },
+            {
                 "isAbout": "items/fc_y_as__safe_mean",
                 "isVis": true,
                 "variableName": "fc_y_as__safe_mean"
@@ -222,6 +228,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

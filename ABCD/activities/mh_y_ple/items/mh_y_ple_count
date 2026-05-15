@@ -62,7 +62,7 @@
         "en": "mh_y_ple_count"
     },
     "question": {
-        "en": "Life Events [Youth] (Events): Count [Validation: No more than 5 missing or declined]"
+        "en": "Life Events [Youth] (Events): Count"
     },
     "responseOptions": {
         "valueType": [

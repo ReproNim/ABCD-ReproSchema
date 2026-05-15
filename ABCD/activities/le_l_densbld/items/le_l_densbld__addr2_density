@@ -57,7 +57,7 @@
         "en": "le_l_densbld__addr2_density"
     },
     "question": {
-        "en": "Gross residential density (Address 2) (address 2)"
+        "en": "Gross residential density (Address 2)"
     },
     "responseOptions": {
         "valueType": [

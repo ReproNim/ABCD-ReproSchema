@@ -1,0 +1,61 @@
+{
+    "id": "mh_y_ksads__ocd__screen__past_001__v01___4",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Anxiety"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_ksads"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_ksads__ocd__screen__past_001__v01___4"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_ksads_ocd_0071"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_ksads__ocd"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_ksads__ocd__screen__past_001__v01___4"
+    },
+    "question": {
+        "en": "Have you ever had any of the following unwelcome, senseless, distressing thoughts come into your mind over and over again, even though you didn't want to have them [Multi-select]: Religious thoughts that are disrespectful or offensive [Version 1]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

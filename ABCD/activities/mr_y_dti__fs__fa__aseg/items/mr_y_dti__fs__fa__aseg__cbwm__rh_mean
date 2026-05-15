@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__aseg__cbwm__rh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI) in Subcortical ROI: cerebellum white matter (right hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI) in Subcortical ROI: Cerebellum white matter (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

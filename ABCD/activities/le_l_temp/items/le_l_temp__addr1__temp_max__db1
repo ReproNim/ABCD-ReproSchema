@@ -62,7 +62,7 @@
         "en": "le_l_temp__addr1__temp_max__db1"
     },
     "question": {
-        "en": "Maximum temperature at residence 1 day prior (t-1) to date of study visit (Address 1) (address 1)"
+        "en": "Maximum temperature at residence 1 day prior (t-1) to date of study visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "le_l_svi__addr1__total_prcntile"
     },
     "question": {
-        "en": "Overall percentile [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 1) (address 1)"
+        "en": "Overall percentile [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

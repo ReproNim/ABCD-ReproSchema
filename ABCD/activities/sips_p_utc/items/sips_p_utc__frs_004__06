@@ -1,0 +1,71 @@
+{
+    "id": "sips_p_utc__frs_004__06",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions are organized in sections and probe for both psychotic, delusional thinking and for non-psychotic, unusual thought content. These experiences are rated on the SOPS P1 Scale at the end of the queries."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_utc"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_utc_first_004_06_02"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_utc__frs_004__06"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_utc_0042"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_utc"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_utc__frs_004__06"
+    },
+    "question": {
+        "en": "Do you ever think that people might be able to read your mind: How would you rate your degree of interference with life? [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

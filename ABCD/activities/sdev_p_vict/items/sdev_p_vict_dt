@@ -47,7 +47,7 @@
         "en": "sdev_p_vict_dt"
     },
     "question": {
-        "en": "Victimization Survey: Date when collection was completed [Parent]"
+        "en": "Victimization Survey: Date when data collection was completed [Parent]"
     },
     "responseOptions": {
         "valueType": [

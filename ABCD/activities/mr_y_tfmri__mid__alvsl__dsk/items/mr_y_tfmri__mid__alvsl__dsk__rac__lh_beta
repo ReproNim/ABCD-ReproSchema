@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvsl__dsk__rac__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Monetary Incentive Delay task (contrast: anticipated large vs. small loss; all runs) in Desikan ROI: rostral anterior cingulate (left hemisphere)"
+        "en": "Average beta weight for Monetary Incentive Delay task (Contrast - Anticipated large vs. small loss; All runs) in Desikan ROI: Rostral anterior cingulate (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

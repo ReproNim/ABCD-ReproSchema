@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0737"
+            "value": "su_y_tlfb_0768"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__othdrg_totdose"
     },
     "question": {
-        "en": "Other drugs: total dose"
+        "en": "Other drugs: Total dose"
     },
     "responseOptions": {
         "valueType": [

@@ -25,6 +25,7 @@
             "items/sdev_y_apq_003__l",
             "items/sdev_y_apq_004",
             "items/sdev_y_apq_004__l",
+            "items/sdev_y_apq_004__v01__l",
             "items/sdev_y_apq_004__01",
             "items/sdev_y_apq_004__01__l",
             "items/sdev_y_apq_005",
@@ -39,6 +40,7 @@
             "items/sdev_y_apq_008__l",
             "items/sdev_y_apq_009",
             "items/sdev_y_apq_009__l",
+            "items/sdev_y_apq_009__v01__l",
             "items/sdev_y_apq_009__01",
             "items/sdev_y_apq_009__01__l",
             "items/sdev_y_apq_010",
@@ -93,6 +95,7 @@
             "items/sdev_y_apq_029__l",
             "items/sdev_y_apq_030",
             "items/sdev_y_apq_030__l",
+            "items/sdev_y_apq_030__v01__l",
             "items/sdev_y_apq_031",
             "items/sdev_y_apq_031__l",
             "items/sdev_y_apq_032",
@@ -210,6 +213,11 @@
                 "variableName": "sdev_y_apq_004__l"
             },
             {
+                "isAbout": "items/sdev_y_apq_004__v01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_004__v01__l"
+            },
+            {
                 "isAbout": "items/sdev_y_apq_004__01",
                 "isVis": true,
                 "variableName": "sdev_y_apq_004__01"
@@ -278,6 +286,11 @@
                 "isAbout": "items/sdev_y_apq_009__l",
                 "isVis": true,
                 "variableName": "sdev_y_apq_009__l"
+            },
+            {
+                "isAbout": "items/sdev_y_apq_009__v01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_009__v01__l"
             },
             {
                 "isAbout": "items/sdev_y_apq_009__01",
@@ -550,6 +563,11 @@
                 "variableName": "sdev_y_apq_030__l"
             },
             {
+                "isAbout": "items/sdev_y_apq_030__v01__l",
+                "isVis": true,
+                "variableName": "sdev_y_apq_030__v01__l"
+            },
+            {
                 "isAbout": "items/sdev_y_apq_031",
                 "isVis": true,
                 "variableName": "sdev_y_apq_031"
@@ -672,6 +690,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

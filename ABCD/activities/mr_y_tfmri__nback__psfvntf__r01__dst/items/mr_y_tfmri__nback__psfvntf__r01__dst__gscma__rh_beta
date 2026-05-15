@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__psfvntf__r01__dst__gscma__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: positive face vs. neutral face; run 1) in Destrieux ROI: middle-anterior part of the cingulate gyrus and sulcus (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Positive face vs. neutral face; Run 1) in Destrieux ROI: Middle-anterior part of the cingulate gyrus and sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

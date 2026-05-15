@@ -52,7 +52,7 @@
         "en": "mh_p_ple__exp__good_count__v01"
     },
     "question": {
-        "en": "Life Events [Parent] (Experience Good Events): Count - Version 1 (Year 3) [Validation: No more than 6 events missing and no experience items missing or declined]"
+        "en": "Life Events [Parent] (Experience Good Events): Count - Version 1 (Year 3)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,76 @@
+{
+    "id": "ph_y_mctq__school_001__v01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "In this questionnaire, you report on your typical sleep behavior over the last 4 weeks. We ask about work/school days and free days separately.\r\n\r\nWhat do we mean by work/school days and free days?\r\nBy work/school days we are referring to non-free days in which you have routine scheduled obligations such as work or school. These days might be weekdays if you are currently in school or are working a weekday job.\r\n\r\nBy free days we are referring to days in which you do not have any routine scheduled obligations. This might be a weekend if you are currently in school and or are working a weekday job.\r\n\r\nPlease respond to the questions according to your perception of a normal week that includes your usual work/school days and free days. \r\n\r\nIf you have a variable schedule, select the average for your schedule for the last 4 weeks as best you can."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Sleep"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "munich_chronotype_questionnaire_mctq_for_children"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "mctq_go_to_school_work"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_mctq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_mctq__school_001__v01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_mctq_0045"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_mctq"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_mctq__school_001__v01"
+    },
+    "question": {
+        "en": "Do you go to school/work on a regular basis? [Version 1]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

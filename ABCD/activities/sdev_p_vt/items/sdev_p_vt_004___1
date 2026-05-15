@@ -67,7 +67,7 @@
         "en": "sdev_p_vt_004___1"
     },
     "question": {
-        "en": "Social Development visit information [Parent]: Did the participant's legal guardian give consent for participation in the Social Development substudy? [Yes]"
+        "en": "Social Development visit information [Parent]: Did the participant's legal guardian give consent for participation in the Social Development substudy [Multi-select]: Yes"
     },
     "responseOptions": {
         "valueType": [

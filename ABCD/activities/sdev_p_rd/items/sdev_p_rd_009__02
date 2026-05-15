@@ -60,7 +60,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "sdev_p_rd_0040"
+            "value": "sdev_p_rd_0048"
         },
         {
             "column": "activity",

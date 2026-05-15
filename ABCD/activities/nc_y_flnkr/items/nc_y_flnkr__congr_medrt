@@ -57,7 +57,7 @@
         "en": "nc_y_flnkr__congr_medrt"
     },
     "question": {
-        "en": "Flanker Task (Millisecond): Median Response Time - Congruent trials"
+        "en": "Flanker Task (Millisecond): Median Response Time - Correct congruent trials"
     },
     "responseOptions": {
         "valueType": [

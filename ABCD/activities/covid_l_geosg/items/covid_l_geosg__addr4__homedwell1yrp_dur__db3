@@ -57,7 +57,7 @@
         "en": "covid_l_geosg__addr4__homedwell1yrp_dur__db3"
     },
     "question": {
-        "en": "SafeGraph Device home dwell time (1 year prior) by census block in minutes: 3 days before questionnaire dissemenation date (Address 4)"
+        "en": "SafeGraph Device home dwell time (1 year prior) by census block in minutes: 3 days before questionnaire dissemenation date (address 4)"
     },
     "responseOptions": {
         "valueType": [

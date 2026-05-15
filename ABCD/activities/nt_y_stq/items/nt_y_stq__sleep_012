@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "nt_y_stq_0113"
+            "value": "nt_y_stq_0109"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "nt_y_stq__sleep_012"
     },
     "question": {
-        "en": "In the past week, how often did you do the following activities while already in bed before going to sleep: Video chat (e.g. Skype, Facetime, VRchat, etc.)"
+        "en": "In the past week, how often did you do the following activities while already in bed before going to sleep: Video chat (e.g. Facetime, etc.)"
     },
     "responseOptions": {
         "valueType": [

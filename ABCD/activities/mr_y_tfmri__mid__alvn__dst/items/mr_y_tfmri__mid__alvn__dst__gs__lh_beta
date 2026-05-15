@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvn__dst__gs__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Monetary Incentive Delay task (contrast: anticipated loss vs. neutral; all runs) in Destrieux ROI: subcallosal gyrus (left hemisphere)"
+        "en": "Average beta weight for Monetary Incentive Delay task (Contrast - Anticipated loss vs. neutral; All runs) in Destrieux ROI: Subcallosal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

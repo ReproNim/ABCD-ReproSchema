@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__wm__dsk__sfrt__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; white matter) in Desikan ROI: superior frontal (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI; White matter) in Desikan ROI: Superior frontal (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

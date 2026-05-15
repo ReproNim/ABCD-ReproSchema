@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_sdohhh_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "children"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "household_social_determinants_of_health"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sdoh_housesizechild"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_0007"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_sdohhh_003"
+    },
+    "question": {
+        "en": "How many children under 18 years old live in your household?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

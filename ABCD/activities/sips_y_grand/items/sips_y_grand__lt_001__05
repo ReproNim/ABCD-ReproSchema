@@ -1,0 +1,71 @@
+{
+    "id": "sips_y_grand__lt_001__05",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions probe for psychotic grandiosity, non-psychotic grandiosity, and inflated self-esteem. They are rated on the SOPS P3 Scale at the end of the queries."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_grandiosity"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_grand_rate_002_04"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_y_grand__lt_001__05"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_y_grand_0014"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_y_grand"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_y_grand__lt_001__05"
+    },
+    "question": {
+        "en": "Grandiose ideas (Symptoms rated at level 3 or higher): Symptoms are better explained by another Axis I or II disorder? [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

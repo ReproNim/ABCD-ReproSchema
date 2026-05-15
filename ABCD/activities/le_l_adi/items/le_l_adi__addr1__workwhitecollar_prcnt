@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr1__workwhitecollar_prcnt"
     },
     "question": {
-        "en": "Percentage of employed persons aged >=16 y in white collar occupations [Area Deprivation Index] (Address 1) (address 1)"
+        "en": "Percentage of employed persons aged >=16 y in white collar occupations [Area Deprivation Index] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

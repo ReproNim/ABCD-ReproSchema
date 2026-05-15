@@ -1,0 +1,425 @@
+{
+    "id": "recover_p_hcqcg_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_hcqcg"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_hcqcg_dt",
+            "items/recover_p_hcqcg_age",
+            "items/recover_p_hcqcg_lang",
+            "items/recover_p_hcqcg_ver",
+            "items/recover_p_hcqcg__activs_001",
+            "items/recover_p_hcqcg__activs_001__01",
+            "items/recover_p_hcqcg__consum_001",
+            "items/recover_p_hcqcg__consum_001__01",
+            "items/recover_p_hcqcg__consum_001__02",
+            "items/recover_p_hcqcg__consum_001__03",
+            "items/recover_p_hcqcg__consum_002",
+            "items/recover_p_hcqcg__consum_002__01",
+            "items/recover_p_hcqcg__consum_002__02",
+            "items/recover_p_hcqcg__consum_002__03",
+            "items/recover_p_hcqcg__consum_003",
+            "items/recover_p_hcqcg__consum_003__01",
+            "items/recover_p_hcqcg__consum_003__02",
+            "items/recover_p_hcqcg__consum_003__03",
+            "items/recover_p_hcqcg__consum_004",
+            "items/recover_p_hcqcg__consum_004__01",
+            "items/recover_p_hcqcg__consum_004__02",
+            "items/recover_p_hcqcg__consum_004__03",
+            "items/recover_p_hcqcg__consum_005",
+            "items/recover_p_hcqcg__consum_005__01",
+            "items/recover_p_hcqcg__consum_005__02",
+            "items/recover_p_hcqcg__consum_005__03",
+            "items/recover_p_hcqcg__consum_006",
+            "items/recover_p_hcqcg__consum_006__01",
+            "items/recover_p_hcqcg__consum_006__02",
+            "items/recover_p_hcqcg__consum_006__03",
+            "items/recover_p_hcqcg__consum_007",
+            "items/recover_p_hcqcg__consum_008",
+            "items/recover_p_hcqcg__consum_008__01",
+            "items/recover_p_hcqcg__consum_008__02",
+            "items/recover_p_hcqcg__consum_008__03",
+            "items/recover_p_hcqcg__consum_009",
+            "items/recover_p_hcqcg__exercise_001__02",
+            "items/recover_p_hcqcg__exercise_001__02___777",
+            "items/recover_p_hcqcg__exercise_001__02__01",
+            "items/recover_p_hcqcg__exercise_001__02__02",
+            "items/recover_p_hcqcg__exercise_001__03",
+            "items/recover_p_hcqcg__exercise_001__03___777",
+            "items/recover_p_hcqcg__exercise_001__03__01",
+            "items/recover_p_hcqcg__exercise_001__03__02",
+            "items/recover_p_hcqcg__exercise_002",
+            "items/recover_p_hcqcg__exercise_002__01",
+            "items/recover_p_hcqcg__exercise_002__01___777",
+            "items/recover_p_hcqcg__exercise_002__01__01",
+            "items/recover_p_hcqcg__exercise_002__01__02",
+            "items/recover_p_hcqcg__exercise_002__02",
+            "items/recover_p_hcqcg__exercise_002__02___777",
+            "items/recover_p_hcqcg__exercise_002__02__01",
+            "items/recover_p_hcqcg__exercise_002__02__02",
+            "items/recover_p_hcqcg__exercise_003",
+            "items/recover_p_hcqcg__exercise_003___777",
+            "items/recover_p_hcqcg__exercise_003__01",
+            "items/recover_p_hcqcg__exercise_003__02",
+            "items/recover_p_hcqcg__exercise_004",
+            "items/recover_p_hcqcg__screen__wkdy_001",
+            "items/recover_p_hcqcg__screen__wkdy_002",
+            "items/recover_p_hcqcg__screen__wknd_001",
+            "items/recover_p_hcqcg__screen__wknd_002",
+            "items/recover_p_hcqcg__screen_001",
+            "items/recover_p_hcqcg__sleep_001",
+            "items/recover_p_hcqcg__sleep_002",
+            "items/recover_p_hcqcg__weight_001",
+            "items/recover_p_hcqcg__weight_002",
+            "items/recover_p_hcqcg__weight_003"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_hcqcg_dt",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg_dt"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg_age",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg_age"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg_lang",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg_lang"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg_ver",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg_ver"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__activs_001",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__activs_001"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__activs_001__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__activs_001__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_001",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_001"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_001__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_001__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_001__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_001__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_001__03",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_001__03"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_002",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_002"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_002__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_002__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_002__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_002__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_002__03",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_002__03"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_003",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_003"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_003__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_003__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_003__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_003__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_003__03",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_003__03"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_004",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_004"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_004__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_004__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_004__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_004__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_004__03",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_004__03"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_005",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_005"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_005__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_005__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_005__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_005__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_005__03",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_005__03"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_006",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_006"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_006__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_006__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_006__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_006__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_006__03",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_006__03"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_007",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_007"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_008",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_008"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_008__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_008__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_008__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_008__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_008__03",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_008__03"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__consum_009",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__consum_009"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_001__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_001__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_001__02___777",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_001__02___777"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_001__02__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_001__02__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_001__02__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_001__02__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_001__03",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_001__03"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_001__03___777",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_001__03___777"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_001__03__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_001__03__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_001__03__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_001__03__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_002",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_002"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_002__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_002__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_002__01___777",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_002__01___777"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_002__01__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_002__01__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_002__01__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_002__01__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_002__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_002__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_002__02___777",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_002__02___777"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_002__02__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_002__02__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_002__02__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_002__02__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_003",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_003"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_003___777",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_003___777"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_003__01",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_003__01"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_003__02",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_003__02"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__exercise_004",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__exercise_004"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__screen__wkdy_001",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__screen__wkdy_001"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__screen__wkdy_002",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__screen__wkdy_002"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__screen__wknd_001",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__screen__wknd_001"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__screen__wknd_002",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__screen__wknd_002"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__screen_001",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__screen_001"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__sleep_001",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__sleep_001"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__sleep_002",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__sleep_002"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__weight_001",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__weight_001"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__weight_002",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__weight_002"
+            },
+            {
+                "isAbout": "items/recover_p_hcqcg__weight_003",
+                "isVis": true,
+                "variableName": "recover_p_hcqcg__weight_003"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__wm__dst__gtspt__rh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; white matter) in Destrieux ROI: planum temporale (right hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI; White matter) in Destrieux ROI: Planum temporale (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

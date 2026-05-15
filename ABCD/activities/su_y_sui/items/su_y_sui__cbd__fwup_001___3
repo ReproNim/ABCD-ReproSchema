@@ -67,7 +67,7 @@
         "en": "su_y_sui__cbd__fwup_001___3"
     },
     "question": {
-        "en": "What type of CBD product did you use since we last saw you? [Multi-select]: Smoked product (pipe, joint, bong)"
+        "en": "What type of CBD product did you use since we last saw you? [Multi-select]: Smoked product (Pipe, joint, bong)"
     },
     "responseOptions": {
         "valueType": [

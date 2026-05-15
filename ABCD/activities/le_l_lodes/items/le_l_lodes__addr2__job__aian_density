@@ -52,7 +52,7 @@
         "en": "le_l_lodes__addr2__job__aian_density"
     },
     "question": {
-        "en": "Density of jobs (per sq. mile of land area) for workers with Race: American Indian or Alaska Native Alone [LODES; census tract] (Address 2) (address 2)"
+        "en": "Density of jobs (Per sq. mile of land area) for workers with Race: American Indian or Alaska Native Alone [LODES; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

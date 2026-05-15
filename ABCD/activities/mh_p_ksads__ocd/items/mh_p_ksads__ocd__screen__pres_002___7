@@ -1,0 +1,61 @@
+{
+    "id": "mh_p_ksads__ocd__screen__pres_002___7",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Anxiety"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_ksads"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_ksads__ocd__screen__pres_002___7"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_ksads_ocd_0121"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_ksads__ocd"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_ksads__ocd__screen__pres_002___7"
+    },
+    "question": {
+        "en": "In the past two weeks, have there been certain things that your child found himself or herself having to do over and over again [Multi-select]: Needing to count and recount"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

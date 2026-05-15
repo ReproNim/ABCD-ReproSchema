@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2b__r02__dst__gtspt__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: 2-back; run 2) in Destrieux ROI: planum temporale (left hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - 2-back; Run 2) in Destrieux ROI: Planum temporale (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,61 @@
+{
+    "id": "le_l_seda__distr__ols__fem__coh__slope_se",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "School"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_seda__distr__ols__fem__coh__slope_se"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_seda__distr_0316"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_seda__distr"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_seda__distr__ols__fem__coh__slope_se"
+    },
+    "question": {
+        "en": "Administrative district SE of Cohort Slope of mean achievement, Math & RLA, OL, CS [SEDA; District] female students"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,113 @@
+{
+    "id": "recover_p_atr_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_atr"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_atr__coll_dt",
+            "items/recover_p_atr__eliza__end_dt",
+            "items/recover_p_atr__eliza__start_dt",
+            "items/recover_p_atr__extract_dt",
+            "items/recover_p_atr__lab_001",
+            "items/recover_p_atr__lab__ntype_001",
+            "items/recover_p_atr__lab__stype_001",
+            "items/recover_p_atr__rslt__ntype_001",
+            "items/recover_p_atr__rslt__ntype_002",
+            "items/recover_p_atr__rslt__ntype_003",
+            "items/recover_p_atr__rslt__stype_001",
+            "items/recover_p_atr__rslt__stype_002",
+            "items/recover_p_atr__rslt__stype_003",
+            "items/recover_p_atr__rslt_dt",
+            "items/recover_p_atr_compl",
+            "items/recover_p_atr_qc"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_atr__coll_dt",
+                "isVis": true,
+                "variableName": "recover_p_atr__coll_dt"
+            },
+            {
+                "isAbout": "items/recover_p_atr__eliza__end_dt",
+                "isVis": true,
+                "variableName": "recover_p_atr__eliza__end_dt"
+            },
+            {
+                "isAbout": "items/recover_p_atr__eliza__start_dt",
+                "isVis": true,
+                "variableName": "recover_p_atr__eliza__start_dt"
+            },
+            {
+                "isAbout": "items/recover_p_atr__extract_dt",
+                "isVis": true,
+                "variableName": "recover_p_atr__extract_dt"
+            },
+            {
+                "isAbout": "items/recover_p_atr__lab_001",
+                "isVis": true,
+                "variableName": "recover_p_atr__lab_001"
+            },
+            {
+                "isAbout": "items/recover_p_atr__lab__ntype_001",
+                "isVis": true,
+                "variableName": "recover_p_atr__lab__ntype_001"
+            },
+            {
+                "isAbout": "items/recover_p_atr__lab__stype_001",
+                "isVis": true,
+                "variableName": "recover_p_atr__lab__stype_001"
+            },
+            {
+                "isAbout": "items/recover_p_atr__rslt__ntype_001",
+                "isVis": true,
+                "variableName": "recover_p_atr__rslt__ntype_001"
+            },
+            {
+                "isAbout": "items/recover_p_atr__rslt__ntype_002",
+                "isVis": true,
+                "variableName": "recover_p_atr__rslt__ntype_002"
+            },
+            {
+                "isAbout": "items/recover_p_atr__rslt__ntype_003",
+                "isVis": true,
+                "variableName": "recover_p_atr__rslt__ntype_003"
+            },
+            {
+                "isAbout": "items/recover_p_atr__rslt__stype_001",
+                "isVis": true,
+                "variableName": "recover_p_atr__rslt__stype_001"
+            },
+            {
+                "isAbout": "items/recover_p_atr__rslt__stype_002",
+                "isVis": true,
+                "variableName": "recover_p_atr__rslt__stype_002"
+            },
+            {
+                "isAbout": "items/recover_p_atr__rslt__stype_003",
+                "isVis": true,
+                "variableName": "recover_p_atr__rslt__stype_003"
+            },
+            {
+                "isAbout": "items/recover_p_atr__rslt_dt",
+                "isVis": true,
+                "variableName": "recover_p_atr__rslt_dt"
+            },
+            {
+                "isAbout": "items/recover_p_atr_compl",
+                "isVis": true,
+                "variableName": "recover_p_atr_compl"
+            },
+            {
+                "isAbout": "items/recover_p_atr_qc",
+                "isVis": true,
+                "variableName": "recover_p_atr_qc"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

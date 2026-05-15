@@ -52,7 +52,7 @@
         "en": "le_l_lodes__addr2__job__hisp_count"
     },
     "question": {
-        "en": "Number of jobs for workers with Ethnicity: Hispanic or Latino [LODES; census tract] (Address 2) (address 2)"
+        "en": "Number of jobs for workers with Ethnicity: Hispanic or Latino [LODES; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

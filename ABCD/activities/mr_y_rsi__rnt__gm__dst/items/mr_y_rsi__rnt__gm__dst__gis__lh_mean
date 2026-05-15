@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__rnt__gm__dst__gis__lh_mean"
     },
     "question": {
-        "en": "Average restricted normalized total diffusion (gray matter) in Destrieux ROI: short insular gyri (left hemisphere)"
+        "en": "Average restricted normalized total diffusion (Gray matter) in Destrieux ROI: Short insular gyri (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

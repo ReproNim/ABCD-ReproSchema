@@ -66,7 +66,7 @@
     },
     "responseOptions": {
         "valueType": [
-            "xsd:decimal"
+            "xsd:integer"
         ]
     },
     "ui": {

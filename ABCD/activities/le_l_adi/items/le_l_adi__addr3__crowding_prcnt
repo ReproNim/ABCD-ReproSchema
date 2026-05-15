@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr3__crowding_prcnt"
     },
     "question": {
-        "en": "Percentage of occupied housing units with >1 person per room (crowding) [Area Deprivation Index] (Address 3) (address 3)"
+        "en": "Percentage of occupied housing units with >1 person per room (crowding) [Area Deprivation Index] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

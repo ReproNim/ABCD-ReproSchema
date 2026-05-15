@@ -7,42 +7,89 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
-            "items/mh_y_ksads__suic__slfinj__past_sx",
-            "items/mh_y_ksads__suic__slfinj__pres_sx",
-            "items/mh_y_ksads__suic__slfinj__nointnt__past_sx",
-            "items/mh_y_ksads__suic__slfinj__nointnt__pres_sx",
-            "items/mh_y_ksads__suic__slfinj__intnt__past_sx",
-            "items/mh_y_ksads__suic__slfinj__intnt__pres_sx",
-            "items/mh_y_ksads__suic__slfinj__psbldie__past_sx",
-            "items/mh_y_ksads__suic__slfinj__psbldie__pres_sx",
-            "items/mh_y_ksads__suic__idea__past_sx",
-            "items/mh_y_ksads__suic__idea__pres_sx",
-            "items/mh_y_ksads__suic__intnt__past_sx",
-            "items/mh_y_ksads__suic__intnt__pres_sx",
-            "items/mh_y_ksads__suic__mthd__past_sx",
-            "items/mh_y_ksads__suic__mthd__pres_sx",
-            "items/mh_y_ksads__suic__plan__past_sx",
-            "items/mh_y_ksads__suic__plan__pres_sx",
-            "items/mh_y_ksads__suic__prep__past_sx",
-            "items/mh_y_ksads__suic__prep__pres_sx",
-            "items/mh_y_ksads__suic__attmpt__past_sx",
-            "items/mh_y_ksads__suic__attmpt__pres_sx",
-            "items/mh_y_ksads__suic__attmpt__intrpt__past_sx",
-            "items/mh_y_ksads__suic__attmpt__intrpt__pres_sx",
-            "items/mh_y_ksads__suic__attmpt__mthd__past_sx",
-            "items/mh_y_ksads__suic__attmpt__mthd__pres_sx",
-            "items/mh_y_ksads__suic__attmpt__psbldie__past_sx",
-            "items/mh_y_ksads__suic__attmpt__psbldie__pres_sx",
-            "items/mh_y_ksads__suic__attmpt__count__past_sx",
-            "items/mh_y_ksads__suic__wishdead__past_sx",
-            "items/mh_y_ksads__suic__wishdead__pres_sx",
+            "items/mh_y_ksads__suic_age",
+            "items/mh_y_ksads__suic_dtt",
+            "items/mh_y_ksads__suic__past_001",
+            "items/mh_y_ksads__suic__past_001__01",
+            "items/mh_y_ksads__suic__past_002",
+            "items/mh_y_ksads__suic__past_002__01__mo",
+            "items/mh_y_ksads__suic__past_002__01__yr",
+            "items/mh_y_ksads__suic__past_003",
+            "items/mh_y_ksads__suic__past_004",
+            "items/mh_y_ksads__suic__past_005___0",
+            "items/mh_y_ksads__suic__past_005___1",
+            "items/mh_y_ksads__suic__past_005___2",
+            "items/mh_y_ksads__suic__past_005___3",
+            "items/mh_y_ksads__suic__past_005___4",
+            "items/mh_y_ksads__suic__past_005___5",
+            "items/mh_y_ksads__suic__past_005___6",
+            "items/mh_y_ksads__suic__past_005___7",
+            "items/mh_y_ksads__suic__past_005___8",
+            "items/mh_y_ksads__suic__past_006",
+            "items/mh_y_ksads__suic__past_007",
+            "items/mh_y_ksads__suic__past_007__01__mo",
+            "items/mh_y_ksads__suic__past_007__01__yr",
+            "items/mh_y_ksads__suic__past_007__02__mo",
+            "items/mh_y_ksads__suic__past_007__02__yr",
+            "items/mh_y_ksads__suic__past_007__03__mo",
+            "items/mh_y_ksads__suic__past_007__03__yr",
+            "items/mh_y_ksads__suic__past_007__04__mo",
+            "items/mh_y_ksads__suic__past_007__04__yr",
+            "items/mh_y_ksads__suic__past_007__05__mo",
+            "items/mh_y_ksads__suic__past_007__05__yr",
+            "items/mh_y_ksads__suic__past_007__06__mo",
+            "items/mh_y_ksads__suic__past_007__06__yr",
+            "items/mh_y_ksads__suic__past_007__07__01",
+            "items/mh_y_ksads__suic__past_007__07__02",
+            "items/mh_y_ksads__suic__past_007__07__03",
+            "items/mh_y_ksads__suic__past_007__07__04",
+            "items/mh_y_ksads__suic__past_007__07__05",
+            "items/mh_y_ksads__suic__past_007__07__06",
+            "items/mh_y_ksads__suic__pres_001",
+            "items/mh_y_ksads__suic__pres_001__01",
+            "items/mh_y_ksads__suic__pres_002",
+            "items/mh_y_ksads__suic__pres_003",
+            "items/mh_y_ksads__suic__pres_004",
+            "items/mh_y_ksads__suic__pres_005___0",
+            "items/mh_y_ksads__suic__pres_005___1",
+            "items/mh_y_ksads__suic__pres_005___2",
+            "items/mh_y_ksads__suic__pres_005___3",
+            "items/mh_y_ksads__suic__pres_005___4",
+            "items/mh_y_ksads__suic__pres_005___5",
+            "items/mh_y_ksads__suic__pres_005___6",
+            "items/mh_y_ksads__suic__pres_005___7",
+            "items/mh_y_ksads__suic__pres_005___8",
+            "items/mh_y_ksads__suic__pres_006",
+            "items/mh_y_ksads__suic__pres_007___1",
+            "items/mh_y_ksads__suic__pres_007___2",
+            "items/mh_y_ksads__suic__pres_007___3",
+            "items/mh_y_ksads__suic__pres_007___4",
+            "items/mh_y_ksads__suic__pres_007___5",
+            "items/mh_y_ksads__suic__pres_007___6",
+            "items/mh_y_ksads__suic__pres_007__01",
+            "items/mh_y_ksads__suic__screen__past_001",
+            "items/mh_y_ksads__suic__screen__past_001__01",
+            "items/mh_y_ksads__suic__screen__past_001__02__mo",
+            "items/mh_y_ksads__suic__screen__past_001__02__yr",
+            "items/mh_y_ksads__suic__screen__past_002",
+            "items/mh_y_ksads__suic__screen__past_002__01",
+            "items/mh_y_ksads__suic__screen__past_002__02__mo",
+            "items/mh_y_ksads__suic__screen__past_002__02__yr",
+            "items/mh_y_ksads__suic__screen__past_003",
+            "items/mh_y_ksads__suic__screen__past_003__01",
+            "items/mh_y_ksads__suic__screen__past_004",
+            "items/mh_y_ksads__suic__screen__past_004__01",
+            "items/mh_y_ksads__suic__screen__pres_001",
+            "items/mh_y_ksads__suic__screen__pres_002",
+            "items/mh_y_ksads__suic__screen__pres_003",
+            "items/mh_y_ksads__suic__screen__pres_004",
             "items/mh_y_ksads__suic__actv__int__past_dx",
             "items/mh_y_ksads__suic__actv__int__pres_dx",
             "items/mh_y_ksads__suic__actv__mthd__past_dx",
             "items/mh_y_ksads__suic__actv__mthd__pres_dx",
+            "items/mh_y_ksads__suic__actv__past_dx",
             "items/mh_y_ksads__suic__actv__plan__past_dx",
             "items/mh_y_ksads__suic__actv__plan__pres_dx",
-            "items/mh_y_ksads__suic__actv__past_dx",
             "items/mh_y_ksads__suic__actv__pres_dx",
             "items/mh_y_ksads__suic__atmpt__abrt__past_dx",
             "items/mh_y_ksads__suic__atmpt__abrt__pres_dx",
@@ -50,160 +97,425 @@
             "items/mh_y_ksads__suic__atmpt__intr__pres_dx",
             "items/mh_y_ksads__suic__atmpt__past_dx",
             "items/mh_y_ksads__suic__atmpt__pres_dx",
+            "items/mh_y_ksads__suic__attmpt__intrpt__past_sx",
+            "items/mh_y_ksads__suic__attmpt__intrpt__pres_sx",
+            "items/mh_y_ksads__suic__attmpt__mthd__past_sx",
+            "items/mh_y_ksads__suic__attmpt__mthd__pres_sx",
+            "items/mh_y_ksads__suic__attmpt__past_sx",
+            "items/mh_y_ksads__suic__attmpt__pres_sx",
+            "items/mh_y_ksads__suic__attmpt__psbldie__past_sx",
+            "items/mh_y_ksads__suic__attmpt__psbldie__pres_sx",
+            "items/mh_y_ksads__suic__idea__past_sx",
+            "items/mh_y_ksads__suic__idea__pres_sx",
             "items/mh_y_ksads__suic__imnt__past_dx",
             "items/mh_y_ksads__suic__imnt__pres_dx",
-            "items/mh_y_ksads__suic__pass__past_dx",
-            "items/mh_y_ksads__suic__pass__pres_dx",
+            "items/mh_y_ksads__suic__intnt__past_sx",
+            "items/mh_y_ksads__suic__intnt__pres_sx",
+            "items/mh_y_ksads__suic__mthd__past_sx",
+            "items/mh_y_ksads__suic__mthd__pres_sx",
             "items/mh_y_ksads__suic__none__past_dx",
             "items/mh_y_ksads__suic__none__pres_dx",
+            "items/mh_y_ksads__suic__pass__past_dx",
+            "items/mh_y_ksads__suic__pass__pres_dx",
+            "items/mh_y_ksads__suic__past__sx_mean",
+            "items/mh_y_ksads__suic__plan__past_sx",
+            "items/mh_y_ksads__suic__plan__pres_sx",
+            "items/mh_y_ksads__suic__prep__past_sx",
+            "items/mh_y_ksads__suic__prep__pres_sx",
+            "items/mh_y_ksads__suic__pres__sx_mean",
+            "items/mh_y_ksads__suic__slfinj__intnt__past_sx",
+            "items/mh_y_ksads__suic__slfinj__intnt__pres_sx",
+            "items/mh_y_ksads__suic__slfinj__nointnt__past_sx",
+            "items/mh_y_ksads__suic__slfinj__nointnt__pres_sx",
             "items/mh_y_ksads__suic__slfinj__nosi__past_dx",
-            "items/mh_y_ksads__suic__slfinj__nosi__pres_dx"
+            "items/mh_y_ksads__suic__slfinj__nosi__pres_dx",
+            "items/mh_y_ksads__suic__slfinj__past_sx",
+            "items/mh_y_ksads__suic__slfinj__pres_sx",
+            "items/mh_y_ksads__suic__slfinj__psbldie__past_sx",
+            "items/mh_y_ksads__suic__slfinj__psbldie__pres_sx",
+            "items/mh_y_ksads__suic__wishdead__past_sx",
+            "items/mh_y_ksads__suic__wishdead__pres_sx"
         ],
         "addProperties": [
             {
-                "isAbout": "items/mh_y_ksads__suic__slfinj__past_sx",
+                "isAbout": "items/mh_y_ksads__suic_age",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__slfinj__past_sx"
+                "variableName": "mh_y_ksads__suic_age"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__slfinj__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic_dtt",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__slfinj__pres_sx"
+                "variableName": "mh_y_ksads__suic_dtt"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__slfinj__nointnt__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_001",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__slfinj__nointnt__past_sx"
+                "variableName": "mh_y_ksads__suic__past_001"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__slfinj__nointnt__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_001__01",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__slfinj__nointnt__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_001__01"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__slfinj__intnt__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_002",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__slfinj__intnt__past_sx"
+                "variableName": "mh_y_ksads__suic__past_002"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__slfinj__intnt__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_002__01__mo",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__slfinj__intnt__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_002__01__mo"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__slfinj__psbldie__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_002__01__yr",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__slfinj__psbldie__past_sx"
+                "variableName": "mh_y_ksads__suic__past_002__01__yr"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__slfinj__psbldie__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_003",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__slfinj__psbldie__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_003"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__idea__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_004",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__idea__past_sx"
+                "variableName": "mh_y_ksads__suic__past_004"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__idea__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_005___0",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__idea__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_005___0"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__intnt__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_005___1",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__intnt__past_sx"
+                "variableName": "mh_y_ksads__suic__past_005___1"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__intnt__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_005___2",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__intnt__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_005___2"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__mthd__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_005___3",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__mthd__past_sx"
+                "variableName": "mh_y_ksads__suic__past_005___3"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__mthd__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_005___4",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__mthd__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_005___4"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__plan__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_005___5",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__plan__past_sx"
+                "variableName": "mh_y_ksads__suic__past_005___5"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__plan__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_005___6",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__plan__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_005___6"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__prep__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_005___7",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__prep__past_sx"
+                "variableName": "mh_y_ksads__suic__past_005___7"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__prep__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_005___8",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__prep__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_005___8"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__attmpt__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_006",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__attmpt__past_sx"
+                "variableName": "mh_y_ksads__suic__past_006"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__attmpt__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__attmpt__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_007"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__attmpt__intrpt__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007__01__mo",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__attmpt__intrpt__past_sx"
+                "variableName": "mh_y_ksads__suic__past_007__01__mo"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__attmpt__intrpt__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007__01__yr",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__attmpt__intrpt__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_007__01__yr"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__attmpt__mthd__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007__02__mo",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__attmpt__mthd__past_sx"
+                "variableName": "mh_y_ksads__suic__past_007__02__mo"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__attmpt__mthd__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007__02__yr",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__attmpt__mthd__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_007__02__yr"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__attmpt__psbldie__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007__03__mo",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__attmpt__psbldie__past_sx"
+                "variableName": "mh_y_ksads__suic__past_007__03__mo"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__attmpt__psbldie__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007__03__yr",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__attmpt__psbldie__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_007__03__yr"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__attmpt__count__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007__04__mo",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__attmpt__count__past_sx"
+                "variableName": "mh_y_ksads__suic__past_007__04__mo"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__wishdead__past_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007__04__yr",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__wishdead__past_sx"
+                "variableName": "mh_y_ksads__suic__past_007__04__yr"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__wishdead__pres_sx",
+                "isAbout": "items/mh_y_ksads__suic__past_007__05__mo",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__wishdead__pres_sx"
+                "variableName": "mh_y_ksads__suic__past_007__05__mo"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past_007__05__yr",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past_007__05__yr"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past_007__06__mo",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past_007__06__mo"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past_007__06__yr",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past_007__06__yr"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past_007__07__01",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past_007__07__01"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past_007__07__02",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past_007__07__02"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past_007__07__03",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past_007__07__03"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past_007__07__04",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past_007__07__04"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past_007__07__05",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past_007__07__05"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past_007__07__06",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past_007__07__06"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_001",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_001"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_001__01",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_001__01"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_002",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_002"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_003",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_003"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_004",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_004"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_005___0",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_005___0"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_005___1",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_005___1"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_005___2",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_005___2"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_005___3",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_005___3"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_005___4",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_005___4"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_005___5",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_005___5"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_005___6",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_005___6"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_005___7",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_005___7"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_005___8",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_005___8"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_006",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_006"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_007___1",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_007___1"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_007___2",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_007___2"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_007___3",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_007___3"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_007___4",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_007___4"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_007___5",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_007___5"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_007___6",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_007___6"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres_007__01",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres_007__01"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_001",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_001"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_001__01",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_001__01"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_001__02__mo",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_001__02__mo"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_001__02__yr",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_001__02__yr"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_002",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_002"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_002__01",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_002__01"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_002__02__mo",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_002__02__mo"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_002__02__yr",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_002__02__yr"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_003",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_003"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_003__01",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_003__01"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_004",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_004"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__past_004__01",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__past_004__01"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__pres_001",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__pres_001"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__pres_002",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__pres_002"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__pres_003",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__pres_003"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__screen__pres_004",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__screen__pres_004"
             },
             {
                 "isAbout": "items/mh_y_ksads__suic__actv__int__past_dx",
@@ -226,6 +538,11 @@
                 "variableName": "mh_y_ksads__suic__actv__mthd__pres_dx"
             },
             {
+                "isAbout": "items/mh_y_ksads__suic__actv__past_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__actv__past_dx"
+            },
+            {
                 "isAbout": "items/mh_y_ksads__suic__actv__plan__past_dx",
                 "isVis": true,
                 "variableName": "mh_y_ksads__suic__actv__plan__past_dx"
@@ -234,11 +551,6 @@
                 "isAbout": "items/mh_y_ksads__suic__actv__plan__pres_dx",
                 "isVis": true,
                 "variableName": "mh_y_ksads__suic__actv__plan__pres_dx"
-            },
-            {
-                "isAbout": "items/mh_y_ksads__suic__actv__past_dx",
-                "isVis": true,
-                "variableName": "mh_y_ksads__suic__actv__past_dx"
             },
             {
                 "isAbout": "items/mh_y_ksads__suic__actv__pres_dx",
@@ -276,6 +588,56 @@
                 "variableName": "mh_y_ksads__suic__atmpt__pres_dx"
             },
             {
+                "isAbout": "items/mh_y_ksads__suic__attmpt__intrpt__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__attmpt__intrpt__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__attmpt__intrpt__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__attmpt__intrpt__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__attmpt__mthd__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__attmpt__mthd__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__attmpt__mthd__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__attmpt__mthd__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__attmpt__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__attmpt__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__attmpt__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__attmpt__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__attmpt__psbldie__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__attmpt__psbldie__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__attmpt__psbldie__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__attmpt__psbldie__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__idea__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__idea__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__idea__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__idea__pres_sx"
+            },
+            {
                 "isAbout": "items/mh_y_ksads__suic__imnt__past_dx",
                 "isVis": true,
                 "variableName": "mh_y_ksads__suic__imnt__past_dx"
@@ -286,14 +648,24 @@
                 "variableName": "mh_y_ksads__suic__imnt__pres_dx"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__pass__past_dx",
+                "isAbout": "items/mh_y_ksads__suic__intnt__past_sx",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__pass__past_dx"
+                "variableName": "mh_y_ksads__suic__intnt__past_sx"
             },
             {
-                "isAbout": "items/mh_y_ksads__suic__pass__pres_dx",
+                "isAbout": "items/mh_y_ksads__suic__intnt__pres_sx",
                 "isVis": true,
-                "variableName": "mh_y_ksads__suic__pass__pres_dx"
+                "variableName": "mh_y_ksads__suic__intnt__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__mthd__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__mthd__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__mthd__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__mthd__pres_sx"
             },
             {
                 "isAbout": "items/mh_y_ksads__suic__none__past_dx",
@@ -306,6 +678,66 @@
                 "variableName": "mh_y_ksads__suic__none__pres_dx"
             },
             {
+                "isAbout": "items/mh_y_ksads__suic__pass__past_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pass__past_dx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pass__pres_dx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pass__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__past__sx_mean",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__past__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__plan__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__plan__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__plan__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__plan__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__prep__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__prep__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__prep__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__prep__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__pres__sx_mean",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__pres__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__slfinj__intnt__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__slfinj__intnt__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__slfinj__intnt__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__slfinj__intnt__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__slfinj__nointnt__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__slfinj__nointnt__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__slfinj__nointnt__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__slfinj__nointnt__pres_sx"
+            },
+            {
                 "isAbout": "items/mh_y_ksads__suic__slfinj__nosi__past_dx",
                 "isVis": true,
                 "variableName": "mh_y_ksads__suic__slfinj__nosi__past_dx"
@@ -314,10 +746,40 @@
                 "isAbout": "items/mh_y_ksads__suic__slfinj__nosi__pres_dx",
                 "isVis": true,
                 "variableName": "mh_y_ksads__suic__slfinj__nosi__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__slfinj__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__slfinj__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__slfinj__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__slfinj__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__slfinj__psbldie__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__slfinj__psbldie__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__slfinj__psbldie__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__slfinj__psbldie__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__wishdead__past_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__wishdead__past_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__suic__wishdead__pres_sx",
+                "isVis": true,
+                "variableName": "mh_y_ksads__suic__wishdead__pres_sx"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

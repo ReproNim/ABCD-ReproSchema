@@ -1,0 +1,61 @@
+{
+    "id": "su_y_ksads__dud__past_001__v01___3",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_ksads__dud"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_ksads__dud__past_001__v01___3"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_ksads_dud_0015"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_ksads__dud"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_ksads__dud__past_001__v01___3"
+    },
+    "question": {
+        "en": "Was there ever a time that you frequently used the following drugs more than you planned [Multi-select]: Sedatives/Hypnotics/Anxiolytics (Barbiturates (sedatives, downers), Benzodiazepine, Quaalude (ludes), Valium, lLibrium, Xanax, GHB) [Version 1]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0261"
+            "value": "mr_y_qc_raw_dmri_0262"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r04__md_med"
     },
     "question": {
-        "en": "Diffusion MRI (run 4): Median mean diffusivity within brain mask"
+        "en": "Diffusion MRI (Run 4): Median mean diffusivity within brain mask"
     },
     "responseOptions": {
         "valueType": [

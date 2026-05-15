@@ -57,7 +57,7 @@
         "en": "le_l_leadrisk__addr1__pov125_prcnt"
     },
     "question": {
-        "en": "Percentage of individuals below -125 percent of poverty level [census tract] (Address 1) (address 1)"
+        "en": "Percentage of individuals below -125 percent of poverty level [census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

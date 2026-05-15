@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__non__doa_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: none & dorsal attention"
+        "en": "Average correlation between Gordon networks: None & dorsal attention"
     },
     "responseOptions": {
         "valueType": [

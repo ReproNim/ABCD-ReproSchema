@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aseg__cio__ab__lh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon network: cingulo-opercular & Subcortical ROI: accumbens area (left hemisphere)"
+        "en": "Average correlation between Gordon network: Cingulo-opercular & Subcortical ROI: Accumbens area (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

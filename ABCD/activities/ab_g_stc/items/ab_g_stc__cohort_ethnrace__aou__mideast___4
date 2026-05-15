@@ -1,0 +1,66 @@
+{
+    "id": "ab_g_stc__cohort_ethnrace__aou__mideast___4",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "You can choose one of more of these"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "ABCD (General)"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Standard Variables"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "General"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ab.html#ab_g_stc"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ab_g_stc__cohort_ethnrace__aou__mideast___4"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ab_g_stc_0061"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ab_g_stc"
+        }
+    ],
+    "prefLabel": {
+        "en": "ab_g_stc__cohort_ethnrace__aou__mideast___4"
+    },
+    "question": {
+        "en": "Which of these Middle Eastern or North African groups best describe the youth? [Multi-select]: Iranian [Cross-listed: recover_p_demo__ethnrace_001__mideast___4]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

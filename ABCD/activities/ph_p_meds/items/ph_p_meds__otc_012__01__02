@@ -67,7 +67,7 @@
         "en": "ph_p_meds__otc_012__01__02"
     },
     "question": {
-        "en": "OTC 12: Strength unit [Parent]"
+        "en": "Over the counter - Medication 12: Strength unit [Parent]"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "nc_y_svs_age"
     },
     "question": {
-        "en": "Snellen Vision Screener [Youth]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Snellen Vision Screener [Youth]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

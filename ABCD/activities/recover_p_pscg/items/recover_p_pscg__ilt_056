@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_pscg__ilt_056",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "Now we are going to ask you about any problems or symptoms that you have had. First, we want to know about the problems or symptoms that kept happening for longer than four weeks since the pandemic started. Did you have any of these problems or symptoms lasting for more than 4 weeks that started or got worse since the COVID pandemic began in March 2020? These are problems or symptoms that kept happening without stopping or kept happening again and again for longer than 4 weeks"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_symptoms"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ps_digitcolor_ilt"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_pscg__ilt_056"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_pscg_0144"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_pscg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_pscg__ilt_056"
+    },
+    "question": {
+        "en": "Intermediate/Long-lasting: Color changes on the fingers or toes"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

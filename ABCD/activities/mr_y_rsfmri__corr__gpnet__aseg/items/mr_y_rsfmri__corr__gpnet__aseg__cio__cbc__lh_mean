@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aseg__cio__cbc__lh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon network: cingulo-opercular & Subcortical ROI: cerebellum cortex (left hemisphere)"
+        "en": "Average correlation between Gordon network: Cingulo-opercular & Subcortical ROI: Cerebellum cortex (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

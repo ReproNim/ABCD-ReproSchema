@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__igvcg__dst__gpis__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: incorrect go vs. correct go; all runs) in Destrieux ROI: supramarginal gyrus (right hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Incorrrect go vs. correct go; All runs) in Destrieux ROI: Supramarginal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

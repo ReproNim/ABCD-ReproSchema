@@ -52,7 +52,7 @@
         "en": "le_l_noise__addr3__24hleq__total_soundlvl"
     },
     "question": {
-        "en": "Leq over 24 hours, existing (all sounds) (Address 3) (address 3)"
+        "en": "Leq over 24 hours, existing (all sounds) (Address 3)"
     },
     "responseOptions": {
         "valueType": [

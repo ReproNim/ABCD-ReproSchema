@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__isvcg__dst__gps__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: incorrect stop vs. correct go; all runs) in Destrieux ROI: superior parietal lobule (right hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Incorrrect stop vs. correct go; All runs) in Destrieux ROI: Superior parietal lobule (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

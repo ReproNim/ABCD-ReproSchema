@@ -35,7 +35,7 @@
         {
             "column": "name_nda",
             "source": "nbdc",
-            "value": "reshist_addr3_o3_2016_annavg"
+            "value": "reshist_addr1_o3_2016_annavg"
         },
         {
             "column": "url_table",
@@ -62,7 +62,7 @@
         "en": "le_l_o3__addr1__o3_mean__2016"
     },
     "question": {
-        "en": "Annual average of O3 ppb (parts per billion) in 2016 at 1x1km2 (Address 1) (address 1)"
+        "en": "Annual average of O3 ppb (Parts per billion) in 2016 at 1x1km2 (Address 1)"
     },
     "responseOptions": {
         "valueType": [

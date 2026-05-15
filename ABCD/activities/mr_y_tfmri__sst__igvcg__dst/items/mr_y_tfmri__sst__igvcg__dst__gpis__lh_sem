@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__igvcg__dst__gpis__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Stop Signal task (contrast: incorrect go vs. correct go; all runs) in Destrieux ROI: supramarginal gyrus (left hemisphere)"
+        "en": "Average standard error of the mean for Stop Signal task (Contrast - Incorrrect go vs. correct go; All runs) in Destrieux ROI: Supramarginal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

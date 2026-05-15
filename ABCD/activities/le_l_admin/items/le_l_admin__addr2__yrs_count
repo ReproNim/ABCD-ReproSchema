@@ -57,7 +57,7 @@
         "en": "le_l_admin__addr2__yrs_count"
     },
     "question": {
-        "en": "Residential history years of residence (Address 2) (address 2)"
+        "en": "Residential history years of residence (Address 2)"
     },
     "responseOptions": {
         "valueType": [

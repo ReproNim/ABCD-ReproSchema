@@ -67,7 +67,7 @@
         "en": "mr_y_smri__t2__gm__dsk__mobfrt__rh_mean"
     },
     "question": {
-        "en": "Average T2-weighted intensity (gray matter) in Desikan ROI: medial orbitofrontal (right hemisphere)"
+        "en": "Average T2-weighted intensity (Gray matter) in Desikan ROI: Medial orbitofrontal (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

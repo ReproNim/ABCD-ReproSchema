@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0120"
+            "value": "su_y_tlfb_0125"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__coc__cum_totdose"
     },
     "question": {
-        "en": "Cocaine: total dose (Cumulative period)"
+        "en": "Cocaine: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__mhlth_preval"
     },
     "question": {
-        "en": "Mental health not good for >=14 days among adults aged >=18 years; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "Mental health not good for >=14 days among adults aged >=18 years; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

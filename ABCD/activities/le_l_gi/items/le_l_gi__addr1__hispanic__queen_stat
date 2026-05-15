@@ -52,7 +52,7 @@
         "en": "le_l_gi__addr1__hispanic__queen_stat"
     },
     "question": {
-        "en": "Local Gi* statistic, Hispanic, queen neighborhood tracts [NaNDA; census tract] (Address 1) (address 1)"
+        "en": "Local Gi* statistic, Hispanic, queen neighborhood tracts [NaNDA; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

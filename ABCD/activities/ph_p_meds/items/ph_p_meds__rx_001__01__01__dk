@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_001__01__01__dk"
     },
     "question": {
-        "en": "RX 1: Strength dose [Non-response] [Parent]"
+        "en": "Prescription - Medication 1: Strength dose [Non-response] [Parent]"
     },
     "responseOptions": {
         "valueType": [

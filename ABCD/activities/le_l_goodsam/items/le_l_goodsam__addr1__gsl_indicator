@@ -52,7 +52,7 @@
         "en": "le_l_goodsam__addr1__gsl_indicator"
     },
     "question": {
-        "en": "Indicates if any type of Good Samaritan law was effective at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if any type of Good Samaritan law was effective at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

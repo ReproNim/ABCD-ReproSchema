@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__asvcg__dst__gs__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: any stop vs. correct go; all runs) in Destrieux ROI: subcallosal gyrus (right hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Any stop vs. correct go; All runs) in Destrieux ROI: Subcallosal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

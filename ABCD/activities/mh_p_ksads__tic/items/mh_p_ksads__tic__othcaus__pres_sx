@@ -28,6 +28,11 @@
             "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_ksads"
         },
         {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_mh_p_ksads__suic__pres__sx_mean.html"
+        },
+        {
             "column": "name_short",
             "source": "nbdc",
             "value": "mh_p_ksads__tic__othcaus__pres_sx"
@@ -35,7 +40,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_ksads_tic_0005"
+            "value": "mh_p_ksads_tic_0055"
         },
         {
             "column": "activity",

@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__csvcg__r02__dst__ptmp__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Stop Signal task (contrast: correct stop vs. correct go; run 2) in Destrieux ROI: temporal pole (left hemisphere)"
+        "en": "Average standard error of the mean for Stop Signal task (Contrast - Correct stop vs. correct go; Run 2) in Destrieux ROI: Temporal pole (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

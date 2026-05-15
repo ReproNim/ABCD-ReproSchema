@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__td__wm__dst__sipt__rh_mean"
     },
     "question": {
-        "en": "Average transversal diffusivity (inner shell DTI; white matter) in Destrieux ROI: intraparietal sulcus and transverse parietal sulci (right hemisphere)"
+        "en": "Average transversal diffusivity (inner shell DTI; White matter) in Destrieux ROI: Intraparietal sulcus and transverse parietal sulci (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

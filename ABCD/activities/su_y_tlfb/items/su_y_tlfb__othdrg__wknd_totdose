@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0733"
+            "value": "su_y_tlfb_0764"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__othdrg__wknd_totdose"
     },
     "question": {
-        "en": "Other drugs: total dose on weekends"
+        "en": "Other drugs: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

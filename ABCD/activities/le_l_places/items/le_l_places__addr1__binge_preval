@@ -52,7 +52,7 @@
         "en": "le_l_places__addr1__binge_preval"
     },
     "question": {
-        "en": "Binge drinking among adults aged >=18 years; Prevalence [PLACES] (Address 1) (address 1)"
+        "en": "Binge drinking among adults aged >=18 years; Prevalence [PLACES] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

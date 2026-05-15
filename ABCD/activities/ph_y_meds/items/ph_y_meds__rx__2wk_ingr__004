@@ -1,0 +1,66 @@
+{
+    "id": "ph_y_meds__rx__2wk_ingr__004",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_y_meds"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/articles/meds.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_y_meds__rx__2wk_ingr__004"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_y_meds_0577"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_y_meds"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_y_meds__rx__2wk_ingr__004"
+    },
+    "question": {
+        "en": "Prescription - Medication 4 (Past two weeks): Ingredient [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__td__wm__dst__gis__lh_mean"
     },
     "question": {
-        "en": "Average transversal diffusivity (inner shell DTI; white matter) in Destrieux ROI: short insular gyri (left hemisphere)"
+        "en": "Average transversal diffusivity (inner shell DTI; White matter) in Destrieux ROI: Short insular gyri (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

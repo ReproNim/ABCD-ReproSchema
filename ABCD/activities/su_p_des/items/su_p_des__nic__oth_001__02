@@ -45,7 +45,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "su_des_otob_inside_hrs_p"
+            "value": "su_des_otob_inside_hrs_p | su_des_otob_inside_hrs_p__v1"
         },
         {
             "column": "url_table",

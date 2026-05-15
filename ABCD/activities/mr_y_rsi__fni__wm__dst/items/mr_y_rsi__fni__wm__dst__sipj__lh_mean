@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__fni__wm__dst__sipj__lh_mean"
     },
     "question": {
-        "en": "Average free normalized isotropic diffusion (white matter) in Destrieux ROI: sulcus intermedius primus (left hemisphere)"
+        "en": "Average free normalized isotropic diffusion (White matter) in Destrieux ROI: Sulcus intermedius primus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

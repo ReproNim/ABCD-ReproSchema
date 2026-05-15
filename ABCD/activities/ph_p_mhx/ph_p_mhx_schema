@@ -10,10 +10,15 @@
             "items/ph_p_mhx_dtt",
             "items/ph_p_mhx_age",
             "items/ph_p_mhx_lang",
+            "items/ph_p_mhx__covid_001",
+            "items/ph_p_mhx__covid__vax_001",
+            "items/ph_p_mhx__covid__vax_001__01",
             "items/ph_p_mhx__cvd_001",
             "items/ph_p_mhx__cvd_002",
             "items/ph_p_mhx__doc_001",
             "items/ph_p_mhx__doc_001__l",
+            "items/ph_p_mhx__doc_002",
+            "items/ph_p_mhx__doc_002__01",
             "items/ph_p_mhx__doc__lt_001",
             "items/ph_p_mhx__er_001",
             "items/ph_p_mhx__er_001__01",
@@ -169,6 +174,21 @@
                 "variableName": "ph_p_mhx_lang"
             },
             {
+                "isAbout": "items/ph_p_mhx__covid_001",
+                "isVis": true,
+                "variableName": "ph_p_mhx__covid_001"
+            },
+            {
+                "isAbout": "items/ph_p_mhx__covid__vax_001",
+                "isVis": true,
+                "variableName": "ph_p_mhx__covid__vax_001"
+            },
+            {
+                "isAbout": "items/ph_p_mhx__covid__vax_001__01",
+                "isVis": true,
+                "variableName": "ph_p_mhx__covid__vax_001__01"
+            },
+            {
                 "isAbout": "items/ph_p_mhx__cvd_001",
                 "isVis": true,
                 "variableName": "ph_p_mhx__cvd_001"
@@ -187,6 +207,16 @@
                 "isAbout": "items/ph_p_mhx__doc_001__l",
                 "isVis": true,
                 "variableName": "ph_p_mhx__doc_001__l"
+            },
+            {
+                "isAbout": "items/ph_p_mhx__doc_002",
+                "isVis": true,
+                "variableName": "ph_p_mhx__doc_002"
+            },
+            {
+                "isAbout": "items/ph_p_mhx__doc_002__01",
+                "isVis": true,
+                "variableName": "ph_p_mhx__doc_002__01"
             },
             {
                 "isAbout": "items/ph_p_mhx__doc__lt_001",
@@ -876,6 +906,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

@@ -1,0 +1,71 @@
+{
+    "id": "sdev_p_apq_009__v01__l",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Parenting"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_follow_up_parent_alabama_parent"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_papq_09_l_v01"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/substudies/sdev.html#psdev_p_apq"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_p_apq_009__v01__l"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_p_apq_0022"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_p_apq"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_p_apq_009__v01__l"
+    },
+    "question": {
+        "en": "You ask your child about their day in school or work. [Version 1] [Parent; Longitudinal]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

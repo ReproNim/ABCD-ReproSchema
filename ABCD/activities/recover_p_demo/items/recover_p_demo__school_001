@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_demo__school_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "demographics"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_school"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_demo__school_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_demo_0136"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_demo"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_demo__school_001"
+    },
+    "question": {
+        "en": "Is the youth currently in school?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__nback__r06__protcom_indicator"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task (run 6): Indicates whether the scan passed the protocol compliance check"
+        "en": "Task fMRI - Emotional N-Back task (Run 6): Indicates whether the scan passed the protocol compliance check"
     },
     "responseOptions": {
         "valueType": [

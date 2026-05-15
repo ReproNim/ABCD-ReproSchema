@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__mid__r04__intensity__brain_mean"
     },
     "question": {
-        "en": "Task fMRI - Monetary Incentive Delay task (run 4): Mean intensity within brain mask"
+        "en": "Task fMRI - Monetary Incentive Delay task (Run 4): Mean intensity within brain mask"
     },
     "responseOptions": {
         "valueType": [

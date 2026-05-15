@@ -52,7 +52,7 @@
         "en": "le_l_ssvi__addr1__hosp__state_rate"
     },
     "question": {
-        "en": "Hospitals per 100,000 people [Supplemental SVI] (Address 1) (address 1)"
+        "en": "Hospitals per 100,000 people [Supplemental SVI] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

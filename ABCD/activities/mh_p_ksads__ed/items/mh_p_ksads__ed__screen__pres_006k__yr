@@ -1,0 +1,61 @@
+{
+    "id": "mh_p_ksads__ed__screen__pres_006k__yr",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Eating"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_ksads"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_ksads__ed__screen__pres_006k__yr"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_ksads_ed_0155"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_ksads__ed"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_ksads__ed__screen__pres_006k__yr"
+    },
+    "question": {
+        "en": "You said that in the past two weeks your child worried all the time about becoming fat, made himself or herself throw up once a week or more and did things to control his or her weight like exercise excessively, restrict food, took laxatives, or diet pills. When did this begin for your child - Year"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

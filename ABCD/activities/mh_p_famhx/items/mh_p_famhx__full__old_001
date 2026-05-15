@@ -67,7 +67,7 @@
         "en": "mh_p_famhx__full__old_001"
     },
     "question": {
-        "en": "How many of the full siblings are older than the child? (please do not include a co-twin here)"
+        "en": "How many of the full siblings are older than the child? (Please do not include a co-twin here)"
     },
     "responseOptions": {
         "valueType": [

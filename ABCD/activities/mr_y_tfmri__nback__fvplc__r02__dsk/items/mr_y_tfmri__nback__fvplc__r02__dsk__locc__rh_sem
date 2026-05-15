@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__r02__dsk__locc__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: face vs. place; run 2) in Desikan ROI: lateral occipital (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Face vs. place; Run 2) in Desikan ROI: Lateral occipital (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

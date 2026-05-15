@@ -1,0 +1,71 @@
+{
+    "id": "sips_y_percabn__olf_001__07",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions probe for both hallucinations and nonpsychotic perceptual abnormalities.\u00a0 They are rated on the SOPS P4 Scale at the end of the queries."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_perceptual"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_perc_olf_001_05_02"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_y_percabn__olf_001__07"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_y_percabn_0082"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_y_percabn"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_y_percabn__olf_001__07"
+    },
+    "question": {
+        "en": "Do you ever smell or taste things that other people don't notice: How would you rate your degree of distress? [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

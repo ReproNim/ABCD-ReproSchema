@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr2__se__jobprox_zscore"
     },
     "question": {
-        "en": "Commute duration- percentage workers commuting more than one hour one way, transformed to z-scores and multiplied by -1 [Social and economic domain] (Address 2) (address 2)"
+        "en": "Commute duration- percentage workers commuting more than one hour one way, transformed to z-scores and multiplied by -1 [Social and economic domain] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

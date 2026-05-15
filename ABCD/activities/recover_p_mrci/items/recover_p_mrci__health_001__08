@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_mrci__health_001__08",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "most_recent_covid_infection_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "mrcih_treatmono"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_mrci__health_001__08"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_mrci_0022"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_mrci"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_mrci__health_001__08"
+    },
+    "question": {
+        "en": "During the child\u2019s most recent COVID infection, did they receive any of the following treatments? [Multi-select]: Treatment with monoclonal antibody (Proteins made in a lab that act like the body's antibodies to help the immune system fight infection)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

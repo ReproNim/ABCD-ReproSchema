@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__fni__wm__dst__gtspp__rh_mean"
     },
     "question": {
-        "en": "Average free normalized isotropic diffusion (white matter) in Destrieux ROI: planum polare of the superior temporal gyrus (right hemisphere)"
+        "en": "Average free normalized isotropic diffusion (White matter) in Destrieux ROI: Planum polare of the superior temporal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__cholhigh_preval"
     },
     "question": {
-        "en": "High cholesterol among adults aged >=18 years who have been screened in the past 5 years; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "High cholesterol among adults aged >=18 years who have been screened in the past 5 years; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

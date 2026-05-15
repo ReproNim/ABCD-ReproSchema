@@ -40,7 +40,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0863"
+            "value": "su_y_tlfb_0899"
         },
         {
             "column": "activity",
@@ -52,7 +52,7 @@
         "en": "su_y_tlfb__shroom__1mo_totdose"
     },
     "question": {
-        "en": "Mushrooms: total dose (Last 30 days)"
+        "en": "Mushrooms: Total dose (Last 30 days)"
     },
     "responseOptions": {
         "valueType": [

@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__frp__def_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: fronto-parietal & default"
+        "en": "Average correlation between Gordon networks: Fronto-parietal & default"
     },
     "responseOptions": {
         "valueType": [

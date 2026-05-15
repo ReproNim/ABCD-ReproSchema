@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__rsfmri__r05__xdir_fwhm"
     },
     "question": {
-        "en": "Resting State fMRI (run 5): Full width half max in x direction"
+        "en": "Resting State fMRI (Run 5): Full width half max in x direction"
     },
     "responseOptions": {
         "valueType": [

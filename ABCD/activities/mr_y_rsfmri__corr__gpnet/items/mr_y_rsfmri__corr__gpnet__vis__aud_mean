@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__vis__aud_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: visual & auditory"
+        "en": "Average correlation between Gordon networks: Visual & auditory"
     },
     "responseOptions": {
         "valueType": [

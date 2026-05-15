@@ -1,0 +1,71 @@
+{
+    "id": "fc_y_ev__voc_001__02",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "hours (h)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Work & School"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_edu_vocation"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "edu_voc_job_03_y"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_ev__voc_001__02"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_ev_0040"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_ev"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_ev__voc_001__02"
+    },
+    "question": {
+        "en": "How many hours per week did you typically spend working in the last 12 months? (If more than one work experience, answer for the position that took the most time)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

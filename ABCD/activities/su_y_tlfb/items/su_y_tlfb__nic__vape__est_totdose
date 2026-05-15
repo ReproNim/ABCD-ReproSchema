@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0679"
+            "value": "su_y_tlfb_0707"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__nic__vape__est_totdose"
     },
     "question": {
-        "en": "Nicotine - Vaped: total dose (Estimated period)"
+        "en": "Nicotine - Vaped: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

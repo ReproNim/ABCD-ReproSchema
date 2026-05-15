@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__md__gwc__dst__sts__lh_mean"
     },
     "question": {
-        "en": "Average mean diffusivity (full shell DTI; gray/white contrast) in Destrieux ROI: superior temporal sulcus (left hemisphere)"
+        "en": "Average mean diffusivity (Full shell DTI: Gray/white contrast) in Destrieux ROI: Superior temporal sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

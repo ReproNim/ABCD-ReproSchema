@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__dst__lfah__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Destrieux ROI: horizontal ramus of the anterior segment of the lateral sulcus (right hemisphere)"
+        "en": "Average temporal variance in Destrieux ROI: Horizontal ramus of the anterior segment of the lateral sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

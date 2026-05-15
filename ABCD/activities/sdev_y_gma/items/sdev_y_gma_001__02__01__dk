@@ -1,0 +1,56 @@
+{
+    "id": "sdev_y_gma_001__02__01__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Gang Involvement"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_gma_001__02__01__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_gma_0008"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_gma"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_gma_001__02__01__dk"
+    },
+    "question": {
+        "en": "How long were you an active member? [Non-response][Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

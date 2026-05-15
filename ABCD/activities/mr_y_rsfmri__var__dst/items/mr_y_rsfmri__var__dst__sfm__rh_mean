@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__dst__sfm__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Destrieux ROI: middle frontal sulcus (right hemisphere)"
+        "en": "Average temporal variance in Destrieux ROI: Middle frontal sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__ed__college_zscore"
     },
     "question": {
-        "en": "College enrollment in nearby institutions- percentage 18-24 year-olds enrolled in college within 25-mile radius, transformed to z-scores [Education domain] (Address 1) (address 1)"
+        "en": "College enrollment in nearby institutions- percentage 18-24 year-olds enrolled in college within 25-mile radius, transformed to z-scores [Education domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

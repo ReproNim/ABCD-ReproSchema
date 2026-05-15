@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__csvcg__aseg__csf_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: correct stop vs. correct go; all runs) in Subcortical ROI: cerebrospinal fluid"
+        "en": "Average beta weight for Stop Signal task (Contrast - Correct stop vs. correct go; All runs) in Subcortical ROI: Cerebrospinal fluid"
     },
     "responseOptions": {
         "valueType": [

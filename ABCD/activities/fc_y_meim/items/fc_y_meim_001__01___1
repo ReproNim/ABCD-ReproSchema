@@ -57,7 +57,7 @@
         "en": "fc_y_meim_001__01___1"
     },
     "question": {
-        "en": "What ethnic groups do you consider yourself to be [Multi-select]: White/Caucasian [Youth]"
+        "en": "What ethnic group(s)s do you consider yourself to be [Multi-select]: White/Caucasian [Youth]"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,67 @@
+{
+    "id": "recover_p_cbh_dt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "child_birth_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "cbh_colldt"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_cbh_dt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_cbh_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_cbh"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_cbh_dt"
+    },
+    "question": {
+        "en": "Child Birth History [Parent]: Date of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:date"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

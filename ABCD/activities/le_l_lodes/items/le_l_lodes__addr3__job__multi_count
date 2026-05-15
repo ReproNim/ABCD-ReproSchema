@@ -52,7 +52,7 @@
         "en": "le_l_lodes__addr3__job__multi_count"
     },
     "question": {
-        "en": "Number of jobs for workers with Race: Two or More Race Groups [LODES; census tract] (Address 3) (address 3)"
+        "en": "Number of jobs for workers with Race: Two or More Race Groups [LODES; census tract] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__sst__r04__fdsub_sum"
     },
     "question": {
-        "en": "Task fMRI - Stop Signal Task (run 4): Number of seconds run had framewise displacement < 0.2 mm"
+        "en": "Task fMRI - Stop Signal Task (Run 4): Number of seconds run had framewise displacement < 0.2 mm"
     },
     "responseOptions": {
         "valueType": [

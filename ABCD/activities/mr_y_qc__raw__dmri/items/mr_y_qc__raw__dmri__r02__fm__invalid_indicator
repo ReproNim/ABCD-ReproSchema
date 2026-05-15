@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0178"
+            "value": "mr_y_qc_raw_dmri_0179"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r02__fm__invalid_indicator"
     },
     "question": {
-        "en": "Diffusion MRI - Field map (run 2): Whether field map for scan was invalid for use"
+        "en": "Diffusion MRI - Field map (Run 2): Whether field map for scan was invalid for use"
     },
     "responseOptions": {
         "valueType": [

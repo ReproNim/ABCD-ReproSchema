@@ -72,7 +72,7 @@
         "en": "mr_y_smri__vol__aseg__ccp_sum"
     },
     "question": {
-        "en": "Total volume of Subcortical ROI: posterior corpus callosum"
+        "en": "Total volume of Subcortical ROI: Posterior corpus callosum"
     },
     "responseOptions": {
         "valueType": [

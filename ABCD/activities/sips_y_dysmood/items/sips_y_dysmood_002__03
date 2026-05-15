@@ -1,0 +1,66 @@
+{
+    "id": "sips_y_dysmood_002__03",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_general"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_gen_dys_002_03_01"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_y_dysmood_002__03"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_y_dysmood_0011"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_y_dysmood"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_y_dysmood_002__03"
+    },
+    "question": {
+        "en": "Do you ever generally just feel unhappy for any length of time: Duration - Count [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0713"
+            "value": "su_y_tlfb_0743"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__opi_totdose"
     },
     "question": {
-        "en": "Opiods: total dose"
+        "en": "Opiods: Total dose"
     },
     "responseOptions": {
         "valueType": [

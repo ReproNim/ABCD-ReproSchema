@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__aseg__ag__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: face vs. place; all runs) in Subcortical ROI: amygdala (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Face vs. place; All runs) in Subcortical ROI: Amygdala (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

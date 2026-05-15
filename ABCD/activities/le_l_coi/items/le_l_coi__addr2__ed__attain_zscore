@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr2__ed__attain_zscore"
     },
     "question": {
-        "en": "Adult educational attainment- percentage adults ages 25 and over with a college degree or higher, transformed to z-scores [Education domain] (Address 2) (address 2)"
+        "en": "Adult educational attainment- percentage adults ages 25 and over with a college degree or higher, transformed to z-scores [Education domain] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

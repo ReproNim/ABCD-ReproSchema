@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__gp__non__280__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Gordon ROI: 280 (none network; right hemisphere)"
+        "en": "Average temporal variance in Gordon ROI: 280 (None network; Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

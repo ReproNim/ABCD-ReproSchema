@@ -52,7 +52,7 @@
         "en": "le_l_gi__addr3__white__rook_stat"
     },
     "question": {
-        "en": "Local GI* statistic, non-Hispanic white, rook neighborhood tracts [ICPSR; census tract] (Address 3) (address 3)"
+        "en": "Local GI* statistic, non-Hispanic white, rook neighborhood tracts [ICPSR; census tract] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

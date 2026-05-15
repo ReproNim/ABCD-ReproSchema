@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_sdohhh_004",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "number of rooms"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "household_social_determinants_of_health"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sdoh_rooms"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_004"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_0008"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_sdohhh_004"
+    },
+    "question": {
+        "en": "How many rooms are in your house? Please include all rooms such as the kitchen and living room, but not bathrooms or hallways."
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -11,14 +11,17 @@
             "items/su_y_oftox__coll__r01_001__age",
             "items/su_y_oftox__nonrand__r01_complrsn",
             "items/su_y_oftox__coll__r01_001__complrsn",
+            "items/su_y_oftox__coll__r01_001__dev",
             "items/su_y_oftox__coll__r01_002__dtt",
             "items/su_y_oftox__coll__r01_002__age",
             "items/su_y_oftox__coll__r01_002__complrsn",
+            "items/su_y_oftox__coll__r01_002__dev",
             "items/su_y_oftox__nonrand__r02_complrsn",
             "items/su_y_oftox__coll__r02_compl",
             "items/su_y_oftox__coll__r02_001__dtt",
             "items/su_y_oftox__coll__r02_001__age",
             "items/su_y_oftox__coll__r02_001__complrsn",
+            "items/su_y_oftox__coll__r02_001__dev",
             "items/su_y_oftox__coll__r02_002__dtt",
             "items/su_y_oftox__coll__r02_002__age",
             "items/su_y_oftox__coll__r02_002__complrsn",
@@ -26,12 +29,16 @@
             "items/su_y_oftox__coll__r03_001__dtt",
             "items/su_y_oftox__coll__r03_001__age",
             "items/su_y_oftox__coll__r03_001__complrsn",
+            "items/su_y_oftox__coll__r03_001__dev",
             "items/su_y_oftox__coll__r03_002__complrsn",
+            "items/su_y_oftox__coll__r03_002__dev",
             "items/su_y_oftox__coll__r04_compl",
             "items/su_y_oftox__coll__r04_001__dtt",
             "items/su_y_oftox__coll__r04_001__age",
             "items/su_y_oftox__coll__r04_001__complrsn",
+            "items/su_y_oftox__coll__r04_001__dev",
             "items/su_y_oftox__coll__r04_002__complrsn",
+            "items/su_y_oftox__coll__r04_002__dev",
             "items/su_y_oftox__rslt__amp__r01_001",
             "items/su_y_oftox__rslt__amp__r01_002",
             "items/su_y_oftox__rslt__amp__r02_001",
@@ -111,6 +118,11 @@
                 "variableName": "su_y_oftox__coll__r01_001__complrsn"
             },
             {
+                "isAbout": "items/su_y_oftox__coll__r01_001__dev",
+                "isVis": true,
+                "variableName": "su_y_oftox__coll__r01_001__dev"
+            },
+            {
                 "isAbout": "items/su_y_oftox__coll__r01_002__dtt",
                 "isVis": true,
                 "variableName": "su_y_oftox__coll__r01_002__dtt"
@@ -124,6 +136,11 @@
                 "isAbout": "items/su_y_oftox__coll__r01_002__complrsn",
                 "isVis": true,
                 "variableName": "su_y_oftox__coll__r01_002__complrsn"
+            },
+            {
+                "isAbout": "items/su_y_oftox__coll__r01_002__dev",
+                "isVis": true,
+                "variableName": "su_y_oftox__coll__r01_002__dev"
             },
             {
                 "isAbout": "items/su_y_oftox__nonrand__r02_complrsn",
@@ -149,6 +166,11 @@
                 "isAbout": "items/su_y_oftox__coll__r02_001__complrsn",
                 "isVis": true,
                 "variableName": "su_y_oftox__coll__r02_001__complrsn"
+            },
+            {
+                "isAbout": "items/su_y_oftox__coll__r02_001__dev",
+                "isVis": true,
+                "variableName": "su_y_oftox__coll__r02_001__dev"
             },
             {
                 "isAbout": "items/su_y_oftox__coll__r02_002__dtt",
@@ -186,9 +208,19 @@
                 "variableName": "su_y_oftox__coll__r03_001__complrsn"
             },
             {
+                "isAbout": "items/su_y_oftox__coll__r03_001__dev",
+                "isVis": true,
+                "variableName": "su_y_oftox__coll__r03_001__dev"
+            },
+            {
                 "isAbout": "items/su_y_oftox__coll__r03_002__complrsn",
                 "isVis": true,
                 "variableName": "su_y_oftox__coll__r03_002__complrsn"
+            },
+            {
+                "isAbout": "items/su_y_oftox__coll__r03_002__dev",
+                "isVis": true,
+                "variableName": "su_y_oftox__coll__r03_002__dev"
             },
             {
                 "isAbout": "items/su_y_oftox__coll__r04_compl",
@@ -211,9 +243,19 @@
                 "variableName": "su_y_oftox__coll__r04_001__complrsn"
             },
             {
+                "isAbout": "items/su_y_oftox__coll__r04_001__dev",
+                "isVis": true,
+                "variableName": "su_y_oftox__coll__r04_001__dev"
+            },
+            {
                 "isAbout": "items/su_y_oftox__coll__r04_002__complrsn",
                 "isVis": true,
                 "variableName": "su_y_oftox__coll__r04_002__complrsn"
+            },
+            {
+                "isAbout": "items/su_y_oftox__coll__r04_002__dev",
+                "isVis": true,
+                "variableName": "su_y_oftox__coll__r04_002__dev"
             },
             {
                 "isAbout": "items/su_y_oftox__rslt__amp__r01_001",
@@ -498,6 +540,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

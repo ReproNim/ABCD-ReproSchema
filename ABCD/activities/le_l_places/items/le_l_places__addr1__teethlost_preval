@@ -52,7 +52,7 @@
         "en": "le_l_places__addr1__teethlost_preval"
     },
     "question": {
-        "en": "All teeth lost among adults aged >=65 years; Prevalence [PLACES] (Address 1) (address 1)"
+        "en": "All teeth lost among adults aged >=65 years; Prevalence [PLACES] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

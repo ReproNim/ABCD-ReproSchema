@@ -52,7 +52,7 @@
         "en": "le_l_places__addr3__casthma_preval"
     },
     "question": {
-        "en": "Current asthma among adults aged >=18 years; Prevalence [PLACES] (Address 3) (address 3)"
+        "en": "Current asthma among adults aged >=18 years; Prevalence [PLACES] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

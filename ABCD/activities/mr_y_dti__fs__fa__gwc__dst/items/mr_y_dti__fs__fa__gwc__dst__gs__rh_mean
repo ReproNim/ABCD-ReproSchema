@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gwc__dst__gs__rh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray/white contrast) in Destrieux ROI: subcallosal gyrus (right hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI: Gray/white contrast) in Destrieux ROI: Subcallosal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

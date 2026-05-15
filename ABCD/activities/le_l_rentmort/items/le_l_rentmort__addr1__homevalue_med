@@ -57,7 +57,7 @@
         "en": "le_l_rentmort__addr1__homevalue_med"
     },
     "question": {
-        "en": "Median house value [ACS 2014-2018; census tract] (Address 1) (address 1)"
+        "en": "Median house value [ACS 2014-2018; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

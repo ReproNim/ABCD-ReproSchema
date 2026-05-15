@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__colon__screen_preval"
     },
     "question": {
-        "en": "Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

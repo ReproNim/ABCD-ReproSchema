@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__rsfmri__r11__intensity__brain_std"
     },
     "question": {
-        "en": "Resting State fMRI (run 11): Standard deviation of intensities within brain mask"
+        "en": "Resting State fMRI (Run 11): Standard deviation of intensities within brain mask"
     },
     "responseOptions": {
         "valueType": [

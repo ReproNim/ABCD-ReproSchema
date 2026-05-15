@@ -67,7 +67,7 @@
         "en": "sdev_p_vt_006__l___1"
     },
     "question": {
-        "en": "Did the participant assent to participation into the Social Development substudy? [Yes] [Longitudinal]"
+        "en": "Did the participant assent to participation into the Social Development substudy [Multi-select]: Yes [Longitudinal]"
     },
     "responseOptions": {
         "valueType": [

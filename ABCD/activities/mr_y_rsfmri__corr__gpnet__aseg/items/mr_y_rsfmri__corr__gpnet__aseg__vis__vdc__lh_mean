@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aseg__vis__vdc__lh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon network: visual & Subcortical ROI: ventral diencephalon (left hemisphere)"
+        "en": "Average correlation between Gordon network: Visual & Subcortical ROI: Ventral diencephalon (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0301"
+            "value": "mr_y_qc_raw_dmri_0302"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r05__protcom_indicator"
     },
     "question": {
-        "en": "Diffusion MRI (run 5): Indicates whether the scan passed the protocol compliance check"
+        "en": "Diffusion MRI (Run 5): Indicates whether the scan passed the protocol compliance check"
     },
     "responseOptions": {
         "valueType": [

@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0288"
+            "value": "su_y_tlfb_0300"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__meth__cum_totdose"
     },
     "question": {
-        "en": "Methamphetamine: total dose (Cumulative period)"
+        "en": "Methamphetamine: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,61 @@
+{
+    "id": "su_y_ksads__dud__pres_019__06__12mo",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_y_ksads__dud"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_y_ksads__dud__pres_019__06__12mo"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_y_ksads_dud_0411"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_y_ksads__dud"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_y_ksads__dud__pres_019__06__12mo"
+    },
+    "question": {
+        "en": "You found that you need to use a lot more to get the same high: Hallucinogens (psychedelics, LSD, mescaline, peyote, PCP (Angel dust), DMT, salvia, cough medicine or DXM, psilocybin, magic mushrooms) - Past 4-12 months"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

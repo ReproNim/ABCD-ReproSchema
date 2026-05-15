@@ -52,7 +52,7 @@
         "en": "le_l_socsrv__addr1__socsrv_count"
     },
     "question": {
-        "en": "Count of all social services [NaNDA; census tract] (Address 1) (address 1)"
+        "en": "Count of all social services [NaNDA; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

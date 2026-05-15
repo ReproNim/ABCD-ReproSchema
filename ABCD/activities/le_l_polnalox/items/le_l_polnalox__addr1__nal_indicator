@@ -52,7 +52,7 @@
         "en": "le_l_polnalox__addr1__nal_indicator"
     },
     "question": {
-        "en": "Indicates if any type of Naloxone law was effective at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if any type of Naloxone law was effective at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

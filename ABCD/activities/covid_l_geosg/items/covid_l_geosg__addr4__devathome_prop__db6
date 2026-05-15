@@ -52,7 +52,7 @@
         "en": "covid_l_geosg__addr4__devathome_prop__db6"
     },
     "question": {
-        "en": "SafeGraph Device completely at home by census block ratio: 6 days before questionnaire dissemenation date (Address 4)"
+        "en": "SafeGraph Device completely at home by census block ratio: 6 days before questionnaire dissemenation date (address 4)"
     },
     "responseOptions": {
         "valueType": [

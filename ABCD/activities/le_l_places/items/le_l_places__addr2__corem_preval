@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__corem_preval"
     },
     "question": {
-        "en": "Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "Older adult men aged >=65 years who are up to date on a core set of clinical preventive services: Flu shot past year, PPV shot ever, Colorectal cancer screening; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

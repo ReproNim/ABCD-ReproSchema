@@ -30,7 +30,7 @@
         {
             "column": "name_nda",
             "source": "nbdc",
-            "value": "ksads_4_257_p"
+            "value": "ksads_4_252_p"
         },
         {
             "column": "url_table",
@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_ksads_psych_0010"
+            "value": "mh_p_ksads_psych_0188"
         },
         {
             "column": "activity",

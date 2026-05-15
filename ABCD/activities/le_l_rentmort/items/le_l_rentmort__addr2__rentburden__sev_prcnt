@@ -52,7 +52,7 @@
         "en": "le_l_rentmort__addr2__rentburden__sev_prcnt"
     },
     "question": {
-        "en": "Percent severe rent burden (50% or more of income) [ACS 2014-2018; census tract] (Address 2) (address 2)"
+        "en": "Percent severe rent burden (50% or more of income) [ACS 2014-2018; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

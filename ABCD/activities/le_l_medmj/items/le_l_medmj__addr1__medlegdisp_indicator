@@ -52,7 +52,7 @@
         "en": "le_l_medmj__addr1__medlegdisp_indicator"
     },
     "question": {
-        "en": "Indicates if medical marijuana dispensaries were a legal source of supply in the state at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if medical marijuana dispensaries were a legal source of supply in the state at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__md__wm__dst__gfit__lh_mean"
     },
     "question": {
-        "en": "Average mean diffusivity (inner shell DTI; white matter) in Destrieux ROI: triangular part of the inferior frontal gyrus (left hemisphere)"
+        "en": "Average mean diffusivity (inner shell DTI; White matter) in Destrieux ROI: Triangular part of the inferior frontal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,61 @@
+{
+    "id": "mh_p_ksads__panic__past_001___7",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Anxiety"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_ksads"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_ksads__panic__past_001___7"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_ksads_panic_0009"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_ksads__panic"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_ksads__panic__past_001___7"
+    },
+    "question": {
+        "en": "When your child had one of these attacks back then, did he or she experience any of the following [Multi-select]: Nausea"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

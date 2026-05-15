@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__covid_001__01"
     },
     "question": {
-        "en": "How was s/he diagnosed (with COVID-19)? [COVID Substudy]"
+        "en": "How was s/he diagnosed (with COVID-19)? [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

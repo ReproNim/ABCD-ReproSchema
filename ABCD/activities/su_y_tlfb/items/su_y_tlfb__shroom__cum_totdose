@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0872"
+            "value": "su_y_tlfb_0908"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__shroom__cum_totdose"
     },
     "question": {
-        "en": "Mushrooms: total dose (Cumulative period)"
+        "en": "Mushrooms: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,305 @@
+{
+    "id": "recover_p_wbcg_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_wbcg"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_wbcg_dt",
+            "items/recover_p_wbcg_age",
+            "items/recover_p_wbcg_lang",
+            "items/recover_p_wbcg_ver",
+            "items/recover_p_wbcg__dsm_001",
+            "items/recover_p_wbcg__dsm_002",
+            "items/recover_p_wbcg__dsm_003",
+            "items/recover_p_wbcg__dsm_004",
+            "items/recover_p_wbcg__dsm_005",
+            "items/recover_p_wbcg__dsm_006",
+            "items/recover_p_wbcg__dsm_007",
+            "items/recover_p_wbcg__dsm_008",
+            "items/recover_p_wbcg__dsm_009",
+            "items/recover_p_wbcg__dsm_010",
+            "items/recover_p_wbcg__dsm_011",
+            "items/recover_p_wbcg__dsm_012",
+            "items/recover_p_wbcg__dsm_013",
+            "items/recover_p_wbcg__dsm_014",
+            "items/recover_p_wbcg__dsm_015",
+            "items/recover_p_wbcg__dsm_016",
+            "items/recover_p_wbcg__dsm_score",
+            "items/recover_p_wbcg__gad_001",
+            "items/recover_p_wbcg__gad_002",
+            "items/recover_p_wbcg__gad_003",
+            "items/recover_p_wbcg__gad_004",
+            "items/recover_p_wbcg__gad_005",
+            "items/recover_p_wbcg__gad_006",
+            "items/recover_p_wbcg__gad_007",
+            "items/recover_p_wbcg__gad_score",
+            "items/recover_p_wbcg__phq_001",
+            "items/recover_p_wbcg__phq_002",
+            "items/recover_p_wbcg__phq_003",
+            "items/recover_p_wbcg__phq_004",
+            "items/recover_p_wbcg__phq_005",
+            "items/recover_p_wbcg__phq_006",
+            "items/recover_p_wbcg__phq_007",
+            "items/recover_p_wbcg__phq_008",
+            "items/recover_p_wbcg__phq_score",
+            "items/recover_p_wbcg__pss_001",
+            "items/recover_p_wbcg__pss_002",
+            "items/recover_p_wbcg__pss_003",
+            "items/recover_p_wbcg__pss_004",
+            "items/recover_p_wbcg__pss_005",
+            "items/recover_p_wbcg__pss_006",
+            "items/recover_p_wbcg__pss_007",
+            "items/recover_p_wbcg__pss_008",
+            "items/recover_p_wbcg__pss_009",
+            "items/recover_p_wbcg__pss_010"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_wbcg_dt",
+                "isVis": true,
+                "variableName": "recover_p_wbcg_dt"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg_age",
+                "isVis": true,
+                "variableName": "recover_p_wbcg_age"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg_lang",
+                "isVis": true,
+                "variableName": "recover_p_wbcg_lang"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg_ver",
+                "isVis": true,
+                "variableName": "recover_p_wbcg_ver"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_001",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_001"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_002",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_002"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_003",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_003"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_004",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_004"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_005",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_005"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_006",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_006"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_007",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_007"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_008",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_008"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_009",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_009"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_010",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_010"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_011",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_011"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_012",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_012"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_013",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_013"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_014",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_014"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_015",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_015"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_016",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_016"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__dsm_score",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__dsm_score"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__gad_001",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__gad_001"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__gad_002",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__gad_002"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__gad_003",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__gad_003"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__gad_004",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__gad_004"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__gad_005",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__gad_005"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__gad_006",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__gad_006"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__gad_007",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__gad_007"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__gad_score",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__gad_score"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__phq_001",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__phq_001"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__phq_002",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__phq_002"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__phq_003",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__phq_003"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__phq_004",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__phq_004"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__phq_005",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__phq_005"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__phq_006",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__phq_006"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__phq_007",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__phq_007"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__phq_008",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__phq_008"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__phq_score",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__phq_score"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_001",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_001"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_002",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_002"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_003",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_003"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_004",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_004"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_005",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_005"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_006",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_006"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_007",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_007"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_008",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_008"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_009",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_009"
+            },
+            {
+                "isAbout": "items/recover_p_wbcg__pss_010",
+                "isVis": true,
+                "variableName": "recover_p_wbcg__pss_010"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -1,0 +1,66 @@
+{
+    "id": "fc_y_ev__edu_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Work & School"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_edu_vocation"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "edu_voc_school_02_y"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_ev__edu_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_ev_0005"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_ev"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_ev__edu_002"
+    },
+    "question": {
+        "en": "What type of school program? (If on summer holiday, where will you go next school year?)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

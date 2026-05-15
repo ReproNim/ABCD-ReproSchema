@@ -67,7 +67,7 @@
         "en": "su_y_sui__use__mj__puff_001__l"
     },
     "question": {
-        "en": "Since we last saw you, have you used: Smoked, vaped, drank or ate any marijuana, cannabis or \"weed\" products- including any cannabis products that have delta-9-THC, delta-8-THC, delta-10-THC, THCP, or THC-O? (Do not include products that only contain CBD with no THC.) [Longitudinal]"
+        "en": "Since we last saw you, have you used: Smoked, vaped, drank or ate any marijuana, cannabis or \"weed\" products- including any cannabis products that have delta-9-THC, delta-8-THC, delta-10-THC, THCP, THCA, or THC-O? (Do not include products that only contain CBD with no THC.) [Longitudinal]"
     },
     "responseOptions": {
         "valueType": [

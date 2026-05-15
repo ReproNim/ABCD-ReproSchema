@@ -52,7 +52,7 @@
         "en": "le_l_places__addr3__cholscreen_preval"
     },
     "question": {
-        "en": "Cholesterol screening among adults aged >=18 years; Prevalence [PLACES] (Address 3) (address 3)"
+        "en": "Cholesterol screening among adults aged >=18 years; Prevalence [PLACES] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

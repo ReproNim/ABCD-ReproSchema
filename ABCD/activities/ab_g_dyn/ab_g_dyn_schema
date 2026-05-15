@@ -24,8 +24,8 @@
             "items/ab_g_dyn__design_id__district",
             "items/ab_g_dyn__design_mr__serial",
             "items/ab_g_dyn__design_mr__manufact",
-            "items/ab_g_dyn__design_mr__software",
             "items/ab_g_dyn__design_mr__model",
+            "items/ab_g_dyn__design_mr__software",
             "items/ab_g_dyn__cohort_grade",
             "items/ab_g_dyn__cohort_edu__cgs",
             "items/ab_g_dyn__cohort_prtnrshp__employ",
@@ -119,14 +119,14 @@
                 "variableName": "ab_g_dyn__design_mr__manufact"
             },
             {
-                "isAbout": "items/ab_g_dyn__design_mr__software",
-                "isVis": true,
-                "variableName": "ab_g_dyn__design_mr__software"
-            },
-            {
                 "isAbout": "items/ab_g_dyn__design_mr__model",
                 "isVis": true,
                 "variableName": "ab_g_dyn__design_mr__model"
+            },
+            {
+                "isAbout": "items/ab_g_dyn__design_mr__software",
+                "isVis": true,
+                "variableName": "ab_g_dyn__design_mr__software"
             },
             {
                 "isAbout": "items/ab_g_dyn__cohort_grade",
@@ -156,6 +156,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

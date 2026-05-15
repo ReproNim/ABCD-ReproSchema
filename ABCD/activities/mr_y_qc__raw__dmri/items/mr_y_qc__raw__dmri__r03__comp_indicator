@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0206"
+            "value": "mr_y_qc_raw_dmri_0207"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r03__comp_indicator"
     },
     "question": {
-        "en": "Diffusion MRI (run 3): Data center received correct number of files for this series"
+        "en": "Diffusion MRI (Run 3): Data center received correct number of files for this series"
     },
     "responseOptions": {
         "valueType": [

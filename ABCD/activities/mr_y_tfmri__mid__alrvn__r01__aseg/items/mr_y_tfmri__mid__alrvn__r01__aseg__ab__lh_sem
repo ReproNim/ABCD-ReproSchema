@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alrvn__r01__aseg__ab__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: anticipated large reward vs. neutral; run 1) in Subcortical ROI: accumbens area (left hemisphere)"
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (Contrast - Anticipated large reward vs. neutral; Run 1) in Subcortical ROI: Accumbens area (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

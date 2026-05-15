@@ -57,7 +57,7 @@
         "en": "nc_y_smarte__corr_count"
     },
     "question": {
-        "en": "Stanford Mental Arithmetic Response Time Evaluation (SMARTE): total number correct across all tasks (raw score)"
+        "en": "Stanford Mental Arithmetic Response Time Evaluation (SMARTE): Total number correct across all tasks (raw score)"
     },
     "responseOptions": {
         "valueType": [

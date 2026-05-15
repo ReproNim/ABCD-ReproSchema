@@ -52,7 +52,7 @@
         "en": "nc_y_flnkr__incongr_rt"
     },
     "question": {
-        "en": "Flanker Task (Millisecond): Mean Response Time - Incongruent trials"
+        "en": "Flanker Task (Millisecond): Mean Response Time - Correct incongruent trials"
     },
     "responseOptions": {
         "valueType": [

@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0339"
+            "value": "mr_y_qc_raw_dmri_0340"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r06__series_t"
     },
     "question": {
-        "en": "Diffusion MRI (run 6): Series time"
+        "en": "Diffusion MRI (Run 6): Series time"
     },
     "responseOptions": {
         "valueType": [

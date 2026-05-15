@@ -1,0 +1,71 @@
+{
+    "id": "sips_y_percabn__lt_001__04___1",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions probe for both hallucinations and nonpsychotic perceptual abnormalities.\u00a0 They are rated on the SOPS P4 Scale at the end of the queries."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_perceptual"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_perc_rate_002_03"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_y_percabn__lt_001__04___1"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_y_percabn_0070"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_y_percabn"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_y_percabn__lt_001__04___1"
+    },
+    "question": {
+        "en": "Perceptual abnormalities/hallucinations (Symptoms rated at level 3 or higher): Symptom frequency [Multi-select]: >=1h/d, >=4d/wk [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

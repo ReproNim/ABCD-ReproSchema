@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aud__ret_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: auditory & retrosplenial temporal"
+        "en": "Average correlation between Gordon networks: Auditory & retrosplenial temporal"
     },
     "responseOptions": {
         "valueType": [

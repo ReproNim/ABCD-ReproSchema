@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__plc__r01__dst__sotml__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: place; run 1) in Destrieux ROI: medial occipito-temporal sulcus and lingual sulcus (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Place; Run 1) in Destrieux ROI: Medial occipito-temporal sulcus and lingual sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

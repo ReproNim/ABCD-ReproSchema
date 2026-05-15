@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__ed__teachxp_zscore"
     },
     "question": {
-        "en": "Teacher Experience- percentage teachers in their first and second year, transformed to z-scores and multiplied by -1 [Education domain] (Address 1) (address 1)"
+        "en": "Teacher Experience- percentage teachers in their first and second year, transformed to z-scores and multiplied by -1 [Education domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

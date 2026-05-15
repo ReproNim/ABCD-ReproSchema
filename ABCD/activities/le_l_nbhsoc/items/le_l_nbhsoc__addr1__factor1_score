@@ -40,7 +40,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "le_l_nbhsoc_0003"
+            "value": "le_l_nbhsoc_0002"
         },
         {
             "column": "activity",
@@ -52,7 +52,7 @@
         "en": "le_l_nbhsoc__addr1__factor1_score"
     },
     "question": {
-        "en": "Neighborhood factor 1 score [NaNDA, ACS 2013-2017; census tract] (Address 1) (address 1)"
+        "en": "Neighborhood factor 1 score [NaNDA, ACS 2013-2017; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

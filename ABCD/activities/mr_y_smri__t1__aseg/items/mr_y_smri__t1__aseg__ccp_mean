@@ -67,7 +67,7 @@
         "en": "mr_y_smri__t1__aseg__ccp_mean"
     },
     "question": {
-        "en": "Average T1-weighted intensity in Subcortical ROI: posterior corpus callosum"
+        "en": "Average T1-weighted intensity in Subcortical ROI: Posterior corpus callosum"
     },
     "responseOptions": {
         "valueType": [

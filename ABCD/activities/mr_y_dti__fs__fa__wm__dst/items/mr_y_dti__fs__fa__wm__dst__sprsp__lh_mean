@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__wm__dst__sprsp__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; white matter) in Destrieux ROI: superior part of the precentral sulcus (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI; White matter) in Destrieux ROI: Superior part of the precentral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

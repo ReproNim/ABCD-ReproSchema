@@ -57,7 +57,7 @@
         "en": "fc_y_as__safe_001c"
     },
     "question": {
-        "en": "How safe from harm (physical, emotional) do you feel at this place? [Place 3]"
+        "en": "Place 3: How safe from harm (Physical, emotional) do you feel at this place?"
     },
     "responseOptions": {
         "valueType": [

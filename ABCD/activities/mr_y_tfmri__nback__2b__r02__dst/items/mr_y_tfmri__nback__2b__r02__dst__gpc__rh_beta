@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2b__r02__dst__gpc__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: 2-back; run 2) in Destrieux ROI: postcentral gyrus (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - 2-back; Run 2) in Destrieux ROI: Postcentral gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

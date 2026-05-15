@@ -52,7 +52,7 @@
         "en": "le_l_parks__addr2__parks__tc10_count"
     },
     "question": {
-        "en": "Total number of open parks (top coded at 10) [NaNDA; census tract] (Address 2) (address 2)"
+        "en": "Total number of open parks (Top coded at 10) [NaNDA; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

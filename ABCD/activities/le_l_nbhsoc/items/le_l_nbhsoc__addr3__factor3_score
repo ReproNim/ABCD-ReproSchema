@@ -52,7 +52,7 @@
         "en": "le_l_nbhsoc__addr3__factor3_score"
     },
     "question": {
-        "en": "Neighborhood factor 3 score [NaNDA, ACS 2013-2017; census tract] (Address 3) (address 3)"
+        "en": "Neighborhood factor 3 score [NaNDA, ACS 2013-2017; census tract] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

@@ -25,7 +25,7 @@
         {
             "column": "name_nda",
             "source": "nbdc",
-            "value": "su_y_hair_length"
+            "value": "su_y_hair_length_lab"
         },
         {
             "column": "url_table",

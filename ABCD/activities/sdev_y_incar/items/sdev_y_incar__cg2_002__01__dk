@@ -1,0 +1,56 @@
+{
+    "id": "sdev_y_incar__cg2_002__01__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Parental Incarceration"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_incar__cg2_002__01__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_incar_0023"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_incar"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_incar__cg2_002__01__dk"
+    },
+    "question": {
+        "en": "Caregiver 2: How many times did that person go to jail or prison while you were growing up? [Non-response] [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

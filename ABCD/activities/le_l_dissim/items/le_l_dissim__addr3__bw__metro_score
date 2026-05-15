@@ -52,7 +52,7 @@
         "en": "le_l_dissim__addr3__bw__metro_score"
     },
     "question": {
-        "en": "Black-White dissimilarity index [ACS 2014-2018; metro-level] (Address 3) (address 3)"
+        "en": "Black-White dissimilarity index [ACS 2014-2018; metro-level] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

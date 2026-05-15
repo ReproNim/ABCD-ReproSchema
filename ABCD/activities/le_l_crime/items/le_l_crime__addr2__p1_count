@@ -57,7 +57,7 @@
         "en": "le_l_crime__addr2__p1_count"
     },
     "question": {
-        "en": "Total adult offenses [Uniform Crime Reports] (Address 2) (address 2)"
+        "en": "Total adult offenses [Uniform Crime Reports] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

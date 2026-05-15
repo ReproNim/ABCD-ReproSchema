@@ -1,0 +1,66 @@
+{
+    "id": "sips_p_dysmood_004__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_general"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_gen_dys_004_02_01"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_dysmood_004__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_dysmood_0019"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_dysmood"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_dysmood_004__01"
+    },
+    "question": {
+        "en": "Have you had thoughts of harming yourself or ending your life? Have you ever attempted suicide? For endorsement of suicidal ideation or behavior, consult site emergency management plan: Onset - Month [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

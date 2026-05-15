@@ -52,7 +52,7 @@
         "en": "covid_l_geocount__addr4__deaths_count__db1"
     },
     "question": {
-        "en": "Johns Hopkins COVID-19 cumulative death count county-level. 1 days before questionnaire dissemenation date (Address 4)"
+        "en": "Johns Hopkins COVID-19 cumulative death count county-level. 1 days before questionnaire dissemenation date (address 4)"
     },
     "responseOptions": {
         "valueType": [

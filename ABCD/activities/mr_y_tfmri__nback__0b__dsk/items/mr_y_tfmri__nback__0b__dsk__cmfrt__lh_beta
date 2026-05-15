@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__0b__dsk__cmfrt__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: 0-back; all runs) in Desikan ROI: caudal middle frontal (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - 0-back; All runs) in Desikan ROI: Caudal middle frontal (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

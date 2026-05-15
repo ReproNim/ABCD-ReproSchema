@@ -67,7 +67,7 @@
         "en": "mr_y_dti__is__fa__gwc__dst__scm__rh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (inner shell DTI; gray/white contrast) in Destrieux ROI: marginal branch of the cingulate sulcus (right hemisphere)"
+        "en": "Average fractional anisotropy (inner shell DTI: Gray/white contrast) in Destrieux ROI: Marginal branch of the cingulate sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

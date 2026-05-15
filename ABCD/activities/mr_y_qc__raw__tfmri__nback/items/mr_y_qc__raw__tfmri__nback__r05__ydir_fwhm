@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__nback__r05__ydir_fwhm"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task (run 5): Full width half max in y direction"
+        "en": "Task fMRI - Emotional N-Back task (Run 5): Full width half max in y direction"
     },
     "responseOptions": {
         "valueType": [

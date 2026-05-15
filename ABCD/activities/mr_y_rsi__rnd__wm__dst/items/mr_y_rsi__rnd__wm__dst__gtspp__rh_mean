@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__rnd__wm__dst__gtspp__rh_mean"
     },
     "question": {
-        "en": "Average restricted normalized directional diffusion (white matter) in Destrieux ROI: planum polare of the superior temporal gyrus (right hemisphere)"
+        "en": "Average restricted normalized directional diffusion (White matter) in Destrieux ROI: Planum polare of the superior temporal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

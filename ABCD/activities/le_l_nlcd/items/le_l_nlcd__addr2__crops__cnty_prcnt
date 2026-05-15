@@ -52,7 +52,7 @@
         "en": "le_l_nlcd__addr2__crops__cnty_prcnt"
     },
     "question": {
-        "en": "Percent classified as Cultivated Crops [NLCD 2016; county] (Address 2) (address 2)"
+        "en": "Percent classified as Cultivated Crops [NLCD 2016; county] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

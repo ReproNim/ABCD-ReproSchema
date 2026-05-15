@@ -67,7 +67,7 @@
         "en": "covid_p_qtn_006___1"
     },
     "question": {
-        "en": "In the past week, our family has (check all that apply; by your choice rather than because it's closed): [Engaged in \"social distancing\""
+        "en": "In the past week, our family has (by your choice rather than because it's closed) [Multi-select]: Engaged in \"social distancing\""
     },
     "responseOptions": {
         "valueType": [

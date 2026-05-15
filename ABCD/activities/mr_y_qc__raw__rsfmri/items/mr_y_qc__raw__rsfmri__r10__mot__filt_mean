@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__rsfmri__r10__mot__filt_mean"
     },
     "question": {
-        "en": "Resting State fMRI (run 10): Mean framewise displacement using the filtering technique"
+        "en": "Resting State fMRI (Run 10): Mean framewise displacement using the filtering technique"
     },
     "responseOptions": {
         "valueType": [

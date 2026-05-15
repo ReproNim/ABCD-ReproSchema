@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0203"
+            "value": "ph_p_meds_0205"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_002__01"
     },
     "question": {
-        "en": "RX 2: Has your child taken this medication in the last two weeks? [Parent]"
+        "en": "Prescription - Medication 2: Has your child taken this medication in the last two weeks? [Parent]"
     },
     "responseOptions": {
         "valueType": [

@@ -77,7 +77,7 @@
         "en": "ph_p_meds__otc_015__01__06__01"
     },
     "question": {
-        "en": "OTC 15: How long ago did h/she take the medication? [Parent]"
+        "en": "Over the counter - Medication 15: How long ago did h/she take the medication? [Parent]"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "sdev_p_vt_006___1"
     },
     "question": {
-        "en": "Social Development visit information [Parent]: Did the participant assented to participation into the Social Development Substudy? [Yes]"
+        "en": "Social Development visit information [Parent]: Did the participant assent to participation into the Social Development Substudy [Multi-select]: Yes"
     },
     "responseOptions": {
         "valueType": [

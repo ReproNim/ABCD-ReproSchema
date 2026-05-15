@@ -67,7 +67,7 @@
         "en": "mr_y_dti__is__fa__gm__dst__gpis__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (inner shell DTI; gray matter) in Destrieux ROI: supramarginal gyrus (left hemisphere)"
+        "en": "Average fractional anisotropy (inner shell DTI; Gray matter) in Destrieux ROI: Supramarginal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

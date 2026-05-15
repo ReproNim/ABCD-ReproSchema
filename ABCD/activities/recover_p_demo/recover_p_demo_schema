@@ -1,0 +1,851 @@
+{
+    "id": "recover_p_demo_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_demo"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_demo_dt",
+            "items/recover_p_demo_age",
+            "items/recover_p_demo_lang",
+            "items/recover_p_demo_ver",
+            "items/recover_p_demo_001",
+            "items/recover_p_demo__country_001",
+            "items/recover_p_demo__dob_001",
+            "items/recover_p_demo__ethnrace_001___1",
+            "items/recover_p_demo__ethnrace_001___2",
+            "items/recover_p_demo__ethnrace_001___3",
+            "items/recover_p_demo__ethnrace_001___4",
+            "items/recover_p_demo__ethnrace_001___5",
+            "items/recover_p_demo__ethnrace_001___6",
+            "items/recover_p_demo__ethnrace_001___7",
+            "items/recover_p_demo__ethnrace_001___333",
+            "items/recover_p_demo__ethnrace_001___777",
+            "items/recover_p_demo__ethnrace_001___999",
+            "items/recover_p_demo__ethnrace_001__asian___1",
+            "items/recover_p_demo__ethnrace_001__asian___2",
+            "items/recover_p_demo__ethnrace_001__asian___3",
+            "items/recover_p_demo__ethnrace_001__asian___4",
+            "items/recover_p_demo__ethnrace_001__asian___5",
+            "items/recover_p_demo__ethnrace_001__asian___6",
+            "items/recover_p_demo__ethnrace_001__asian___7",
+            "items/recover_p_demo__ethnrace_001__asian___8",
+            "items/recover_p_demo__ethnrace_001__asian___9",
+            "items/recover_p_demo__ethnrace_001__asian___15",
+            "items/recover_p_demo__ethnrace_001__asian___777",
+            "items/recover_p_demo__ethnrace_001__asian___999",
+            "items/recover_p_demo__ethnrace_001__black___1",
+            "items/recover_p_demo__ethnrace_001__black___2",
+            "items/recover_p_demo__ethnrace_001__black___3",
+            "items/recover_p_demo__ethnrace_001__black___4",
+            "items/recover_p_demo__ethnrace_001__black___5",
+            "items/recover_p_demo__ethnrace_001__black___6",
+            "items/recover_p_demo__ethnrace_001__black___7",
+            "items/recover_p_demo__ethnrace_001__black___8",
+            "items/recover_p_demo__ethnrace_001__black___9",
+            "items/recover_p_demo__ethnrace_001__black___10",
+            "items/recover_p_demo__ethnrace_001__black___11",
+            "items/recover_p_demo__ethnrace_001__black___15",
+            "items/recover_p_demo__ethnrace_001__black___777",
+            "items/recover_p_demo__ethnrace_001__black___999",
+            "items/recover_p_demo__ethnrace_001__hisp___1",
+            "items/recover_p_demo__ethnrace_001__hisp___2",
+            "items/recover_p_demo__ethnrace_001__hisp___3",
+            "items/recover_p_demo__ethnrace_001__hisp___4",
+            "items/recover_p_demo__ethnrace_001__hisp___5",
+            "items/recover_p_demo__ethnrace_001__hisp___6",
+            "items/recover_p_demo__ethnrace_001__hisp___7",
+            "items/recover_p_demo__ethnrace_001__hisp___8",
+            "items/recover_p_demo__ethnrace_001__hisp___9",
+            "items/recover_p_demo__ethnrace_001__hisp___15",
+            "items/recover_p_demo__ethnrace_001__hisp___777",
+            "items/recover_p_demo__ethnrace_001__hisp___999",
+            "items/recover_p_demo__ethnrace_001__mideast___1",
+            "items/recover_p_demo__ethnrace_001__mideast___2",
+            "items/recover_p_demo__ethnrace_001__mideast___3",
+            "items/recover_p_demo__ethnrace_001__mideast___4",
+            "items/recover_p_demo__ethnrace_001__mideast___5",
+            "items/recover_p_demo__ethnrace_001__mideast___6",
+            "items/recover_p_demo__ethnrace_001__mideast___7",
+            "items/recover_p_demo__ethnrace_001__mideast___8",
+            "items/recover_p_demo__ethnrace_001__mideast___9",
+            "items/recover_p_demo__ethnrace_001__mideast___10",
+            "items/recover_p_demo__ethnrace_001__mideast___15",
+            "items/recover_p_demo__ethnrace_001__mideast___777",
+            "items/recover_p_demo__ethnrace_001__mideast___999",
+            "items/recover_p_demo__ethnrace_001__nhpi___1",
+            "items/recover_p_demo__ethnrace_001__nhpi___2",
+            "items/recover_p_demo__ethnrace_001__nhpi___3",
+            "items/recover_p_demo__ethnrace_001__nhpi___4",
+            "items/recover_p_demo__ethnrace_001__nhpi___5",
+            "items/recover_p_demo__ethnrace_001__nhpi___6",
+            "items/recover_p_demo__ethnrace_001__nhpi___7",
+            "items/recover_p_demo__ethnrace_001__nhpi___8",
+            "items/recover_p_demo__ethnrace_001__nhpi___9",
+            "items/recover_p_demo__ethnrace_001__nhpi___10",
+            "items/recover_p_demo__ethnrace_001__nhpi___11",
+            "items/recover_p_demo__ethnrace_001__nhpi___12",
+            "items/recover_p_demo__ethnrace_001__nhpi___13",
+            "items/recover_p_demo__ethnrace_001__nhpi___14",
+            "items/recover_p_demo__ethnrace_001__nhpi___15",
+            "items/recover_p_demo__ethnrace_001__nhpi___777",
+            "items/recover_p_demo__ethnrace_001__nhpi___999",
+            "items/recover_p_demo__ethnrace_001__ntvam___1",
+            "items/recover_p_demo__ethnrace_001__ntvam___2",
+            "items/recover_p_demo__ethnrace_001__ntvam___3",
+            "items/recover_p_demo__ethnrace_001__ntvam___333",
+            "items/recover_p_demo__ethnrace_001__ntvam___777",
+            "items/recover_p_demo__ethnrace_001__ntvam___999",
+            "items/recover_p_demo__ethnrace_001__white___1",
+            "items/recover_p_demo__ethnrace_001__white___2",
+            "items/recover_p_demo__ethnrace_001__white___3",
+            "items/recover_p_demo__ethnrace_001__white___4",
+            "items/recover_p_demo__ethnrace_001__white___5",
+            "items/recover_p_demo__ethnrace_001__white___6",
+            "items/recover_p_demo__ethnrace_001__white___7",
+            "items/recover_p_demo__ethnrace_001__white___8",
+            "items/recover_p_demo__ethnrace_001__white___9",
+            "items/recover_p_demo__ethnrace_001__white___10",
+            "items/recover_p_demo__ethnrace_001__white___11",
+            "items/recover_p_demo__ethnrace_001__white___15",
+            "items/recover_p_demo__ethnrace_001__white___777",
+            "items/recover_p_demo__ethnrace_001__white___999",
+            "items/recover_p_demo__gender_001",
+            "items/recover_p_demo__gender_001__01___1",
+            "items/recover_p_demo__gender_001__01___2",
+            "items/recover_p_demo__gender_001__01___3",
+            "items/recover_p_demo__gender_001__01___4",
+            "items/recover_p_demo__gender_001__01___5",
+            "items/recover_p_demo__gender_001__01___6",
+            "items/recover_p_demo__gender_001__01___333",
+            "items/recover_p_demo__gender_001__01___777",
+            "items/recover_p_demo__gender_001__01___999",
+            "items/recover_p_demo__lang_001",
+            "items/recover_p_demo__lang_002___0",
+            "items/recover_p_demo__lang_002___1",
+            "items/recover_p_demo__lang_002___2",
+            "items/recover_p_demo__lang_002___3",
+            "items/recover_p_demo__lang_002___4",
+            "items/recover_p_demo__lang_002___5",
+            "items/recover_p_demo__lang_002___6",
+            "items/recover_p_demo__lang_002___7",
+            "items/recover_p_demo__lang_002___8",
+            "items/recover_p_demo__lang_002___9",
+            "items/recover_p_demo__lang_002___10",
+            "items/recover_p_demo__lang_002___11",
+            "items/recover_p_demo__lang_002___12",
+            "items/recover_p_demo__lang_002___13",
+            "items/recover_p_demo__lang_002___14",
+            "items/recover_p_demo__lang_002___15",
+            "items/recover_p_demo__lang_002___16",
+            "items/recover_p_demo__lang_002___777",
+            "items/recover_p_demo__lang_002___999",
+            "items/recover_p_demo__school_001",
+            "items/recover_p_demo__school_001__01",
+            "items/recover_p_demo__school_001__02",
+            "items/recover_p_demo__sex_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_demo_dt",
+                "isVis": true,
+                "variableName": "recover_p_demo_dt"
+            },
+            {
+                "isAbout": "items/recover_p_demo_age",
+                "isVis": true,
+                "variableName": "recover_p_demo_age"
+            },
+            {
+                "isAbout": "items/recover_p_demo_lang",
+                "isVis": true,
+                "variableName": "recover_p_demo_lang"
+            },
+            {
+                "isAbout": "items/recover_p_demo_ver",
+                "isVis": true,
+                "variableName": "recover_p_demo_ver"
+            },
+            {
+                "isAbout": "items/recover_p_demo_001",
+                "isVis": true,
+                "variableName": "recover_p_demo_001"
+            },
+            {
+                "isAbout": "items/recover_p_demo__country_001",
+                "isVis": true,
+                "variableName": "recover_p_demo__country_001"
+            },
+            {
+                "isAbout": "items/recover_p_demo__dob_001",
+                "isVis": true,
+                "variableName": "recover_p_demo__dob_001"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___4",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___4"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___5",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___5"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___6",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___6"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___7",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___7"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___333",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___333"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___4",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___4"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___5",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___5"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___6",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___6"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___7",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___7"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___8",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___8"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___9",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___9"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___15",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___15"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__asian___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__asian___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___4",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___4"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___5",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___5"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___6",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___6"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___7",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___7"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___8",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___8"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___9",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___9"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___10",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___10"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___11",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___11"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___15",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___15"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__black___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__black___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___4",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___4"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___5",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___5"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___6",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___6"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___7",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___7"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___8",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___8"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___9",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___9"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___15",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___15"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__hisp___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__hisp___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___4",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___4"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___5",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___5"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___6",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___6"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___7",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___7"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___8",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___8"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___9",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___9"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___10",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___10"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___15",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___15"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__mideast___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__mideast___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___4",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___4"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___5",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___5"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___6",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___6"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___7",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___7"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___8",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___8"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___9",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___9"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___10",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___10"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___11",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___11"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___12",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___12"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___13",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___13"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___14",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___14"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___15",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___15"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__nhpi___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__nhpi___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__ntvam___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__ntvam___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__ntvam___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__ntvam___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__ntvam___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__ntvam___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__ntvam___333",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__ntvam___333"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__ntvam___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__ntvam___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__ntvam___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__ntvam___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___4",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___4"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___5",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___5"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___6",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___6"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___7",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___7"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___8",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___8"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___9",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___9"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___10",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___10"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___11",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___11"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___15",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___15"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__ethnrace_001__white___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__ethnrace_001__white___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001__01___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001__01___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001__01___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001__01___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001__01___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001__01___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001__01___4",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001__01___4"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001__01___5",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001__01___5"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001__01___6",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001__01___6"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001__01___333",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001__01___333"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001__01___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001__01___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__gender_001__01___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__gender_001__01___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_001",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_001"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___0",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___0"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___1",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___1"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___2",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___2"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___3",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___3"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___4",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___4"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___5",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___5"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___6",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___6"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___7",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___7"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___8",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___8"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___9",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___9"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___10",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___10"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___11",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___11"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___12",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___12"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___13",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___13"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___14",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___14"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___15",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___15"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___16",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___16"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___777",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___777"
+            },
+            {
+                "isAbout": "items/recover_p_demo__lang_002___999",
+                "isVis": true,
+                "variableName": "recover_p_demo__lang_002___999"
+            },
+            {
+                "isAbout": "items/recover_p_demo__school_001",
+                "isVis": true,
+                "variableName": "recover_p_demo__school_001"
+            },
+            {
+                "isAbout": "items/recover_p_demo__school_001__01",
+                "isVis": true,
+                "variableName": "recover_p_demo__school_001__01"
+            },
+            {
+                "isAbout": "items/recover_p_demo__school_001__02",
+                "isVis": true,
+                "variableName": "recover_p_demo__school_001__02"
+            },
+            {
+                "isAbout": "items/recover_p_demo__sex_001",
+                "isVis": true,
+                "variableName": "recover_p_demo__sex_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

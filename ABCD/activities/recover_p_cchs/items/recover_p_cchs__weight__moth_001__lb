@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_cchs__weight__moth_001__lb",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "pounds (lb)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "child_current_health_status"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "cchs_bmwtlb"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_cchs__weight__moth_001__lb"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_cchs_0024"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_cchs"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_cchs__weight__moth_001__lb"
+    },
+    "question": {
+        "en": "How much does the youth\u2019s birth mother weigh without clothes or shoes in pounds?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

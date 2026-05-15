@@ -52,7 +52,7 @@
         "en": "le_l_nbhsoc__addr3__college_prop"
     },
     "question": {
-        "en": "Proportion with Bachelor's Degree or Higher [NaNDA, ACS 2013-2017; census tract] (Address 3) (address 3)"
+        "en": "Proportion with Bachelor's Degree or Higher [NaNDA, ACS 2013-2017; census tract] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

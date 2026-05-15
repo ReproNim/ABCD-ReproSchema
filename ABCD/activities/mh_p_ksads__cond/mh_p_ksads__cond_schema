@@ -7,6 +7,379 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
+            "items/mh_p_ksads__cond_age",
+            "items/mh_p_ksads__cond_dtt",
+            "items/mh_p_ksads__cond__past_001",
+            "items/mh_p_ksads__cond__past_001__01",
+            "items/mh_p_ksads__cond__past_002",
+            "items/mh_p_ksads__cond__past_002__01",
+            "items/mh_p_ksads__cond__past_003",
+            "items/mh_p_ksads__cond__past_003__01",
+            "items/mh_p_ksads__cond__past_004",
+            "items/mh_p_ksads__cond__past_004__01",
+            "items/mh_p_ksads__cond__past_005",
+            "items/mh_p_ksads__cond__past_005__01",
+            "items/mh_p_ksads__cond__past_006",
+            "items/mh_p_ksads__cond__past_006__01",
+            "items/mh_p_ksads__cond__past_006__02",
+            "items/mh_p_ksads__cond__past_007",
+            "items/mh_p_ksads__cond__past_007__01",
+            "items/mh_p_ksads__cond__past_008",
+            "items/mh_p_ksads__cond__past_008__01",
+            "items/mh_p_ksads__cond__past_009",
+            "items/mh_p_ksads__cond__past_009__01",
+            "items/mh_p_ksads__cond__past_010",
+            "items/mh_p_ksads__cond__past_010__01",
+            "items/mh_p_ksads__cond__pres_001",
+            "items/mh_p_ksads__cond__pres_002",
+            "items/mh_p_ksads__cond__pres_003",
+            "items/mh_p_ksads__cond__pres_004",
+            "items/mh_p_ksads__cond__pres_005",
+            "items/mh_p_ksads__cond__pres_006",
+            "items/mh_p_ksads__cond__pres_006__01",
+            "items/mh_p_ksads__cond__pres_007",
+            "items/mh_p_ksads__cond__pres_008",
+            "items/mh_p_ksads__cond__pres_009",
+            "items/mh_p_ksads__cond__pres_010",
+            "items/mh_p_ksads__cond__screen__past_001",
+            "items/mh_p_ksads__cond__screen__past_001__01",
+            "items/mh_p_ksads__cond__screen__past_002",
+            "items/mh_p_ksads__cond__screen__past_002__01",
+            "items/mh_p_ksads__cond__screen__past_002__02",
+            "items/mh_p_ksads__cond__screen__past_003",
+            "items/mh_p_ksads__cond__screen__past_003__01",
+            "items/mh_p_ksads__cond__screen__past_003__02",
+            "items/mh_p_ksads__cond__screen__past_004",
+            "items/mh_p_ksads__cond__screen__past_004__01",
+            "items/mh_p_ksads__cond__screen__past_005",
+            "items/mh_p_ksads__cond__screen__past_005__01",
+            "items/mh_p_ksads__cond__screen__past_006a__mo",
+            "items/mh_p_ksads__cond__screen__past_006a__yr",
+            "items/mh_p_ksads__cond__screen__past_006aa__mo",
+            "items/mh_p_ksads__cond__screen__past_006aa__yr",
+            "items/mh_p_ksads__cond__screen__past_006ab__mo",
+            "items/mh_p_ksads__cond__screen__past_006ab__yr",
+            "items/mh_p_ksads__cond__screen__past_006ac__mo",
+            "items/mh_p_ksads__cond__screen__past_006ac__yr",
+            "items/mh_p_ksads__cond__screen__past_006ad__mo",
+            "items/mh_p_ksads__cond__screen__past_006ad__yr",
+            "items/mh_p_ksads__cond__screen__past_006ae__mo",
+            "items/mh_p_ksads__cond__screen__past_006ae__yr",
+            "items/mh_p_ksads__cond__screen__past_006b__mo",
+            "items/mh_p_ksads__cond__screen__past_006b__yr",
+            "items/mh_p_ksads__cond__screen__past_006c__mo",
+            "items/mh_p_ksads__cond__screen__past_006c__yr",
+            "items/mh_p_ksads__cond__screen__past_006d__mo",
+            "items/mh_p_ksads__cond__screen__past_006d__yr",
+            "items/mh_p_ksads__cond__screen__past_006e__mo",
+            "items/mh_p_ksads__cond__screen__past_006e__yr",
+            "items/mh_p_ksads__cond__screen__past_006f__mo",
+            "items/mh_p_ksads__cond__screen__past_006f__yr",
+            "items/mh_p_ksads__cond__screen__past_006g__mo",
+            "items/mh_p_ksads__cond__screen__past_006g__yr",
+            "items/mh_p_ksads__cond__screen__past_006h__mo",
+            "items/mh_p_ksads__cond__screen__past_006h__yr",
+            "items/mh_p_ksads__cond__screen__past_006i__mo",
+            "items/mh_p_ksads__cond__screen__past_006i__yr",
+            "items/mh_p_ksads__cond__screen__past_006j__mo",
+            "items/mh_p_ksads__cond__screen__past_006j__worst__mo",
+            "items/mh_p_ksads__cond__screen__past_006j__worst__yr",
+            "items/mh_p_ksads__cond__screen__past_006j__yr",
+            "items/mh_p_ksads__cond__screen__past_006k__mo",
+            "items/mh_p_ksads__cond__screen__past_006k__yr",
+            "items/mh_p_ksads__cond__screen__past_006l__mo",
+            "items/mh_p_ksads__cond__screen__past_006l__yr",
+            "items/mh_p_ksads__cond__screen__past_006m__mo",
+            "items/mh_p_ksads__cond__screen__past_006m__yr",
+            "items/mh_p_ksads__cond__screen__past_006n__mo",
+            "items/mh_p_ksads__cond__screen__past_006n__yr",
+            "items/mh_p_ksads__cond__screen__past_006o__mo",
+            "items/mh_p_ksads__cond__screen__past_006o__yr",
+            "items/mh_p_ksads__cond__screen__past_006p__mo",
+            "items/mh_p_ksads__cond__screen__past_006p__yr",
+            "items/mh_p_ksads__cond__screen__past_006q__mo",
+            "items/mh_p_ksads__cond__screen__past_006q__yr",
+            "items/mh_p_ksads__cond__screen__past_006r__mo",
+            "items/mh_p_ksads__cond__screen__past_006r__yr",
+            "items/mh_p_ksads__cond__screen__past_006s__mo",
+            "items/mh_p_ksads__cond__screen__past_006s__yr",
+            "items/mh_p_ksads__cond__screen__past_006t__mo",
+            "items/mh_p_ksads__cond__screen__past_006t__yr",
+            "items/mh_p_ksads__cond__screen__past_006u__mo",
+            "items/mh_p_ksads__cond__screen__past_006u__yr",
+            "items/mh_p_ksads__cond__screen__past_006v__mo",
+            "items/mh_p_ksads__cond__screen__past_006v__yr",
+            "items/mh_p_ksads__cond__screen__past_006w__mo",
+            "items/mh_p_ksads__cond__screen__past_006w__yr",
+            "items/mh_p_ksads__cond__screen__past_006x__mo",
+            "items/mh_p_ksads__cond__screen__past_006x__yr",
+            "items/mh_p_ksads__cond__screen__past_006y__mo",
+            "items/mh_p_ksads__cond__screen__past_006y__yr",
+            "items/mh_p_ksads__cond__screen__past_006z__mo",
+            "items/mh_p_ksads__cond__screen__past_006z__yr",
+            "items/mh_p_ksads__cond__screen__pres_001",
+            "items/mh_p_ksads__cond__screen__pres_002",
+            "items/mh_p_ksads__cond__screen__pres_003",
+            "items/mh_p_ksads__cond__screen__pres_003__01",
+            "items/mh_p_ksads__cond__screen__pres_004",
+            "items/mh_p_ksads__cond__screen__pres_005",
+            "items/mh_p_ksads__cond__screen__pres_006a__mo",
+            "items/mh_p_ksads__cond__screen__pres_006a__yr",
+            "items/mh_p_ksads__cond__screen__pres_006aa__mo",
+            "items/mh_p_ksads__cond__screen__pres_006aa__yr",
+            "items/mh_p_ksads__cond__screen__pres_006ab__mo",
+            "items/mh_p_ksads__cond__screen__pres_006ab__yr",
+            "items/mh_p_ksads__cond__screen__pres_006ac__mo",
+            "items/mh_p_ksads__cond__screen__pres_006ac__yr",
+            "items/mh_p_ksads__cond__screen__pres_006ad__mo",
+            "items/mh_p_ksads__cond__screen__pres_006ad__yr",
+            "items/mh_p_ksads__cond__screen__pres_006ae__mo",
+            "items/mh_p_ksads__cond__screen__pres_006ae__yr",
+            "items/mh_p_ksads__cond__screen__pres_006b__mo",
+            "items/mh_p_ksads__cond__screen__pres_006b__yr",
+            "items/mh_p_ksads__cond__screen__pres_006c__mo",
+            "items/mh_p_ksads__cond__screen__pres_006c__yr",
+            "items/mh_p_ksads__cond__screen__pres_006d__mo",
+            "items/mh_p_ksads__cond__screen__pres_006d__yr",
+            "items/mh_p_ksads__cond__screen__pres_006e__mo",
+            "items/mh_p_ksads__cond__screen__pres_006e__yr",
+            "items/mh_p_ksads__cond__screen__pres_006f__mo",
+            "items/mh_p_ksads__cond__screen__pres_006f__yr",
+            "items/mh_p_ksads__cond__screen__pres_006g__mo",
+            "items/mh_p_ksads__cond__screen__pres_006g__yr",
+            "items/mh_p_ksads__cond__screen__pres_006h__mo",
+            "items/mh_p_ksads__cond__screen__pres_006h__yr",
+            "items/mh_p_ksads__cond__screen__pres_006i__mo",
+            "items/mh_p_ksads__cond__screen__pres_006i__yr",
+            "items/mh_p_ksads__cond__screen__pres_006j__mo",
+            "items/mh_p_ksads__cond__screen__pres_006j__yr",
+            "items/mh_p_ksads__cond__screen__pres_006k__mo",
+            "items/mh_p_ksads__cond__screen__pres_006k__yr",
+            "items/mh_p_ksads__cond__screen__pres_006l__mo",
+            "items/mh_p_ksads__cond__screen__pres_006l__yr",
+            "items/mh_p_ksads__cond__screen__pres_006m__mo",
+            "items/mh_p_ksads__cond__screen__pres_006m__yr",
+            "items/mh_p_ksads__cond__screen__pres_006n__mo",
+            "items/mh_p_ksads__cond__screen__pres_006n__yr",
+            "items/mh_p_ksads__cond__screen__pres_006o__mo",
+            "items/mh_p_ksads__cond__screen__pres_006o__yr",
+            "items/mh_p_ksads__cond__screen__pres_006p__mo",
+            "items/mh_p_ksads__cond__screen__pres_006p__yr",
+            "items/mh_p_ksads__cond__screen__pres_006q__mo",
+            "items/mh_p_ksads__cond__screen__pres_006q__yr",
+            "items/mh_p_ksads__cond__screen__pres_006r__mo",
+            "items/mh_p_ksads__cond__screen__pres_006r__yr",
+            "items/mh_p_ksads__cond__screen__pres_006s__mo",
+            "items/mh_p_ksads__cond__screen__pres_006s__yr",
+            "items/mh_p_ksads__cond__screen__pres_006t__mo",
+            "items/mh_p_ksads__cond__screen__pres_006t__yr",
+            "items/mh_p_ksads__cond__screen__pres_006u__mo",
+            "items/mh_p_ksads__cond__screen__pres_006u__yr",
+            "items/mh_p_ksads__cond__screen__pres_006v__mo",
+            "items/mh_p_ksads__cond__screen__pres_006v__yr",
+            "items/mh_p_ksads__cond__screen__pres_006w__mo",
+            "items/mh_p_ksads__cond__screen__pres_006w__yr",
+            "items/mh_p_ksads__cond__screen__pres_006x__mo",
+            "items/mh_p_ksads__cond__screen__pres_006x__yr",
+            "items/mh_p_ksads__cond__screen__pres_006y__mo",
+            "items/mh_p_ksads__cond__screen__pres_006y__yr",
+            "items/mh_p_ksads__cond__screen__pres_006z__mo",
+            "items/mh_p_ksads__cond__screen__pres_006z__yr",
+            "items/mh_p_ksads__cond_001___1",
+            "items/mh_p_ksads__cond_001___2",
+            "items/mh_p_ksads__cond_001___3",
+            "items/mh_p_ksads__cond_001___4",
+            "items/mh_p_ksads__cond_001___5",
+            "items/mh_p_ksads__cond_001___6",
+            "items/mh_p_ksads__cond_001___7",
+            "items/mh_p_ksads__cond_001___8",
+            "items/mh_p_ksads__cond_001___9",
+            "items/mh_p_ksads__cond_001___10",
+            "items/mh_p_ksads__cond_001___11",
+            "items/mh_p_ksads__cond_001___12",
+            "items/mh_p_ksads__cond_002___1",
+            "items/mh_p_ksads__cond_002___2",
+            "items/mh_p_ksads__cond_002___3",
+            "items/mh_p_ksads__cond_002___4",
+            "items/mh_p_ksads__cond_002___5",
+            "items/mh_p_ksads__cond_002___6",
+            "items/mh_p_ksads__cond_002___7",
+            "items/mh_p_ksads__cond_002___8",
+            "items/mh_p_ksads__cond_002___9",
+            "items/mh_p_ksads__cond_002___10",
+            "items/mh_p_ksads__cond_002___11",
+            "items/mh_p_ksads__cond_002___12",
+            "items/mh_p_ksads__cond_003___1",
+            "items/mh_p_ksads__cond_003___2",
+            "items/mh_p_ksads__cond_003___3",
+            "items/mh_p_ksads__cond_003___4",
+            "items/mh_p_ksads__cond_003___5",
+            "items/mh_p_ksads__cond_003___6",
+            "items/mh_p_ksads__cond_003___7",
+            "items/mh_p_ksads__cond_003___8",
+            "items/mh_p_ksads__cond_003___9",
+            "items/mh_p_ksads__cond_003___10",
+            "items/mh_p_ksads__cond_003___11",
+            "items/mh_p_ksads__cond_003___12",
+            "items/mh_p_ksads__cond_004___1",
+            "items/mh_p_ksads__cond_004___2",
+            "items/mh_p_ksads__cond_004___3",
+            "items/mh_p_ksads__cond_004___4",
+            "items/mh_p_ksads__cond_004___5",
+            "items/mh_p_ksads__cond_004___6",
+            "items/mh_p_ksads__cond_004___7",
+            "items/mh_p_ksads__cond_004___8",
+            "items/mh_p_ksads__cond_004___9",
+            "items/mh_p_ksads__cond_004___10",
+            "items/mh_p_ksads__cond_004___11",
+            "items/mh_p_ksads__cond_004___12",
+            "items/mh_p_ksads__cond_005___1",
+            "items/mh_p_ksads__cond_005___2",
+            "items/mh_p_ksads__cond_005___3",
+            "items/mh_p_ksads__cond_005___4",
+            "items/mh_p_ksads__cond_005___5",
+            "items/mh_p_ksads__cond_005___6",
+            "items/mh_p_ksads__cond_005___7",
+            "items/mh_p_ksads__cond_005___8",
+            "items/mh_p_ksads__cond_005___9",
+            "items/mh_p_ksads__cond_005___10",
+            "items/mh_p_ksads__cond_005___11",
+            "items/mh_p_ksads__cond_005___12",
+            "items/mh_p_ksads__cond_006___1",
+            "items/mh_p_ksads__cond_006___2",
+            "items/mh_p_ksads__cond_006___3",
+            "items/mh_p_ksads__cond_006___4",
+            "items/mh_p_ksads__cond_006___5",
+            "items/mh_p_ksads__cond_006___6",
+            "items/mh_p_ksads__cond_006___7",
+            "items/mh_p_ksads__cond_006___8",
+            "items/mh_p_ksads__cond_006___9",
+            "items/mh_p_ksads__cond_006___10",
+            "items/mh_p_ksads__cond_006___11",
+            "items/mh_p_ksads__cond_006___12",
+            "items/mh_p_ksads__cond_007___1",
+            "items/mh_p_ksads__cond_007___2",
+            "items/mh_p_ksads__cond_007___3",
+            "items/mh_p_ksads__cond_007___4",
+            "items/mh_p_ksads__cond_007___5",
+            "items/mh_p_ksads__cond_007___6",
+            "items/mh_p_ksads__cond_007___7",
+            "items/mh_p_ksads__cond_007___8",
+            "items/mh_p_ksads__cond_007___9",
+            "items/mh_p_ksads__cond_007___10",
+            "items/mh_p_ksads__cond_007___11",
+            "items/mh_p_ksads__cond_007___12",
+            "items/mh_p_ksads__cond_008___1",
+            "items/mh_p_ksads__cond_008___2",
+            "items/mh_p_ksads__cond_008___3",
+            "items/mh_p_ksads__cond_008___4",
+            "items/mh_p_ksads__cond_008___5",
+            "items/mh_p_ksads__cond_008___6",
+            "items/mh_p_ksads__cond_008___7",
+            "items/mh_p_ksads__cond_008___8",
+            "items/mh_p_ksads__cond_008___9",
+            "items/mh_p_ksads__cond_008___10",
+            "items/mh_p_ksads__cond_008___11",
+            "items/mh_p_ksads__cond_008___12",
+            "items/mh_p_ksads__cond_009___1",
+            "items/mh_p_ksads__cond_009___2",
+            "items/mh_p_ksads__cond_009___3",
+            "items/mh_p_ksads__cond_009___4",
+            "items/mh_p_ksads__cond_009___5",
+            "items/mh_p_ksads__cond_009___6",
+            "items/mh_p_ksads__cond_009___7",
+            "items/mh_p_ksads__cond_009___8",
+            "items/mh_p_ksads__cond_009___9",
+            "items/mh_p_ksads__cond_009___10",
+            "items/mh_p_ksads__cond_009___11",
+            "items/mh_p_ksads__cond_009___12",
+            "items/mh_p_ksads__cond_010___1",
+            "items/mh_p_ksads__cond_010___2",
+            "items/mh_p_ksads__cond_010___3",
+            "items/mh_p_ksads__cond_010___4",
+            "items/mh_p_ksads__cond_010___5",
+            "items/mh_p_ksads__cond_010___6",
+            "items/mh_p_ksads__cond_010___7",
+            "items/mh_p_ksads__cond_010___8",
+            "items/mh_p_ksads__cond_010___9",
+            "items/mh_p_ksads__cond_010___10",
+            "items/mh_p_ksads__cond_010___11",
+            "items/mh_p_ksads__cond_010___12",
+            "items/mh_p_ksads__cond_011___1",
+            "items/mh_p_ksads__cond_011___2",
+            "items/mh_p_ksads__cond_011___3",
+            "items/mh_p_ksads__cond_011___4",
+            "items/mh_p_ksads__cond_011___5",
+            "items/mh_p_ksads__cond_011___6",
+            "items/mh_p_ksads__cond_011___7",
+            "items/mh_p_ksads__cond_011___8",
+            "items/mh_p_ksads__cond_011___9",
+            "items/mh_p_ksads__cond_011___10",
+            "items/mh_p_ksads__cond_011___11",
+            "items/mh_p_ksads__cond_011___12",
+            "items/mh_p_ksads__cond_012___1",
+            "items/mh_p_ksads__cond_012___2",
+            "items/mh_p_ksads__cond_012___3",
+            "items/mh_p_ksads__cond_012___4",
+            "items/mh_p_ksads__cond_012___5",
+            "items/mh_p_ksads__cond_012___6",
+            "items/mh_p_ksads__cond_012___7",
+            "items/mh_p_ksads__cond_012___8",
+            "items/mh_p_ksads__cond_012___9",
+            "items/mh_p_ksads__cond_012___10",
+            "items/mh_p_ksads__cond_012___11",
+            "items/mh_p_ksads__cond_012___12",
+            "items/mh_p_ksads__cond_013___1",
+            "items/mh_p_ksads__cond_013___2",
+            "items/mh_p_ksads__cond_013___3",
+            "items/mh_p_ksads__cond_013___4",
+            "items/mh_p_ksads__cond_013___5",
+            "items/mh_p_ksads__cond_013___6",
+            "items/mh_p_ksads__cond_013___7",
+            "items/mh_p_ksads__cond_013___8",
+            "items/mh_p_ksads__cond_013___9",
+            "items/mh_p_ksads__cond_013___10",
+            "items/mh_p_ksads__cond_013___11",
+            "items/mh_p_ksads__cond_013___12",
+            "items/mh_p_ksads__cond_014___1",
+            "items/mh_p_ksads__cond_014___2",
+            "items/mh_p_ksads__cond_014___3",
+            "items/mh_p_ksads__cond_014___4",
+            "items/mh_p_ksads__cond_014___5",
+            "items/mh_p_ksads__cond_014___6",
+            "items/mh_p_ksads__cond_014___7",
+            "items/mh_p_ksads__cond_014___8",
+            "items/mh_p_ksads__cond_014___9",
+            "items/mh_p_ksads__cond_014___10",
+            "items/mh_p_ksads__cond_014___11",
+            "items/mh_p_ksads__cond_014___12",
+            "items/mh_p_ksads__cond_015___1",
+            "items/mh_p_ksads__cond_015___2",
+            "items/mh_p_ksads__cond_015___3",
+            "items/mh_p_ksads__cond_015___4",
+            "items/mh_p_ksads__cond_015___5",
+            "items/mh_p_ksads__cond_015___6",
+            "items/mh_p_ksads__cond_015___7",
+            "items/mh_p_ksads__cond_015___8",
+            "items/mh_p_ksads__cond_015___9",
+            "items/mh_p_ksads__cond_015___10",
+            "items/mh_p_ksads__cond_015___11",
+            "items/mh_p_ksads__cond_015___12",
+            "items/mh_p_ksads__cond_016",
+            "items/mh_p_ksads__cond_017",
+            "items/mh_p_ksads__cond_018",
+            "items/mh_p_ksads__cond_019",
+            "items/mh_p_ksads__cond_020",
+            "items/mh_p_ksads__cond_021",
+            "items/mh_p_ksads__cond_022",
+            "items/mh_p_ksads__cond_023",
+            "items/mh_p_ksads__cond_024",
+            "items/mh_p_ksads__cond_025",
+            "items/mh_p_ksads__cond_026",
+            "items/mh_p_ksads__cond_027",
+            "items/mh_p_ksads__cond_028",
+            "items/mh_p_ksads__cond_029",
+            "items/mh_p_ksads__cond_030",
             "items/mh_p_ksads__cond__breakin__past_sx",
             "items/mh_p_ksads__cond__breakin__pres_sx",
             "items/mh_p_ksads__cond__bully__past_sx",
@@ -20,12 +393,18 @@
             "items/mh_p_ksads__cond__forcesex__pres_sx",
             "items/mh_p_ksads__cond__lies__past_sx",
             "items/mh_p_ksads__cond__lies__pres_sx",
+            "items/mh_p_ksads__cond__onset__adoles__past_dx",
+            "items/mh_p_ksads__cond__onset__adoles__pres_dx",
+            "items/mh_p_ksads__cond__onset__chld__past_dx",
+            "items/mh_p_ksads__cond__onset__chld__pres_dx",
             "items/mh_p_ksads__cond__outlate__past_sx",
             "items/mh_p_ksads__cond__outlate__pres_sx",
+            "items/mh_p_ksads__cond__past__sx_mean",
             "items/mh_p_ksads__cond__physcruel__anml__past_sx",
             "items/mh_p_ksads__cond__physcruel__anml__pres_sx",
             "items/mh_p_ksads__cond__physcruel__ppl__past_sx",
             "items/mh_p_ksads__cond__physcruel__ppl__pres_sx",
+            "items/mh_p_ksads__cond__pres__sx_mean",
             "items/mh_p_ksads__cond__rob__past_sx",
             "items/mh_p_ksads__cond__rob__pres_sx",
             "items/mh_p_ksads__cond__runaway__past_sx",
@@ -37,13 +416,1874 @@
             "items/mh_p_ksads__cond__vandal__past_sx",
             "items/mh_p_ksads__cond__vandal__pres_sx",
             "items/mh_p_ksads__cond__weapon__past_sx",
-            "items/mh_p_ksads__cond__weapon__pres_sx",
-            "items/mh_p_ksads__cond__onset__adoles__past_dx",
-            "items/mh_p_ksads__cond__onset__adoles__pres_dx",
-            "items/mh_p_ksads__cond__onset__chld__past_dx",
-            "items/mh_p_ksads__cond__onset__chld__pres_dx"
+            "items/mh_p_ksads__cond__weapon__pres_sx"
         ],
         "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__cond_age",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_age"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_dtt",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_001__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_002__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_002__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_003__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_003__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_004__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_004__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_005__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_005__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_006",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_006"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_006__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_006__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_006__02",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_006__02"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_007",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_007"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_007__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_007__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_008",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_008"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_008__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_008__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_009",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_009"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_009__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_009__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_010",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_010"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past_010__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past_010__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_006",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_006"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_006__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_006__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_007",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_007"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_008",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_008"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_009",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_009"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres_010",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres_010"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_001__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_002__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_002__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_002__02",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_002__02"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_003__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_003__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_003__02",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_003__02"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_004__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_004__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_005__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_005__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006a__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006a__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006a__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006a__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006aa__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006aa__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006aa__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006aa__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006ab__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006ab__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006ab__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006ab__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006ac__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006ac__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006ac__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006ac__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006ad__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006ad__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006ad__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006ad__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006ae__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006ae__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006ae__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006ae__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006b__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006b__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006b__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006b__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006c__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006c__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006c__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006c__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006d__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006d__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006d__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006d__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006e__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006e__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006e__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006e__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006f__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006f__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006f__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006f__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006g__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006g__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006g__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006g__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006h__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006h__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006h__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006h__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006i__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006i__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006i__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006i__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006j__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006j__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006j__worst__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006j__worst__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006j__worst__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006j__worst__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006j__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006j__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006k__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006k__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006k__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006k__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006l__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006l__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006l__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006l__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006m__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006m__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006m__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006m__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006n__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006n__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006n__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006n__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006o__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006o__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006o__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006o__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006p__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006p__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006p__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006p__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006q__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006q__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006q__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006q__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006r__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006r__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006r__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006r__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006s__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006s__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006s__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006s__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006t__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006t__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006t__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006t__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006u__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006u__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006u__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006u__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006v__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006v__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006v__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006v__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006w__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006w__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006w__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006w__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006x__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006x__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006x__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006x__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006y__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006y__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006y__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006y__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006z__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006z__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__past_006z__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__past_006z__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_003__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_003__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006a__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006a__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006a__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006a__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006aa__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006aa__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006aa__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006aa__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006ab__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006ab__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006ab__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006ab__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006ac__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006ac__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006ac__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006ac__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006ad__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006ad__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006ad__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006ad__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006ae__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006ae__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006ae__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006ae__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006b__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006b__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006b__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006b__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006c__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006c__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006c__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006c__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006d__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006d__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006d__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006d__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006e__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006e__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006e__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006e__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006f__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006f__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006f__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006f__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006g__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006g__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006g__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006g__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006h__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006h__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006h__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006h__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006i__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006i__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006i__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006i__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006j__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006j__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006j__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006j__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006k__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006k__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006k__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006k__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006l__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006l__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006l__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006l__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006m__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006m__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006m__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006m__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006n__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006n__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006n__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006n__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006o__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006o__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006o__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006o__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006p__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006p__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006p__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006p__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006q__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006q__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006q__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006q__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006r__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006r__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006r__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006r__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006s__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006s__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006s__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006s__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006t__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006t__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006t__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006t__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006u__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006u__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006u__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006u__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006v__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006v__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006v__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006v__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006w__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006w__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006w__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006w__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006x__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006x__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006x__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006x__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006y__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006y__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006y__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006y__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006z__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006z__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__screen__pres_006z__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__screen__pres_006z__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_001___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_001___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_002___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_002___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_003___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_003___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_004___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_004___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_005___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_005___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_006___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_006___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_007___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_007___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_008___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_008___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_009___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_009___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_010___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_010___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_011___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_011___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_012___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_012___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_013___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_013___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_014___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_014___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_015___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_015___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_016",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_016"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_017",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_017"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_018",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_018"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_019",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_019"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_020",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_020"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_021",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_021"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_022",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_022"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_023",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_023"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_024",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_024"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_025",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_025"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_026",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_026"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_027",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_027"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_028",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_028"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_029",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_029"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond_030",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond_030"
+            },
             {
                 "isAbout": "items/mh_p_ksads__cond__breakin__past_sx",
                 "isVis": true,
@@ -110,6 +2350,26 @@
                 "variableName": "mh_p_ksads__cond__lies__pres_sx"
             },
             {
+                "isAbout": "items/mh_p_ksads__cond__onset__adoles__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__onset__adoles__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__onset__adoles__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__onset__adoles__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__onset__chld__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__onset__chld__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__onset__chld__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__onset__chld__pres_dx"
+            },
+            {
                 "isAbout": "items/mh_p_ksads__cond__outlate__past_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__cond__outlate__past_sx"
@@ -118,6 +2378,11 @@
                 "isAbout": "items/mh_p_ksads__cond__outlate__pres_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__cond__outlate__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__past__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__past__sx_mean"
             },
             {
                 "isAbout": "items/mh_p_ksads__cond__physcruel__anml__past_sx",
@@ -138,6 +2403,11 @@
                 "isAbout": "items/mh_p_ksads__cond__physcruel__ppl__pres_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__cond__physcruel__ppl__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__cond__pres__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__cond__pres__sx_mean"
             },
             {
                 "isAbout": "items/mh_p_ksads__cond__rob__past_sx",
@@ -198,30 +2468,10 @@
                 "isAbout": "items/mh_p_ksads__cond__weapon__pres_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__cond__weapon__pres_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__cond__onset__adoles__past_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__cond__onset__adoles__past_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__cond__onset__adoles__pres_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__cond__onset__adoles__pres_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__cond__onset__chld__past_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__cond__onset__chld__past_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__cond__onset__chld__pres_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__cond__onset__chld__pres_dx"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

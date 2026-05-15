@@ -52,7 +52,7 @@
         "en": "covid_l_geocen__addr4_pop__2019"
     },
     "question": {
-        "en": "US Census 2019 Population data county-level (Address 4)"
+        "en": "US Census 2019 Population data county-level (address 4)"
     },
     "responseOptions": {
         "valueType": [

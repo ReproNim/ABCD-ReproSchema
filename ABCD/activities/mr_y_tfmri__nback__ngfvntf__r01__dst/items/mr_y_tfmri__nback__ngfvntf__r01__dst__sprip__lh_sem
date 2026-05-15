@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__ngfvntf__r01__dst__sprip__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: negative face vs. neutral face; run 1) in Destrieux ROI: inferior part of the precentral sulcus (left hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Negative face vs. neutral face; Run 1) in Destrieux ROI: Inferior part of the precentral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

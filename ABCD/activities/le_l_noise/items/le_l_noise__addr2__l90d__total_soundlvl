@@ -52,7 +52,7 @@
         "en": "le_l_noise__addr2__l90d__total_soundlvl"
     },
     "question": {
-        "en": "L90 daytime existing (all sounds); 7am-7pm (Address 2) (address 2)"
+        "en": "L90 daytime existing (all sounds); 7am-7pm (Address 2)"
     },
     "responseOptions": {
         "valueType": [

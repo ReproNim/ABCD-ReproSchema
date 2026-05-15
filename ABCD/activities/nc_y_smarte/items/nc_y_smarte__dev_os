@@ -30,7 +30,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "smarte_ss_recall_computer_os"
+            "value": "smarte_ss_recall_computer_platform"
         },
         {
             "column": "url_table",

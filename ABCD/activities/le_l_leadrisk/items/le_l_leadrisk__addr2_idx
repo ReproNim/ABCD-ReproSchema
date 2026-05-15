@@ -57,7 +57,7 @@
         "en": "le_l_leadrisk__addr2_idx"
     },
     "question": {
-        "en": "Estimated lead risk (1-10 scale) [census tract] (Address 2) (address 2)"
+        "en": "Estimated lead risk (1-10 scale) [census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

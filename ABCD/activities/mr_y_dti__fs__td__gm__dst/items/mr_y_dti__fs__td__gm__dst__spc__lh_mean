@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__td__gm__dst__spc__lh_mean"
     },
     "question": {
-        "en": "Average transversal diffusivity (full shell DTI; gray matter) in Destrieux ROI: pericallosal sulcus (left hemisphere)"
+        "en": "Average transversal diffusivity (Full shell DTI; Gray matter) in Destrieux ROI: Pericallosal sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

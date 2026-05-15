@@ -52,7 +52,7 @@
         "en": "le_l_nlcd__addr1__shrub__cnty_prcnt"
     },
     "question": {
-        "en": "Percent classified as Shrub/Scrub [NLCD 2016; county] (Address 1) (address 1)"
+        "en": "Percent classified as Shrub/Scrub [NLCD 2016; county] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

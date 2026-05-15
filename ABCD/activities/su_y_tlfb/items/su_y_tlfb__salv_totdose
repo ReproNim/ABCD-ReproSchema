@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0857"
+            "value": "su_y_tlfb_0893"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__salv_totdose"
     },
     "question": {
-        "en": "Salvia: total dose"
+        "en": "Salvia: Total dose"
     },
     "responseOptions": {
         "valueType": [

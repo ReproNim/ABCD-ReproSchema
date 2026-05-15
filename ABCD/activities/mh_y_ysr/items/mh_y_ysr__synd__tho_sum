@@ -52,7 +52,7 @@
         "en": "mh_y_ysr__synd__tho_sum"
     },
     "question": {
-        "en": "Youth Self Report [Youth] (Syndrome Scale - Thought problems): Sum\n[Validation: No more than 0 missing or declined]"
+        "en": "Youth Self Report [Youth] (Syndrome Scale - Thought problems): Sum (excluding original YSR item 18) \n[Validation: No more than 0 missing or declined]"
     },
     "responseOptions": {
         "valueType": [

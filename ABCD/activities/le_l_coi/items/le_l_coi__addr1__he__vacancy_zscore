@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__he__vacancy_zscore"
     },
     "question": {
-        "en": "Housing Vacancy Rate- percentage housing units that are vacant, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1) (address 1)"
+        "en": "Housing Vacancy Rate- percentage housing units that are vacant, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

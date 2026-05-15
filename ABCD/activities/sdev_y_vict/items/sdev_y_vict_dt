@@ -47,7 +47,7 @@
         "en": "sdev_y_vict_dt"
     },
     "question": {
-        "en": "Victimization survey [Youth]: Date when collection was completed"
+        "en": "Victimization survey [Youth]: Date when data collection was completed"
     },
     "responseOptions": {
         "valueType": [

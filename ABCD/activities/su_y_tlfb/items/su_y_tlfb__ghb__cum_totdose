@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0168"
+            "value": "su_y_tlfb_0175"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__ghb__cum_totdose"
     },
     "question": {
-        "en": "GHB: total dose (Cumulative period)"
+        "en": "GHB: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "irma_p_qtn__pss_001"
     },
     "question": {
-        "en": "In the last month, how often have you been upset because of something that happened unexpectedly? [Parent]"
+        "en": "In the last month, how often have you been upset because of something that happened unexpectedly? [Parent; IRMA substudy]"
     },
     "responseOptions": {
         "valueType": [

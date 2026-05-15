@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2bv0b__r01__aseg__cwm__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: 2-back vs. 0-back; run 1) in Subcortical ROI: cerebral white matter (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - 2-back vs. 0-back; Run 1) in Subcortical ROI: Cerebral white matter (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "fc_y_meim_001__01___11"
     },
     "question": {
-        "en": "What ethnic groups do you consider yourself to be [Multi-select]: Middle Eastern/North African [Youth]"
+        "en": "What ethnic group(s)s do you consider yourself to be [Multi-select]: Middle Eastern/North African [Youth]"
     },
     "responseOptions": {
         "valueType": [

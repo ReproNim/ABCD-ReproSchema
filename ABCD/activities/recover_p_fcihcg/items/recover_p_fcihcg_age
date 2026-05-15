@@ -1,0 +1,62 @@
+{
+    "id": "recover_p_fcihcg_age",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_fcihcg_age"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_fcihcg_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_fcihcg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_fcihcg_age"
+    },
+    "question": {
+        "en": "Caregiver First COVID Infection History [Parent]: Youth's age at data collection"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

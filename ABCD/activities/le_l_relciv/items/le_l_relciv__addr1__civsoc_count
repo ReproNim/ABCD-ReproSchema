@@ -52,7 +52,7 @@
         "en": "le_l_relciv__addr1__civsoc_count"
     },
     "question": {
-        "en": "Count number all civic/social organizations [NaNDA; census tract] (Address 1) (address 1)"
+        "en": "Count number all civic/social organizations [NaNDA; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

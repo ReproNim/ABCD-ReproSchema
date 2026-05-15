@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__dst__sfs__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: face vs. place; all runs) in Destrieux ROI: superior frontal sulcus (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Face vs. place; All runs) in Destrieux ROI: Superior frontal sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0153"
+            "value": "su_y_tlfb_0160"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__dxm_totdose"
     },
     "question": {
-        "en": "Cough or cold medicine: total dose"
+        "en": "Cough or cold medicine: Total dose"
     },
     "responseOptions": {
         "valueType": [

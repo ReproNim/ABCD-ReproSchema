@@ -67,7 +67,7 @@
         "en": "ph_p_meds__otc_010__01"
     },
     "question": {
-        "en": "OTC 10: Has your child taken this medication in the last two weeks? [Parent]"
+        "en": "Over the counter - Medication 10: Has your child taken this medication in the last two weeks? [Parent]"
     },
     "responseOptions": {
         "valueType": [

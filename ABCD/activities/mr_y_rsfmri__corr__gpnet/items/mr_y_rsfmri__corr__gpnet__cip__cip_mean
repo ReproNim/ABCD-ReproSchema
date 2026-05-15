@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__cip__cip_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: cingulo-parietal & cingulo-parietal"
+        "en": "Average correlation between Gordon networks: Cingulo-parietal & cingulo-parietal"
     },
     "responseOptions": {
         "valueType": [

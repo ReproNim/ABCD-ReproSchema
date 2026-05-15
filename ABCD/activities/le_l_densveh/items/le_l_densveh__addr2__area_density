@@ -52,7 +52,7 @@
         "en": "le_l_densveh__addr2__area_density"
     },
     "question": {
-        "en": "Aggregate number of vehicles available per sq. mile of land area [ACS 2014-2018; census tract] (Address 2) (address 2)"
+        "en": "Aggregate number of vehicles available per sq. mile of land area [ACS 2014-2018; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

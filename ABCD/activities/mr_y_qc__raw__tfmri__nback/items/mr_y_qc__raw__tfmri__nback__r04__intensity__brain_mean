@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__nback__r04__intensity__brain_mean"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task (run 4): Mean intensity within brain mask"
+        "en": "Task fMRI - Emotional N-Back task (Run 4): Mean intensity within brain mask"
     },
     "responseOptions": {
         "valueType": [

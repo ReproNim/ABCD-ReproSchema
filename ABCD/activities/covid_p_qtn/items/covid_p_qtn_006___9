@@ -67,7 +67,7 @@
         "en": "covid_p_qtn_006___9"
     },
     "question": {
-        "en": "In the past week, our family has (check all that apply; by your choice rather than because it's closed): [Avoided stores (not including grocery stores or pharmacies)"
+        "en": "In the past week, our family has (by your choice rather than because it's closed) [Multi-select]: Avoided stores (not including grocery stores or pharmacies)"
     },
     "responseOptions": {
         "valueType": [

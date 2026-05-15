@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr2__ed__schpov_zscore"
     },
     "question": {
-        "en": "Teacher experience- percentage students in elementary schools eligible for free or reduced-price lunches, transformed to z-scores and multiplied by -1 [Education domain] (Address 2) (address 2)"
+        "en": "Teacher experience- percentage students in elementary schools eligible for free or reduced-price lunches, transformed to z-scores and multiplied by -1 [Education domain] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

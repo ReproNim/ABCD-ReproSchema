@@ -7,12 +7,68 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
+            "items/mh_y_ksads__sleep_age",
+            "items/mh_y_ksads__sleep_dtt",
+            "items/mh_y_ksads__sleep__screen__past_001",
+            "items/mh_y_ksads__sleep__screen__past_001__01",
+            "items/mh_y_ksads__sleep__screen__past_001__01__mo",
+            "items/mh_y_ksads__sleep__screen__past_001__01__yr",
+            "items/mh_y_ksads__sleep__screen__pres_001",
+            "items/mh_y_ksads__sleep__screen__pres_001__01__mo",
+            "items/mh_y_ksads__sleep__screen__pres_001__01__yr",
             "items/mh_y_ksads__sleep__insom__past_sx",
             "items/mh_y_ksads__sleep__insom__pres_sx",
+            "items/mh_y_ksads__sleep__past__sx_mean",
+            "items/mh_y_ksads__sleep__pres__sx_mean",
             "items/mh_y_ksads__sleep__prob__past_dx",
             "items/mh_y_ksads__sleep__prob__pres_dx"
         ],
         "addProperties": [
+            {
+                "isAbout": "items/mh_y_ksads__sleep_age",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep_age"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep_dtt",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep_dtt"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep__screen__past_001",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep__screen__past_001"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep__screen__past_001__01",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep__screen__past_001__01"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep__screen__past_001__01__mo",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep__screen__past_001__01__mo"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep__screen__past_001__01__yr",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep__screen__past_001__01__yr"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep__screen__pres_001",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep__screen__pres_001"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep__screen__pres_001__01__mo",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep__screen__pres_001__01__mo"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep__screen__pres_001__01__yr",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep__screen__pres_001__01__yr"
+            },
             {
                 "isAbout": "items/mh_y_ksads__sleep__insom__past_sx",
                 "isVis": true,
@@ -22,6 +78,16 @@
                 "isAbout": "items/mh_y_ksads__sleep__insom__pres_sx",
                 "isVis": true,
                 "variableName": "mh_y_ksads__sleep__insom__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep__past__sx_mean",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep__past__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_y_ksads__sleep__pres__sx_mean",
+                "isVis": true,
+                "variableName": "mh_y_ksads__sleep__pres__sx_mean"
             },
             {
                 "isAbout": "items/mh_y_ksads__sleep__prob__past_dx",
@@ -36,6 +102,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

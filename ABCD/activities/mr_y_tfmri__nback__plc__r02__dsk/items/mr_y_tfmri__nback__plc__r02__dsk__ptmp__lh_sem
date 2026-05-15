@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__plc__r02__dsk__ptmp__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: place; run 2) in Desikan ROI: temporal pole (left hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Place; Run 2) in Desikan ROI: Temporal pole (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

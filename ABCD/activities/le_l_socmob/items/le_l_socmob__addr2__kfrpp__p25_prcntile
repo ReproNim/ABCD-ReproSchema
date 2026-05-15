@@ -57,7 +57,7 @@
         "en": "le_l_socmob__addr2__kfrpp__p25_prcntile"
     },
     "question": {
-        "en": "Mean household income rank for children whose parents were at the 25th percentile of the national income distribution. Incomes for children were measured as mean earnings in 2014-2015 when they were between the ages 31-37 [opportunity atlas; census tract] (the 25th percentile variable is what is termed as ''upward mobility'' by Chetty, et al.) (Address 2) (address 2)"
+        "en": "Mean household income rank for children whose parents were at the 25th percentile of the national income distribution. Incomes for children were measured as mean earnings in 2014-2015 when they were between the ages 31-37 [opportunity atlas; census tract] (the 25th percentile variable is what is termed as ''upward mobility'' by Chetty, et al.) (Address 2)"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__csvis__dst__gsfm__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: correct stop vs. incorrect stop; all runs) in Destrieux ROI: fronto-marginal gyrus and sulcus (left hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Correct stop vs. incorrect stop; All runs) in Destrieux ROI: Fronto-marginal gyrus and sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -40,7 +40,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0517"
+            "value": "su_y_tlfb_0539"
         },
         {
             "column": "activity",
@@ -52,7 +52,7 @@
         "en": "su_y_tlfb__mj_totdose"
     },
     "question": {
-        "en": "Marijuana: total dose"
+        "en": "Marijuana: Total dose"
     },
     "responseOptions": {
         "valueType": [

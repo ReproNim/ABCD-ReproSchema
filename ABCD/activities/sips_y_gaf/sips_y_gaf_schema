@@ -1,0 +1,41 @@
+{
+    "id": "sips_y_gaf_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "sips_y_gaf"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/sips_y_gaf_dt",
+            "items/sips_y_gaf_age",
+            "items/sips_y_gaf__1yr_001",
+            "items/sips_y_gaf__curr_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/sips_y_gaf_dt",
+                "isVis": true,
+                "variableName": "sips_y_gaf_dt"
+            },
+            {
+                "isAbout": "items/sips_y_gaf_age",
+                "isVis": true,
+                "variableName": "sips_y_gaf_age"
+            },
+            {
+                "isAbout": "items/sips_y_gaf__1yr_001",
+                "isVis": true,
+                "variableName": "sips_y_gaf__1yr_001"
+            },
+            {
+                "isAbout": "items/sips_y_gaf__curr_001",
+                "isVis": true,
+                "variableName": "sips_y_gaf__curr_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

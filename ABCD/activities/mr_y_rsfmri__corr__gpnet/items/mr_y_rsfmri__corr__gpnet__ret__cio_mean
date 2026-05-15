@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__ret__cio_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: retrosplenial temporal & cingulo-opercular"
+        "en": "Average correlation between Gordon networks: Retrosplenial temporal & cingulo-opercular"
     },
     "responseOptions": {
         "valueType": [

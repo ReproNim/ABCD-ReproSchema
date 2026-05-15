@@ -57,7 +57,7 @@
         "en": "ab_g_dyn__visit__day1_dt"
     },
     "question": {
-        "en": "Visit information (day 1): Visit date"
+        "en": "Visit information: Visit date (Day 1)"
     },
     "responseOptions": {
         "valueType": [

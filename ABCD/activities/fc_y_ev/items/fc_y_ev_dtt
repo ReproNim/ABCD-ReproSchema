@@ -1,0 +1,67 @@
+{
+    "id": "fc_y_ev_dtt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Work & School"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_edu_vocation"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "edu_voc_start_time_y | y_edu_vocation_start_time"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_ev_dtt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_ev_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_ev"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_ev_dtt"
+    },
+    "question": {
+        "en": "Education & Vocation [Youth]: Date/time of collection start"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:dateTime"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

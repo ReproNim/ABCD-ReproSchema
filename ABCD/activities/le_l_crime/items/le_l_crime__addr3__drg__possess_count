@@ -57,7 +57,7 @@
         "en": "le_l_crime__addr3__drg__possess_count"
     },
     "question": {
-        "en": "Drug possession total [Uniform Crime Reports] (Address 3) (address 3)"
+        "en": "Drug possession total [Uniform Crime Reports] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

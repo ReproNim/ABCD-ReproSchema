@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__ed__prxhqece_zscore"
     },
     "question": {
-        "en": "High-quality early childhood education centers- number of NAEYC accredited centers within a 5-mile radius, converted to natural log units, transformed to z-scores [Education domain] (Address 1) (address 1)"
+        "en": "High-quality early childhood education centers- number of NAEYC accredited centers within a 5-mile radius, converted to natural log units, transformed to z-scores [Education domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

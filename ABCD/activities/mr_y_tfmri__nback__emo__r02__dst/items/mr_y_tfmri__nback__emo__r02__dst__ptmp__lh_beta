@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__emo__r02__dst__ptmp__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: emotion; run 2) in Destrieux ROI: temporal pole (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Emotion; Run 2) in Destrieux ROI: Temporal pole (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "fc_y_meim_001__01___8"
     },
     "question": {
-        "en": "What ethnic groups do you consider yourself to be [Multi-select]: South Asian (i.e. India, Pakistan, Bangladesh) [Youth]"
+        "en": "What ethnic group(s)s do you consider yourself to be [Multi-select]: South Asian (i.e. India, Pakistan, Bangladesh) [Youth]"
     },
     "responseOptions": {
         "valueType": [

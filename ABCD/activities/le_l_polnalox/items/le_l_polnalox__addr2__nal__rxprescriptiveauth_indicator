@@ -52,7 +52,7 @@
         "en": "le_l_polnalox__addr2__nal__rxprescriptiveauth_indicator"
     },
     "question": {
-        "en": "Indicates if Naloxone law allowing pharmacists prescriptive authority was effective at date of baseline visit (Address 2) (address 2)"
+        "en": "Indicates if Naloxone law allowing pharmacists prescriptive authority was effective at date of baseline visit (Address 2)"
     },
     "responseOptions": {
         "valueType": [

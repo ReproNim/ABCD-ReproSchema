@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__he__superfund_zscore"
     },
     "question": {
-        "en": "Industrial pollutants in air, water or soil- average number of Superfund sites within a 2-mile radius, converted to natural log units, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1) (address 1)"
+        "en": "Industrial pollutants in air, water or soil- average number of Superfund sites within a 2-mile radius, converted to natural log units, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

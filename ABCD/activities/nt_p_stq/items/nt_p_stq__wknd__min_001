@@ -72,7 +72,7 @@
         "en": "nt_p_stq__wknd__min_001"
     },
     "question": {
-        "en": "On a typical weekend, how much time per day do you: Watch \"or stream\" TV shows or movies? (such as Hulu, Netflix or Amazon, not including videos on YouTube): Minutes [Parent]"
+        "en": "On a typical weekend, how much time per day do you: Watch or stream movies, videos or TV shows?: Minutes [Parent]"
     },
     "responseOptions": {
         "valueType": [

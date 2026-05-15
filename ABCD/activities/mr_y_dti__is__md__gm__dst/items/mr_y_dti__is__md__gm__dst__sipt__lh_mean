@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__md__gm__dst__sipt__lh_mean"
     },
     "question": {
-        "en": "Average mean diffusivity (inner shell DTI; gray matter) in Destrieux ROI: intraparietal sulcus and transverse parietal sulci (left hemisphere)"
+        "en": "Average mean diffusivity (inner shell DTI; Gray matter) in Destrieux ROI: Intraparietal sulcus and transverse parietal sulci (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__ret__ret_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: retrosplenial temporal & retrosplenial temporal"
+        "en": "Average correlation between Gordon networks: Retrosplenial temporal & retrosplenial temporal"
     },
     "responseOptions": {
         "valueType": [

@@ -30,7 +30,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "bird_scr_computer_os"
+            "value": "bird_scr_computer_platform"
         },
         {
             "column": "url_table",

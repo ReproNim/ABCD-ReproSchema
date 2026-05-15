@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0459"
+            "value": "su_y_tlfb_0478"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__mj__tinc__est_totdose"
     },
     "question": {
-        "en": "Marijuana - Tinctures: total dose (Estimated period)"
+        "en": "Marijuana - Tinctures: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

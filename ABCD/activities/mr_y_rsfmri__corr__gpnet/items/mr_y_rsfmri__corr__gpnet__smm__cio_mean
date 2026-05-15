@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__smm__cio_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: sensorimotor mouth & cingulo-opercular"
+        "en": "Average correlation between Gordon networks: Sensorimotor mouth & cingulo-opercular"
     },
     "responseOptions": {
         "valueType": [

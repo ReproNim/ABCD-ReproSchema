@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__psfvntf__dst__stt__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: positive face vs. neutral face; all runs) in Destrieux ROI: transverse temporal sulcus (left hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Positive face vs. neutral face; All runs) in Destrieux ROI: Transverse temporal sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

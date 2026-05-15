@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0262"
+            "value": "ph_p_meds_0273"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "ph_p_meds__rx_006__01__05__01"
     },
     "question": {
-        "en": "RX 6: Select frequency (Choose per day/week/month)"
+        "en": "Prescription - Medication 6: Select frequency (Choose per day/week/month)"
     },
     "responseOptions": {
         "valueType": [

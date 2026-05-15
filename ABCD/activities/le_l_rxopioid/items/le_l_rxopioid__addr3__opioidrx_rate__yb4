@@ -52,7 +52,7 @@
         "en": "le_l_rxopioid__addr3__opioidrx_rate__yb4"
     },
     "question": {
-        "en": "Opioid prescription per 100K by state four years before baseline visit year (Address 3) (address 3)"
+        "en": "Opioid prescription per 100K by state four years before baseline visit year (Address 3)"
     },
     "responseOptions": {
         "valueType": [

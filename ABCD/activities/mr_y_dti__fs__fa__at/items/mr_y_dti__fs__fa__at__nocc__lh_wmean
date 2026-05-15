@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__at__nocc__lh_wmean"
     },
     "question": {
-        "en": "Weighted average fractional anisotropy (full shell DTI) in AtlasTrack fiber tract: all without corpus callosum (left hemisphere)"
+        "en": "Weighted average fractional anisotropy (Full shell DTI) in AtlasTrack fiber tract: All without corpus callosum (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "mr_y_tfmri__mid__qtn__r01_age"
     },
     "question": {
-        "en": "Task fMRI - MID - Post-Scan Questionnaire (run 1) [Youth]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Task fMRI - MID - Post-Scan Questionnaire (Run 1) [Youth]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

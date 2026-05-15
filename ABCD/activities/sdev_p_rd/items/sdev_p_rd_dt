@@ -47,7 +47,7 @@
         "en": "sdev_p_rd_dt"
     },
     "question": {
-        "en": "Parent Reported Delinquency: Date when collection was completed"
+        "en": "Parent Reported Delinquency: Date when data collection was completed"
     },
     "responseOptions": {
         "valueType": [

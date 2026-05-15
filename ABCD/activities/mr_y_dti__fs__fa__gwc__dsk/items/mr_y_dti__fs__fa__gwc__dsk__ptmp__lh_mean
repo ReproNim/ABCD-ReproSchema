@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gwc__dsk__ptmp__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray/white contrast) in Desikan ROI: temporal pole (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI: Gray/white contrast) in Desikan ROI: Temporal pole (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

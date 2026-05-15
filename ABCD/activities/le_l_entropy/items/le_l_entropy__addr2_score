@@ -52,7 +52,7 @@
         "en": "le_l_entropy__addr2_score"
     },
     "question": {
-        "en": "Multigroup Entropy Score [ACS 2014-2018; census tract] (Address 2) (address 2)"
+        "en": "Multigroup Entropy Score [ACS 2014-2018; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

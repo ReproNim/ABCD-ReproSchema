@@ -47,7 +47,7 @@
         "en": "sdev_p_nbh_dt"
     },
     "question": {
-        "en": "Perception of Neighborhood Scale: Date when collection was completed"
+        "en": "Perception of Neighborhood Scale: Date when data collection was completed"
     },
     "responseOptions": {
         "valueType": [

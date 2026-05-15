@@ -7,7 +7,7 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
-            "items/mr_y_qc__post__man__fmri__container_type",
+            "items/mr_y_qc__post__man__fmri__contain_type",
             "items/mr_y_qc__post__man__fmri__cutoff_score",
             "items/mr_y_qc__post__man__fmri__distort_score",
             "items/mr_y_qc__post__man__fmri__quality_score",
@@ -19,9 +19,9 @@
         ],
         "addProperties": [
             {
-                "isAbout": "items/mr_y_qc__post__man__fmri__container_type",
+                "isAbout": "items/mr_y_qc__post__man__fmri__contain_type",
                 "isVis": true,
-                "variableName": "mr_y_qc__post__man__fmri__container_type"
+                "variableName": "mr_y_qc__post__man__fmri__contain_type"
             },
             {
                 "isAbout": "items/mr_y_qc__post__man__fmri__cutoff_score",
@@ -66,6 +66,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

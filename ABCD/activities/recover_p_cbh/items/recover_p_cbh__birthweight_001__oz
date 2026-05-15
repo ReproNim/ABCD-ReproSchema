@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_cbh__birthweight_001__oz",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "ounces (oz)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "child_birth_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "cbh_bwoz"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_cbh__birthweight_001__oz"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_cbh_0012"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_cbh"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_cbh__birthweight_001__oz"
+    },
+    "question": {
+        "en": "Child birth weight: Ounces"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

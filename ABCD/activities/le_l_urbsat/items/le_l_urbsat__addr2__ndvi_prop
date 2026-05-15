@@ -52,7 +52,7 @@
         "en": "le_l_urbsat__addr2__ndvi_prop"
     },
     "question": {
-        "en": "Normalized difference vegetation index- (2017) fraction of pixel area with NDVI index over 0.2 [0 1] (Address 2) (address 2)"
+        "en": "Normalized difference vegetation index- (2017) fraction of pixel area with NDVI index over 0.2 [0 1] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,581 @@
+{
+    "id": "su_y_stc_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_stc"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_stc__alc__lowuse__onset_useage",
+            "items/su_y_stc__alc__lowuse__onset_visit",
+            "items/su_y_stc__alc__onset_useage",
+            "items/su_y_stc__alc__onset_visit",
+            "items/su_y_stc__alc__sip__onset_useage",
+            "items/su_y_stc__alc__sip__onset_visit",
+            "items/su_y_stc__cath__onset_useage",
+            "items/su_y_stc__cath__onset_visit",
+            "items/su_y_stc__cbd__onset_useage",
+            "items/su_y_stc__cbd__onset_visit",
+            "items/su_y_stc__coc__onset_useage",
+            "items/su_y_stc__coc__onset_visit",
+            "items/su_y_stc__dxm__onset_useage",
+            "items/su_y_stc__dxm__onset_visit",
+            "items/su_y_stc__flav__vape__onset_useage",
+            "items/su_y_stc__flav__vape__onset_visit",
+            "items/su_y_stc__ghb__onset_useage",
+            "items/su_y_stc__ghb__onset_visit",
+            "items/su_y_stc__hall__onset_useage",
+            "items/su_y_stc__hall__onset_visit",
+            "items/su_y_stc__inh__onset_useage",
+            "items/su_y_stc__inh__onset_visit",
+            "items/su_y_stc__ket__onset_useage",
+            "items/su_y_stc__ket__onset_visit",
+            "items/su_y_stc__mdma__onset_useage",
+            "items/su_y_stc__mdma__onset_visit",
+            "items/su_y_stc__meth__onset_useage",
+            "items/su_y_stc__meth__onset_visit",
+            "items/su_y_stc__mj__blunt__onset_useage",
+            "items/su_y_stc__mj__blunt__onset_visit",
+            "items/su_y_stc__mj__conc__onset_useage",
+            "items/su_y_stc__mj__conc__onset_visit",
+            "items/su_y_stc__mj__drink__onset_useage",
+            "items/su_y_stc__mj__drink__onset_visit",
+            "items/su_y_stc__mj__edbl__onset_useage",
+            "items/su_y_stc__mj__edbl__onset_visit",
+            "items/su_y_stc__mj__lowuse__onset_useage",
+            "items/su_y_stc__mj__lowuse__onset_visit",
+            "items/su_y_stc__mj__onset_useage",
+            "items/su_y_stc__mj__onset_visit",
+            "items/su_y_stc__mj__puff__onset_useage",
+            "items/su_y_stc__mj__puff__onset_visit",
+            "items/su_y_stc__mj__smoke__onset_useage",
+            "items/su_y_stc__mj__smoke__onset_visit",
+            "items/su_y_stc__mj__tinc__onset_useage",
+            "items/su_y_stc__mj__tinc__onset_visit",
+            "items/su_y_stc__mj__vape__flwr__onset_useage",
+            "items/su_y_stc__mj__vape__flwr__onset_visit",
+            "items/su_y_stc__mj__vape__oil__onset_useage",
+            "items/su_y_stc__mj__vape__oil__onset_visit",
+            "items/su_y_stc__mj__synth__onset_useage",
+            "items/su_y_stc__mj__synth__onset_visit",
+            "items/su_y_stc__nic__chew__onset_useage",
+            "items/su_y_stc__nic__chew__onset_visit",
+            "items/su_y_stc__nic__cig__onset_useage",
+            "items/su_y_stc__nic__cig__onset_visit",
+            "items/su_y_stc__nic__cigar__onset_useage",
+            "items/su_y_stc__nic__cigar__onset_visit",
+            "items/su_y_stc__nic__hookah__onset_useage",
+            "items/su_y_stc__nic__hookah__onset_visit",
+            "items/su_y_stc__nic__lowuse__onset_useage",
+            "items/su_y_stc__nic__lowuse__onset_visit",
+            "items/su_y_stc__nic__onset_useage",
+            "items/su_y_stc__nic__onset_visit",
+            "items/su_y_stc__nic__pipe__onset_useage",
+            "items/su_y_stc__nic__pipe__onset_visit",
+            "items/su_y_stc__nic__puff__onset_useage",
+            "items/su_y_stc__nic__puff__onset_visit",
+            "items/su_y_stc__nic__rplc__onset_useage",
+            "items/su_y_stc__nic__rplc__onset_visit",
+            "items/su_y_stc__nic__vape__onset_useage",
+            "items/su_y_stc__nic__vape__onset_visit",
+            "items/su_y_stc__opi__onset_useage",
+            "items/su_y_stc__opi__onset_visit",
+            "items/su_y_stc__oth__onset_useage",
+            "items/su_y_stc__oth__onset_visit",
+            "items/su_y_stc__roid__onset_useage",
+            "items/su_y_stc__roid__onset_visit",
+            "items/su_y_stc__rxopi__onset_useage",
+            "items/su_y_stc__rxopi__onset_visit",
+            "items/su_y_stc__rxsed__onset_useage",
+            "items/su_y_stc__rxsed__onset_visit",
+            "items/su_y_stc__rxstim__onset_useage",
+            "items/su_y_stc__rxstim__onset_visit",
+            "items/su_y_stc__salv__onset_useage",
+            "items/su_y_stc__salv__onset_visit",
+            "items/su_y_stc__shroom__onset_useage",
+            "items/su_y_stc__shroom__onset_visit",
+            "items/su_y_stc__su__lowuse__onset_useage",
+            "items/su_y_stc__su__lowuse__onset_visit",
+            "items/su_y_stc__su__onset_useage",
+            "items/su_y_stc__su__onset_visit",
+            "items/su_y_stc__su__oth__onset_useage",
+            "items/su_y_stc__su__oth__onset_visit"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_stc__alc__lowuse__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__alc__lowuse__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__alc__lowuse__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__alc__lowuse__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__alc__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__alc__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__alc__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__alc__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__alc__sip__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__alc__sip__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__alc__sip__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__alc__sip__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__cath__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__cath__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__cath__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__cath__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__cbd__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__cbd__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__cbd__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__cbd__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__coc__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__coc__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__coc__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__coc__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__dxm__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__dxm__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__dxm__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__dxm__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__flav__vape__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__flav__vape__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__flav__vape__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__flav__vape__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__ghb__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__ghb__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__ghb__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__ghb__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__hall__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__hall__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__hall__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__hall__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__inh__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__inh__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__inh__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__inh__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__ket__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__ket__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__ket__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__ket__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mdma__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mdma__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mdma__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mdma__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__meth__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__meth__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__meth__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__meth__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__blunt__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__blunt__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__blunt__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__blunt__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__conc__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__conc__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__conc__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__conc__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__drink__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__drink__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__drink__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__drink__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__edbl__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__edbl__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__edbl__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__edbl__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__lowuse__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__lowuse__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__lowuse__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__lowuse__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__puff__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__puff__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__puff__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__puff__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__smoke__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__smoke__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__smoke__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__smoke__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__tinc__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__tinc__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__tinc__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__tinc__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__vape__flwr__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__vape__flwr__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__vape__flwr__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__vape__flwr__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__vape__oil__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__vape__oil__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__vape__oil__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__vape__oil__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__synth__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__synth__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__mj__synth__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__mj__synth__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__chew__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__chew__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__chew__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__chew__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__cig__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__cig__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__cig__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__cig__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__cigar__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__cigar__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__cigar__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__cigar__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__hookah__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__hookah__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__hookah__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__hookah__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__lowuse__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__lowuse__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__lowuse__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__lowuse__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__pipe__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__pipe__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__pipe__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__pipe__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__puff__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__puff__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__puff__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__puff__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__rplc__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__rplc__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__rplc__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__rplc__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__vape__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__vape__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__nic__vape__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__nic__vape__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__opi__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__opi__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__opi__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__opi__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__oth__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__oth__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__oth__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__oth__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__roid__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__roid__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__roid__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__roid__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__rxopi__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__rxopi__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__rxopi__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__rxopi__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__rxsed__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__rxsed__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__rxsed__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__rxsed__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__rxstim__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__rxstim__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__rxstim__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__rxstim__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__salv__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__salv__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__salv__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__salv__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__shroom__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__shroom__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__shroom__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__shroom__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__su__lowuse__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__su__lowuse__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__su__lowuse__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__su__lowuse__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__su__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__su__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__su__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__su__onset_visit"
+            },
+            {
+                "isAbout": "items/su_y_stc__su__oth__onset_useage",
+                "isVis": true,
+                "variableName": "su_y_stc__su__oth__onset_useage"
+            },
+            {
+                "isAbout": "items/su_y_stc__su__oth__onset_visit",
+                "isVis": true,
+                "variableName": "su_y_stc__su__oth__onset_visit"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

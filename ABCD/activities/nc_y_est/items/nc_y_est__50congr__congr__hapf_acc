@@ -57,7 +57,7 @@
         "en": "nc_y_est__50congr__congr__hapf_acc"
     },
     "question": {
-        "en": "Emotional Stroop Task (EST): Accuracy rate (proportion correct) of correct congruent happy face trials in 50% congruent / 50% incongruent (i.e. equal) condition"
+        "en": "Emotional Stroop Task (EST): Accuracy rate (Proportion correct) of correct congruent happy face trials in 50% congruent / 50% incongruent (i.e. equal) condition"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "le_l_nlcd__addr3__haypst__cnty_prcnt"
     },
     "question": {
-        "en": "Percent classified as Hay/Pasture [NLCD 2016; county] (Address 3) (address 3)"
+        "en": "Percent classified as Hay/Pasture [NLCD 2016; county] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

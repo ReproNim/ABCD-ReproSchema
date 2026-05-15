@@ -52,7 +52,7 @@
         "en": "le_l_noise__addr3__24hmean__total_soundlvl"
     },
     "question": {
-        "en": "Day-night average sound level over 24-hour period, with night (10pm-7am) upweighted by 10 DB (Address 3) (address 3)"
+        "en": "Day-night average sound level over 24-hour period, with night (10pm-7am) upweighted by 10 DB (Address 3)"
     },
     "responseOptions": {
         "valueType": [

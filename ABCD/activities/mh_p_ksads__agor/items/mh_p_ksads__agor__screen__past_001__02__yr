@@ -1,0 +1,61 @@
+{
+    "id": "mh_p_ksads__agor__screen__past_001__02__yr",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Anxiety"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_p_ksads"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_p_ksads__agor__screen__past_001__02__yr"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_p_ksads_agor_0032"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_p_ksads__agor"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_p_ksads__agor__screen__past_001__02__yr"
+    },
+    "question": {
+        "en": "Several months your child was afraid to leave the house, ride in cars or buses, be in enclosed places like theatres or crowds, or be in open spaces like parking lots or bridges: When was that? If this happened more than once, let me know when it was the worst - Year"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

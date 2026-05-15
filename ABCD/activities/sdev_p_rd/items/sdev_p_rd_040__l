@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "sdev_p_rd_0168"
+            "value": "sdev_p_rd_0207"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "sdev_p_rd_040__l"
     },
     "question": {
-        "en": "Has your child sold marijuana (pot, grass, weed)? [Parent; Longitudinal]"
+        "en": "Has your child sold marijuana (Pot, grass, weed)? [Parent; Longitudinal]"
     },
     "responseOptions": {
         "valueType": [

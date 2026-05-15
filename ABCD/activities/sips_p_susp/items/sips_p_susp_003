@@ -1,0 +1,71 @@
+{
+    "id": "sips_p_susp_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions probe for paranoid ideas of reference, paranoid thinking or suspiciousness. They are rated on the SOPS P2 Scale at the end of the queries ."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_suspicious"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_susp_003"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_susp_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_susp_0035"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_susp"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_susp_003"
+    },
+    "question": {
+        "en": "Do you ever feel that you have to pay close attention to what's going on around you in order to feel safe? [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

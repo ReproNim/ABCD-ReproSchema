@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0305"
+            "value": "mr_y_qc_raw_dmri_0306"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r05__study_dt"
     },
     "question": {
-        "en": "Diffusion MRI (run 5): Study date"
+        "en": "Diffusion MRI (Run 5): Study date"
     },
     "responseOptions": {
         "valueType": [

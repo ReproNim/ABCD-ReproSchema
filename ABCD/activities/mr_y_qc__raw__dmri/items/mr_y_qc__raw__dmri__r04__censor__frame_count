@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0239"
+            "value": "mr_y_qc_raw_dmri_0240"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r04__censor__frame_count"
     },
     "question": {
-        "en": "Diffusion MRI (run 4): Number of frames with at least 1 censored slice"
+        "en": "Diffusion MRI (Run 4): Number of frames with at least 1 censored slice"
     },
     "responseOptions": {
         "valueType": [

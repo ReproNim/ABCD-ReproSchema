@@ -12,8 +12,12 @@
             "items/nt_y_earsadm__device_ver",
             "items/nt_y_earsadm__ears_ver",
             "items/nt_y_earsadm__appusage_indicator",
+            "items/nt_y_earsadm__appusage2_indicator",
             "items/nt_y_earsadm__keyinput_indicator",
-            "items/nt_y_earsadm__screenon_indicator"
+            "items/nt_y_earsadm__notification_indicator",
+            "items/nt_y_earsadm__screenon_indicator",
+            "items/nt_y_earsadm__stappusage_indicator",
+            "items/nt_y_earsadm__stdevusage_indicator"
         ],
         "addProperties": [
             {
@@ -42,18 +46,38 @@
                 "variableName": "nt_y_earsadm__appusage_indicator"
             },
             {
+                "isAbout": "items/nt_y_earsadm__appusage2_indicator",
+                "isVis": true,
+                "variableName": "nt_y_earsadm__appusage2_indicator"
+            },
+            {
                 "isAbout": "items/nt_y_earsadm__keyinput_indicator",
                 "isVis": true,
                 "variableName": "nt_y_earsadm__keyinput_indicator"
             },
             {
+                "isAbout": "items/nt_y_earsadm__notification_indicator",
+                "isVis": true,
+                "variableName": "nt_y_earsadm__notification_indicator"
+            },
+            {
                 "isAbout": "items/nt_y_earsadm__screenon_indicator",
                 "isVis": true,
                 "variableName": "nt_y_earsadm__screenon_indicator"
+            },
+            {
+                "isAbout": "items/nt_y_earsadm__stappusage_indicator",
+                "isVis": true,
+                "variableName": "nt_y_earsadm__stappusage_indicator"
+            },
+            {
+                "isAbout": "items/nt_y_earsadm__stdevusage_indicator",
+                "isVis": true,
+                "variableName": "nt_y_earsadm__stdevusage_indicator"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

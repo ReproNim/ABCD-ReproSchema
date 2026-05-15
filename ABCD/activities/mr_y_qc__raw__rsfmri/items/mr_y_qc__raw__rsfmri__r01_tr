@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__rsfmri__r01_tr"
     },
     "question": {
-        "en": "Resting State fMRI (run 1): Repetition time"
+        "en": "Resting State fMRI (Run 1): Repetition time"
     },
     "responseOptions": {
         "valueType": [

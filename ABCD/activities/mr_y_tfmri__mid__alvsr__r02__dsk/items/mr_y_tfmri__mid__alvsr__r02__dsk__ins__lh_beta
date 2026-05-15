@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvsr__r02__dsk__ins__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Monetary Incentive Delay task (contrast: anticipated large vs. small reward; run 2) in Desikan ROI: insula (left hemisphere)"
+        "en": "Average beta weight for Monetary Incentive Delay task (Contrast - Anticipated large vs. small reward; Run 2) in Desikan ROI: Insula (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

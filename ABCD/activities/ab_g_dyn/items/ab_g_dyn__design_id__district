@@ -52,7 +52,7 @@
         "en": "ab_g_dyn__design_id__district"
     },
     "question": {
-        "en": "Design/nesting: Anonymized school district ID based on National Center for Education Statistics (NCES) school IDs"
+        "en": "Design/nesting: Anonymized school district ID based on National Center for Education Statistics (NCES) school IDs [Cross-listed: le_l_sedaadm__distr_id]"
     },
     "responseOptions": {
         "valueType": [

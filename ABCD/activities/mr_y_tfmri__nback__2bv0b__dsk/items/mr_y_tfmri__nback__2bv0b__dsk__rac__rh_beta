@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2bv0b__dsk__rac__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: 2-back vs. 0-back; all runs) in Desikan ROI: rostral anterior cingulate (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - 2-back vs. 0-back; All runs) in Desikan ROI: Rostral anterior cingulate (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

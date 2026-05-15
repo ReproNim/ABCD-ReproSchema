@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__wm__dst__gstf__rh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; white matter) in Destrieux ROI: transverse frontopolar gyri and sulci (right hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI; White matter) in Destrieux ROI: Transverse frontopolar gyri and sulci (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

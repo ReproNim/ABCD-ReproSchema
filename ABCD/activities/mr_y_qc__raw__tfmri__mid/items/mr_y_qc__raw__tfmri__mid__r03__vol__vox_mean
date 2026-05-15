@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__tfmri__mid__r03__vol__vox_mean"
     },
     "question": {
-        "en": "Task fMRI - Monetary Incentive Delay task (run 3): Volume of single voxel"
+        "en": "Task fMRI - Monetary Incentive Delay task (Run 3): Volume of single voxel"
     },
     "responseOptions": {
         "valueType": [

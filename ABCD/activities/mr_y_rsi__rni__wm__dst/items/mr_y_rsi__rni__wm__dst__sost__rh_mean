@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__rni__wm__dst__sost__rh_mean"
     },
     "question": {
-        "en": "Average restricted normalized isotropic diffusion (white matter) in Destrieux ROI: superior occipital sulcus and transverse occipital sulcus (right hemisphere)"
+        "en": "Average restricted normalized isotropic diffusion (White matter) in Destrieux ROI: Superior occipital sulcus and transverse occipital sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

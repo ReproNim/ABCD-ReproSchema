@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__copd_preval"
     },
     "question": {
-        "en": "Chronic obstructive pulmonary disease among adults aged >=18 years; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "Chronic obstructive pulmonary disease among adults aged >=18 years; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

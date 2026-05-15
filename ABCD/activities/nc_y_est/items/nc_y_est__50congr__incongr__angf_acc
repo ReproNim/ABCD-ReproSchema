@@ -57,7 +57,7 @@
         "en": "nc_y_est__50congr__incongr__angf_acc"
     },
     "question": {
-        "en": "Emotional Stroop Task (EST): Accuracy rate (proportion correct) of correct incongruent angry face trials in 50% congruent / 50% incongruent (i.e. equal) condition"
+        "en": "Emotional Stroop Task (EST): Accuracy rate (Proportion correct) of correct incongruent angry face trials in 50% congruent / 50% incongruent (i.e. equal) condition"
     },
     "responseOptions": {
         "valueType": [

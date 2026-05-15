@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0800"
+            "value": "su_y_tlfb_0833"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__rxsed__cum_totdose"
     },
     "question": {
-        "en": "Prescription sedatives: total dose (Cumulative period)"
+        "en": "Prescription sedatives: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

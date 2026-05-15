@@ -62,7 +62,7 @@
         "en": "le_l_adi__addr3__rent_med"
     },
     "question": {
-        "en": "Median gross rent [Area Deprivation Index] (Address 3) (address 3)"
+        "en": "Median gross rent [Area Deprivation Index] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

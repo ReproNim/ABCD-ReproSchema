@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr3__nocar_prcnt"
     },
     "question": {
-        "en": "Percentage of occupied housing units without a motor vehicle [Area Deprivation Index] (Address 3) (address 3)"
+        "en": "Percentage of occupied housing units without a motor vehicle [Area Deprivation Index] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

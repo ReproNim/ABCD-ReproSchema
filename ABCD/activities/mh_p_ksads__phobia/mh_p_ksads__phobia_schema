@@ -7,6 +7,59 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
+            "items/mh_p_ksads__phobia_age",
+            "items/mh_p_ksads__phobia_dtt",
+            "items/mh_p_ksads__phobia__screen__past_001___1",
+            "items/mh_p_ksads__phobia__screen__past_001___2",
+            "items/mh_p_ksads__phobia__screen__past_001___3",
+            "items/mh_p_ksads__phobia__screen__past_001___4",
+            "items/mh_p_ksads__phobia__screen__past_001___5",
+            "items/mh_p_ksads__phobia__screen__past_001___6",
+            "items/mh_p_ksads__phobia__screen__past_001___7",
+            "items/mh_p_ksads__phobia__screen__past_001___8",
+            "items/mh_p_ksads__phobia__screen__past_001___9",
+            "items/mh_p_ksads__phobia__screen__past_001__01___1",
+            "items/mh_p_ksads__phobia__screen__past_001__01___2",
+            "items/mh_p_ksads__phobia__screen__past_001__01___3",
+            "items/mh_p_ksads__phobia__screen__past_001__01___4",
+            "items/mh_p_ksads__phobia__screen__past_001__01___5",
+            "items/mh_p_ksads__phobia__screen__past_001__01___6",
+            "items/mh_p_ksads__phobia__screen__past_001__01___7",
+            "items/mh_p_ksads__phobia__screen__past_001__01___8",
+            "items/mh_p_ksads__phobia__screen__past_001__01___9",
+            "items/mh_p_ksads__phobia__screen__past_002",
+            "items/mh_p_ksads__phobia__screen__past_003___1",
+            "items/mh_p_ksads__phobia__screen__past_003___2",
+            "items/mh_p_ksads__phobia__screen__past_003___3",
+            "items/mh_p_ksads__phobia__screen__past_003___4",
+            "items/mh_p_ksads__phobia__screen__past_003___5",
+            "items/mh_p_ksads__phobia__screen__past_003___6",
+            "items/mh_p_ksads__phobia__screen__past_004",
+            "items/mh_p_ksads__phobia__screen__past_005__01__mo",
+            "items/mh_p_ksads__phobia__screen__past_005__01__wk",
+            "items/mh_p_ksads__phobia__screen__past_005__01__yr",
+            "items/mh_p_ksads__phobia__screen__past_005__mo",
+            "items/mh_p_ksads__phobia__screen__past_005__yr",
+            "items/mh_p_ksads__phobia__screen__pres_001___1",
+            "items/mh_p_ksads__phobia__screen__pres_001___2",
+            "items/mh_p_ksads__phobia__screen__pres_001___3",
+            "items/mh_p_ksads__phobia__screen__pres_001___4",
+            "items/mh_p_ksads__phobia__screen__pres_001___5",
+            "items/mh_p_ksads__phobia__screen__pres_001___6",
+            "items/mh_p_ksads__phobia__screen__pres_001___7",
+            "items/mh_p_ksads__phobia__screen__pres_001___8",
+            "items/mh_p_ksads__phobia__screen__pres_001___9",
+            "items/mh_p_ksads__phobia__screen__pres_001___10",
+            "items/mh_p_ksads__phobia__screen__pres_002",
+            "items/mh_p_ksads__phobia__screen__pres_003___1",
+            "items/mh_p_ksads__phobia__screen__pres_003___2",
+            "items/mh_p_ksads__phobia__screen__pres_003___3",
+            "items/mh_p_ksads__phobia__screen__pres_003___4",
+            "items/mh_p_ksads__phobia__screen__pres_003___5",
+            "items/mh_p_ksads__phobia__screen__pres_003___6",
+            "items/mh_p_ksads__phobia__screen__pres_004",
+            "items/mh_p_ksads__phobia__screen__pres_005__mo",
+            "items/mh_p_ksads__phobia__screen__pres_005__yr",
             "items/mh_p_ksads__phobia__avoid__past_sx",
             "items/mh_p_ksads__phobia__avoid__pres_sx",
             "items/mh_p_ksads__phobia__distrs__past_sx",
@@ -17,11 +70,278 @@
             "items/mh_p_ksads__phobia__fear__pres_sx",
             "items/mh_p_ksads__phobia__imp__past_sx",
             "items/mh_p_ksads__phobia__imp__pres_sx",
-            "items/mh_p_ksads__phobia__spec__past_sx",
+            "items/mh_p_ksads__phobia__past__sx_mean",
             "items/mh_p_ksads__phobia__past_dx",
-            "items/mh_p_ksads__phobia__pres_dx"
+            "items/mh_p_ksads__phobia__pres__sx_mean",
+            "items/mh_p_ksads__phobia__pres_dx",
+            "items/mh_p_ksads__phobia__spec__past_sx"
         ],
         "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__phobia_age",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia_age"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia_dtt",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001__01___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001__01___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001__01___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001__01___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001__01___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001__01___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001__01___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001__01___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001__01___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001__01___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001__01___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001__01___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001__01___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001__01___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001__01___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001__01___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_001__01___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_001__01___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_003___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_003___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_003___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_003___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_003___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_003___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_003___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_003___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_003___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_003___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_003___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_003___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_005__01__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_005__01__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_005__01__wk",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_005__01__wk"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_005__01__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_005__01__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_005__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_005__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__past_005__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__past_005__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_001___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_001___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_003___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_003___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_003___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_003___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_003___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_003___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_003___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_003___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_003___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_003___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_003___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_003___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_005__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_005__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__screen__pres_005__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__screen__pres_005__yr"
+            },
             {
                 "isAbout": "items/mh_p_ksads__phobia__avoid__past_sx",
                 "isVis": true,
@@ -73,9 +393,9 @@
                 "variableName": "mh_p_ksads__phobia__imp__pres_sx"
             },
             {
-                "isAbout": "items/mh_p_ksads__phobia__spec__past_sx",
+                "isAbout": "items/mh_p_ksads__phobia__past__sx_mean",
                 "isVis": true,
-                "variableName": "mh_p_ksads__phobia__spec__past_sx"
+                "variableName": "mh_p_ksads__phobia__past__sx_mean"
             },
             {
                 "isAbout": "items/mh_p_ksads__phobia__past_dx",
@@ -83,13 +403,23 @@
                 "variableName": "mh_p_ksads__phobia__past_dx"
             },
             {
+                "isAbout": "items/mh_p_ksads__phobia__pres__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__pres__sx_mean"
+            },
+            {
                 "isAbout": "items/mh_p_ksads__phobia__pres_dx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__phobia__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__phobia__spec__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__phobia__spec__past_sx"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

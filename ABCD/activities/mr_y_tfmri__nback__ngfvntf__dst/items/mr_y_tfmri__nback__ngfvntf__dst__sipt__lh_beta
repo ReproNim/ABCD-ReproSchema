@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__ngfvntf__dst__sipt__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: negative face vs. neutral face; all runs) in Destrieux ROI: intraparietal sulcus and transverse parietal sulci (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Negative face vs. neutral face; All runs) in Destrieux ROI: Intraparietal sulcus and transverse parietal sulci (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

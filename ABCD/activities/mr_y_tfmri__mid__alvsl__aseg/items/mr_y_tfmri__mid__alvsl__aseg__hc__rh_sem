@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvsl__aseg__hc__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: anticipated large vs. small loss; all runs) in Subcortical ROI: hippocampus (right hemisphere)"
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (Contrast - Anticipated large vs. small loss; All runs) in Subcortical ROI: Hippocampus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

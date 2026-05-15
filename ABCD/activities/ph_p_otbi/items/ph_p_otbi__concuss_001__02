@@ -35,7 +35,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "tbi_8b"
+            "value": "tbi_8b | tbi_8b__v1"
         },
         {
             "column": "url_table",

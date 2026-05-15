@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2bv0b__r01__dst__gfio__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: 2-back vs. 0-back; run 1) in Destrieux ROI: opercular part of the inferior frontal gyrus (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - 2-back vs. 0-back; Run 1) in Destrieux ROI: Opercular part of the inferior frontal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

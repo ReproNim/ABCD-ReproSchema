@@ -52,7 +52,7 @@
         "en": "le_l_urbsat__addr1__pop_density"
     },
     "question": {
-        "en": "Population- (2017) WorldPop population density, people per pixel (Address 1) (address 1)"
+        "en": "Population- (2017) WorldPop population density, people per pixel (Address 1)"
     },
     "responseOptions": {
         "valueType": [

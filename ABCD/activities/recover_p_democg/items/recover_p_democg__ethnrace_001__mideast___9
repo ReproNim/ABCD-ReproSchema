@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_democg__ethnrace_001__mideast___9",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "You can choose one of more of these"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "demographics"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_cgmideast"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_democg__ethnrace_001__mideast___9"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_democg_0064"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_democg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_democg__ethnrace_001__mideast___9"
+    },
+    "question": {
+        "en": "Which of these Middle Eastern or North African groups best describe you? [Multi-select]: Syrian"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

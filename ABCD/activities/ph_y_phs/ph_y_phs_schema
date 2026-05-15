@@ -16,8 +16,18 @@
             "items/ph_y_phs_003__01",
             "items/ph_y_phs_004",
             "items/ph_y_phs_004__01",
-            "items/ph_y_phs__freeze_001",
             "items/ph_y_phs__lastmeal_hr",
+            "items/ph_y_phs_005___1",
+            "items/ph_y_phs_005___2",
+            "items/ph_y_phs_005___3",
+            "items/ph_y_phs_005___4",
+            "items/ph_y_phs_005___5",
+            "items/ph_y_phs_005___6",
+            "items/ph_y_phs__coll_complrsn",
+            "items/ph_y_phs__coll__end_t",
+            "items/ph_y_phs__coll_t",
+            "items/ph_y_phs__freeze_001",
+            "items/ph_y_phs__freeze_t",
             "items/ph_y_phs__dhea__r01_insuff",
             "items/ph_y_phs__dhea__r01_low",
             "items/ph_y_phs__dhea__r01_null",
@@ -44,16 +54,7 @@
             "items/ph_y_phs__hse__r02_low",
             "items/ph_y_phs__hse__r02_null",
             "items/ph_y_phs__hse__r02_qnt",
-            "items/ph_y_phs__hse_mean",
-            "items/ph_y_phs_005___1",
-            "items/ph_y_phs_005___2",
-            "items/ph_y_phs_005___3",
-            "items/ph_y_phs_005___4",
-            "items/ph_y_phs_005___5",
-            "items/ph_y_phs_005___6",
-            "items/ph_y_phs__coll__end_t",
-            "items/ph_y_phs__coll_t",
-            "items/ph_y_phs__freeze_t"
+            "items/ph_y_phs__hse_mean"
         ],
         "addProperties": [
             {
@@ -102,14 +103,64 @@
                 "variableName": "ph_y_phs_004__01"
             },
             {
+                "isAbout": "items/ph_y_phs__lastmeal_hr",
+                "isVis": true,
+                "variableName": "ph_y_phs__lastmeal_hr"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___1",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___1"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___2",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___2"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___3",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___3"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___4",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___4"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___5",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___5"
+            },
+            {
+                "isAbout": "items/ph_y_phs_005___6",
+                "isVis": true,
+                "variableName": "ph_y_phs_005___6"
+            },
+            {
+                "isAbout": "items/ph_y_phs__coll_complrsn",
+                "isVis": true,
+                "variableName": "ph_y_phs__coll_complrsn"
+            },
+            {
+                "isAbout": "items/ph_y_phs__coll__end_t",
+                "isVis": true,
+                "variableName": "ph_y_phs__coll__end_t"
+            },
+            {
+                "isAbout": "items/ph_y_phs__coll_t",
+                "isVis": true,
+                "variableName": "ph_y_phs__coll_t"
+            },
+            {
                 "isAbout": "items/ph_y_phs__freeze_001",
                 "isVis": true,
                 "variableName": "ph_y_phs__freeze_001"
             },
             {
-                "isAbout": "items/ph_y_phs__lastmeal_hr",
+                "isAbout": "items/ph_y_phs__freeze_t",
                 "isVis": true,
-                "variableName": "ph_y_phs__lastmeal_hr"
+                "variableName": "ph_y_phs__freeze_t"
             },
             {
                 "isAbout": "items/ph_y_phs__dhea__r01_insuff",
@@ -245,55 +296,10 @@
                 "isAbout": "items/ph_y_phs__hse_mean",
                 "isVis": true,
                 "variableName": "ph_y_phs__hse_mean"
-            },
-            {
-                "isAbout": "items/ph_y_phs_005___1",
-                "isVis": true,
-                "variableName": "ph_y_phs_005___1"
-            },
-            {
-                "isAbout": "items/ph_y_phs_005___2",
-                "isVis": true,
-                "variableName": "ph_y_phs_005___2"
-            },
-            {
-                "isAbout": "items/ph_y_phs_005___3",
-                "isVis": true,
-                "variableName": "ph_y_phs_005___3"
-            },
-            {
-                "isAbout": "items/ph_y_phs_005___4",
-                "isVis": true,
-                "variableName": "ph_y_phs_005___4"
-            },
-            {
-                "isAbout": "items/ph_y_phs_005___5",
-                "isVis": true,
-                "variableName": "ph_y_phs_005___5"
-            },
-            {
-                "isAbout": "items/ph_y_phs_005___6",
-                "isVis": true,
-                "variableName": "ph_y_phs_005___6"
-            },
-            {
-                "isAbout": "items/ph_y_phs__coll__end_t",
-                "isVis": true,
-                "variableName": "ph_y_phs__coll__end_t"
-            },
-            {
-                "isAbout": "items/ph_y_phs__coll_t",
-                "isVis": true,
-                "variableName": "ph_y_phs__coll_t"
-            },
-            {
-                "isAbout": "items/ph_y_phs__freeze_t",
-                "isVis": true,
-                "variableName": "ph_y_phs__freeze_t"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

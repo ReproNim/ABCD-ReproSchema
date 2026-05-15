@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0607"
+            "value": "su_y_tlfb_0632"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__nic__hookah__est_totdose"
     },
     "question": {
-        "en": "Nicotine - Hookah: total dose (Estimated period)"
+        "en": "Nicotine - Hookah: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

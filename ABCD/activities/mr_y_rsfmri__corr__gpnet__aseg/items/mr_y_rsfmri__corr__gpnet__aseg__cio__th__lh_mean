@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aseg__cio__th__lh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon network: cingulo-opercular & Subcortical ROI: thalamus (left hemisphere)"
+        "en": "Average correlation between Gordon network: Cingulo-opercular & Subcortical ROI: Thalamus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "le_l_lodes__addr2__job_count"
     },
     "question": {
-        "en": "Total number of jobs (Address 2) (address 2)"
+        "en": "Total number of jobs (Address 2)"
     },
     "responseOptions": {
         "valueType": [

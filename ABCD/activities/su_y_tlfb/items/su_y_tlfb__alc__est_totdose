@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0037"
+            "value": "su_y_tlfb_0039"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__alc__est_totdose"
     },
     "question": {
-        "en": "Alcohol: total dose (Estimated period)"
+        "en": "Alcohol: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

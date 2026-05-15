@@ -52,7 +52,7 @@
         "en": "le_l_nlcd__addr3__egforr__cnty_prcnt"
     },
     "question": {
-        "en": "Percent classified as Evergreen Forest [NLCD 2016; county] (Address 3) (address 3)"
+        "en": "Percent classified as Evergreen Forest [NLCD 2016; county] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

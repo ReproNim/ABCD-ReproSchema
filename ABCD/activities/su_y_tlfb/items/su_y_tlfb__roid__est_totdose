@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0753"
+            "value": "su_y_tlfb_0784"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__roid__est_totdose"
     },
     "question": {
-        "en": "Steroids: total dose (Estimated period)"
+        "en": "Steroids: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

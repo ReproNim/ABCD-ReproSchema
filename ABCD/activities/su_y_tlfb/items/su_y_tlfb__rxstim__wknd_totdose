@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0829"
+            "value": "su_y_tlfb_0864"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__rxstim__wknd_totdose"
     },
     "question": {
-        "en": "Prescription stimulants: total dose on weekends"
+        "en": "Prescription stimulants: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

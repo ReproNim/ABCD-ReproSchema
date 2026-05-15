@@ -67,7 +67,7 @@
         "en": "fc_y_crpbi__cg2_001"
     },
     "question": {
-        "en": "Who is this caregiver? If more than one caregiver, choose the person you spend the most time with. (Caregiver 2)"
+        "en": "Caregiver 2: Who is this caregiver? If more than one caregiver, choose the person you spend the most time with."
     },
     "responseOptions": {
         "valueType": [

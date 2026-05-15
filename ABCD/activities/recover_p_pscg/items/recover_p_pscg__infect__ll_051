@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_pscg__infect__ll_051",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "Now, we are going to ask about any problems or symptoms you have now. Do you have any of these problems or symptoms now?"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_symptoms"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ps_skinrash_curr"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_pscg__infect__ll_051"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_pscg_0055"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_pscg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_pscg__infect__ll_051"
+    },
+    "question": {
+        "en": "Current: Skin rash"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

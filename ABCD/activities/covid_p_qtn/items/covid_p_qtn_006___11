@@ -67,7 +67,7 @@
         "en": "covid_p_qtn_006___11"
     },
     "question": {
-        "en": "In the past week, our family has (check all that apply; by your choice rather than because it's closed): [Avoided places like gyms, malls, movie theatres, etc."
+        "en": "In the past week, our family has (by your choice rather than because it's closed) [Multi-select]: Avoided places like gyms, malls, movie theatres, etc."
     },
     "responseOptions": {
         "valueType": [

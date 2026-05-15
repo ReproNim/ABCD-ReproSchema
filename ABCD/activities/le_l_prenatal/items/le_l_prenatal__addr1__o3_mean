@@ -57,7 +57,7 @@
         "en": "le_l_prenatal__addr1__o3_mean"
     },
     "question": {
-        "en": "9 month average O3 ppb (parts per billion) exposure during birth year (Address 1) (address 1)"
+        "en": "9 month average O3 ppb (Parts per billion) exposure during birth year (Address 1)"
     },
     "responseOptions": {
         "valueType": [

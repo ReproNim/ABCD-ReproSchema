@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__gp__def__316__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Gordon ROI: 316 (default network; right hemisphere)"
+        "en": "Average temporal variance in Gordon ROI: 316 (Default network; Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

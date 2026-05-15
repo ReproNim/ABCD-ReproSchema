@@ -67,7 +67,7 @@
         "en": "mr_y_tfmri__mid__beh__r01__trial__neut__incrct_prop"
     },
     "question": {
-        "en": "Task fMRI - Monetary Incentive Delay task - Behavioral (run 1): Number of neutral trials that yielded negative feedback in run 1 divided by the total number of neutral trials"
+        "en": "Task fMRI - Monetary Incentive Delay task - Behavioral (Run 1): Number of neutral trials that yielded negative feedback in run 1 divided by the total number of neutral trials"
     },
     "responseOptions": {
         "valueType": [

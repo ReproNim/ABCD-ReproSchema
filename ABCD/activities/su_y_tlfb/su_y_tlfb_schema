@@ -14,6 +14,7 @@
             "items/su_y_tlfb_adm__rmt___4",
             "items/su_y_tlfb_dev__rmt",
             "items/su_y_tlfb_ver",
+            "items/su_y_tlfb_complrsn",
             "items/su_y_tlfb__start_dt",
             "items/su_y_tlfb__end_dt",
             "items/su_y_tlfb__day_count",
@@ -38,6 +39,7 @@
             "items/su_y_tlfb__alc__binge__3mo_mean",
             "items/su_y_tlfb__alc__binge__3mo_totdose",
             "items/su_y_tlfb__alc__binge__3mo_ud",
+            "items/su_y_tlfb__alc__binge__totdose_sum",
             "items/su_y_tlfb__alc__binge_mean",
             "items/su_y_tlfb__alc__binge_totdose",
             "items/su_y_tlfb__alc__binge_ud",
@@ -47,6 +49,7 @@
             "items/su_y_tlfb__alc__first__cum_dt",
             "items/su_y_tlfb__alc__last__cum_dt",
             "items/su_y_tlfb__alc__last__est_dt",
+            "items/su_y_tlfb__alc__totdose_sum",
             "items/su_y_tlfb__alc__wknd_totdose",
             "items/su_y_tlfb__alc__wknd_ud",
             "items/su_y_tlfb__alc_maxdose",
@@ -71,6 +74,7 @@
             "items/su_y_tlfb__cath__first__cum_dt",
             "items/su_y_tlfb__cath__last__cum_dt",
             "items/su_y_tlfb__cath__last__est_dt",
+            "items/su_y_tlfb__cath__totdose_sum",
             "items/su_y_tlfb__cath__wknd_totdose",
             "items/su_y_tlfb__cath__wknd_ud",
             "items/su_y_tlfb__cath_maxdose",
@@ -95,6 +99,7 @@
             "items/su_y_tlfb__cbd__first__cum_dt",
             "items/su_y_tlfb__cbd__last__cum_dt",
             "items/su_y_tlfb__cbd__last__est_dt",
+            "items/su_y_tlfb__cbd__totdose_sum",
             "items/su_y_tlfb__cbd__wknd_totdose",
             "items/su_y_tlfb__cbd__wknd_ud",
             "items/su_y_tlfb__cbd_maxdose",
@@ -131,6 +136,7 @@
             "items/su_y_tlfb__coc__first__cum_dt",
             "items/su_y_tlfb__coc__last__cum_dt",
             "items/su_y_tlfb__coc__last__est_dt",
+            "items/su_y_tlfb__coc__totdose_sum",
             "items/su_y_tlfb__coc__wknd_totdose",
             "items/su_y_tlfb__coc__wknd_ud",
             "items/su_y_tlfb__coc_maxdose",
@@ -155,6 +161,7 @@
             "items/su_y_tlfb__dxm__first__cum_dt",
             "items/su_y_tlfb__dxm__last__cum_dt",
             "items/su_y_tlfb__dxm__last__est_dt",
+            "items/su_y_tlfb__dxm__totdose_sum",
             "items/su_y_tlfb__dxm__wknd_totdose",
             "items/su_y_tlfb__dxm__wknd_ud",
             "items/su_y_tlfb__dxm_maxdose",
@@ -179,6 +186,7 @@
             "items/su_y_tlfb__ghb__first__cum_dt",
             "items/su_y_tlfb__ghb__last__cum_dt",
             "items/su_y_tlfb__ghb__last__est_dt",
+            "items/su_y_tlfb__ghb__totdose_sum",
             "items/su_y_tlfb__ghb__wknd_totdose",
             "items/su_y_tlfb__ghb__wknd_ud",
             "items/su_y_tlfb__ghb_maxdose",
@@ -203,6 +211,7 @@
             "items/su_y_tlfb__hall__first__cum_dt",
             "items/su_y_tlfb__hall__last__cum_dt",
             "items/su_y_tlfb__hall__last__est_dt",
+            "items/su_y_tlfb__hall__totdose_sum",
             "items/su_y_tlfb__hall__wknd_totdose",
             "items/su_y_tlfb__hall__wknd_ud",
             "items/su_y_tlfb__hall_maxdose",
@@ -227,6 +236,7 @@
             "items/su_y_tlfb__inh__first__cum_dt",
             "items/su_y_tlfb__inh__last__cum_dt",
             "items/su_y_tlfb__inh__last__est_dt",
+            "items/su_y_tlfb__inh__totdose_sum",
             "items/su_y_tlfb__inh__wknd_totdose",
             "items/su_y_tlfb__inh__wknd_ud",
             "items/su_y_tlfb__inh_maxdose",
@@ -251,6 +261,7 @@
             "items/su_y_tlfb__ket__first__cum_dt",
             "items/su_y_tlfb__ket__last__cum_dt",
             "items/su_y_tlfb__ket__last__est_dt",
+            "items/su_y_tlfb__ket__totdose_sum",
             "items/su_y_tlfb__ket__wknd_totdose",
             "items/su_y_tlfb__ket__wknd_ud",
             "items/su_y_tlfb__ket_maxdose",
@@ -275,6 +286,7 @@
             "items/su_y_tlfb__mdma__first__cum_dt",
             "items/su_y_tlfb__mdma__last__cum_dt",
             "items/su_y_tlfb__mdma__last__est_dt",
+            "items/su_y_tlfb__mdma__totdose_sum",
             "items/su_y_tlfb__mdma__wknd_totdose",
             "items/su_y_tlfb__mdma__wknd_ud",
             "items/su_y_tlfb__mdma_maxdose",
@@ -299,6 +311,7 @@
             "items/su_y_tlfb__meth__first__cum_dt",
             "items/su_y_tlfb__meth__last__cum_dt",
             "items/su_y_tlfb__meth__last__est_dt",
+            "items/su_y_tlfb__meth__totdose_sum",
             "items/su_y_tlfb__meth__wknd_totdose",
             "items/su_y_tlfb__meth__wknd_ud",
             "items/su_y_tlfb__meth_maxdose",
@@ -323,6 +336,7 @@
             "items/su_y_tlfb__mj__blunt__first__cum_dt",
             "items/su_y_tlfb__mj__blunt__last__cum_dt",
             "items/su_y_tlfb__mj__blunt__last__est_dt",
+            "items/su_y_tlfb__mj__blunt__totdose_sum",
             "items/su_y_tlfb__mj__blunt__wknd_totdose",
             "items/su_y_tlfb__mj__blunt__wknd_ud",
             "items/su_y_tlfb__mj__blunt_maxdose",
@@ -347,6 +361,7 @@
             "items/su_y_tlfb__mj__conc__first__cum_dt",
             "items/su_y_tlfb__mj__conc__last__cum_dt",
             "items/su_y_tlfb__mj__conc__last__est_dt",
+            "items/su_y_tlfb__mj__conc__totdose_sum",
             "items/su_y_tlfb__mj__conc__wknd_totdose",
             "items/su_y_tlfb__mj__conc__wknd_ud",
             "items/su_y_tlfb__mj__conc_maxdose",
@@ -372,6 +387,7 @@
             "items/su_y_tlfb__mj__drink__first__cum_dt",
             "items/su_y_tlfb__mj__drink__last__cum_dt",
             "items/su_y_tlfb__mj__drink__last__est_dt",
+            "items/su_y_tlfb__mj__drink__totdose_sum",
             "items/su_y_tlfb__mj__drink__wknd_totdose",
             "items/su_y_tlfb__mj__drink__wknd_ud",
             "items/su_y_tlfb__mj__drink_maxdose",
@@ -396,6 +412,7 @@
             "items/su_y_tlfb__mj__edbl__first__cum_dt",
             "items/su_y_tlfb__mj__edbl__last__cum_dt",
             "items/su_y_tlfb__mj__edbl__last__est_dt",
+            "items/su_y_tlfb__mj__edbl__totdose_sum",
             "items/su_y_tlfb__mj__edbl__wknd_totdose",
             "items/su_y_tlfb__mj__edbl__wknd_ud",
             "items/su_y_tlfb__mj__edbl_maxdose",
@@ -421,6 +438,7 @@
             "items/su_y_tlfb__mj__smoke__first__cum_dt",
             "items/su_y_tlfb__mj__smoke__last__cum_dt",
             "items/su_y_tlfb__mj__smoke__last__est_dt",
+            "items/su_y_tlfb__mj__smoke__totdose_sum",
             "items/su_y_tlfb__mj__smoke__wknd_totdose",
             "items/su_y_tlfb__mj__smoke__wknd_ud",
             "items/su_y_tlfb__mj__smoke_maxdose",
@@ -445,6 +463,7 @@
             "items/su_y_tlfb__mj__synth__first__cum_dt",
             "items/su_y_tlfb__mj__synth__last__cum_dt",
             "items/su_y_tlfb__mj__synth__last__est_dt",
+            "items/su_y_tlfb__mj__synth__totdose_sum",
             "items/su_y_tlfb__mj__synth__wknd_totdose",
             "items/su_y_tlfb__mj__synth__wknd_ud",
             "items/su_y_tlfb__mj__synth_maxdose",
@@ -469,6 +488,7 @@
             "items/su_y_tlfb__mj__tinc__first__cum_dt",
             "items/su_y_tlfb__mj__tinc__last__cum_dt",
             "items/su_y_tlfb__mj__tinc__last__est_dt",
+            "items/su_y_tlfb__mj__tinc__totdose_sum",
             "items/su_y_tlfb__mj__tinc__wknd_totdose",
             "items/su_y_tlfb__mj__tinc__wknd_ud",
             "items/su_y_tlfb__mj__tinc_maxdose",
@@ -493,6 +513,7 @@
             "items/su_y_tlfb__mj__vape__flwr__first__cum_dt",
             "items/su_y_tlfb__mj__vape__flwr__last__cum_dt",
             "items/su_y_tlfb__mj__vape__flwr__last__est_dt",
+            "items/su_y_tlfb__mj__vape__flwr__totdose_sum",
             "items/su_y_tlfb__mj__vape__flwr__wknd_totdose",
             "items/su_y_tlfb__mj__vape__flwr__wknd_ud",
             "items/su_y_tlfb__mj__vape__flwr_maxdose",
@@ -517,6 +538,7 @@
             "items/su_y_tlfb__mj__vape__oil__first__cum_dt",
             "items/su_y_tlfb__mj__vape__oil__last__cum_dt",
             "items/su_y_tlfb__mj__vape__oil__last__est_dt",
+            "items/su_y_tlfb__mj__vape__oil__totdose_sum",
             "items/su_y_tlfb__mj__vape__oil__wknd_totdose",
             "items/su_y_tlfb__mj__vape__oil__wknd_ud",
             "items/su_y_tlfb__mj__vape__oil_maxdose",
@@ -543,6 +565,7 @@
             "items/su_y_tlfb__nic__chew__first__cum_dt",
             "items/su_y_tlfb__nic__chew__last__cum_dt",
             "items/su_y_tlfb__nic__chew__last__est_dt",
+            "items/su_y_tlfb__nic__chew__totdose_sum",
             "items/su_y_tlfb__nic__chew__wknd_totdose",
             "items/su_y_tlfb__nic__chew__wknd_ud",
             "items/su_y_tlfb__nic__chew_maxdose",
@@ -567,6 +590,7 @@
             "items/su_y_tlfb__nic__cig__first__cum_dt",
             "items/su_y_tlfb__nic__cig__last__cum_dt",
             "items/su_y_tlfb__nic__cig__last__est_dt",
+            "items/su_y_tlfb__nic__cig__totdose_sum",
             "items/su_y_tlfb__nic__cig__wknd_totdose",
             "items/su_y_tlfb__nic__cig__wknd_ud",
             "items/su_y_tlfb__nic__cig_maxdose",
@@ -591,6 +615,7 @@
             "items/su_y_tlfb__nic__cigar__first__cum_dt",
             "items/su_y_tlfb__nic__cigar__last__cum_dt",
             "items/su_y_tlfb__nic__cigar__last__est_dt",
+            "items/su_y_tlfb__nic__cigar__totdose_sum",
             "items/su_y_tlfb__nic__cigar__wknd_totdose",
             "items/su_y_tlfb__nic__cigar__wknd_ud",
             "items/su_y_tlfb__nic__cigar_maxdose",
@@ -617,6 +642,7 @@
             "items/su_y_tlfb__nic__hookah__first__cum_dt",
             "items/su_y_tlfb__nic__hookah__last__cum_dt",
             "items/su_y_tlfb__nic__hookah__last__est_dt",
+            "items/su_y_tlfb__nic__hookah__totdose_sum",
             "items/su_y_tlfb__nic__hookah__wknd_totdose",
             "items/su_y_tlfb__nic__hookah__wknd_ud",
             "items/su_y_tlfb__nic__hookah_maxdose",
@@ -641,6 +667,7 @@
             "items/su_y_tlfb__nic__pipe__first__cum_dt",
             "items/su_y_tlfb__nic__pipe__last__cum_dt",
             "items/su_y_tlfb__nic__pipe__last__est_dt",
+            "items/su_y_tlfb__nic__pipe__totdose_sum",
             "items/su_y_tlfb__nic__pipe__wknd_totdose",
             "items/su_y_tlfb__nic__pipe__wknd_ud",
             "items/su_y_tlfb__nic__pipe_maxdose",
@@ -665,6 +692,7 @@
             "items/su_y_tlfb__nic__rplc__first__cum_dt",
             "items/su_y_tlfb__nic__rplc__last__cum_dt",
             "items/su_y_tlfb__nic__rplc__last__est_dt",
+            "items/su_y_tlfb__nic__rplc__totdose_sum",
             "items/su_y_tlfb__nic__rplc__wknd_totdose",
             "items/su_y_tlfb__nic__rplc__wknd_ud",
             "items/su_y_tlfb__nic__rplc_maxdose",
@@ -689,6 +717,7 @@
             "items/su_y_tlfb__nic__vape__first__cum_dt",
             "items/su_y_tlfb__nic__vape__last__cum_dt",
             "items/su_y_tlfb__nic__vape__last__est_dt",
+            "items/su_y_tlfb__nic__vape__totdose_sum",
             "items/su_y_tlfb__nic__vape__wknd_totdose",
             "items/su_y_tlfb__nic__vape__wknd_ud",
             "items/su_y_tlfb__nic__vape_maxdose",
@@ -715,6 +744,7 @@
             "items/su_y_tlfb__opi__first__cum_dt",
             "items/su_y_tlfb__opi__last__cum_dt",
             "items/su_y_tlfb__opi__last__est_dt",
+            "items/su_y_tlfb__opi__totdose_sum",
             "items/su_y_tlfb__opi__wknd_totdose",
             "items/su_y_tlfb__opi__wknd_ud",
             "items/su_y_tlfb__opi_maxdose",
@@ -739,6 +769,7 @@
             "items/su_y_tlfb__othdrg__first__cum_dt",
             "items/su_y_tlfb__othdrg__last__cum_dt",
             "items/su_y_tlfb__othdrg__last__est_dt",
+            "items/su_y_tlfb__othdrg__totdose_sum",
             "items/su_y_tlfb__othdrg__wknd_totdose",
             "items/su_y_tlfb__othdrg__wknd_ud",
             "items/su_y_tlfb__othdrg_maxdose",
@@ -763,6 +794,7 @@
             "items/su_y_tlfb__roid__first__cum_dt",
             "items/su_y_tlfb__roid__last__cum_dt",
             "items/su_y_tlfb__roid__last__est_dt",
+            "items/su_y_tlfb__roid__totdose_sum",
             "items/su_y_tlfb__roid__wknd_totdose",
             "items/su_y_tlfb__roid__wknd_ud",
             "items/su_y_tlfb__roid_maxdose",
@@ -787,6 +819,7 @@
             "items/su_y_tlfb__rxopi__first__cum_dt",
             "items/su_y_tlfb__rxopi__last__cum_dt",
             "items/su_y_tlfb__rxopi__last__est_dt",
+            "items/su_y_tlfb__rxopi__totdose_sum",
             "items/su_y_tlfb__rxopi__wknd_totdose",
             "items/su_y_tlfb__rxopi__wknd_ud",
             "items/su_y_tlfb__rxopi_maxdose",
@@ -811,6 +844,7 @@
             "items/su_y_tlfb__rxsed__first__cum_dt",
             "items/su_y_tlfb__rxsed__last__cum_dt",
             "items/su_y_tlfb__rxsed__last__est_dt",
+            "items/su_y_tlfb__rxsed__totdose_sum",
             "items/su_y_tlfb__rxsed__wknd_totdose",
             "items/su_y_tlfb__rxsed__wknd_ud",
             "items/su_y_tlfb__rxsed_maxdose",
@@ -835,6 +869,7 @@
             "items/su_y_tlfb__rxstim__first__cum_dt",
             "items/su_y_tlfb__rxstim__last__cum_dt",
             "items/su_y_tlfb__rxstim__last__est_dt",
+            "items/su_y_tlfb__rxstim__totdose_sum",
             "items/su_y_tlfb__rxstim__wknd_totdose",
             "items/su_y_tlfb__rxstim__wknd_ud",
             "items/su_y_tlfb__rxstim_maxdose",
@@ -859,6 +894,7 @@
             "items/su_y_tlfb__salv__first__cum_dt",
             "items/su_y_tlfb__salv__last__cum_dt",
             "items/su_y_tlfb__salv__last__est_dt",
+            "items/su_y_tlfb__salv__totdose_sum",
             "items/su_y_tlfb__salv__wknd_totdose",
             "items/su_y_tlfb__salv__wknd_ud",
             "items/su_y_tlfb__salv_maxdose",
@@ -883,6 +919,7 @@
             "items/su_y_tlfb__shroom__first__cum_dt",
             "items/su_y_tlfb__shroom__last__cum_dt",
             "items/su_y_tlfb__shroom__last__est_dt",
+            "items/su_y_tlfb__shroom__totdose_sum",
             "items/su_y_tlfb__shroom__wknd_totdose",
             "items/su_y_tlfb__shroom__wknd_ud",
             "items/su_y_tlfb__shroom_maxdose",
@@ -926,6 +963,11 @@
                 "isAbout": "items/su_y_tlfb_ver",
                 "isVis": true,
                 "variableName": "su_y_tlfb_ver"
+            },
+            {
+                "isAbout": "items/su_y_tlfb_complrsn",
+                "isVis": true,
+                "variableName": "su_y_tlfb_complrsn"
             },
             {
                 "isAbout": "items/su_y_tlfb__start_dt",
@@ -1048,6 +1090,11 @@
                 "variableName": "su_y_tlfb__alc__binge__3mo_ud"
             },
             {
+                "isAbout": "items/su_y_tlfb__alc__binge__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__alc__binge__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__alc__binge_mean",
                 "isVis": true,
                 "variableName": "su_y_tlfb__alc__binge_mean"
@@ -1091,6 +1138,11 @@
                 "isAbout": "items/su_y_tlfb__alc__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__alc__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__alc__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__alc__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__alc__wknd_totdose",
@@ -1213,6 +1265,11 @@
                 "variableName": "su_y_tlfb__cath__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__cath__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__cath__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__cath__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__cath__wknd_totdose"
@@ -1331,6 +1388,11 @@
                 "isAbout": "items/su_y_tlfb__cbd__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__cbd__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__cbd__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__cbd__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__cbd__wknd_totdose",
@@ -1513,6 +1575,11 @@
                 "variableName": "su_y_tlfb__coc__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__coc__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__coc__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__coc__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__coc__wknd_totdose"
@@ -1631,6 +1698,11 @@
                 "isAbout": "items/su_y_tlfb__dxm__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__dxm__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__dxm__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__dxm__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__dxm__wknd_totdose",
@@ -1753,6 +1825,11 @@
                 "variableName": "su_y_tlfb__ghb__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__ghb__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__ghb__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__ghb__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__ghb__wknd_totdose"
@@ -1871,6 +1948,11 @@
                 "isAbout": "items/su_y_tlfb__hall__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__hall__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__hall__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__hall__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__hall__wknd_totdose",
@@ -1993,6 +2075,11 @@
                 "variableName": "su_y_tlfb__inh__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__inh__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__inh__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__inh__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__inh__wknd_totdose"
@@ -2111,6 +2198,11 @@
                 "isAbout": "items/su_y_tlfb__ket__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__ket__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__ket__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__ket__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__ket__wknd_totdose",
@@ -2233,6 +2325,11 @@
                 "variableName": "su_y_tlfb__mdma__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__mdma__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mdma__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__mdma__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mdma__wknd_totdose"
@@ -2351,6 +2448,11 @@
                 "isAbout": "items/su_y_tlfb__meth__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__meth__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__meth__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__meth__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__meth__wknd_totdose",
@@ -2473,6 +2575,11 @@
                 "variableName": "su_y_tlfb__mj__blunt__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__mj__blunt__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mj__blunt__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__mj__blunt__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mj__blunt__wknd_totdose"
@@ -2591,6 +2698,11 @@
                 "isAbout": "items/su_y_tlfb__mj__conc__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mj__conc__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__mj__conc__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mj__conc__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__mj__conc__wknd_totdose",
@@ -2718,6 +2830,11 @@
                 "variableName": "su_y_tlfb__mj__drink__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__mj__drink__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mj__drink__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__mj__drink__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mj__drink__wknd_totdose"
@@ -2836,6 +2953,11 @@
                 "isAbout": "items/su_y_tlfb__mj__edbl__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mj__edbl__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__mj__edbl__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mj__edbl__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__mj__edbl__wknd_totdose",
@@ -2963,6 +3085,11 @@
                 "variableName": "su_y_tlfb__mj__smoke__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__mj__smoke__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mj__smoke__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__mj__smoke__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mj__smoke__wknd_totdose"
@@ -3081,6 +3208,11 @@
                 "isAbout": "items/su_y_tlfb__mj__synth__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mj__synth__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__mj__synth__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mj__synth__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__mj__synth__wknd_totdose",
@@ -3203,6 +3335,11 @@
                 "variableName": "su_y_tlfb__mj__tinc__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__mj__tinc__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mj__tinc__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__mj__tinc__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mj__tinc__wknd_totdose"
@@ -3323,6 +3460,11 @@
                 "variableName": "su_y_tlfb__mj__vape__flwr__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__mj__vape__flwr__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mj__vape__flwr__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__mj__vape__flwr__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mj__vape__flwr__wknd_totdose"
@@ -3441,6 +3583,11 @@
                 "isAbout": "items/su_y_tlfb__mj__vape__oil__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__mj__vape__oil__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__mj__vape__oil__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__mj__vape__oil__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__mj__vape__oil__wknd_totdose",
@@ -3573,6 +3720,11 @@
                 "variableName": "su_y_tlfb__nic__chew__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__nic__chew__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__nic__chew__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__nic__chew__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__nic__chew__wknd_totdose"
@@ -3693,6 +3845,11 @@
                 "variableName": "su_y_tlfb__nic__cig__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__nic__cig__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__nic__cig__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__nic__cig__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__nic__cig__wknd_totdose"
@@ -3811,6 +3968,11 @@
                 "isAbout": "items/su_y_tlfb__nic__cigar__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__nic__cigar__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__nic__cigar__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__nic__cigar__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__nic__cigar__wknd_totdose",
@@ -3943,6 +4105,11 @@
                 "variableName": "su_y_tlfb__nic__hookah__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__nic__hookah__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__nic__hookah__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__nic__hookah__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__nic__hookah__wknd_totdose"
@@ -4061,6 +4228,11 @@
                 "isAbout": "items/su_y_tlfb__nic__pipe__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__nic__pipe__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__nic__pipe__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__nic__pipe__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__nic__pipe__wknd_totdose",
@@ -4183,6 +4355,11 @@
                 "variableName": "su_y_tlfb__nic__rplc__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__nic__rplc__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__nic__rplc__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__nic__rplc__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__nic__rplc__wknd_totdose"
@@ -4301,6 +4478,11 @@
                 "isAbout": "items/su_y_tlfb__nic__vape__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__nic__vape__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__nic__vape__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__nic__vape__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__nic__vape__wknd_totdose",
@@ -4433,6 +4615,11 @@
                 "variableName": "su_y_tlfb__opi__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__opi__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__opi__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__opi__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__opi__wknd_totdose"
@@ -4551,6 +4738,11 @@
                 "isAbout": "items/su_y_tlfb__othdrg__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__othdrg__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__othdrg__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__othdrg__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__othdrg__wknd_totdose",
@@ -4673,6 +4865,11 @@
                 "variableName": "su_y_tlfb__roid__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__roid__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__roid__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__roid__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__roid__wknd_totdose"
@@ -4791,6 +4988,11 @@
                 "isAbout": "items/su_y_tlfb__rxopi__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__rxopi__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__rxopi__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__rxopi__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__rxopi__wknd_totdose",
@@ -4913,6 +5115,11 @@
                 "variableName": "su_y_tlfb__rxsed__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__rxsed__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__rxsed__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__rxsed__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__rxsed__wknd_totdose"
@@ -5031,6 +5238,11 @@
                 "isAbout": "items/su_y_tlfb__rxstim__last__est_dt",
                 "isVis": true,
                 "variableName": "su_y_tlfb__rxstim__last__est_dt"
+            },
+            {
+                "isAbout": "items/su_y_tlfb__rxstim__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__rxstim__totdose_sum"
             },
             {
                 "isAbout": "items/su_y_tlfb__rxstim__wknd_totdose",
@@ -5153,6 +5365,11 @@
                 "variableName": "su_y_tlfb__salv__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__salv__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__salv__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__salv__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__salv__wknd_totdose"
@@ -5273,6 +5490,11 @@
                 "variableName": "su_y_tlfb__shroom__last__est_dt"
             },
             {
+                "isAbout": "items/su_y_tlfb__shroom__totdose_sum",
+                "isVis": true,
+                "variableName": "su_y_tlfb__shroom__totdose_sum"
+            },
+            {
                 "isAbout": "items/su_y_tlfb__shroom__wknd_totdose",
                 "isVis": true,
                 "variableName": "su_y_tlfb__shroom__wknd_totdose"
@@ -5310,6 +5532,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

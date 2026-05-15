@@ -3,6 +3,11 @@
     "category": "reproschema:Item",
     "additionalNotesObj": [
         {
+            "column": "note",
+            "source": "nbdc",
+            "value": "Definition of ethnicity: groups of people who have the same customs, or origin"
+        },
+        {
             "column": "study",
             "source": "nbdc",
             "value": "Core"
@@ -40,7 +45,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "dim_yesno_q1"
+            "value": "dim_yesno_q1 | eut_001"
         },
         {
             "column": "url_table",
@@ -67,7 +72,7 @@
         "en": "fc_y_eut_001"
     },
     "question": {
-        "en": "In the past 12 months, have you felt people treated you unfairly or negatively: Because of your race, ethnicity, or color? Definition of ethnicity: groups of people who have the same customs, or origin"
+        "en": "In the past 12 months, have you felt people treated you unfairly or negatively: Because of your race, ethnicity, or color?"
     },
     "responseOptions": {
         "valueType": [

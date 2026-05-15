@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__igvis__r02__dst__gfio__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Stop Signal task (contrast: incorrect go vs. incorrect stop; run 2) in Destrieux ROI: opercular part of the inferior frontal gyrus (left hemisphere)"
+        "en": "Average standard error of the mean for Stop Signal task (Contrast - Incorrrect go vs. incorrect stop; Run 2) in Destrieux ROI: Opercular part of the inferior frontal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

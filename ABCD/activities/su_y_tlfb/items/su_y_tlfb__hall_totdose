@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0201"
+            "value": "su_y_tlfb_0210"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__hall_totdose"
     },
     "question": {
-        "en": "Hallucinogens: total dose"
+        "en": "Hallucinogens: Total dose"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__emo__aseg__3rdv_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: emotion; all runs) in Subcortical ROI: 3rd ventricle"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Emotion; All runs) in Subcortical ROI: 3rd ventricle"
     },
     "responseOptions": {
         "valueType": [

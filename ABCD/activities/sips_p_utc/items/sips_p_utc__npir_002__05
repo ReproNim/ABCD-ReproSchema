@@ -1,0 +1,71 @@
+{
+    "id": "sips_p_utc__npir_002__05",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions are organized in sections and probe for both psychotic, delusional thinking and for non-psychotic, unusual thought content. These experiences are rated on the SOPS P1 Scale at the end of the queries."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_utc"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_utc_ref_002_05_02"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_utc__npir_002__05"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_utc_0092"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_utc"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_utc__npir_002__05"
+    },
+    "question": {
+        "en": "Have you had the sense that you are often the center of people's attention? Do you feel they have hostile or negative intentions: How would you rate your degree of distress? [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

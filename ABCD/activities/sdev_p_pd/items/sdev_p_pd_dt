@@ -47,7 +47,7 @@
         "en": "sdev_p_pd_dt"
     },
     "question": {
-        "en": "Personality Disposition: Date when collection was completed"
+        "en": "Personality Disposition: Date when data collection was completed"
     },
     "responseOptions": {
         "valueType": [

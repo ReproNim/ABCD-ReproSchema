@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__isvcg__r02__dst__gotml__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: incorrect stop vs. correct go; run 2) in Destrieux ROI: lingual gyrus (left hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Incorrrect stop vs. correct go; Run 2) in Destrieux ROI: Lingual gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

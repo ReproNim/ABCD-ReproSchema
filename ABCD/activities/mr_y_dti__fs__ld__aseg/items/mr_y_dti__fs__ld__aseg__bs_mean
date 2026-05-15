@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__ld__aseg__bs_mean"
     },
     "question": {
-        "en": "Average longitudinal diffusivity (full shell DTI) in Subcortical ROI: brain stem"
+        "en": "Average longitudinal diffusivity (Full shell DTI) in Subcortical ROI: Brain stem"
     },
     "responseOptions": {
         "valueType": [

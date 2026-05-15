@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__tfmri__nback__r06__vol__vox_mean"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task (run 6): Volume of single voxel"
+        "en": "Task fMRI - Emotional N-Back task (Run 6): Volume of single voxel"
     },
     "responseOptions": {
         "valueType": [

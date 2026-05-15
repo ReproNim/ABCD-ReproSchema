@@ -1,0 +1,56 @@
+{
+    "id": "sdev_p_incar__cg2_003__03__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Parental Incarceration"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_p_incar__cg2_003__03__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_p_incar_0029"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_p_incar"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_p_incar__cg2_003__03__dk"
+    },
+    "question": {
+        "en": "Caregiver 2: What was the longest amount of time that that person spent in jail or prison while the child was growing up? [Non-response'] [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

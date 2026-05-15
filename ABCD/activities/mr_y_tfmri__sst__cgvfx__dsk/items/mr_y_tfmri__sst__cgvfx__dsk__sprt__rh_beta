@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__cgvfx__dsk__sprt__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: correct go vs. fixation; all runs) in Desikan ROI: superior parietal (right hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Correct go vs. fixation; All runs) in Desikan ROI: Superior parietal (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

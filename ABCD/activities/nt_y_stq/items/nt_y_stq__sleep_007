@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "nt_y_stq_0108"
+            "value": "nt_y_stq_0104"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "nt_y_stq__sleep_007"
     },
     "question": {
-        "en": "In the past week, how often did you do the following activities while already in bed before going to sleep: Spend time online on social media (e.g. Facebook)"
+        "en": "In the past week, how often did you do the following activities while already in bed before going to sleep: Spend time online on social media"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr1__singlehousehold_prcnt"
     },
     "question": {
-        "en": "Percentage of single [Area Deprivation Index] (Address 1) (address 1)"
+        "en": "Percentage of single [Area Deprivation Index] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,71 @@
+{
+    "id": "ph_p_anthr__fath_height__in",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "inches (in)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Anthropometrics & Vitals"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_anthr"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_ph_p_anthr__fath_height__in.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_anthr__fath_height__in"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_anthr_0017"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_anthr"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_anthr__fath_height__in"
+    },
+    "question": {
+        "en": "Anthropometrics [Parent] (Height): Father's height (in)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

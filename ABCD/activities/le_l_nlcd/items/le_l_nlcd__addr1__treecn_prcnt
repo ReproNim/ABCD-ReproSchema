@@ -52,7 +52,7 @@
         "en": "le_l_nlcd__addr1__treecn_prcnt"
     },
     "question": {
-        "en": "Percent classified tree canopy [NLCD 2016; census tract] (Address 1) (address 1)"
+        "en": "Percent classified tree canopy [NLCD 2016; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

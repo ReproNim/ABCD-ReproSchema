@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr3__poverty__below138_prcnt"
     },
     "question": {
-        "en": "Percentage of population below 138% of the poverty threshold [Area Deprivation Index] (Address 3) (address 3)"
+        "en": "Percentage of population below 138% of the poverty threshold [Area Deprivation Index] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

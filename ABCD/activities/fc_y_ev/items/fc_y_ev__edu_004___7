@@ -1,0 +1,66 @@
+{
+    "id": "fc_y_ev__edu_004___7",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Work & School"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "y_edu_vocation"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "edu_voc_school_04"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_ev__edu_004___7"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_ev_0023"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_ev"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_ev__edu_004___7"
+    },
+    "question": {
+        "en": "How much educational training do you expect to complete? [Multi-select]: Vocational/Technical degree"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

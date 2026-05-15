@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0589"
+            "value": "su_y_tlfb_0614"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__nic__cigar_totdose"
     },
     "question": {
-        "en": "Nicotine - Cigars: total dose"
+        "en": "Nicotine - Cigars: Total dose"
     },
     "responseOptions": {
         "valueType": [

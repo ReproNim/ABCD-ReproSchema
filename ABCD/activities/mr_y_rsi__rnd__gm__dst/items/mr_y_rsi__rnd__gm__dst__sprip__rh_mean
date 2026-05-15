@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__rnd__gm__dst__sprip__rh_mean"
     },
     "question": {
-        "en": "Average restricted normalized directional diffusion (gray matter) in Destrieux ROI: inferior part of the precentral sulcus (right hemisphere)"
+        "en": "Average restricted normalized directional diffusion (Gray matter) in Destrieux ROI: Inferior part of the precentral sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2bv0b__r01__dst__gtsgtt__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: 2-back vs. 0-back; run 1) in Destrieux ROI: anterior transverse temporal gyrus (left hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - 2-back vs. 0-back; Run 1) in Destrieux ROI: Anterior transverse temporal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

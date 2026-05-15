@@ -67,7 +67,7 @@
         "en": "irma_p_qtn__dur_001___4"
     },
     "question": {
-        "en": "Where was your child during the Hurricane? (you can check more than one) [in a shelter en un refugio]"
+        "en": "Where was your child during the Hurricane [Multi-select]: In a shelter"
     },
     "responseOptions": {
         "valueType": [

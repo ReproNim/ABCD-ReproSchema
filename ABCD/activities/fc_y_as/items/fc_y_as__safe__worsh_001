@@ -47,7 +47,7 @@
         "en": "fc_y_as__safe__worsh_001"
     },
     "question": {
-        "en": "How safe from harm (physical, emotional) do you feel at this place: Church/Temple/Mosque"
+        "en": "How safe from harm (Physical, emotional) do you feel at this place: Church/Temple/Mosque"
     },
     "responseOptions": {
         "valueType": [

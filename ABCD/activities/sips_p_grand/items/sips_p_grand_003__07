@@ -1,0 +1,71 @@
+{
+    "id": "sips_p_grand_003__07",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions probe for psychotic grandiosity, non-psychotic grandiosity, and inflated self-esteem. They are rated on the SOPS P3 Scale at the end of the queries."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_grandiosity"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_grand_003_05_02"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_grand_003__07"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_grand_0042"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_grand"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_grand_003__07"
+    },
+    "question": {
+        "en": "Do people ever tell you that your plans or goals are unrealistic? What are these plans? How do you imagine accomplishing them: How would you rate your degree of distress? [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

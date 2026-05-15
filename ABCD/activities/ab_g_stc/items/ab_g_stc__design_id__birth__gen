@@ -52,7 +52,7 @@
         "en": "ab_g_stc__design_id__birth__gen"
     },
     "question": {
-        "en": "Design/nesting: Birth event ID - Participants from the same family who were born together share a birth event ID (derived based on genetic information)"
+        "en": "Design/nesting: Birth event ID - Participants from the same family who were born together share a birth event ID (Derived based on genetic information)"
     },
     "responseOptions": {
         "valueType": [

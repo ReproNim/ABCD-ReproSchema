@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_mot_0107"
+            "value": "mr_y_qc_mot_0125"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "mr_y_qc__mot__tfmri__sst__r02_tr"
     },
     "question": {
-        "en": "Task fMRI - Stop Signal Task (run 2): Motion QC - Repetition time"
+        "en": "Task fMRI - Stop Signal Task (Run 2): Motion QC - Repetition time"
     },
     "responseOptions": {
         "valueType": [

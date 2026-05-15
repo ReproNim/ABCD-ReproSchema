@@ -52,7 +52,7 @@
         "en": "le_l_gi__addr3__asian__queen_stat"
     },
     "question": {
-        "en": "Local Gi* statistic, non-Hispanic Asian, queen neighborhood tracts [ICPSR; census tract] (Address 3) (address 3)"
+        "en": "Local Gi* statistic, non-Hispanic Asian, queen neighborhood tracts [ICPSR; census tract] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

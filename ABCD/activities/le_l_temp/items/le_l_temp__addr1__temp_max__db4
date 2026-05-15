@@ -62,7 +62,7 @@
         "en": "le_l_temp__addr1__temp_max__db4"
     },
     "question": {
-        "en": "Maximum temperature at residence 4 days prior (t-4) to date of study visit (Address 1) (address 1)"
+        "en": "Maximum temperature at residence 4 days prior (t-4) to date of study visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

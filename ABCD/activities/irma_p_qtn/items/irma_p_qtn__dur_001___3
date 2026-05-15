@@ -67,7 +67,7 @@
         "en": "irma_p_qtn__dur_001___3"
     },
     "question": {
-        "en": "Where was your child during the Hurricane? (you can check more than one) [in a friend's or relative's home en el hogar de un amigo o pariente]"
+        "en": "Where was your child during the Hurricane [Multi-select]: In a friend's or relative's home"
     },
     "responseOptions": {
         "valueType": [

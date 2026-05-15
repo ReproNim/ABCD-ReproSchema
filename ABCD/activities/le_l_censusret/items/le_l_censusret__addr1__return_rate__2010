@@ -52,7 +52,7 @@
         "en": "le_l_censusret__addr1__return_rate__2010"
     },
     "question": {
-        "en": "Mail return rate for the 2010 census [Census Bureau Planning Database; census tract] (Address 1) (address 1)"
+        "en": "Mail return rate for the 2010 census [Census Bureau Planning Database; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

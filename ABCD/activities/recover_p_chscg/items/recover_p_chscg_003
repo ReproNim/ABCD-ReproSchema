@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_chscg_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "current_health_status"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "chs_sympwalk"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_chscg_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_chscg_0007"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_chscg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_chscg_003"
+    },
+    "question": {
+        "en": "Serious trouble walking or climbing stairs"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

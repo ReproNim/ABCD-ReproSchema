@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__rsfmri__r09__fm__wrngloc_indicator"
     },
     "question": {
-        "en": "Resting State fMRI - Field map (run 9): Whether field map was collected more than 2 series prior to scan"
+        "en": "Resting State fMRI - Field map (Run 9): Whether field map was collected more than 2 series prior to scan"
     },
     "responseOptions": {
         "valueType": [

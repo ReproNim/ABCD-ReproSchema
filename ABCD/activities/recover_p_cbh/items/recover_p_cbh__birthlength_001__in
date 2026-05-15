@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_cbh__birthlength_001__in",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "inches (in)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "child_birth_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "cbh_lengthin"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_cbh__birthlength_001__in"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_cbh_0007"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_cbh"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_cbh__birthlength_001__in"
+    },
+    "question": {
+        "en": "How long was the youth when the youth was born in inches?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

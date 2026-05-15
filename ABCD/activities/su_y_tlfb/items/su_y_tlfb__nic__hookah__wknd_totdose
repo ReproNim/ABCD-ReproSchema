@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0611"
+            "value": "su_y_tlfb_0637"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__nic__hookah__wknd_totdose"
     },
     "question": {
-        "en": "Nicotine - Hookah: total dose on weekends"
+        "en": "Nicotine - Hookah: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

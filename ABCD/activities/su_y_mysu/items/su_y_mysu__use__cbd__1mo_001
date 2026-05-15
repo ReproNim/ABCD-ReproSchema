@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_mysu_0023"
+            "value": "su_y_mysu_0025"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_mysu__use__cbd__1mo_001"
     },
     "question": {
-        "en": "In the past month, have you had CBD-only (or cannabidiol-only) products such as tinctures, oils, gummies or food that you smoke, vape, or eat in a way a doctor or your parent did not direct you to use them?"
+        "en": "In the past month, have you had CBD-only (or cannabidiol-only) products such as tinctures, oils, gummies, chocolates, protein powder, drinks or food that you smoke, vape, drink or eat in a way a doctor or your parent did not direct you to use them?"
     },
     "responseOptions": {
         "valueType": [

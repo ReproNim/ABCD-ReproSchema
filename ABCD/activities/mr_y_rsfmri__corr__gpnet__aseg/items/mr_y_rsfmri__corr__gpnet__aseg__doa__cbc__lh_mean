@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aseg__doa__cbc__lh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon network: dorsal attention & Subcortical ROI: cerebellum cortex (left hemisphere)"
+        "en": "Average correlation between Gordon network: Dorsal attention & Subcortical ROI: Cerebellum cortex (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

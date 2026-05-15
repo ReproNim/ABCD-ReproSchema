@@ -72,7 +72,7 @@
         "en": "ph_p_meds__otc_007__01__01"
     },
     "question": {
-        "en": "OTC 7: Strength dose [Parent]"
+        "en": "Over the counter - Medication 7: Strength dose [Parent]"
     },
     "responseOptions": {
         "valueType": [

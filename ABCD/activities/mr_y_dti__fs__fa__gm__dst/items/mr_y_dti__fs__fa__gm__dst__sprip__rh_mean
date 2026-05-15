@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gm__dst__sprip__rh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray matter) in Destrieux ROI: inferior part of the precentral sulcus (right hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI; Gray matter) in Destrieux ROI: Inferior part of the precentral sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

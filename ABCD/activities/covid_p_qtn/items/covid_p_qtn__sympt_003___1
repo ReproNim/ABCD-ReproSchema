@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__sympt_003___1"
     },
     "question": {
-        "en": "Which of the following ever occurred as a result of your child's symptoms? [Multi-select]: My child was kept overnight in a hospital because a healthcare provider thought the child had COVID-19 [COVID Substudy]"
+        "en": "Which of the following ever occurred as a result of your child's symptoms? [Multi-select]: My child was kept overnight in a hospital because a healthcare provider thought the child had COVID-19 [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

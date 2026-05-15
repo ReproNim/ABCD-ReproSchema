@@ -1,0 +1,62 @@
+{
+    "id": "recover_y_atr__coll_age",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Biospecimens"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_y_atr__coll_age"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_y_atr_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_y_atr"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_y_atr__coll_age"
+    },
+    "question": {
+        "en": "Antibody Test [Youth]: Youth's age at sample collection"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

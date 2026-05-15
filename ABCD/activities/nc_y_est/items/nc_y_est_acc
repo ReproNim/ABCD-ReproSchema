@@ -57,7 +57,7 @@
         "en": "nc_y_est_acc"
     },
     "question": {
-        "en": "Emotional Stroop Task (EST): Accuracy rate (proportion correct) of correct trials"
+        "en": "Emotional Stroop Task (EST): Accuracy rate (Proportion correct) of correct trials"
     },
     "responseOptions": {
         "valueType": [

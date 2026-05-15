@@ -62,7 +62,7 @@
         "en": "le_l_adi__addr1__mortgage_med"
     },
     "question": {
-        "en": "Median monthly mortgage [Area Deprivation Index] (Address 1) (address 1)"
+        "en": "Median monthly mortgage [Area Deprivation Index] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__emo__dsk__locc__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: emotion; all runs) in Desikan ROI: lateral occipital (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Emotion; All runs) in Desikan ROI: Lateral occipital (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

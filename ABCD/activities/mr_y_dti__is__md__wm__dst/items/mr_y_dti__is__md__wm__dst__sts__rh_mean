@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__md__wm__dst__sts__rh_mean"
     },
     "question": {
-        "en": "Average mean diffusivity (inner shell DTI; white matter) in Destrieux ROI: superior temporal sulcus (right hemisphere)"
+        "en": "Average mean diffusivity (inner shell DTI; White matter) in Destrieux ROI: Superior temporal sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

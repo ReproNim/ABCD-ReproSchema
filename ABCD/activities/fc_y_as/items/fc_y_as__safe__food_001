@@ -47,7 +47,7 @@
         "en": "fc_y_as__safe__food_001"
     },
     "question": {
-        "en": "How safe from harm (physical, emotional) do you feel at this place: Restaurant/Coffee shop"
+        "en": "How safe from harm (Physical, emotional) do you feel at this place: Restaurant/Coffee shop"
     },
     "responseOptions": {
         "valueType": [

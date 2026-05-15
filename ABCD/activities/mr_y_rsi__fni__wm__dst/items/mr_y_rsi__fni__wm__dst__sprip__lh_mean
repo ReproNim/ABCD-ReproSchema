@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__fni__wm__dst__sprip__lh_mean"
     },
     "question": {
-        "en": "Average free normalized isotropic diffusion (white matter) in Destrieux ROI: inferior part of the precentral sulcus (left hemisphere)"
+        "en": "Average free normalized isotropic diffusion (White matter) in Destrieux ROI: Inferior part of the precentral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

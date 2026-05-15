@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_ps__infect__ll_032",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_symptoms"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ps_chapped_pilt"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_ps__infect__ll_032"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_ps_0214"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_ps"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_ps__infect__ll_032"
+    },
+    "question": {
+        "en": "Long-lasting (Infected): Chapped lips"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

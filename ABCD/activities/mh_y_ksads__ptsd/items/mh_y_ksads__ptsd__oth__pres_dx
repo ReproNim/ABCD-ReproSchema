@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_y_ksads_ptsd_0060"
+            "value": "mh_y_ksads_ptsd_0255"
         },
         {
             "column": "activity",

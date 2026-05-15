@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__arthritis_preval"
     },
     "question": {
-        "en": "Arthritis among adults aged >=18 years; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "Arthritis among adults aged >=18 years; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

@@ -40,7 +40,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "mctq_fd_asleep_hrs1"
+            "value": "mctq_fd_asleep_hrs1 | mctq_fd_asleep_hrs3"
         },
         {
             "column": "url_table",

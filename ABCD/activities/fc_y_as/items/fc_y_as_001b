@@ -57,7 +57,7 @@
         "en": "fc_y_as_001b"
     },
     "question": {
-        "en": "From the list pick another place that you most often go on a regular week: [Place 2]"
+        "en": "From the list pick another place that you most often go on a regular week: Place 2"
     },
     "responseOptions": {
         "valueType": [

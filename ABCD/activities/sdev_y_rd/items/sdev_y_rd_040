@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "sdev_y_rd_0287"
+            "value": "sdev_y_rd_0326"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "sdev_y_rd_040"
     },
     "question": {
-        "en": "Have you sold marijuana (pot, grass, weed)? [Youth]"
+        "en": "Have you sold marijuana (Pot, grass, weed)? [Youth]"
     },
     "responseOptions": {
         "valueType": [

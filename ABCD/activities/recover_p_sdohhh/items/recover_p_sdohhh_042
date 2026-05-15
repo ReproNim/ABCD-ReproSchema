@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_sdohhh_042",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "Next we will ask you questions about your neighborhood."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "household_social_determinants_of_health"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sdoh_neighnoise"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_042"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_0054"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_sdohhh_042"
+    },
+    "question": {
+        "en": "My neighborhood is noisy."
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

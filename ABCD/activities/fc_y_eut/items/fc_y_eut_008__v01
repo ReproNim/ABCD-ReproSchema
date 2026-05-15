@@ -30,7 +30,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "dim_yesno_q8_7yr"
+            "value": "dim_yesno_q8_7yr | eut_008"
         },
         {
             "column": "url_table",
@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "fc_y_eut_0015"
+            "value": "fc_y_eut_0016"
         },
         {
             "column": "activity",

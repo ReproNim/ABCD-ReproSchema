@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__r02__dst__scta__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: face vs. place; run 2) in Destrieux ROI: anterior transverse collateral sulcus (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Face vs. place; Run 2) in Destrieux ROI: Anterior transverse collateral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

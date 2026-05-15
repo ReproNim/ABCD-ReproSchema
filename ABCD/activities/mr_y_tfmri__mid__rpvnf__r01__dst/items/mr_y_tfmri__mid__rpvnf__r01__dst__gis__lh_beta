@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__rpvnf__r01__dst__gis__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Monetary Incentive Delay task (contrast: reward positive vs. negative feedback; run 1) in Destrieux ROI: short insular gyri (left hemisphere)"
+        "en": "Average beta weight for Monetary Incentive Delay task (Contrast - Reward positive vs. negative feedback; Run 1) in Destrieux ROI: Short insular gyri (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_fcihcg__health_001__12",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "first_covid_infection_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fcih_treatvent"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_fcihcg__health_001__12"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_fcihcg_0026"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_fcihcg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_fcihcg__health_001__12"
+    },
+    "question": {
+        "en": "During the first time you had COVID, did you receive any of the following treatments? [Multi-select]: Breathing tube or breathing machine (ventilator)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

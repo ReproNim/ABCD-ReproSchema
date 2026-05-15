@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_vacc__r10_dt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_vaccine_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "vacc_dt_10"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_vacc__r10_dt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_vacc_0053"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_vacc"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_vacc__r10_dt"
+    },
+    "question": {
+        "en": "Date of tenth vaccine dose (If you do not remember the exact date, that is okay. Try your best.)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:date"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0809"
+            "value": "su_y_tlfb_0843"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__rxsed_totdose"
     },
     "question": {
-        "en": "Prescription sedatives: total dose"
+        "en": "Prescription sedatives: Total dose"
     },
     "responseOptions": {
         "valueType": [

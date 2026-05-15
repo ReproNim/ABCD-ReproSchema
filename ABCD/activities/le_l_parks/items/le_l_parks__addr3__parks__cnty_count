@@ -52,7 +52,7 @@
         "en": "le_l_parks__addr3__parks__cnty_count"
     },
     "question": {
-        "en": "Total number of open parks [NaNDA; county] (Address 3) (address 3)"
+        "en": "Total number of open parks [NaNDA; county] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

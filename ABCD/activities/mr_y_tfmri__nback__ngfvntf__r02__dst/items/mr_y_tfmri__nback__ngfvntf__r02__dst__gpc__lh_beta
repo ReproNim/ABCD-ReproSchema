@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__ngfvntf__r02__dst__gpc__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: negative face vs. neutral face; run 2) in Destrieux ROI: postcentral gyrus (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Negative face vs. neutral face; Run 2) in Destrieux ROI: Postcentral gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

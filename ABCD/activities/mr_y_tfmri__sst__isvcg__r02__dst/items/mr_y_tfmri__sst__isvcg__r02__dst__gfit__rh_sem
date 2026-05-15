@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__isvcg__r02__dst__gfit__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Stop Signal task (contrast: incorrect stop vs. correct go; run 2) in Destrieux ROI: triangular part of the inferior frontal gyrus (right hemisphere)"
+        "en": "Average standard error of the mean for Stop Signal task (Contrast - Incorrrect stop vs. correct go; Run 2) in Destrieux ROI: Triangular part of the inferior frontal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

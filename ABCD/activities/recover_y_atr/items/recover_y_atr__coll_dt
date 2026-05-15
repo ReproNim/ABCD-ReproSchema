@@ -1,0 +1,67 @@
+{
+    "id": "recover_y_atr__coll_dt",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Biospecimens"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "antibody_test_results"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "atr_colldt"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_y_atr__coll_dt"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_y_atr_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_y_atr"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_y_atr__coll_dt"
+    },
+    "question": {
+        "en": "Antibody Test [Youth]: Date of sample collection"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:date"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

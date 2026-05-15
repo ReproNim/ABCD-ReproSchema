@@ -67,7 +67,7 @@
         "en": "covid_p_qtn_006___7"
     },
     "question": {
-        "en": "In the past week, our family has (check all that apply; by your choice rather than because it's closed): [Avoided restaurant take-out/delivery"
+        "en": "In the past week, our family has (by your choice rather than because it's closed) [Multi-select]: Avoided restaurant take-out/delivery"
     },
     "responseOptions": {
         "valueType": [

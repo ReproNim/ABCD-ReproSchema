@@ -52,7 +52,7 @@
         "en": "le_l_aca__addr3__acaexpand_indicator"
     },
     "question": {
-        "en": "Indicates if ACA expansion was effective at date of baseline visit (Address 3) (address 3)"
+        "en": "Indicates if ACA expansion was effective at date of baseline visit (Address 3)"
     },
     "responseOptions": {
         "valueType": [

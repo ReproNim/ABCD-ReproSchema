@@ -122,8 +122,8 @@
             "items/mr_y_qc__raw__dmri__md__brain_mean",
             "items/mr_y_qc__raw__dmri__md__brain_med",
             "items/mr_y_qc__raw__dmri__md__brain_std",
-            "items/mr_y_qc__raw__dmri__mot__comp__nody_mean",
             "items/mr_y_qc__raw__dmri__mot__comp_mean",
+            "items/mr_y_qc__raw__dmri__mot__nody__comp_mean",
             "items/mr_y_qc__raw__dmri__mot__nody__ok_mean",
             "items/mr_y_qc__raw__dmri__mot__nody_mean",
             "items/mr_y_qc__raw__dmri__mot__ok_mean",
@@ -132,6 +132,7 @@
             "items/mr_y_qc__raw__dmri__needrqc_indicator",
             "items/mr_y_qc__raw__dmri__nokspace_count",
             "items/mr_y_qc__raw__dmri__pass__protcom_count",
+            "items/mr_y_qc__raw__dmri__pass__protcom__comp_count",
             "items/mr_y_qc__raw__dmri__pass__qc__comp_count",
             "items/mr_y_qc__raw__dmri__pass__qc__protcom_count",
             "items/mr_y_qc__raw__dmri__pass__qc_count",
@@ -361,7 +362,6 @@
             "items/mr_y_qc__raw__dmri__rep__comp_mean",
             "items/mr_y_qc__raw__dmri__rep__ok_mean",
             "items/mr_y_qc__raw__dmri__rep_mean",
-            "items/mr_y_qc__raw__dmri__series__comp_count",
             "items/mr_y_qc__raw__dmri__series_count",
             "items/mr_y_qc__raw__dmri__tr__comp_mean",
             "items/mr_y_qc__raw__dmri__tr__ok_mean",
@@ -952,14 +952,14 @@
                 "variableName": "mr_y_qc__raw__dmri__md__brain_std"
             },
             {
-                "isAbout": "items/mr_y_qc__raw__dmri__mot__comp__nody_mean",
-                "isVis": true,
-                "variableName": "mr_y_qc__raw__dmri__mot__comp__nody_mean"
-            },
-            {
                 "isAbout": "items/mr_y_qc__raw__dmri__mot__comp_mean",
                 "isVis": true,
                 "variableName": "mr_y_qc__raw__dmri__mot__comp_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__mot__nody__comp_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__mot__nody__comp_mean"
             },
             {
                 "isAbout": "items/mr_y_qc__raw__dmri__mot__nody__ok_mean",
@@ -1000,6 +1000,11 @@
                 "isAbout": "items/mr_y_qc__raw__dmri__pass__protcom_count",
                 "isVis": true,
                 "variableName": "mr_y_qc__raw__dmri__pass__protcom_count"
+            },
+            {
+                "isAbout": "items/mr_y_qc__raw__dmri__pass__protcom__comp_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__raw__dmri__pass__protcom__comp_count"
             },
             {
                 "isAbout": "items/mr_y_qc__raw__dmri__pass__qc__comp_count",
@@ -2147,11 +2152,6 @@
                 "variableName": "mr_y_qc__raw__dmri__rep_mean"
             },
             {
-                "isAbout": "items/mr_y_qc__raw__dmri__series__comp_count",
-                "isVis": true,
-                "variableName": "mr_y_qc__raw__dmri__series__comp_count"
-            },
-            {
                 "isAbout": "items/mr_y_qc__raw__dmri__series_count",
                 "isVis": true,
                 "variableName": "mr_y_qc__raw__dmri__series_count"
@@ -2214,6 +2214,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

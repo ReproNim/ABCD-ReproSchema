@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "sdev_p_rd_0200"
+            "value": "sdev_p_rd_0247"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "sdev_p_rd_048__l"
     },
     "question": {
-        "en": "Has your child used or tried to use a credit card or bank card of someone your child DOES not KNOW without the owner's permission? [Parent; Longitudinal]"
+        "en": "Has your child used or tried to use a credit card or bank card of someone your child does not know without the owner's permission? [Parent; Longitudinal]"
     },
     "responseOptions": {
         "valueType": [

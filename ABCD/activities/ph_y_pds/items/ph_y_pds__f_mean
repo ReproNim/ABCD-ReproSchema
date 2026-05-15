@@ -52,7 +52,7 @@
         "en": "ph_y_pds__f_mean"
     },
     "question": {
-        "en": "Pubertal Development Scale & Menstrual Cycle Survey History [Youth] (Female): Mean\n [Validation: No more than 0 missing or declined]"
+        "en": "Pubertal Development Scale & Menstrual Cycle Survey History [Youth] (Female): Mean\n [Validation: No more than 1 missing or declined]"
     },
     "responseOptions": {
         "valueType": [

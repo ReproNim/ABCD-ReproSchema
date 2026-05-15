@@ -1,0 +1,95 @@
+{
+    "id": "fc_y_ag_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "fc_y_ag"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/fc_y_ag_dtt",
+            "items/fc_y_ag_age",
+            "items/fc_y_ag_adm",
+            "items/fc_y_ag_001a",
+            "items/fc_y_ag_001b___0",
+            "items/fc_y_ag_001b___1",
+            "items/fc_y_ag_002",
+            "items/fc_y_ag_003",
+            "items/fc_y_ag_004",
+            "items/fc_y_ag_005",
+            "items/fc_y_ag_006",
+            "items/fc_y_ag_007",
+            "items/fc_y_ag_008"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/fc_y_ag_dtt",
+                "isVis": true,
+                "variableName": "fc_y_ag_dtt"
+            },
+            {
+                "isAbout": "items/fc_y_ag_age",
+                "isVis": true,
+                "variableName": "fc_y_ag_age"
+            },
+            {
+                "isAbout": "items/fc_y_ag_adm",
+                "isVis": true,
+                "variableName": "fc_y_ag_adm"
+            },
+            {
+                "isAbout": "items/fc_y_ag_001a",
+                "isVis": true,
+                "variableName": "fc_y_ag_001a"
+            },
+            {
+                "isAbout": "items/fc_y_ag_001b___0",
+                "isVis": true,
+                "variableName": "fc_y_ag_001b___0"
+            },
+            {
+                "isAbout": "items/fc_y_ag_001b___1",
+                "isVis": true,
+                "variableName": "fc_y_ag_001b___1"
+            },
+            {
+                "isAbout": "items/fc_y_ag_002",
+                "isVis": true,
+                "variableName": "fc_y_ag_002"
+            },
+            {
+                "isAbout": "items/fc_y_ag_003",
+                "isVis": true,
+                "variableName": "fc_y_ag_003"
+            },
+            {
+                "isAbout": "items/fc_y_ag_004",
+                "isVis": true,
+                "variableName": "fc_y_ag_004"
+            },
+            {
+                "isAbout": "items/fc_y_ag_005",
+                "isVis": true,
+                "variableName": "fc_y_ag_005"
+            },
+            {
+                "isAbout": "items/fc_y_ag_006",
+                "isVis": true,
+                "variableName": "fc_y_ag_006"
+            },
+            {
+                "isAbout": "items/fc_y_ag_007",
+                "isVis": true,
+                "variableName": "fc_y_ag_007"
+            },
+            {
+                "isAbout": "items/fc_y_ag_008",
+                "isVis": true,
+                "variableName": "fc_y_ag_008"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

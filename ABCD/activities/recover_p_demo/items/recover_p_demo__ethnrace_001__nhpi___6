@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_demo__ethnrace_001__nhpi___6",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "You can choose one of more of these"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "demographics"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_pacisl"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_demo__ethnrace_001__nhpi___6"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_demo_0074"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_demo"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_demo__ethnrace_001__nhpi___6"
+    },
+    "question": {
+        "en": "Which of these Native Hawaiian or Pacific Islander groups best describe the youth? [Multi-select]: Marshallese"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

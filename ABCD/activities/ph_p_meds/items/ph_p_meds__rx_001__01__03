@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_001__01__03"
     },
     "question": {
-        "en": "RX 1: Is the medication extended-release (XR)? [Parent]"
+        "en": "Prescription - Medication 1: Is the medication extended-release (XR)? [Parent]"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__wm__dst__lfp__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; white matter) in Destrieux ROI: posterior ramus of the lateral sulcus (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI; White matter) in Destrieux ROI: Posterior ramus of the lateral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

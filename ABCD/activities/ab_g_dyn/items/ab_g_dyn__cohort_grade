@@ -67,7 +67,7 @@
         "en": "ab_g_dyn__cohort_grade"
     },
     "question": {
-        "en": "Cohort description: Current school grade [Cross-listed: ab_p_demo__ed__yth_001]"
+        "en": "Cohort description: Current school grade [Cross-listed: le_l_sedaadm_grade]"
     },
     "responseOptions": {
         "valueType": [

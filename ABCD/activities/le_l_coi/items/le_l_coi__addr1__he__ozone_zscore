@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__he__ozone_zscore"
     },
     "question": {
-        "en": "Ozone concentration- mean estimated 8-hour average ozone concentration, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1) (address 1)"
+        "en": "Ozone concentration- mean estimated 8-hour average ozone concentration, transformed to z-scores and multiplied by -1 [Health and environment domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

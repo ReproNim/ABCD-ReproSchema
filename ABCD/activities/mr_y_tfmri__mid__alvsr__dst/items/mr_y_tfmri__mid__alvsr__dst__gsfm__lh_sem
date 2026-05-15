@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvsr__dst__gsfm__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: anticipated large vs. small reward; all runs) in Destrieux ROI: fronto-marginal gyrus and sulcus (left hemisphere)"
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (Contrast - Anticipated large vs. small reward; All runs) in Destrieux ROI: Fronto-marginal gyrus and sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

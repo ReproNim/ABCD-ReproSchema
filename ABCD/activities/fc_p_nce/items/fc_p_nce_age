@@ -52,7 +52,7 @@
         "en": "fc_p_nce_age"
     },
     "question": {
-        "en": "Neighborhood Collective Efficacy [Parent]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Neighborhood Collective Efficacy [Parent]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

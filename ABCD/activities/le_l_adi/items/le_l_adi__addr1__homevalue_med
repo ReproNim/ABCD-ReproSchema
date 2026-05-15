@@ -62,7 +62,7 @@
         "en": "le_l_adi__addr1__homevalue_med"
     },
     "question": {
-        "en": "Median home value [Area Deprivation Index] (Address 1) (address 1)"
+        "en": "Median home value [Area Deprivation Index] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

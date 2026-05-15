@@ -52,7 +52,7 @@
         "en": "le_l_goodsam__addr2__gsl__arrest_indicator"
     },
     "question": {
-        "en": "Indicates if Good Samaritan law that provides protection from arrest for controlled substance possession was effective at date of baseline visit (Address 2) (address 2)"
+        "en": "Indicates if Good Samaritan law that provides protection from arrest for controlled substance possession was effective at date of baseline visit (Address 2)"
     },
     "responseOptions": {
         "valueType": [

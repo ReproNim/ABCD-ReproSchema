@@ -67,7 +67,7 @@
         "en": "sdev_p_nbh_025"
     },
     "question": {
-        "en": "I can trust MOST people in my neighborhood. [Parent]"
+        "en": "I can trust most people in my neighborhood. [Parent]"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,71 @@
+{
+    "id": "sips_p_discomm_002__08",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions probe for thought disorder and other difficulties in thinking as reflected in speech.\u00a0 They are rated on the SOPS P5 Scale. Note: Basis for rating includes - Verbal communication and coherence during the interview as well as reports of problems with speech."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_disorg"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_disorg_002_06_02"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_discomm_002__08"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_discomm_0033"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_discomm"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_discomm_002__08"
+    },
+    "question": {
+        "en": "Are you aware of any ongoing difficulties getting your point across, such as finding yourself rambling or going off track when you talk: How would you rate your degree of interference with life? [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

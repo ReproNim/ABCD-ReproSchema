@@ -1,0 +1,61 @@
+{
+    "id": "mh_y_ksads__ptsd__screen_001___10",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Stress"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_ksads"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_ksads__ptsd__screen_001___10"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_ksads_ptsd_0125"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_ksads__ptsd"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_ksads__ptsd__screen_001___10"
+    },
+    "question": {
+        "en": "Please check off the things that have happened to you in your lifetime [Multi-select]: Beaten to the point of having bruises or had a more serious injury caused by a grown-up in the home"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

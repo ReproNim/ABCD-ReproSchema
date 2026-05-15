@@ -57,7 +57,7 @@
         "en": "nc_y_smarte__enum__corr_count"
     },
     "question": {
-        "en": "Stanford Mental Arithmetic Response Time Evaluation (SMARTE): Enumeration: total number of correct"
+        "en": "Stanford Mental Arithmetic Response Time Evaluation (SMARTE): Enumeration: Total number of correct"
     },
     "responseOptions": {
         "valueType": [

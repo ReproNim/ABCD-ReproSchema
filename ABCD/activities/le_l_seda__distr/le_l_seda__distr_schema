@@ -1,0 +1,3329 @@
+{
+    "id": "le_l_seda__distr_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_seda__distr"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_seda__distr_dt",
+            "items/le_l_seda__distr__all__asmts_count",
+            "items/le_l_seda__distr__all__asmts_mean",
+            "items/le_l_seda__distr__all__center_grade",
+            "items/le_l_seda__distr__all__eb__college_prop__2009",
+            "items/le_l_seda__distr__all__eb__college_prop__2010",
+            "items/le_l_seda__distr__all__eb__college_prop__2011",
+            "items/le_l_seda__distr__all__eb__college_prop__2012",
+            "items/le_l_seda__distr__all__eb__college_prop__2013",
+            "items/le_l_seda__distr__all__eb__college_prop__2014",
+            "items/le_l_seda__distr__all__eb__college_prop__2015",
+            "items/le_l_seda__distr__all__eb__college_prop__2016",
+            "items/le_l_seda__distr__all__eb__college_prop__2017",
+            "items/le_l_seda__distr__all__eb__college_prop__2018",
+            "items/le_l_seda__distr__all__eb__college_prop__2019",
+            "items/le_l_seda__distr__all_lminc__2009",
+            "items/le_l_seda__distr__all_lminc__2010",
+            "items/le_l_seda__distr__all_lminc__2011",
+            "items/le_l_seda__distr__all_lminc__2012",
+            "items/le_l_seda__distr__all_lminc__2013",
+            "items/le_l_seda__distr__all_lminc__2014",
+            "items/le_l_seda__distr__all_lminc__2015",
+            "items/le_l_seda__distr__all_lminc__2016",
+            "items/le_l_seda__distr__all_lminc__2017",
+            "items/le_l_seda__distr__all_lminc__2018",
+            "items/le_l_seda__distr__all_lminc__2019",
+            "items/le_l_seda__distr__all_ses__2009",
+            "items/le_l_seda__distr__all_ses__2010",
+            "items/le_l_seda__distr__all_ses__2011",
+            "items/le_l_seda__distr__all_ses__2012",
+            "items/le_l_seda__distr__all_ses__2013",
+            "items/le_l_seda__distr__all_ses__2014",
+            "items/le_l_seda__distr__all_ses__2015",
+            "items/le_l_seda__distr__all_ses__2016",
+            "items/le_l_seda__distr__all_ses__2017",
+            "items/le_l_seda__distr__all_ses__2018",
+            "items/le_l_seda__distr__all_ses__2019",
+            "items/le_l_seda__distr__eb__all__center__grade__slope_se",
+            "items/le_l_seda__distr__eb__all__center__grade_slope",
+            "items/le_l_seda__distr__eb__all__coh__slope_se",
+            "items/le_l_seda__distr__eb__all__coh_slope",
+            "items/le_l_seda__distr__eb__all__diff_se",
+            "items/le_l_seda__distr__eb__all__mean_se",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2009",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2010",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2011",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2012",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2013",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2014",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2015",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2016",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2017",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2018",
+            "items/le_l_seda__distr__eb__all__poverty_rate__2019",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2009",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2010",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2011",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2012",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2013",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2014",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2015",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2016",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2017",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2018",
+            "items/le_l_seda__distr__eb__all__singlmoth_rate__2019",
+            "items/le_l_seda__distr__eb__all__snap_rate__2009",
+            "items/le_l_seda__distr__eb__all__snap_rate__2010",
+            "items/le_l_seda__distr__eb__all__snap_rate__2011",
+            "items/le_l_seda__distr__eb__all__snap_rate__2012",
+            "items/le_l_seda__distr__eb__all__snap_rate__2013",
+            "items/le_l_seda__distr__eb__all__snap_rate__2014",
+            "items/le_l_seda__distr__eb__all__snap_rate__2015",
+            "items/le_l_seda__distr__eb__all__snap_rate__2016",
+            "items/le_l_seda__distr__eb__all__snap_rate__2017",
+            "items/le_l_seda__distr__eb__all__snap_rate__2018",
+            "items/le_l_seda__distr__eb__all__snap_rate__2019",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2009",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2010",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2011",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2012",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2013",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2014",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2015",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2016",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2017",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2018",
+            "items/le_l_seda__distr__eb__all__unemp_rate__2019",
+            "items/le_l_seda__distr__eb__all_diff",
+            "items/le_l_seda__distr__eb__all_mean",
+            "items/le_l_seda__distr__eb__ecd__center__grade__slope_se",
+            "items/le_l_seda__distr__eb__ecd__center__grade_slope",
+            "items/le_l_seda__distr__eb__ecd__coh__slope_se",
+            "items/le_l_seda__distr__eb__ecd__coh_slope",
+            "items/le_l_seda__distr__eb__ecd__diff_se",
+            "items/le_l_seda__distr__eb__ecd__mean_se",
+            "items/le_l_seda__distr__eb__ecd_diff",
+            "items/le_l_seda__distr__eb__ecd_mean",
+            "items/le_l_seda__distr__eb__fem__center__grade__slope_se",
+            "items/le_l_seda__distr__eb__fem__center__grade_slope",
+            "items/le_l_seda__distr__eb__fem__coh__slope_se",
+            "items/le_l_seda__distr__eb__fem__coh_slope",
+            "items/le_l_seda__distr__eb__fem__diff_se",
+            "items/le_l_seda__distr__eb__fem__mean_se",
+            "items/le_l_seda__distr__eb__fem_diff",
+            "items/le_l_seda__distr__eb__fem_mean",
+            "items/le_l_seda__distr__eb__mal__center__grade__slope_se",
+            "items/le_l_seda__distr__eb__mal__center__grade_slope",
+            "items/le_l_seda__distr__eb__mal__coh__slope_se",
+            "items/le_l_seda__distr__eb__mal__coh_slope",
+            "items/le_l_seda__distr__eb__mal__diff_se",
+            "items/le_l_seda__distr__eb__mal__mean_se",
+            "items/le_l_seda__distr__eb__mal_diff",
+            "items/le_l_seda__distr__eb__mal_mean",
+            "items/le_l_seda__distr__eb__mfg__center__grade__slope_se",
+            "items/le_l_seda__distr__eb__mfg__center__grade_slope",
+            "items/le_l_seda__distr__eb__mfg__coh__slope_se",
+            "items/le_l_seda__distr__eb__mfg__coh_slope",
+            "items/le_l_seda__distr__eb__mfg__diff_se",
+            "items/le_l_seda__distr__eb__mfg__mean_se",
+            "items/le_l_seda__distr__eb__mfg_diff",
+            "items/le_l_seda__distr__eb__mfg_mean",
+            "items/le_l_seda__distr__eb__nec__center__grade__slope_se",
+            "items/le_l_seda__distr__eb__nec__center__grade_slope",
+            "items/le_l_seda__distr__eb__nec__coh__slope_se",
+            "items/le_l_seda__distr__eb__nec__coh_slope",
+            "items/le_l_seda__distr__eb__nec__diff_se",
+            "items/le_l_seda__distr__eb__nec__mean_se",
+            "items/le_l_seda__distr__eb__nec_diff",
+            "items/le_l_seda__distr__eb__nec_mean",
+            "items/le_l_seda__distr__eb__neg__center__grade__slope_se",
+            "items/le_l_seda__distr__eb__neg__center__grade_slope",
+            "items/le_l_seda__distr__eb__neg__coh__slope_se",
+            "items/le_l_seda__distr__eb__neg__coh_slope",
+            "items/le_l_seda__distr__eb__neg__diff_se",
+            "items/le_l_seda__distr__eb__neg__mean_se",
+            "items/le_l_seda__distr__eb__neg_diff",
+            "items/le_l_seda__distr__eb__neg_mean",
+            "items/le_l_seda__distr__ecd__asmts_count",
+            "items/le_l_seda__distr__ecd__asmts_mean",
+            "items/le_l_seda__distr__ecd__center_grade",
+            "items/le_l_seda__distr__ecd_prcnt__2009",
+            "items/le_l_seda__distr__ecd_prcnt__2010",
+            "items/le_l_seda__distr__ecd_prcnt__2011",
+            "items/le_l_seda__distr__ecd_prcnt__2012",
+            "items/le_l_seda__distr__ecd_prcnt__2013",
+            "items/le_l_seda__distr__ecd_prcnt__2014",
+            "items/le_l_seda__distr__ecd_prcnt__2015",
+            "items/le_l_seda__distr__ecd_prcnt__2016",
+            "items/le_l_seda__distr__ecd_prcnt__2017",
+            "items/le_l_seda__distr__ecd_prcnt__2018",
+            "items/le_l_seda__distr__ecd_prcnt__2019",
+            "items/le_l_seda__distr__ecdnec_ii__2009",
+            "items/le_l_seda__distr__ecdnec_ii__2010",
+            "items/le_l_seda__distr__ecdnec_ii__2011",
+            "items/le_l_seda__distr__ecdnec_ii__2012",
+            "items/le_l_seda__distr__ecdnec_ii__2013",
+            "items/le_l_seda__distr__ecdnec_ii__2014",
+            "items/le_l_seda__distr__ecdnec_ii__2015",
+            "items/le_l_seda__distr__ecdnec_ii__2016",
+            "items/le_l_seda__distr__ecdnec_ii__2017",
+            "items/le_l_seda__distr__ecdnec_ii__2018",
+            "items/le_l_seda__distr__ecdnec_ii__2019",
+            "items/le_l_seda__distr__ecdnec_rdi__2009",
+            "items/le_l_seda__distr__ecdnec_rdi__2010",
+            "items/le_l_seda__distr__ecdnec_rdi__2011",
+            "items/le_l_seda__distr__ecdnec_rdi__2012",
+            "items/le_l_seda__distr__ecdnec_rdi__2013",
+            "items/le_l_seda__distr__ecdnec_rdi__2014",
+            "items/le_l_seda__distr__ecdnec_rdi__2015",
+            "items/le_l_seda__distr__ecdnec_rdi__2016",
+            "items/le_l_seda__distr__ecdnec_rdi__2017",
+            "items/le_l_seda__distr__ecdnec_rdi__2018",
+            "items/le_l_seda__distr__ecdnec_rdi__2019",
+            "items/le_l_seda__distr__ell_prcnt__2009",
+            "items/le_l_seda__distr__ell_prcnt__2010",
+            "items/le_l_seda__distr__ell_prcnt__2011",
+            "items/le_l_seda__distr__ell_prcnt__2012",
+            "items/le_l_seda__distr__ell_prcnt__2013",
+            "items/le_l_seda__distr__ell_prcnt__2014",
+            "items/le_l_seda__distr__ell_prcnt__2015",
+            "items/le_l_seda__distr__ell_prcnt__2016",
+            "items/le_l_seda__distr__ell_prcnt__2017",
+            "items/le_l_seda__distr__ell_prcnt__2018",
+            "items/le_l_seda__distr__ell_prcnt__2019",
+            "items/le_l_seda__distr__enrl_count__2009",
+            "items/le_l_seda__distr__enrl_count__2010",
+            "items/le_l_seda__distr__enrl_count__2011",
+            "items/le_l_seda__distr__enrl_count__2012",
+            "items/le_l_seda__distr__enrl_count__2013",
+            "items/le_l_seda__distr__enrl_count__2014",
+            "items/le_l_seda__distr__enrl_count__2015",
+            "items/le_l_seda__distr__enrl_count__2016",
+            "items/le_l_seda__distr__enrl_count__2017",
+            "items/le_l_seda__distr__enrl_count__2018",
+            "items/le_l_seda__distr__enrl_count__2019",
+            "items/le_l_seda__distr__enrl_mean__2009",
+            "items/le_l_seda__distr__enrl_mean__2010",
+            "items/le_l_seda__distr__enrl_mean__2011",
+            "items/le_l_seda__distr__enrl_mean__2012",
+            "items/le_l_seda__distr__enrl_mean__2013",
+            "items/le_l_seda__distr__enrl_mean__2014",
+            "items/le_l_seda__distr__enrl_mean__2015",
+            "items/le_l_seda__distr__enrl_mean__2016",
+            "items/le_l_seda__distr__enrl_mean__2017",
+            "items/le_l_seda__distr__enrl_mean__2018",
+            "items/le_l_seda__distr__enrl_mean__2019",
+            "items/le_l_seda__distr__fem__asmts_count",
+            "items/le_l_seda__distr__fem__asmts_mean",
+            "items/le_l_seda__distr__fem__center_grade",
+            "items/le_l_seda__distr__fl_prcnt__2009",
+            "items/le_l_seda__distr__fl_prcnt__2010",
+            "items/le_l_seda__distr__fl_prcnt__2011",
+            "items/le_l_seda__distr__fl_prcnt__2012",
+            "items/le_l_seda__distr__fl_prcnt__2013",
+            "items/le_l_seda__distr__fl_prcnt__2014",
+            "items/le_l_seda__distr__fl_prcnt__2015",
+            "items/le_l_seda__distr__fl_prcnt__2016",
+            "items/le_l_seda__distr__fl_prcnt__2017",
+            "items/le_l_seda__distr__fl_prcnt__2018",
+            "items/le_l_seda__distr__fl_prcnt__2019",
+            "items/le_l_seda__distr__flnfl_ii__2009",
+            "items/le_l_seda__distr__flnfl_ii__2010",
+            "items/le_l_seda__distr__flnfl_ii__2011",
+            "items/le_l_seda__distr__flnfl_ii__2012",
+            "items/le_l_seda__distr__flnfl_ii__2013",
+            "items/le_l_seda__distr__flnfl_ii__2014",
+            "items/le_l_seda__distr__flnfl_ii__2015",
+            "items/le_l_seda__distr__flnfl_ii__2016",
+            "items/le_l_seda__distr__flnfl_ii__2017",
+            "items/le_l_seda__distr__flnfl_ii__2018",
+            "items/le_l_seda__distr__flnfl_ii__2019",
+            "items/le_l_seda__distr__flnfl_rdi__2009",
+            "items/le_l_seda__distr__flnfl_rdi__2010",
+            "items/le_l_seda__distr__flnfl_rdi__2011",
+            "items/le_l_seda__distr__flnfl_rdi__2012",
+            "items/le_l_seda__distr__flnfl_rdi__2013",
+            "items/le_l_seda__distr__flnfl_rdi__2014",
+            "items/le_l_seda__distr__flnfl_rdi__2015",
+            "items/le_l_seda__distr__flnfl_rdi__2016",
+            "items/le_l_seda__distr__flnfl_rdi__2017",
+            "items/le_l_seda__distr__flnfl_rdi__2018",
+            "items/le_l_seda__distr__flnfl_rdi__2019",
+            "items/le_l_seda__distr__frl_prcnt__2009",
+            "items/le_l_seda__distr__frl_prcnt__2010",
+            "items/le_l_seda__distr__frl_prcnt__2011",
+            "items/le_l_seda__distr__frl_prcnt__2012",
+            "items/le_l_seda__distr__frl_prcnt__2013",
+            "items/le_l_seda__distr__frl_prcnt__2014",
+            "items/le_l_seda__distr__frl_prcnt__2015",
+            "items/le_l_seda__distr__frl_prcnt__2016",
+            "items/le_l_seda__distr__frl_prcnt__2017",
+            "items/le_l_seda__distr__frl_prcnt__2018",
+            "items/le_l_seda__distr__frl_prcnt__2019",
+            "items/le_l_seda__distr__grade_max__2009",
+            "items/le_l_seda__distr__grade_max__2010",
+            "items/le_l_seda__distr__grade_max__2011",
+            "items/le_l_seda__distr__grade_max__2012",
+            "items/le_l_seda__distr__grade_max__2013",
+            "items/le_l_seda__distr__grade_max__2014",
+            "items/le_l_seda__distr__grade_max__2015",
+            "items/le_l_seda__distr__grade_max__2016",
+            "items/le_l_seda__distr__grade_max__2017",
+            "items/le_l_seda__distr__grade_max__2018",
+            "items/le_l_seda__distr__grade_max__2019",
+            "items/le_l_seda__distr__grade_min__2009",
+            "items/le_l_seda__distr__grade_min__2010",
+            "items/le_l_seda__distr__grade_min__2011",
+            "items/le_l_seda__distr__grade_min__2012",
+            "items/le_l_seda__distr__grade_min__2013",
+            "items/le_l_seda__distr__grade_min__2014",
+            "items/le_l_seda__distr__grade_min__2015",
+            "items/le_l_seda__distr__grade_min__2016",
+            "items/le_l_seda__distr__grade_min__2017",
+            "items/le_l_seda__distr__grade_min__2018",
+            "items/le_l_seda__distr__grade_min__2019",
+            "items/le_l_seda__distr__mal__asmts_count",
+            "items/le_l_seda__distr__mal__asmts_mean",
+            "items/le_l_seda__distr__mal__center_grade",
+            "items/le_l_seda__distr__mfg__asmts_count",
+            "items/le_l_seda__distr__mfg__asmts_mean",
+            "items/le_l_seda__distr__mfg__center_grade",
+            "items/le_l_seda__distr__nec__asmts_count",
+            "items/le_l_seda__distr__nec__asmts_mean",
+            "items/le_l_seda__distr__nec__center_grade",
+            "items/le_l_seda__distr__neg__asmts_count",
+            "items/le_l_seda__distr__neg__asmts_mean",
+            "items/le_l_seda__distr__neg__center_grade",
+            "items/le_l_seda__distr__old__all__diff_se",
+            "items/le_l_seda__distr__old__ecd__diff_se",
+            "items/le_l_seda__distr__old__fem__diff_se",
+            "items/le_l_seda__distr__old__mal__diff_se",
+            "items/le_l_seda__distr__old__mfg__diff_se",
+            "items/le_l_seda__distr__old__nec__diff_se",
+            "items/le_l_seda__distr__old__neg__diff_se",
+            "items/le_l_seda__distr__ols__all__coh_slope",
+            "items/le_l_seda__distr__ols__ecd__coh_slope",
+            "items/le_l_seda__distr__ols__fem__coh_slope",
+            "items/le_l_seda__distr__ols__mal__coh_slope",
+            "items/le_l_seda__distr__ols__mfg__coh_slope",
+            "items/le_l_seda__distr__ols__nec__coh_slope",
+            "items/le_l_seda__distr__ols__neg__coh_slope",
+            "items/le_l_seda__distr__ols__all__center__grade__slope_se",
+            "items/le_l_seda__distr__ols__all__center__grade_slope",
+            "items/le_l_seda__distr__ols__all__coh__slope_se",
+            "items/le_l_seda__distr__ols__all__mean_se",
+            "items/le_l_seda__distr__ols__all_diff",
+            "items/le_l_seda__distr__ols__all_mean",
+            "items/le_l_seda__distr__ols__ecd__center__grade__slope_se",
+            "items/le_l_seda__distr__ols__ecd__center__grade_slope",
+            "items/le_l_seda__distr__ols__ecd__coh__slope_se",
+            "items/le_l_seda__distr__ols__ecd__mean_se",
+            "items/le_l_seda__distr__ols__ecd_diff",
+            "items/le_l_seda__distr__ols__ecd_mean",
+            "items/le_l_seda__distr__ols__fem__center__grade__slope_se",
+            "items/le_l_seda__distr__ols__fem__center__grade_slope",
+            "items/le_l_seda__distr__ols__fem__coh__slope_se",
+            "items/le_l_seda__distr__ols__fem__mean_se",
+            "items/le_l_seda__distr__ols__fem_diff",
+            "items/le_l_seda__distr__ols__fem_mean",
+            "items/le_l_seda__distr__ols__mal__center__grade__slope_se",
+            "items/le_l_seda__distr__ols__mal__center__grade_slope",
+            "items/le_l_seda__distr__ols__mal__coh__slope_se",
+            "items/le_l_seda__distr__ols__mal__mean_se",
+            "items/le_l_seda__distr__ols__mal_diff",
+            "items/le_l_seda__distr__ols__mal_mean",
+            "items/le_l_seda__distr__ols__mfg__center__grade__slope_se",
+            "items/le_l_seda__distr__ols__mfg__center__grade_slope",
+            "items/le_l_seda__distr__ols__mfg__coh__slope_se",
+            "items/le_l_seda__distr__ols__mfg__mean_se",
+            "items/le_l_seda__distr__ols__mfg_diff",
+            "items/le_l_seda__distr__ols__mfg_mean",
+            "items/le_l_seda__distr__ols__nec__center__grade__slope_se",
+            "items/le_l_seda__distr__ols__nec__center__grade_slope",
+            "items/le_l_seda__distr__ols__nec__coh__slope_se",
+            "items/le_l_seda__distr__ols__nec__mean_se",
+            "items/le_l_seda__distr__ols__nec_diff",
+            "items/le_l_seda__distr__ols__nec_mean",
+            "items/le_l_seda__distr__ols__neg__center__grade__slope_se",
+            "items/le_l_seda__distr__ols__neg__center__grade_slope",
+            "items/le_l_seda__distr__ols__neg__coh__slope_se",
+            "items/le_l_seda__distr__ols__neg__mean_se",
+            "items/le_l_seda__distr__ols__neg_diff",
+            "items/le_l_seda__distr__ols__neg_mean",
+            "items/le_l_seda__distr__rl_prcnt__2009",
+            "items/le_l_seda__distr__rl_prcnt__2010",
+            "items/le_l_seda__distr__rl_prcnt__2011",
+            "items/le_l_seda__distr__rl_prcnt__2012",
+            "items/le_l_seda__distr__rl_prcnt__2013",
+            "items/le_l_seda__distr__rl_prcnt__2014",
+            "items/le_l_seda__distr__rl_prcnt__2015",
+            "items/le_l_seda__distr__rl_prcnt__2016",
+            "items/le_l_seda__distr__rl_prcnt__2017",
+            "items/le_l_seda__distr__rl_prcnt__2018",
+            "items/le_l_seda__distr__rl_prcnt__2019",
+            "items/le_l_seda__distr__rural__distant_prop__2009",
+            "items/le_l_seda__distr__rural__distant_prop__2010",
+            "items/le_l_seda__distr__rural__distant_prop__2011",
+            "items/le_l_seda__distr__rural__distant_prop__2012",
+            "items/le_l_seda__distr__rural__distant_prop__2013",
+            "items/le_l_seda__distr__rural__distant_prop__2014",
+            "items/le_l_seda__distr__rural__distant_prop__2015",
+            "items/le_l_seda__distr__rural__distant_prop__2016",
+            "items/le_l_seda__distr__rural__distant_prop__2017",
+            "items/le_l_seda__distr__rural__distant_prop__2018",
+            "items/le_l_seda__distr__rural__distant_prop__2019",
+            "items/le_l_seda__distr__rural__fringe_prop__2009",
+            "items/le_l_seda__distr__rural__fringe_prop__2010",
+            "items/le_l_seda__distr__rural__fringe_prop__2011",
+            "items/le_l_seda__distr__rural__fringe_prop__2012",
+            "items/le_l_seda__distr__rural__fringe_prop__2013",
+            "items/le_l_seda__distr__rural__fringe_prop__2014",
+            "items/le_l_seda__distr__rural__fringe_prop__2015",
+            "items/le_l_seda__distr__rural__fringe_prop__2016",
+            "items/le_l_seda__distr__rural__fringe_prop__2017",
+            "items/le_l_seda__distr__rural__fringe_prop__2018",
+            "items/le_l_seda__distr__rural__fringe_prop__2019",
+            "items/le_l_seda__distr__rural__remote_prop__2009",
+            "items/le_l_seda__distr__rural__remote_prop__2010",
+            "items/le_l_seda__distr__rural__remote_prop__2011",
+            "items/le_l_seda__distr__rural__remote_prop__2012",
+            "items/le_l_seda__distr__rural__remote_prop__2013",
+            "items/le_l_seda__distr__rural__remote_prop__2014",
+            "items/le_l_seda__distr__rural__remote_prop__2015",
+            "items/le_l_seda__distr__rural__remote_prop__2016",
+            "items/le_l_seda__distr__rural__remote_prop__2017",
+            "items/le_l_seda__distr__rural__remote_prop__2018",
+            "items/le_l_seda__distr__rural__remote_prop__2019",
+            "items/le_l_seda__distr__rural_prop__2009",
+            "items/le_l_seda__distr__rural_prop__2010",
+            "items/le_l_seda__distr__rural_prop__2011",
+            "items/le_l_seda__distr__rural_prop__2012",
+            "items/le_l_seda__distr__rural_prop__2013",
+            "items/le_l_seda__distr__rural_prop__2014",
+            "items/le_l_seda__distr__rural_prop__2015",
+            "items/le_l_seda__distr__rural_prop__2016",
+            "items/le_l_seda__distr__rural_prop__2017",
+            "items/le_l_seda__distr__rural_prop__2018",
+            "items/le_l_seda__distr__rural_prop__2019",
+            "items/le_l_seda__distr__speced_prcnt__2009",
+            "items/le_l_seda__distr__speced_prcnt__2010",
+            "items/le_l_seda__distr__speced_prcnt__2011",
+            "items/le_l_seda__distr__speced_prcnt__2012",
+            "items/le_l_seda__distr__speced_prcnt__2013",
+            "items/le_l_seda__distr__speced_prcnt__2014",
+            "items/le_l_seda__distr__speced_prcnt__2015",
+            "items/le_l_seda__distr__speced_prcnt__2016",
+            "items/le_l_seda__distr__speced_prcnt__2017",
+            "items/le_l_seda__distr__speced_prcnt__2018",
+            "items/le_l_seda__distr__speced_prcnt__2019",
+            "items/le_l_seda__distr__suburb__large_prop__2009",
+            "items/le_l_seda__distr__suburb__large_prop__2010",
+            "items/le_l_seda__distr__suburb__large_prop__2011",
+            "items/le_l_seda__distr__suburb__large_prop__2012",
+            "items/le_l_seda__distr__suburb__large_prop__2013",
+            "items/le_l_seda__distr__suburb__large_prop__2014",
+            "items/le_l_seda__distr__suburb__large_prop__2015",
+            "items/le_l_seda__distr__suburb__large_prop__2016",
+            "items/le_l_seda__distr__suburb__large_prop__2017",
+            "items/le_l_seda__distr__suburb__large_prop__2018",
+            "items/le_l_seda__distr__suburb__large_prop__2019",
+            "items/le_l_seda__distr__suburb__mid_prop__2009",
+            "items/le_l_seda__distr__suburb__mid_prop__2010",
+            "items/le_l_seda__distr__suburb__mid_prop__2011",
+            "items/le_l_seda__distr__suburb__mid_prop__2012",
+            "items/le_l_seda__distr__suburb__mid_prop__2013",
+            "items/le_l_seda__distr__suburb__mid_prop__2014",
+            "items/le_l_seda__distr__suburb__mid_prop__2015",
+            "items/le_l_seda__distr__suburb__mid_prop__2016",
+            "items/le_l_seda__distr__suburb__mid_prop__2017",
+            "items/le_l_seda__distr__suburb__mid_prop__2018",
+            "items/le_l_seda__distr__suburb__mid_prop__2019",
+            "items/le_l_seda__distr__suburb__small_prop__2009",
+            "items/le_l_seda__distr__suburb__small_prop__2010",
+            "items/le_l_seda__distr__suburb__small_prop__2011",
+            "items/le_l_seda__distr__suburb__small_prop__2012",
+            "items/le_l_seda__distr__suburb__small_prop__2013",
+            "items/le_l_seda__distr__suburb__small_prop__2014",
+            "items/le_l_seda__distr__suburb__small_prop__2015",
+            "items/le_l_seda__distr__suburb__small_prop__2016",
+            "items/le_l_seda__distr__suburb__small_prop__2017",
+            "items/le_l_seda__distr__suburb__small_prop__2018",
+            "items/le_l_seda__distr__suburb__small_prop__2019",
+            "items/le_l_seda__distr__suburb_prop__2009",
+            "items/le_l_seda__distr__suburb_prop__2010",
+            "items/le_l_seda__distr__suburb_prop__2011",
+            "items/le_l_seda__distr__suburb_prop__2012",
+            "items/le_l_seda__distr__suburb_prop__2013",
+            "items/le_l_seda__distr__suburb_prop__2014",
+            "items/le_l_seda__distr__suburb_prop__2015",
+            "items/le_l_seda__distr__suburb_prop__2016",
+            "items/le_l_seda__distr__suburb_prop__2017",
+            "items/le_l_seda__distr__suburb_prop__2018",
+            "items/le_l_seda__distr__suburb_prop__2019",
+            "items/le_l_seda__distr__town__distant_prop__2009",
+            "items/le_l_seda__distr__town__distant_prop__2010",
+            "items/le_l_seda__distr__town__distant_prop__2011",
+            "items/le_l_seda__distr__town__distant_prop__2012",
+            "items/le_l_seda__distr__town__distant_prop__2013",
+            "items/le_l_seda__distr__town__distant_prop__2014",
+            "items/le_l_seda__distr__town__distant_prop__2015",
+            "items/le_l_seda__distr__town__distant_prop__2016",
+            "items/le_l_seda__distr__town__distant_prop__2017",
+            "items/le_l_seda__distr__town__distant_prop__2018",
+            "items/le_l_seda__distr__town__distant_prop__2019",
+            "items/le_l_seda__distr__town__fringe_prop__2009",
+            "items/le_l_seda__distr__town__fringe_prop__2010",
+            "items/le_l_seda__distr__town__fringe_prop__2011",
+            "items/le_l_seda__distr__town__fringe_prop__2012",
+            "items/le_l_seda__distr__town__fringe_prop__2013",
+            "items/le_l_seda__distr__town__fringe_prop__2014",
+            "items/le_l_seda__distr__town__fringe_prop__2015",
+            "items/le_l_seda__distr__town__fringe_prop__2016",
+            "items/le_l_seda__distr__town__fringe_prop__2017",
+            "items/le_l_seda__distr__town__fringe_prop__2018",
+            "items/le_l_seda__distr__town__fringe_prop__2019",
+            "items/le_l_seda__distr__town__remote_prop__2009",
+            "items/le_l_seda__distr__town__remote_prop__2010",
+            "items/le_l_seda__distr__town__remote_prop__2011",
+            "items/le_l_seda__distr__town__remote_prop__2012",
+            "items/le_l_seda__distr__town__remote_prop__2013",
+            "items/le_l_seda__distr__town__remote_prop__2014",
+            "items/le_l_seda__distr__town__remote_prop__2015",
+            "items/le_l_seda__distr__town__remote_prop__2016",
+            "items/le_l_seda__distr__town__remote_prop__2017",
+            "items/le_l_seda__distr__town__remote_prop__2018",
+            "items/le_l_seda__distr__town__remote_prop__2019",
+            "items/le_l_seda__distr__town_prop__2009",
+            "items/le_l_seda__distr__town_prop__2010",
+            "items/le_l_seda__distr__town_prop__2011",
+            "items/le_l_seda__distr__town_prop__2012",
+            "items/le_l_seda__distr__town_prop__2013",
+            "items/le_l_seda__distr__town_prop__2014",
+            "items/le_l_seda__distr__town_prop__2015",
+            "items/le_l_seda__distr__town_prop__2016",
+            "items/le_l_seda__distr__town_prop__2017",
+            "items/le_l_seda__distr__town_prop__2018",
+            "items/le_l_seda__distr__town_prop__2019",
+            "items/le_l_seda__distr__urban__large_prop__2009",
+            "items/le_l_seda__distr__urban__large_prop__2010",
+            "items/le_l_seda__distr__urban__large_prop__2011",
+            "items/le_l_seda__distr__urban__large_prop__2012",
+            "items/le_l_seda__distr__urban__large_prop__2013",
+            "items/le_l_seda__distr__urban__large_prop__2014",
+            "items/le_l_seda__distr__urban__large_prop__2015",
+            "items/le_l_seda__distr__urban__large_prop__2016",
+            "items/le_l_seda__distr__urban__large_prop__2017",
+            "items/le_l_seda__distr__urban__large_prop__2018",
+            "items/le_l_seda__distr__urban__large_prop__2019",
+            "items/le_l_seda__distr__urban__mid_prop__2009",
+            "items/le_l_seda__distr__urban__mid_prop__2010",
+            "items/le_l_seda__distr__urban__mid_prop__2011",
+            "items/le_l_seda__distr__urban__mid_prop__2012",
+            "items/le_l_seda__distr__urban__mid_prop__2013",
+            "items/le_l_seda__distr__urban__mid_prop__2014",
+            "items/le_l_seda__distr__urban__mid_prop__2015",
+            "items/le_l_seda__distr__urban__mid_prop__2016",
+            "items/le_l_seda__distr__urban__mid_prop__2017",
+            "items/le_l_seda__distr__urban__mid_prop__2018",
+            "items/le_l_seda__distr__urban__mid_prop__2019",
+            "items/le_l_seda__distr__urban__small_prop__2009",
+            "items/le_l_seda__distr__urban__small_prop__2010",
+            "items/le_l_seda__distr__urban__small_prop__2011",
+            "items/le_l_seda__distr__urban__small_prop__2012",
+            "items/le_l_seda__distr__urban__small_prop__2013",
+            "items/le_l_seda__distr__urban__small_prop__2014",
+            "items/le_l_seda__distr__urban__small_prop__2015",
+            "items/le_l_seda__distr__urban__small_prop__2016",
+            "items/le_l_seda__distr__urban__small_prop__2017",
+            "items/le_l_seda__distr__urban__small_prop__2018",
+            "items/le_l_seda__distr__urban__small_prop__2019",
+            "items/le_l_seda__distr__urban_prop__2009",
+            "items/le_l_seda__distr__urban_prop__2010",
+            "items/le_l_seda__distr__urban_prop__2011",
+            "items/le_l_seda__distr__urban_prop__2012",
+            "items/le_l_seda__distr__urban_prop__2013",
+            "items/le_l_seda__distr__urban_prop__2014",
+            "items/le_l_seda__distr__urban_prop__2015",
+            "items/le_l_seda__distr__urban_prop__2016",
+            "items/le_l_seda__distr__urban_prop__2017",
+            "items/le_l_seda__distr__urban_prop__2018",
+            "items/le_l_seda__distr__urban_prop__2019",
+            "items/le_l_seda__distr_urbanicity__2009",
+            "items/le_l_seda__distr_urbanicity__2010",
+            "items/le_l_seda__distr_urbanicity__2011",
+            "items/le_l_seda__distr_urbanicity__2012",
+            "items/le_l_seda__distr_urbanicity__2013",
+            "items/le_l_seda__distr_urbanicity__2014",
+            "items/le_l_seda__distr_urbanicity__2015",
+            "items/le_l_seda__distr_urbanicity__2016",
+            "items/le_l_seda__distr_urbanicity__2017",
+            "items/le_l_seda__distr_urbanicity__2018",
+            "items/le_l_seda__distr_urbanicity__2019"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_seda__distr_dt",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_dt"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__center_grade",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__center_grade"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all__eb__college_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all__eb__college_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_lminc__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_lminc__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__all_ses__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__all_ses__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__poverty_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__poverty_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__singlmoth_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__singlmoth_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__snap_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__snap_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all__unemp_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all__unemp_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__all_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__all_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__ecd__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__ecd__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__ecd__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__ecd__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__ecd__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__ecd__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__ecd__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__ecd__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__ecd__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__ecd__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__ecd__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__ecd__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__ecd_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__ecd_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__ecd_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__ecd_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__fem__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__fem__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__fem__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__fem__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__fem__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__fem__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__fem__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__fem__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__fem__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__fem__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__fem__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__fem__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__fem_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__fem_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__fem_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__fem_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mal__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mal__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mal__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mal__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mal__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mal__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mal__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mal__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mal__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mal__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mal__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mal__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mal_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mal_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mal_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mal_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mfg__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mfg__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mfg__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mfg__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mfg__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mfg__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mfg__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mfg__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mfg__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mfg__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mfg__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mfg__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mfg_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mfg_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__mfg_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__mfg_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__nec__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__nec__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__nec__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__nec__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__nec__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__nec__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__nec__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__nec__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__nec__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__nec__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__nec__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__nec__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__nec_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__nec_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__nec_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__nec_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__neg__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__neg__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__neg__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__neg__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__neg__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__neg__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__neg__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__neg__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__neg__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__neg__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__neg__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__neg__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__neg_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__neg_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__eb__neg_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__eb__neg_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd__center_grade",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd__center_grade"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecd_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecd_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_ii__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_ii__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ecdnec_rdi__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ecdnec_rdi__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ell_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ell_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_count__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__enrl_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__enrl_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fem__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fem__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fem__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fem__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fem__center_grade",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fem__center_grade"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__fl_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__fl_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_ii__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_ii__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__flnfl_rdi__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__flnfl_rdi__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__frl_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__frl_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_max__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_max__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__grade_min__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__grade_min__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__mal__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__mal__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__mal__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__mal__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__mal__center_grade",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__mal__center_grade"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__mfg__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__mfg__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__mfg__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__mfg__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__mfg__center_grade",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__mfg__center_grade"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__nec__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__nec__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__nec__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__nec__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__nec__center_grade",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__nec__center_grade"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__neg__asmts_count",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__neg__asmts_count"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__neg__asmts_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__neg__asmts_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__neg__center_grade",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__neg__center_grade"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__old__all__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__old__all__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__old__ecd__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__old__ecd__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__old__fem__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__old__fem__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__old__mal__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__old__mal__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__old__mfg__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__old__mfg__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__old__nec__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__old__nec__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__old__neg__diff_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__old__neg__diff_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__all__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__all__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__ecd__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__ecd__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__fem__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__fem__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mal__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mal__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mfg__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mfg__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__nec__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__nec__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__neg__coh_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__neg__coh_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__all__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__all__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__all__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__all__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__all__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__all__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__all__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__all__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__all_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__all_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__all_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__all_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__ecd__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__ecd__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__ecd__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__ecd__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__ecd__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__ecd__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__ecd__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__ecd__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__ecd_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__ecd_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__ecd_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__ecd_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__fem__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__fem__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__fem__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__fem__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__fem__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__fem__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__fem__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__fem__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__fem_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__fem_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__fem_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__fem_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mal__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mal__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mal__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mal__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mal__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mal__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mal__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mal__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mal_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mal_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mal_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mal_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mfg__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mfg__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mfg__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mfg__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mfg__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mfg__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mfg__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mfg__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mfg_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mfg_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__mfg_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__mfg_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__nec__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__nec__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__nec__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__nec__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__nec__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__nec__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__nec__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__nec__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__nec_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__nec_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__nec_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__nec_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__neg__center__grade__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__neg__center__grade__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__neg__center__grade_slope",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__neg__center__grade_slope"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__neg__coh__slope_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__neg__coh__slope_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__neg__mean_se",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__neg__mean_se"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__neg_diff",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__neg_diff"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__ols__neg_mean",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__ols__neg_mean"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rl_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rl_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__distant_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__distant_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__fringe_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__fringe_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural__remote_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural__remote_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__rural_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__rural_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__speced_prcnt__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__speced_prcnt__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__large_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__large_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__mid_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__mid_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb__small_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb__small_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__suburb_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__suburb_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__distant_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__distant_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__fringe_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__fringe_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town__remote_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town__remote_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__town_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__town_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__large_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__large_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__mid_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__mid_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban__small_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban__small_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr__urban_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr__urban_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2009",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2009"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2010",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2010"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2011",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2011"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2012",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2012"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2013",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2013"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2014",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2014"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2015",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2015"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2016",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2016"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2017",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2017"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2018",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2018"
+            },
+            {
+                "isAbout": "items/le_l_seda__distr_urbanicity__2019",
+                "isVis": true,
+                "variableName": "le_l_seda__distr_urbanicity__2019"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

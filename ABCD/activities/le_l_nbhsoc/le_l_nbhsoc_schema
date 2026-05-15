@@ -7,9 +7,9 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
-            "items/le_l_nbhsoc__addr1__aff_score",
             "items/le_l_nbhsoc__addr1__college_prop",
             "items/le_l_nbhsoc__addr1__factor1_score",
+            "items/le_l_nbhsoc__addr1__factor2_score",
             "items/le_l_nbhsoc__addr1__factor3_score",
             "items/le_l_nbhsoc__addr1__finc100k_prop",
             "items/le_l_nbhsoc__addr1__finc75k_prop",
@@ -34,11 +34,6 @@
         ],
         "addProperties": [
             {
-                "isAbout": "items/le_l_nbhsoc__addr1__aff_score",
-                "isVis": true,
-                "variableName": "le_l_nbhsoc__addr1__aff_score"
-            },
-            {
                 "isAbout": "items/le_l_nbhsoc__addr1__college_prop",
                 "isVis": true,
                 "variableName": "le_l_nbhsoc__addr1__college_prop"
@@ -47,6 +42,11 @@
                 "isAbout": "items/le_l_nbhsoc__addr1__factor1_score",
                 "isVis": true,
                 "variableName": "le_l_nbhsoc__addr1__factor1_score"
+            },
+            {
+                "isAbout": "items/le_l_nbhsoc__addr1__factor2_score",
+                "isVis": true,
+                "variableName": "le_l_nbhsoc__addr1__factor2_score"
             },
             {
                 "isAbout": "items/le_l_nbhsoc__addr1__factor3_score",
@@ -156,6 +156,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__ld__wm__dst__scis__lh_mean"
     },
     "question": {
-        "en": "Average longitudinal diffusivity (inner shell DTI; white matter) in Destrieux ROI: superior segment of the circular sulcus of the insula (left hemisphere)"
+        "en": "Average longitudinal diffusivity (inner shell DTI; White matter) in Destrieux ROI: Superior segment of the circular sulcus of the insula (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

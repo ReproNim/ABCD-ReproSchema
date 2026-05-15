@@ -52,7 +52,7 @@
         "en": "le_l_dissim__addr2__hw__metro_score"
     },
     "question": {
-        "en": "Hispanic-White dissimilarity index [ACS 2014-2018; metro-level] (Address 2) (address 2)"
+        "en": "Hispanic-White dissimilarity index [ACS 2014-2018; metro-level] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

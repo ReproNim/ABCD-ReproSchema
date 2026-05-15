@@ -14,6 +14,11 @@
             "items/ab_p_demo__adopt_001__dk",
             "items/ab_p_demo__age__slf_001",
             "items/ab_p_demo__age__slf_001__dk",
+            "items/ab_p_demo__benefit_001",
+            "items/ab_p_demo__benefit_002",
+            "items/ab_p_demo__benefit_003",
+            "items/ab_p_demo__benefit_004",
+            "items/ab_p_demo__benefit_005",
             "items/ab_p_demo__child__time_001",
             "items/ab_p_demo__child__time_001__01",
             "items/ab_p_demo__child__time_001__01__dk",
@@ -81,6 +86,7 @@
             "items/ab_p_demo__ntvam_005",
             "items/ab_p_demo__ntvam_006",
             "items/ab_p_demo__ntvam_007",
+            "items/ab_p_demo__ntvam_mean",
             "items/ab_p_demo__ntvlang_001",
             "items/ab_p_demo__ntvlang_002",
             "items/ab_p_demo__ntvlang_002__01___0",
@@ -132,6 +138,7 @@
             "items/ab_p_demo__prtnr_001",
             "items/ab_p_demo__prtnr_001__01",
             "items/ab_p_demo__prtnr_001__02",
+            "items/ab_p_demo__race_001___0",
             "items/ab_p_demo__race_001___10",
             "items/ab_p_demo__race_001___11",
             "items/ab_p_demo__race_001___12",
@@ -148,7 +155,6 @@
             "items/ab_p_demo__race_001___23",
             "items/ab_p_demo__race_001___24",
             "items/ab_p_demo__race_001___25",
-            "items/ab_p_demo__race_001___0",
             "items/ab_p_demo__race_001___777",
             "items/ab_p_demo__race_001___999",
             "items/ab_p_demo__race_001__v01___10",
@@ -279,6 +285,31 @@
                 "isAbout": "items/ab_p_demo__age__slf_001__dk",
                 "isVis": true,
                 "variableName": "ab_p_demo__age__slf_001__dk"
+            },
+            {
+                "isAbout": "items/ab_p_demo__benefit_001",
+                "isVis": true,
+                "variableName": "ab_p_demo__benefit_001"
+            },
+            {
+                "isAbout": "items/ab_p_demo__benefit_002",
+                "isVis": true,
+                "variableName": "ab_p_demo__benefit_002"
+            },
+            {
+                "isAbout": "items/ab_p_demo__benefit_003",
+                "isVis": true,
+                "variableName": "ab_p_demo__benefit_003"
+            },
+            {
+                "isAbout": "items/ab_p_demo__benefit_004",
+                "isVis": true,
+                "variableName": "ab_p_demo__benefit_004"
+            },
+            {
+                "isAbout": "items/ab_p_demo__benefit_005",
+                "isVis": true,
+                "variableName": "ab_p_demo__benefit_005"
             },
             {
                 "isAbout": "items/ab_p_demo__child__time_001",
@@ -616,6 +647,11 @@
                 "variableName": "ab_p_demo__ntvam_007"
             },
             {
+                "isAbout": "items/ab_p_demo__ntvam_mean",
+                "isVis": true,
+                "variableName": "ab_p_demo__ntvam_mean"
+            },
+            {
                 "isAbout": "items/ab_p_demo__ntvlang_001",
                 "isVis": true,
                 "variableName": "ab_p_demo__ntvlang_001"
@@ -871,6 +907,11 @@
                 "variableName": "ab_p_demo__prtnr_001__02"
             },
             {
+                "isAbout": "items/ab_p_demo__race_001___0",
+                "isVis": true,
+                "variableName": "ab_p_demo__race_001___0"
+            },
+            {
                 "isAbout": "items/ab_p_demo__race_001___10",
                 "isVis": true,
                 "variableName": "ab_p_demo__race_001___10"
@@ -949,11 +990,6 @@
                 "isAbout": "items/ab_p_demo__race_001___25",
                 "isVis": true,
                 "variableName": "ab_p_demo__race_001___25"
-            },
-            {
-                "isAbout": "items/ab_p_demo__race_001___0",
-                "isVis": true,
-                "variableName": "ab_p_demo__race_001___0"
             },
             {
                 "isAbout": "items/ab_p_demo__race_001___777",
@@ -1428,6 +1464,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

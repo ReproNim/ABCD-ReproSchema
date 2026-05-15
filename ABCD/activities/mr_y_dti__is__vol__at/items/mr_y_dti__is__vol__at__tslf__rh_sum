@@ -20,7 +20,7 @@
         {
             "column": "sub_domain",
             "source": "nbdc",
-            "value": "Diffusion MRI (DTI)"
+            "value": "Structural MRI"
         },
         {
             "column": "source",
@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__vol__at__tslf__rh_sum"
     },
     "question": {
-        "en": "Total volume (inner shell DTI) of AtlasTrack fiber tract: temporal superior longitudinal fasiculus (right hemisphere)"
+        "en": "Total volume (inner shell DTI) of AtlasTrack fiber tract: Temporal superior longitudinal fasiculus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

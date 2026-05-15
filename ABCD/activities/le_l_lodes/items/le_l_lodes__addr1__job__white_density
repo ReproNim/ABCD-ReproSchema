@@ -52,7 +52,7 @@
         "en": "le_l_lodes__addr1__job__white_density"
     },
     "question": {
-        "en": "Density of jobs (per sq. mile of land area) for workers with Race: White, Alone [LODES; census tract] (Address 1) (address 1)"
+        "en": "Density of jobs (Per sq. mile of land area) for workers with Race: White, Alone [LODES; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

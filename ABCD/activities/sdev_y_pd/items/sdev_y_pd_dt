@@ -47,7 +47,7 @@
         "en": "sdev_y_pd_dt"
     },
     "question": {
-        "en": "Personality Disposition Survey [Youth] - Date when collection was completed"
+        "en": "Personality Disposition Survey [Youth] - Date when data collection was completed"
     },
     "responseOptions": {
         "valueType": [

@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "nc_y_nihtb_0023"
+            "value": "nc_y_nihtb_0014"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "nc_y_nihtb__comp__tot__fullcor_tscore"
     },
     "question": {
-        "en": "NIH Toolbox: Cognition total composite - Fully-sorrected T-score"
+        "en": "NIH Toolbox: Cognition total composite - Fully-corrected T-score"
     },
     "responseOptions": {
         "valueType": [

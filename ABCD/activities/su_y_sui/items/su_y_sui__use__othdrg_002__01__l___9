@@ -62,7 +62,7 @@
         "en": "su_y_sui__use__othdrg_002__01__l___9"
     },
     "question": {
-        "en": "Other Drug since last visit: What did you use (Please choose all that apply)? [GHB]"
+        "en": "Other Drug since last visit: What did you use [Multi-select]: GHB"
     },
     "responseOptions": {
         "valueType": [

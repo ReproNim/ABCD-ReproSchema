@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__td__wm__dst__gs__rh_mean"
     },
     "question": {
-        "en": "Average transversal diffusivity (full shell DTI; white matter) in Destrieux ROI: subcallosal gyrus (right hemisphere)"
+        "en": "Average transversal diffusivity (Full shell DTI; White matter) in Destrieux ROI: Subcallosal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

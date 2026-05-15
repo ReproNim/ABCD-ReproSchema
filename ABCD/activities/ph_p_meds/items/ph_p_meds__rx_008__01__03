@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0286"
+            "value": "ph_p_meds_0300"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_008__01__03"
     },
     "question": {
-        "en": "RX 8: Is the medication extended-release (XR)? [Parent]"
+        "en": "Prescription - Medication 8: Is the medication extended-release (XR)? [Parent]"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__emovntf__aseg__ag__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: emotion vs. neutral face; all runs) in Subcortical ROI: amygdala (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Emotion vs. neutral face; All runs) in Subcortical ROI: Amygdala (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

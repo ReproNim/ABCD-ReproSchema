@@ -16,22 +16,27 @@
             "items/ph_y_bld__coll__sst__fuge_dtt",
             "items/ph_y_bld__coll__fridge_dtt",
             "items/ph_y_bld__coll__ship_dtt",
+            "items/ph_y_bld__coll__ship_dtt__v01",
             "items/ph_y_bld__coll__ship_001___0",
             "items/ph_y_bld__coll__ship_001___1",
             "items/ph_y_bld__coll__ship_002",
             "items/ph_y_bld__lab__acc_dt",
-            "items/ph_y_bld__lab__recd__sst_dtt",
-            "items/ph_y_bld__lab__acc__sst_dtt",
-            "items/ph_y_bld__lab__test__sst_dtt",
+            "items/ph_y_bld__lab__recd__sst_dt",
+            "items/ph_y_bld__lab__acc__sst_dt",
+            "items/ph_y_bld__lab__test__sst_dt",
             "items/ph_y_bld__lab__sst_err",
-            "items/ph_y_bld__lab__recd__edta10_dtt",
-            "items/ph_y_bld__lab__acc__edta10_dtt",
-            "items/ph_y_bld__lab__test__edta10_dtt",
+            "items/ph_y_bld__lab__recd__edta10_dt",
+            "items/ph_y_bld__lab__acc__edta10_dt",
+            "items/ph_y_bld__lab__test__edta10_dt",
             "items/ph_y_bld__lab__edta10_err",
-            "items/ph_y_bld__lab__recd__edta2_dtt",
-            "items/ph_y_bld__lab__acc__edta2_dtt",
-            "items/ph_y_bld__lab__test__edta2_dtt",
+            "items/ph_y_bld__lab__recd__edta2_dt",
+            "items/ph_y_bld__lab__acc__edta2_dt",
+            "items/ph_y_bld__lab__test__edta2_dt",
             "items/ph_y_bld__lab__edta2_err",
+            "items/ph_y_bld__lab__recd__vacu_dt",
+            "items/ph_y_bld__lab__acc__vacu_dt",
+            "items/ph_y_bld__lab__test__vacu_dt",
+            "items/ph_y_bld__lab__vacu_err",
             "items/ph_y_bld__rslt__rbc_sum",
             "items/ph_y_bld__rslt__wbc_sum",
             "items/ph_y_bld__rslt__a1c_qnt",
@@ -111,6 +116,11 @@
                 "variableName": "ph_y_bld__coll__ship_dtt"
             },
             {
+                "isAbout": "items/ph_y_bld__coll__ship_dtt__v01",
+                "isVis": true,
+                "variableName": "ph_y_bld__coll__ship_dtt__v01"
+            },
+            {
                 "isAbout": "items/ph_y_bld__coll__ship_001___0",
                 "isVis": true,
                 "variableName": "ph_y_bld__coll__ship_001___0"
@@ -131,19 +141,19 @@
                 "variableName": "ph_y_bld__lab__acc_dt"
             },
             {
-                "isAbout": "items/ph_y_bld__lab__recd__sst_dtt",
+                "isAbout": "items/ph_y_bld__lab__recd__sst_dt",
                 "isVis": true,
-                "variableName": "ph_y_bld__lab__recd__sst_dtt"
+                "variableName": "ph_y_bld__lab__recd__sst_dt"
             },
             {
-                "isAbout": "items/ph_y_bld__lab__acc__sst_dtt",
+                "isAbout": "items/ph_y_bld__lab__acc__sst_dt",
                 "isVis": true,
-                "variableName": "ph_y_bld__lab__acc__sst_dtt"
+                "variableName": "ph_y_bld__lab__acc__sst_dt"
             },
             {
-                "isAbout": "items/ph_y_bld__lab__test__sst_dtt",
+                "isAbout": "items/ph_y_bld__lab__test__sst_dt",
                 "isVis": true,
-                "variableName": "ph_y_bld__lab__test__sst_dtt"
+                "variableName": "ph_y_bld__lab__test__sst_dt"
             },
             {
                 "isAbout": "items/ph_y_bld__lab__sst_err",
@@ -151,19 +161,19 @@
                 "variableName": "ph_y_bld__lab__sst_err"
             },
             {
-                "isAbout": "items/ph_y_bld__lab__recd__edta10_dtt",
+                "isAbout": "items/ph_y_bld__lab__recd__edta10_dt",
                 "isVis": true,
-                "variableName": "ph_y_bld__lab__recd__edta10_dtt"
+                "variableName": "ph_y_bld__lab__recd__edta10_dt"
             },
             {
-                "isAbout": "items/ph_y_bld__lab__acc__edta10_dtt",
+                "isAbout": "items/ph_y_bld__lab__acc__edta10_dt",
                 "isVis": true,
-                "variableName": "ph_y_bld__lab__acc__edta10_dtt"
+                "variableName": "ph_y_bld__lab__acc__edta10_dt"
             },
             {
-                "isAbout": "items/ph_y_bld__lab__test__edta10_dtt",
+                "isAbout": "items/ph_y_bld__lab__test__edta10_dt",
                 "isVis": true,
-                "variableName": "ph_y_bld__lab__test__edta10_dtt"
+                "variableName": "ph_y_bld__lab__test__edta10_dt"
             },
             {
                 "isAbout": "items/ph_y_bld__lab__edta10_err",
@@ -171,24 +181,44 @@
                 "variableName": "ph_y_bld__lab__edta10_err"
             },
             {
-                "isAbout": "items/ph_y_bld__lab__recd__edta2_dtt",
+                "isAbout": "items/ph_y_bld__lab__recd__edta2_dt",
                 "isVis": true,
-                "variableName": "ph_y_bld__lab__recd__edta2_dtt"
+                "variableName": "ph_y_bld__lab__recd__edta2_dt"
             },
             {
-                "isAbout": "items/ph_y_bld__lab__acc__edta2_dtt",
+                "isAbout": "items/ph_y_bld__lab__acc__edta2_dt",
                 "isVis": true,
-                "variableName": "ph_y_bld__lab__acc__edta2_dtt"
+                "variableName": "ph_y_bld__lab__acc__edta2_dt"
             },
             {
-                "isAbout": "items/ph_y_bld__lab__test__edta2_dtt",
+                "isAbout": "items/ph_y_bld__lab__test__edta2_dt",
                 "isVis": true,
-                "variableName": "ph_y_bld__lab__test__edta2_dtt"
+                "variableName": "ph_y_bld__lab__test__edta2_dt"
             },
             {
                 "isAbout": "items/ph_y_bld__lab__edta2_err",
                 "isVis": true,
                 "variableName": "ph_y_bld__lab__edta2_err"
+            },
+            {
+                "isAbout": "items/ph_y_bld__lab__recd__vacu_dt",
+                "isVis": true,
+                "variableName": "ph_y_bld__lab__recd__vacu_dt"
+            },
+            {
+                "isAbout": "items/ph_y_bld__lab__acc__vacu_dt",
+                "isVis": true,
+                "variableName": "ph_y_bld__lab__acc__vacu_dt"
+            },
+            {
+                "isAbout": "items/ph_y_bld__lab__test__vacu_dt",
+                "isVis": true,
+                "variableName": "ph_y_bld__lab__test__vacu_dt"
+            },
+            {
+                "isAbout": "items/ph_y_bld__lab__vacu_err",
+                "isVis": true,
+                "variableName": "ph_y_bld__lab__vacu_err"
             },
             {
                 "isAbout": "items/ph_y_bld__rslt__rbc_sum",
@@ -348,6 +378,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

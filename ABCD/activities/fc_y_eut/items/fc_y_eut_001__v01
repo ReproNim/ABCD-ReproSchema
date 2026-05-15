@@ -3,6 +3,11 @@
     "category": "reproschema:Item",
     "additionalNotesObj": [
         {
+            "column": "note",
+            "source": "nbdc",
+            "value": "Definition of ethnicity: groups of people who have the same customs, or origin"
+        },
+        {
             "column": "study",
             "source": "nbdc",
             "value": "Core"

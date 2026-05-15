@@ -1,0 +1,89 @@
+{
+    "id": "recover_p_promis_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_promis"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_promis_dt",
+            "items/recover_p_promis_age",
+            "items/recover_p_promis_lang",
+            "items/recover_p_promis_ver",
+            "items/recover_p_promis__teeth_001",
+            "items/recover_p_promis_001",
+            "items/recover_p_promis_002",
+            "items/recover_p_promis_003",
+            "items/recover_p_promis_004",
+            "items/recover_p_promis_005",
+            "items/recover_p_promis_006",
+            "items/recover_p_promis_007"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_promis_dt",
+                "isVis": true,
+                "variableName": "recover_p_promis_dt"
+            },
+            {
+                "isAbout": "items/recover_p_promis_age",
+                "isVis": true,
+                "variableName": "recover_p_promis_age"
+            },
+            {
+                "isAbout": "items/recover_p_promis_lang",
+                "isVis": true,
+                "variableName": "recover_p_promis_lang"
+            },
+            {
+                "isAbout": "items/recover_p_promis_ver",
+                "isVis": true,
+                "variableName": "recover_p_promis_ver"
+            },
+            {
+                "isAbout": "items/recover_p_promis__teeth_001",
+                "isVis": true,
+                "variableName": "recover_p_promis__teeth_001"
+            },
+            {
+                "isAbout": "items/recover_p_promis_001",
+                "isVis": true,
+                "variableName": "recover_p_promis_001"
+            },
+            {
+                "isAbout": "items/recover_p_promis_002",
+                "isVis": true,
+                "variableName": "recover_p_promis_002"
+            },
+            {
+                "isAbout": "items/recover_p_promis_003",
+                "isVis": true,
+                "variableName": "recover_p_promis_003"
+            },
+            {
+                "isAbout": "items/recover_p_promis_004",
+                "isVis": true,
+                "variableName": "recover_p_promis_004"
+            },
+            {
+                "isAbout": "items/recover_p_promis_005",
+                "isVis": true,
+                "variableName": "recover_p_promis_005"
+            },
+            {
+                "isAbout": "items/recover_p_promis_006",
+                "isVis": true,
+                "variableName": "recover_p_promis_006"
+            },
+            {
+                "isAbout": "items/recover_p_promis_007",
+                "isVis": true,
+                "variableName": "recover_p_promis_007"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

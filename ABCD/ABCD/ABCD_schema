@@ -27,10 +27,13 @@
             "../activities/fc_p_sag/fc_p_sag_schema",
             "../activities/fc_p_vs/fc_p_vs_schema",
             "../activities/fc_y_aclt/fc_y_aclt_schema",
+            "../activities/fc_y_ag/fc_y_ag_schema",
             "../activities/fc_y_as/fc_y_as_schema",
             "../activities/fc_y_crpbi/fc_y_crpbi_schema",
             "../activities/fc_y_eut/fc_y_eut_schema",
+            "../activities/fc_y_ev/fc_y_ev_schema",
             "../activities/fc_y_fes/fc_y_fes_schema",
+            "../activities/fc_y_lone/fc_y_lone_schema",
             "../activities/fc_y_meim/fc_y_meim_schema",
             "../activities/fc_y_mnbs/fc_y_mnbs_schema",
             "../activities/fc_y_naa/fc_y_naa_schema",
@@ -56,10 +59,6 @@
             "../activities/le_l_censusret/le_l_censusret_schema",
             "../activities/le_l_coi/le_l_coi_schema",
             "../activities/le_l_crime/le_l_crime_schema",
-            "../activities/le_l_demo__cnty/le_l_demo__cnty_schema",
-            "../activities/le_l_demo__distr/le_l_demo__distr_schema",
-            "../activities/le_l_demo__metro/le_l_demo__metro_schema",
-            "../activities/le_l_demo__schl/le_l_demo__schl_schema",
             "../activities/le_l_densalc/le_l_densalc_schema",
             "../activities/le_l_densbld/le_l_densbld_schema",
             "../activities/le_l_denspop/le_l_denspop_schema",
@@ -74,10 +73,6 @@
             "../activities/le_l_lawsmj/le_l_lawsmj_schema",
             "../activities/le_l_leadrisk/le_l_leadrisk_schema",
             "../activities/le_l_lodes/le_l_lodes_schema",
-            "../activities/le_l_math__cnty/le_l_math__cnty_schema",
-            "../activities/le_l_math__comz/le_l_math__comz_schema",
-            "../activities/le_l_math__distr/le_l_math__distr_schema",
-            "../activities/le_l_math__metro/le_l_math__metro_schema",
             "../activities/le_l_medmj/le_l_medmj_schema",
             "../activities/le_l_nata/le_l_nata_schema",
             "../activities/le_l_nbhsoc/le_l_nbhsoc_schema",
@@ -91,22 +86,17 @@
             "../activities/le_l_places/le_l_places_schema",
             "../activities/le_l_pm25/le_l_pm25_schema",
             "../activities/le_l_polnalox/le_l_polnalox_schema",
-            "../activities/le_l_pool__cnty/le_l_pool__cnty_schema",
-            "../activities/le_l_pool__comz/le_l_pool__comz_schema",
-            "../activities/le_l_pool__distr/le_l_pool__distr_schema",
-            "../activities/le_l_pool__metro/le_l_pool__metro_schema",
-            "../activities/le_l_pool__schl/le_l_pool__schl_schema",
             "../activities/le_l_prenatal/le_l_prenatal_schema",
-            "../activities/le_l_read__cnty/le_l_read__cnty_schema",
-            "../activities/le_l_read__comz/le_l_read__comz_schema",
-            "../activities/le_l_read__distr/le_l_read__distr_schema",
-            "../activities/le_l_read__metro/le_l_read__metro_schema",
             "../activities/le_l_relciv/le_l_relciv_schema",
             "../activities/le_l_rentmort/le_l_rentmort_schema",
             "../activities/le_l_roadprox/le_l_roadprox_schema",
             "../activities/le_l_rxmonit/le_l_rxmonit_schema",
             "../activities/le_l_rxnalox/le_l_rxnalox_schema",
             "../activities/le_l_rxopioid/le_l_rxopioid_schema",
+            "../activities/le_l_sedaadm/le_l_sedaadm_schema",
+            "../activities/le_l_seda__distr/le_l_seda__distr_schema",
+            "../activities/le_l_seda__schl/le_l_seda__schl_schema",
+            "../activities/le_l_sedarec__distr/le_l_sedarec__distr_schema",
             "../activities/le_l_socmob/le_l_socmob_schema",
             "../activities/le_l_socsrv/le_l_socsrv_schema",
             "../activities/le_l_ssvi/le_l_ssvi_schema",
@@ -171,6 +161,7 @@
             "../activities/mh_y_peq/mh_y_peq_schema",
             "../activities/mh_y_ple/mh_y_ple_schema",
             "../activities/mh_y_pps/mh_y_pps_schema",
+            "../activities/mh_y_ppsss/mh_y_ppsss_schema",
             "../activities/mh_y_resil/mh_y_resil_schema",
             "../activities/mh_y_sup/mh_y_sup_schema",
             "../activities/mh_y_upps/mh_y_upps_schema",
@@ -670,6 +661,7 @@
             "../activities/su_y_cigmot/su_y_cigmot_schema",
             "../activities/su_y_crpf/su_y_crpf_schema",
             "../activities/su_y_drgprob/su_y_drgprob_schema",
+            "../activities/su_y_dyn/su_y_dyn_schema",
             "../activities/su_y_hairtox/su_y_hairtox_schema",
             "../activities/su_y_itu/su_y_itu_schema",
             "../activities/su_y_ksads__aud/su_y_ksads__aud_schema",
@@ -679,6 +671,7 @@
             "../activities/su_y_mjmot/su_y_mjmot_schema",
             "../activities/su_y_mjprob/su_y_mjprob_schema",
             "../activities/su_y_mjsre/su_y_mjsre_schema",
+            "../activities/su_y_mjvapeexp/su_y_mjvapeexp_schema",
             "../activities/su_y_mjws/su_y_mjws_schema",
             "../activities/su_y_mypi/su_y_mypi_schema",
             "../activities/su_y_mysu/su_y_mysu_schema",
@@ -694,6 +687,7 @@
             "../activities/su_y_plus/su_y_plus_schema",
             "../activities/su_y_ptu/su_y_ptu_schema",
             "../activities/su_y_sibu/su_y_sibu_schema",
+            "../activities/su_y_stc/su_y_stc_schema",
             "../activities/su_y_sui/su_y_sui_schema",
             "../activities/su_y_tlfb/su_y_tlfb_schema",
             "../activities/su_y_udstox/su_y_udstox_schema",
@@ -713,9 +707,39 @@
             "../activities/irma_y_qtn/irma_y_qtn_schema",
             "../activities/mrs_y_2dj/mrs_y_2dj_schema",
             "../activities/mrs_y_hermes/mrs_y_hermes_schema",
+            "../activities/recover_p_cbh/recover_p_cbh_schema",
+            "../activities/recover_p_cchs/recover_p_cchs_schema",
+            "../activities/recover_p_cfi/recover_p_cfi_schema",
+            "../activities/recover_p_cth/recover_p_cth_schema",
+            "../activities/recover_p_demo/recover_p_demo_schema",
+            "../activities/recover_p_fcih/recover_p_fcih_schema",
+            "../activities/recover_p_hcn/recover_p_hcn_schema",
+            "../activities/recover_p_hcq/recover_p_hcq_schema",
+            "../activities/recover_p_miscpots/recover_p_miscpots_schema",
+            "../activities/recover_p_mrci/recover_p_mrci_schema",
+            "../activities/recover_p_promis/recover_p_promis_schema",
+            "../activities/recover_p_ps/recover_p_ps_schema",
+            "../activities/recover_p_sdoh/recover_p_sdoh_schema",
+            "../activities/recover_p_vacc/recover_p_vacc_schema",
+            "../activities/recover_p_adm/recover_p_adm_schema",
+            "../activities/recover_p_chscg/recover_p_chscg_schema",
+            "../activities/recover_p_cthcg/recover_p_cthcg_schema",
+            "../activities/recover_p_democg/recover_p_democg_schema",
+            "../activities/recover_p_fcihcg/recover_p_fcihcg_schema",
+            "../activities/recover_p_hcqcg/recover_p_hcqcg_schema",
+            "../activities/recover_p_mrcicg/recover_p_mrcicg_schema",
+            "../activities/recover_p_promiscg/recover_p_promiscg_schema",
+            "../activities/recover_p_pscg/recover_p_pscg_schema",
+            "../activities/recover_p_sdohcg/recover_p_sdohcg_schema",
+            "../activities/recover_p_sdohhh/recover_p_sdohhh_schema",
+            "../activities/recover_p_vacccg/recover_p_vacccg_schema",
+            "../activities/recover_p_wbcg/recover_p_wbcg_schema",
+            "../activities/recover_p_atr/recover_p_atr_schema",
+            "../activities/recover_y_atr/recover_y_atr_schema",
             "../activities/sdev_p_apq/sdev_p_apq_schema",
             "../activities/sdev_p_ders/sdev_p_ders_schema",
             "../activities/sdev_p_fa/sdev_p_fa_schema",
+            "../activities/sdev_p_incar/sdev_p_incar_schema",
             "../activities/sdev_p_nbh/sdev_p_nbh_schema",
             "../activities/sdev_p_pd/sdev_p_pd_schema",
             "../activities/sdev_p_rd/sdev_p_rd_schema",
@@ -724,10 +748,33 @@
             "../activities/sdev_y_apq/sdev_y_apq_schema",
             "../activities/sdev_y_ders/sdev_y_ders_schema",
             "../activities/sdev_y_fa/sdev_y_fa_schema",
+            "../activities/sdev_y_gma/sdev_y_gma_schema",
+            "../activities/sdev_y_incar/sdev_y_incar_schema",
             "../activities/sdev_y_pb/sdev_y_pb_schema",
             "../activities/sdev_y_pd/sdev_y_pd_schema",
+            "../activities/sdev_y_pol/sdev_y_pol_schema",
             "../activities/sdev_y_rd/sdev_y_rd_schema",
-            "../activities/sdev_y_vict/sdev_y_vict_schema"
+            "../activities/sdev_y_vict/sdev_y_vict_schema",
+            "../activities/sips_p_criter/sips_p_criter_schema",
+            "../activities/sips_p_discomm/sips_p_discomm_schema",
+            "../activities/sips_p_dysmood/sips_p_dysmood_schema",
+            "../activities/sips_p_gaf/sips_p_gaf_schema",
+            "../activities/sips_p_grand/sips_p_grand_schema",
+            "../activities/sips_p_intro/sips_p_intro_schema",
+            "../activities/sips_p_percabn/sips_p_percabn_schema",
+            "../activities/sips_p_spd/sips_p_spd_schema",
+            "../activities/sips_p_susp/sips_p_susp_schema",
+            "../activities/sips_p_utc/sips_p_utc_schema",
+            "../activities/sips_y_criter/sips_y_criter_schema",
+            "../activities/sips_y_discomm/sips_y_discomm_schema",
+            "../activities/sips_y_dysmood/sips_y_dysmood_schema",
+            "../activities/sips_y_gaf/sips_y_gaf_schema",
+            "../activities/sips_y_grand/sips_y_grand_schema",
+            "../activities/sips_y_intro/sips_y_intro_schema",
+            "../activities/sips_y_percabn/sips_y_percabn_schema",
+            "../activities/sips_y_spd/sips_y_spd_schema",
+            "../activities/sips_y_susp/sips_y_susp_schema",
+            "../activities/sips_y_utc/sips_y_utc_schema"
         ],
         "addProperties": [
             {
@@ -867,6 +914,14 @@
                 "variableName": "fc_y_aclt_schema"
             },
             {
+                "isAbout": "../activities/fc_y_ag/fc_y_ag_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Fc Y Ag"
+                },
+                "variableName": "fc_y_ag_schema"
+            },
+            {
                 "isAbout": "../activities/fc_y_as/fc_y_as_schema",
                 "isVis": true,
                 "prefLabel": {
@@ -891,12 +946,28 @@
                 "variableName": "fc_y_eut_schema"
             },
             {
+                "isAbout": "../activities/fc_y_ev/fc_y_ev_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Fc Y Ev"
+                },
+                "variableName": "fc_y_ev_schema"
+            },
+            {
                 "isAbout": "../activities/fc_y_fes/fc_y_fes_schema",
                 "isVis": true,
                 "prefLabel": {
                     "en": "Fc Y Fes"
                 },
                 "variableName": "fc_y_fes_schema"
+            },
+            {
+                "isAbout": "../activities/fc_y_lone/fc_y_lone_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Fc Y Lone"
+                },
+                "variableName": "fc_y_lone_schema"
             },
             {
                 "isAbout": "../activities/fc_y_meim/fc_y_meim_schema",
@@ -1099,38 +1170,6 @@
                 "variableName": "le_l_crime_schema"
             },
             {
-                "isAbout": "../activities/le_l_demo__cnty/le_l_demo__cnty_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Demo  Cnty"
-                },
-                "variableName": "le_l_demo__cnty_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_demo__distr/le_l_demo__distr_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Demo  Distr"
-                },
-                "variableName": "le_l_demo__distr_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_demo__metro/le_l_demo__metro_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Demo  Metro"
-                },
-                "variableName": "le_l_demo__metro_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_demo__schl/le_l_demo__schl_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Demo  Schl"
-                },
-                "variableName": "le_l_demo__schl_schema"
-            },
-            {
                 "isAbout": "../activities/le_l_densalc/le_l_densalc_schema",
                 "isVis": true,
                 "prefLabel": {
@@ -1243,38 +1282,6 @@
                 "variableName": "le_l_lodes_schema"
             },
             {
-                "isAbout": "../activities/le_l_math__cnty/le_l_math__cnty_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Math  Cnty"
-                },
-                "variableName": "le_l_math__cnty_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_math__comz/le_l_math__comz_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Math  Comz"
-                },
-                "variableName": "le_l_math__comz_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_math__distr/le_l_math__distr_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Math  Distr"
-                },
-                "variableName": "le_l_math__distr_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_math__metro/le_l_math__metro_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Math  Metro"
-                },
-                "variableName": "le_l_math__metro_schema"
-            },
-            {
                 "isAbout": "../activities/le_l_medmj/le_l_medmj_schema",
                 "isVis": true,
                 "prefLabel": {
@@ -1379,84 +1386,12 @@
                 "variableName": "le_l_polnalox_schema"
             },
             {
-                "isAbout": "../activities/le_l_pool__cnty/le_l_pool__cnty_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Pool  Cnty"
-                },
-                "variableName": "le_l_pool__cnty_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_pool__comz/le_l_pool__comz_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Pool  Comz"
-                },
-                "variableName": "le_l_pool__comz_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_pool__distr/le_l_pool__distr_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Pool  Distr"
-                },
-                "variableName": "le_l_pool__distr_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_pool__metro/le_l_pool__metro_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Pool  Metro"
-                },
-                "variableName": "le_l_pool__metro_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_pool__schl/le_l_pool__schl_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Pool  Schl"
-                },
-                "variableName": "le_l_pool__schl_schema"
-            },
-            {
                 "isAbout": "../activities/le_l_prenatal/le_l_prenatal_schema",
                 "isVis": true,
                 "prefLabel": {
                     "en": "Le L Prenatal"
                 },
                 "variableName": "le_l_prenatal_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_read__cnty/le_l_read__cnty_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Read  Cnty"
-                },
-                "variableName": "le_l_read__cnty_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_read__comz/le_l_read__comz_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Read  Comz"
-                },
-                "variableName": "le_l_read__comz_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_read__distr/le_l_read__distr_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Read  Distr"
-                },
-                "variableName": "le_l_read__distr_schema"
-            },
-            {
-                "isAbout": "../activities/le_l_read__metro/le_l_read__metro_schema",
-                "isVis": true,
-                "prefLabel": {
-                    "en": "Le L Read  Metro"
-                },
-                "variableName": "le_l_read__metro_schema"
             },
             {
                 "isAbout": "../activities/le_l_relciv/le_l_relciv_schema",
@@ -1505,6 +1440,38 @@
                     "en": "Le L Rxopioid"
                 },
                 "variableName": "le_l_rxopioid_schema"
+            },
+            {
+                "isAbout": "../activities/le_l_sedaadm/le_l_sedaadm_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Le L Sedaadm"
+                },
+                "variableName": "le_l_sedaadm_schema"
+            },
+            {
+                "isAbout": "../activities/le_l_seda__distr/le_l_seda__distr_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Le L Seda  Distr"
+                },
+                "variableName": "le_l_seda__distr_schema"
+            },
+            {
+                "isAbout": "../activities/le_l_seda__schl/le_l_seda__schl_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Le L Seda  Schl"
+                },
+                "variableName": "le_l_seda__schl_schema"
+            },
+            {
+                "isAbout": "../activities/le_l_sedarec__distr/le_l_sedarec__distr_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Le L Sedarec  Distr"
+                },
+                "variableName": "le_l_sedarec__distr_schema"
             },
             {
                 "isAbout": "../activities/le_l_socmob/le_l_socmob_schema",
@@ -2017,6 +1984,14 @@
                     "en": "Mh Y Pps"
                 },
                 "variableName": "mh_y_pps_schema"
+            },
+            {
+                "isAbout": "../activities/mh_y_ppsss/mh_y_ppsss_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Mh Y Ppsss"
+                },
+                "variableName": "mh_y_ppsss_schema"
             },
             {
                 "isAbout": "../activities/mh_y_resil/mh_y_resil_schema",
@@ -6011,6 +5986,14 @@
                 "variableName": "su_y_drgprob_schema"
             },
             {
+                "isAbout": "../activities/su_y_dyn/su_y_dyn_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Su Y Dyn"
+                },
+                "variableName": "su_y_dyn_schema"
+            },
+            {
                 "isAbout": "../activities/su_y_hairtox/su_y_hairtox_schema",
                 "isVis": true,
                 "prefLabel": {
@@ -6081,6 +6064,14 @@
                     "en": "Su Y Mjsre"
                 },
                 "variableName": "su_y_mjsre_schema"
+            },
+            {
+                "isAbout": "../activities/su_y_mjvapeexp/su_y_mjvapeexp_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Su Y Mjvapeexp"
+                },
+                "variableName": "su_y_mjvapeexp_schema"
             },
             {
                 "isAbout": "../activities/su_y_mjws/su_y_mjws_schema",
@@ -6201,6 +6192,14 @@
                     "en": "Su Y Sibu"
                 },
                 "variableName": "su_y_sibu_schema"
+            },
+            {
+                "isAbout": "../activities/su_y_stc/su_y_stc_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Su Y Stc"
+                },
+                "variableName": "su_y_stc_schema"
             },
             {
                 "isAbout": "../activities/su_y_sui/su_y_sui_schema",
@@ -6355,6 +6354,238 @@
                 "variableName": "mrs_y_hermes_schema"
             },
             {
+                "isAbout": "../activities/recover_p_cbh/recover_p_cbh_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Cbh"
+                },
+                "variableName": "recover_p_cbh_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_cchs/recover_p_cchs_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Cchs"
+                },
+                "variableName": "recover_p_cchs_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_cfi/recover_p_cfi_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Cfi"
+                },
+                "variableName": "recover_p_cfi_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_cth/recover_p_cth_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Cth"
+                },
+                "variableName": "recover_p_cth_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_demo/recover_p_demo_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Demo"
+                },
+                "variableName": "recover_p_demo_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_fcih/recover_p_fcih_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Fcih"
+                },
+                "variableName": "recover_p_fcih_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_hcn/recover_p_hcn_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Hcn"
+                },
+                "variableName": "recover_p_hcn_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_hcq/recover_p_hcq_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Hcq"
+                },
+                "variableName": "recover_p_hcq_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_miscpots/recover_p_miscpots_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Miscpots"
+                },
+                "variableName": "recover_p_miscpots_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_mrci/recover_p_mrci_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Mrci"
+                },
+                "variableName": "recover_p_mrci_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_promis/recover_p_promis_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Promis"
+                },
+                "variableName": "recover_p_promis_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_ps/recover_p_ps_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Ps"
+                },
+                "variableName": "recover_p_ps_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_sdoh/recover_p_sdoh_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Sdoh"
+                },
+                "variableName": "recover_p_sdoh_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_vacc/recover_p_vacc_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Vacc"
+                },
+                "variableName": "recover_p_vacc_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_adm/recover_p_adm_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Adm"
+                },
+                "variableName": "recover_p_adm_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_chscg/recover_p_chscg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Chscg"
+                },
+                "variableName": "recover_p_chscg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_cthcg/recover_p_cthcg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Cthcg"
+                },
+                "variableName": "recover_p_cthcg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_democg/recover_p_democg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Democg"
+                },
+                "variableName": "recover_p_democg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_fcihcg/recover_p_fcihcg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Fcihcg"
+                },
+                "variableName": "recover_p_fcihcg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_hcqcg/recover_p_hcqcg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Hcqcg"
+                },
+                "variableName": "recover_p_hcqcg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_mrcicg/recover_p_mrcicg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Mrcicg"
+                },
+                "variableName": "recover_p_mrcicg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_promiscg/recover_p_promiscg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Promiscg"
+                },
+                "variableName": "recover_p_promiscg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_pscg/recover_p_pscg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Pscg"
+                },
+                "variableName": "recover_p_pscg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_sdohcg/recover_p_sdohcg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Sdohcg"
+                },
+                "variableName": "recover_p_sdohcg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_sdohhh/recover_p_sdohhh_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Sdohhh"
+                },
+                "variableName": "recover_p_sdohhh_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_vacccg/recover_p_vacccg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Vacccg"
+                },
+                "variableName": "recover_p_vacccg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_wbcg/recover_p_wbcg_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Wbcg"
+                },
+                "variableName": "recover_p_wbcg_schema"
+            },
+            {
+                "isAbout": "../activities/recover_p_atr/recover_p_atr_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover P Atr"
+                },
+                "variableName": "recover_p_atr_schema"
+            },
+            {
+                "isAbout": "../activities/recover_y_atr/recover_y_atr_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Recover Y Atr"
+                },
+                "variableName": "recover_y_atr_schema"
+            },
+            {
                 "isAbout": "../activities/sdev_p_apq/sdev_p_apq_schema",
                 "isVis": true,
                 "prefLabel": {
@@ -6377,6 +6608,14 @@
                     "en": "Sdev P Fa"
                 },
                 "variableName": "sdev_p_fa_schema"
+            },
+            {
+                "isAbout": "../activities/sdev_p_incar/sdev_p_incar_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sdev P Incar"
+                },
+                "variableName": "sdev_p_incar_schema"
             },
             {
                 "isAbout": "../activities/sdev_p_nbh/sdev_p_nbh_schema",
@@ -6443,6 +6682,22 @@
                 "variableName": "sdev_y_fa_schema"
             },
             {
+                "isAbout": "../activities/sdev_y_gma/sdev_y_gma_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sdev Y Gma"
+                },
+                "variableName": "sdev_y_gma_schema"
+            },
+            {
+                "isAbout": "../activities/sdev_y_incar/sdev_y_incar_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sdev Y Incar"
+                },
+                "variableName": "sdev_y_incar_schema"
+            },
+            {
                 "isAbout": "../activities/sdev_y_pb/sdev_y_pb_schema",
                 "isVis": true,
                 "prefLabel": {
@@ -6459,6 +6714,14 @@
                 "variableName": "sdev_y_pd_schema"
             },
             {
+                "isAbout": "../activities/sdev_y_pol/sdev_y_pol_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sdev Y Pol"
+                },
+                "variableName": "sdev_y_pol_schema"
+            },
+            {
                 "isAbout": "../activities/sdev_y_rd/sdev_y_rd_schema",
                 "isVis": true,
                 "prefLabel": {
@@ -6473,10 +6736,170 @@
                     "en": "Sdev Y Vict"
                 },
                 "variableName": "sdev_y_vict_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_criter/sips_p_criter_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Criter"
+                },
+                "variableName": "sips_p_criter_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_discomm/sips_p_discomm_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Discomm"
+                },
+                "variableName": "sips_p_discomm_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_dysmood/sips_p_dysmood_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Dysmood"
+                },
+                "variableName": "sips_p_dysmood_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_gaf/sips_p_gaf_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Gaf"
+                },
+                "variableName": "sips_p_gaf_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_grand/sips_p_grand_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Grand"
+                },
+                "variableName": "sips_p_grand_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_intro/sips_p_intro_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Intro"
+                },
+                "variableName": "sips_p_intro_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_percabn/sips_p_percabn_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Percabn"
+                },
+                "variableName": "sips_p_percabn_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_spd/sips_p_spd_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Spd"
+                },
+                "variableName": "sips_p_spd_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_susp/sips_p_susp_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Susp"
+                },
+                "variableName": "sips_p_susp_schema"
+            },
+            {
+                "isAbout": "../activities/sips_p_utc/sips_p_utc_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips P Utc"
+                },
+                "variableName": "sips_p_utc_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_criter/sips_y_criter_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Criter"
+                },
+                "variableName": "sips_y_criter_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_discomm/sips_y_discomm_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Discomm"
+                },
+                "variableName": "sips_y_discomm_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_dysmood/sips_y_dysmood_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Dysmood"
+                },
+                "variableName": "sips_y_dysmood_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_gaf/sips_y_gaf_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Gaf"
+                },
+                "variableName": "sips_y_gaf_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_grand/sips_y_grand_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Grand"
+                },
+                "variableName": "sips_y_grand_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_intro/sips_y_intro_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Intro"
+                },
+                "variableName": "sips_y_intro_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_percabn/sips_y_percabn_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Percabn"
+                },
+                "variableName": "sips_y_percabn_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_spd/sips_y_spd_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Spd"
+                },
+                "variableName": "sips_y_spd_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_susp/sips_y_susp_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Susp"
+                },
+                "variableName": "sips_y_susp_schema"
+            },
+            {
+                "isAbout": "../activities/sips_y_utc/sips_y_utc_schema",
+                "isVis": true,
+                "prefLabel": {
+                    "en": "Sips Y Utc"
+                },
+                "variableName": "sips_y_utc_schema"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

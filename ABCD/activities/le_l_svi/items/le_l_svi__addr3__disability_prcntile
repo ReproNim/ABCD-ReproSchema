@@ -57,7 +57,7 @@
         "en": "le_l_svi__addr3__disability_prcntile"
     },
     "question": {
-        "en": "Percentile of population with a disability subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 3) (address 3)"
+        "en": "Percentile of population with a disability subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0337"
+            "value": "ph_p_meds_0359"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_012__01__02"
     },
     "question": {
-        "en": "RX 12: Strength unit [Parent]"
+        "en": "Prescription - Medication 12: Strength unit [Parent]"
     },
     "responseOptions": {
         "valueType": [

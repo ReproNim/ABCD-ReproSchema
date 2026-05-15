@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__vol__at__fx__lh_sum"
     },
     "question": {
-        "en": "Total volume (full shell DTI) of AtlasTrack fiber tract: fornix (left hemisphere)"
+        "en": "Total volume (Full shell DTI) of AtlasTrack fiber tract: Fornix (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

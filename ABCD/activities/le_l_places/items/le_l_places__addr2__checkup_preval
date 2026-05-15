@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__checkup_preval"
     },
     "question": {
-        "en": "Visits to doctor for routine checkup within the past year among adults aged >=18 years; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "Visits to doctor for routine checkup within the past year among adults aged >=18 years; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

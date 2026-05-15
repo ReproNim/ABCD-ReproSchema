@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0439"
+            "value": "su_y_tlfb_0458"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__mj__synth__wknd_totdose"
     },
     "question": {
-        "en": "Marijuana - Synthetic: total dose on weekends"
+        "en": "Marijuana - Synthetic: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

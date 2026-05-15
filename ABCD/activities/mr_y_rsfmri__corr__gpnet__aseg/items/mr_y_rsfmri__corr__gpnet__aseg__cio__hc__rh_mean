@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aseg__cio__hc__rh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon network: cingulo-opercular & Subcortical ROI: hippocampus (right hemisphere)"
+        "en": "Average correlation between Gordon network: Cingulo-opercular & Subcortical ROI: Hippocampus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

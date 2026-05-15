@@ -67,7 +67,7 @@
         "en": "ph_p_meds__otc_008__01__01__dk"
     },
     "question": {
-        "en": "OTC 8: Strength dose [Non-response] [Parent]"
+        "en": "Over the counter - Medication 8: Strength dose [Non-response] [Parent]"
     },
     "responseOptions": {
         "valueType": [

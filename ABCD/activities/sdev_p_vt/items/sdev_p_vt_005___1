@@ -57,7 +57,7 @@
         "en": "sdev_p_vt_005___1"
     },
     "question": {
-        "en": "Did the guardian consent to allow reporting of sensitive information under the conditions listed on the consent form [Checkbox]: Yes"
+        "en": "Did the guardian consent to allow reporting of sensitive information under the conditions listed on the consent form [Multi-select]: Yes"
     },
     "responseOptions": {
         "valueType": [

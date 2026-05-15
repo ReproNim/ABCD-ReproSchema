@@ -57,7 +57,7 @@
         "en": "le_l_urbsat__addr1__ntl_mean"
     },
     "question": {
-        "en": "Nighttime lights- (2017) total monthly average night light radiance (nW/cm2/sr) (Address 1) (address 1)"
+        "en": "Nighttime lights- (2017) total monthly average night light radiance (nW/cm2/sr) (Address 1)"
     },
     "responseOptions": {
         "valueType": [

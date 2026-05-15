@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__rpvnf__dst__scm__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: reward positive vs. negative feedback; all runs) in Destrieux ROI: marginal branch of the cingulate sulcus (left hemisphere)"
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (Contrast - Reward positive vs. negative feedback; All runs) in Destrieux ROI: Marginal branch of the cingulate sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

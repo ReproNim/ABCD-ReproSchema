@@ -52,7 +52,7 @@
         "en": "le_l_urbsat__addr2__ndbi_mean"
     },
     "question": {
-        "en": "Normalized difference built-up index- (2017) average of NDBI index value [NDBI index values] (Address 2) (address 2)"
+        "en": "Normalized difference built-up index- (2017) average of NDBI index value [NDBI index values] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

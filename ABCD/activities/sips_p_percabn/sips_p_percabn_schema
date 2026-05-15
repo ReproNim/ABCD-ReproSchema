@@ -1,0 +1,941 @@
+{
+    "id": "sips_p_percabn_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "sips_p_percabn"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/sips_p_percabn_dt",
+            "items/sips_p_percabn_age",
+            "items/sips_p_percabn__aud_001",
+            "items/sips_p_percabn__aud_001__01",
+            "items/sips_p_percabn__aud_001__02",
+            "items/sips_p_percabn__aud_001__03",
+            "items/sips_p_percabn__aud_001__04",
+            "items/sips_p_percabn__aud_001__05",
+            "items/sips_p_percabn__aud_001__06",
+            "items/sips_p_percabn__aud_001__07",
+            "items/sips_p_percabn__aud_001__08",
+            "items/sips_p_percabn__aud_001__09",
+            "items/sips_p_percabn__aud_002",
+            "items/sips_p_percabn__aud_002__01",
+            "items/sips_p_percabn__aud_002__02",
+            "items/sips_p_percabn__aud_002__03",
+            "items/sips_p_percabn__aud_002__04",
+            "items/sips_p_percabn__aud_002__05",
+            "items/sips_p_percabn__aud_002__06",
+            "items/sips_p_percabn__aud_002__07",
+            "items/sips_p_percabn__aud_002__08",
+            "items/sips_p_percabn__aud_002__09",
+            "items/sips_p_percabn__aud_003",
+            "items/sips_p_percabn__aud_003__01",
+            "items/sips_p_percabn__aud_003__02",
+            "items/sips_p_percabn__aud_003__03",
+            "items/sips_p_percabn__aud_003__04",
+            "items/sips_p_percabn__aud_003__05",
+            "items/sips_p_percabn__aud_003__06",
+            "items/sips_p_percabn__aud_003__07",
+            "items/sips_p_percabn__aud_003__08",
+            "items/sips_p_percabn__aud_003__09",
+            "items/sips_p_percabn__aud_004",
+            "items/sips_p_percabn__aud_004__01",
+            "items/sips_p_percabn__aud_004__02",
+            "items/sips_p_percabn__aud_004__03",
+            "items/sips_p_percabn__aud_004__04",
+            "items/sips_p_percabn__aud_004__05",
+            "items/sips_p_percabn__aud_004__06",
+            "items/sips_p_percabn__aud_004__07",
+            "items/sips_p_percabn__aud_004__08",
+            "items/sips_p_percabn__aud_004__09",
+            "items/sips_p_percabn__aud_005",
+            "items/sips_p_percabn__aud_005__01",
+            "items/sips_p_percabn__aud_005__02",
+            "items/sips_p_percabn__aud_005__03",
+            "items/sips_p_percabn__aud_005__04",
+            "items/sips_p_percabn__aud_005__05",
+            "items/sips_p_percabn__aud_005__06",
+            "items/sips_p_percabn__aud_005__07",
+            "items/sips_p_percabn__aud_005__08",
+            "items/sips_p_percabn__aud_005__09",
+            "items/sips_p_percabn__aud_006",
+            "items/sips_p_percabn__aud_006__01",
+            "items/sips_p_percabn__aud_006__02",
+            "items/sips_p_percabn__aud_006__03",
+            "items/sips_p_percabn__aud_006__04",
+            "items/sips_p_percabn__aud_006__05",
+            "items/sips_p_percabn__aud_006__06",
+            "items/sips_p_percabn__aud_006__07",
+            "items/sips_p_percabn__aud_006__08",
+            "items/sips_p_percabn__aud_006__09",
+            "items/sips_p_percabn__curr_001",
+            "items/sips_p_percabn__lt_001",
+            "items/sips_p_percabn__lt_001__01",
+            "items/sips_p_percabn__lt_001__01__01",
+            "items/sips_p_percabn__lt_001__01__02",
+            "items/sips_p_percabn__lt_001__02",
+            "items/sips_p_percabn__lt_001__03",
+            "items/sips_p_percabn__lt_001__04___1",
+            "items/sips_p_percabn__lt_001__04___2",
+            "items/sips_p_percabn__lt_001__04___3",
+            "items/sips_p_percabn__lt_001__04___333",
+            "items/sips_p_percabn__lt_001__05",
+            "items/sips_p_percabn__olf_001",
+            "items/sips_p_percabn__olf_001__01",
+            "items/sips_p_percabn__olf_001__02",
+            "items/sips_p_percabn__olf_001__03",
+            "items/sips_p_percabn__olf_001__04",
+            "items/sips_p_percabn__olf_001__05",
+            "items/sips_p_percabn__olf_001__06",
+            "items/sips_p_percabn__olf_001__07",
+            "items/sips_p_percabn__olf_001__08",
+            "items/sips_p_percabn__olf_001__09",
+            "items/sips_p_percabn__perc_001",
+            "items/sips_p_percabn__perc_001__01",
+            "items/sips_p_percabn__perc_001__02",
+            "items/sips_p_percabn__perc_001__03",
+            "items/sips_p_percabn__perc_001__04",
+            "items/sips_p_percabn__perc_001__05",
+            "items/sips_p_percabn__perc_001__06",
+            "items/sips_p_percabn__perc_001__07",
+            "items/sips_p_percabn__perc_001__08",
+            "items/sips_p_percabn__perc_001__09",
+            "items/sips_p_percabn__som_001",
+            "items/sips_p_percabn__som_001__01",
+            "items/sips_p_percabn__som_001__02",
+            "items/sips_p_percabn__som_001__03",
+            "items/sips_p_percabn__som_001__04",
+            "items/sips_p_percabn__som_001__05",
+            "items/sips_p_percabn__som_001__06",
+            "items/sips_p_percabn__som_001__07",
+            "items/sips_p_percabn__som_001__08",
+            "items/sips_p_percabn__som_001__09",
+            "items/sips_p_percabn__vis_001",
+            "items/sips_p_percabn__vis_001__01",
+            "items/sips_p_percabn__vis_001__02",
+            "items/sips_p_percabn__vis_001__03",
+            "items/sips_p_percabn__vis_001__04",
+            "items/sips_p_percabn__vis_001__05",
+            "items/sips_p_percabn__vis_001__06",
+            "items/sips_p_percabn__vis_001__07",
+            "items/sips_p_percabn__vis_001__08",
+            "items/sips_p_percabn__vis_001__09",
+            "items/sips_p_percabn__vis_002",
+            "items/sips_p_percabn__vis_002__01",
+            "items/sips_p_percabn__vis_002__02",
+            "items/sips_p_percabn__vis_002__03",
+            "items/sips_p_percabn__vis_002__04",
+            "items/sips_p_percabn__vis_002__05",
+            "items/sips_p_percabn__vis_002__06",
+            "items/sips_p_percabn__vis_002__07",
+            "items/sips_p_percabn__vis_002__08",
+            "items/sips_p_percabn__vis_002__09",
+            "items/sips_p_percabn__vis_003",
+            "items/sips_p_percabn__vis_003__01",
+            "items/sips_p_percabn__vis_003__02",
+            "items/sips_p_percabn__vis_003__03",
+            "items/sips_p_percabn__vis_003__04",
+            "items/sips_p_percabn__vis_003__05",
+            "items/sips_p_percabn__vis_003__06",
+            "items/sips_p_percabn__vis_003__07",
+            "items/sips_p_percabn__vis_003__08",
+            "items/sips_p_percabn__vis_003__09",
+            "items/sips_p_percabn__vis_004",
+            "items/sips_p_percabn__vis_004__01",
+            "items/sips_p_percabn__vis_004__02",
+            "items/sips_p_percabn__vis_004__03",
+            "items/sips_p_percabn__vis_004__04",
+            "items/sips_p_percabn__vis_004__05",
+            "items/sips_p_percabn__vis_004__06",
+            "items/sips_p_percabn__vis_004__07",
+            "items/sips_p_percabn__vis_004__08",
+            "items/sips_p_percabn__vis_004__09",
+            "items/sips_p_percabn__vis_005",
+            "items/sips_p_percabn__vis_005__01",
+            "items/sips_p_percabn__vis_005__02",
+            "items/sips_p_percabn__vis_005__03",
+            "items/sips_p_percabn__vis_005__04",
+            "items/sips_p_percabn__vis_005__05",
+            "items/sips_p_percabn__vis_005__06",
+            "items/sips_p_percabn__vis_005__07",
+            "items/sips_p_percabn__vis_005__08",
+            "items/sips_p_percabn__vis_005__09"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/sips_p_percabn_dt",
+                "isVis": true,
+                "variableName": "sips_p_percabn_dt"
+            },
+            {
+                "isAbout": "items/sips_p_percabn_age",
+                "isVis": true,
+                "variableName": "sips_p_percabn_age"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_001__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_001__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_002__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_002__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_003__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_003__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_004__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_004__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_005__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_005__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__aud_006__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__aud_006__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__curr_001",
+                "isVis": true,
+                "variableName": "sips_p_percabn__curr_001"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__01__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__01__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__01__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__01__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__04___1",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__04___1"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__04___2",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__04___2"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__04___3",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__04___3"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__04___333",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__04___333"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__lt_001__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__lt_001__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__olf_001__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__olf_001__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__perc_001__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__perc_001__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__som_001__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__som_001__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_001__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_001__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_002__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_002__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_003__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_003__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_004__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_004__09"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005__01",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005__01"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005__02",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005__02"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005__03",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005__03"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005__04",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005__04"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005__05",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005__05"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005__06",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005__06"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005__07",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005__07"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005__08",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005__08"
+            },
+            {
+                "isAbout": "items/sips_p_percabn__vis_005__09",
+                "isVis": true,
+                "variableName": "sips_p_percabn__vis_005__09"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

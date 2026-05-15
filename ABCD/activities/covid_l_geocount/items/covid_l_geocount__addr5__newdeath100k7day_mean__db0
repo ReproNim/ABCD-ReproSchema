@@ -52,7 +52,7 @@
         "en": "covid_l_geocount__addr5__newdeath100k7day_mean__db0"
     },
     "question": {
-        "en": "Johns Hopkins COVID-19 new death count normalized by population (per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date (Address 5)"
+        "en": "Johns Hopkins COVID-19 new death count normalized by population (Per 100k) 7 day rolling mean. Same day as questionnaire dissemenation date (address 5)"
     },
     "responseOptions": {
         "valueType": [

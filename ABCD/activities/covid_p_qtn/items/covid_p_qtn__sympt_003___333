@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__sympt_003___333"
     },
     "question": {
-        "en": "Which of the following ever occurred as a result of your child's symptoms? [Multi-select]: None of the above [COVID Substudy]"
+        "en": "Which of the following ever occurred as a result of your child's symptoms? [Multi-select]: None of the above [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

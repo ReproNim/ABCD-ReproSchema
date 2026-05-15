@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__dst__gfio__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Destrieux ROI: opercular part of the inferior frontal gyrus (right hemisphere)"
+        "en": "Average temporal variance in Destrieux ROI: Opercular part of the inferior frontal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

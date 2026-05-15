@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__ngfvntf__dsk__ff__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: negative face vs. neutral face; all runs) in Desikan ROI: fusiform (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Negative face vs. neutral face; All runs) in Desikan ROI: Fusiform (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "le_l_medmj__addr1__mjdecrim_indicator"
     },
     "question": {
-        "en": "Indicates as of Jan 1st variable in which the level of offense for possessing one ounce of MJ in a state is classified as a civil offense/infraction/petty offense or not an offense. 0 = MJ not decriminalized as of Jan 1st of the baseline visit year. 1 = MJ decriminilized as of Jan 1st of the baseline visit year. (Address 1) (address 1)"
+        "en": "Indicates as of Jan 1st variable in which the level of offense for possessing one ounce of MJ in a state is classified as a civil offense/infraction/petty offense or not an offense. 0 = MJ not decriminalized as of Jan 1st of the baseline visit year. 1 = MJ decriminilized as of Jan 1st of the baseline visit year. (Address 1)"
     },
     "responseOptions": {
         "valueType": [

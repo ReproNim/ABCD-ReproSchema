@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_sdohhh_031",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "household_social_determinants_of_health"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sdoh_finasspantry"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_031"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh_0041"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_sdohhh"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_sdohhh_031"
+    },
+    "question": {
+        "en": "A food pantry"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

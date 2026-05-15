@@ -52,7 +52,7 @@
         "en": "le_l_nlcd__addr3__devop__cnty_prcnt"
     },
     "question": {
-        "en": "Percent classified as Developed, Open Space [NLCD 2016; county] (Address 3) (address 3)"
+        "en": "Percent classified as Developed, Open Space [NLCD 2016; county] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

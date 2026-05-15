@@ -57,7 +57,7 @@
         "en": "le_l_svi__addr3__theme4_prcntile"
     },
     "question": {
-        "en": "Percentile housing type/transportation theme [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 3) (address 3)"
+        "en": "Percentile housing type/transportation theme [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

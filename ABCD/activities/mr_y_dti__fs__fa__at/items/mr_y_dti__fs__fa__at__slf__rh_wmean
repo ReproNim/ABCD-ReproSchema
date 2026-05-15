@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__at__slf__rh_wmean"
     },
     "question": {
-        "en": "Weighted average fractional anisotropy (full shell DTI) in AtlasTrack fiber tract: superior longitudinal fasciculus (right hemisphere)"
+        "en": "Weighted average fractional anisotropy (Full shell DTI) in AtlasTrack fiber tract: Superior longitudinal fasciculus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

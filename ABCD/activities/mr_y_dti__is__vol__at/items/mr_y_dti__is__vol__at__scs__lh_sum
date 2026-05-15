@@ -20,7 +20,7 @@
         {
             "column": "sub_domain",
             "source": "nbdc",
-            "value": "Diffusion MRI (DTI)"
+            "value": "Structural MRI"
         },
         {
             "column": "source",
@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__vol__at__scs__lh_sum"
     },
     "question": {
-        "en": "Total volume (inner shell DTI) of AtlasTrack fiber tract: superior corticostriate (left hemisphere)"
+        "en": "Total volume (inner shell DTI) of AtlasTrack fiber tract: Superior corticostriate (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

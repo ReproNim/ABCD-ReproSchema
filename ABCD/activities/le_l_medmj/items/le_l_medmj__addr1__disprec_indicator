@@ -52,7 +52,7 @@
         "en": "le_l_medmj__addr1__disprec_indicator"
     },
     "question": {
-        "en": "Indicates if a rec store was opened in the state at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if a rec store was opened in the state at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

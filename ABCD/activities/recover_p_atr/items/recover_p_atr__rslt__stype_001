@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_atr__rslt__stype_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Biospecimens"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "antibody_test_results"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "atr_rbdres"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_atr__rslt__stype_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_atr_0011"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_atr"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_atr__rslt__stype_001"
+    },
+    "question": {
+        "en": "Antigen test IgG RBD result (\"S-type\" antibody) [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

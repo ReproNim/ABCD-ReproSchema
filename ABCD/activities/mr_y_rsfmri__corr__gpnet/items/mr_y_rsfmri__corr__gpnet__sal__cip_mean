@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__sal__cip_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: salience & cingulo-parietal"
+        "en": "Average correlation between Gordon networks: Salience & cingulo-parietal"
     },
     "responseOptions": {
         "valueType": [

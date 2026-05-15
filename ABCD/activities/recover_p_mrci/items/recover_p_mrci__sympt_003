@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_mrci__sympt_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "most_recent_covid_infection_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "mrcih_sympsev"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_mrci__sympt_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_mrci_0031"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_mrci"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_mrci__sympt_003"
+    },
+    "question": {
+        "en": "During the child\u2019s most recent COVID infection, how bad, or severe, were their symptoms?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

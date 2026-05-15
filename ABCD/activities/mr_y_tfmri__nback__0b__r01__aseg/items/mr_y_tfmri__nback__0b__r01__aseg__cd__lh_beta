@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__0b__r01__aseg__cd__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: 0-back; run 1) in Subcortical ROI: caudate (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - 0-back; Run 1) in Subcortical ROI: Caudate (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

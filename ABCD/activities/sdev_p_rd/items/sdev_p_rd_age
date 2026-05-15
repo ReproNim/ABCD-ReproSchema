@@ -52,7 +52,7 @@
         "en": "sdev_p_rd_age"
     },
     "question": {
-        "en": "Reported Delinquency [Parent]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Reported Delinquency [Parent]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

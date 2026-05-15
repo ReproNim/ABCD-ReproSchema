@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_pscg__infect__ll_068",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "Now, we are going to ask about any problems or symptoms you have now. Do you have any of these problems or symptoms now?"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_symptoms"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "ps_memory_curr"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_pscg__infect__ll_068"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_pscg_0072"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_pscg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_pscg__infect__ll_068"
+    },
+    "question": {
+        "en": "Current: Problems with remembering things (memory)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -62,7 +62,7 @@
         "en": "le_l_vpd__addr3__vpd_max__db0"
     },
     "question": {
-        "en": "Maximum vapor pressure deficit in hPa at residence on date (t0) of study visit (Address 3) (address 3)"
+        "en": "Maximum vapor pressure deficit in hPa at residence on date (t0) of study visit (Address 3)"
     },
     "responseOptions": {
         "valueType": [

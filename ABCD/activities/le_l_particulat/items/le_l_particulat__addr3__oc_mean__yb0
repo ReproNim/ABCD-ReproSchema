@@ -57,7 +57,7 @@
         "en": "le_l_particulat__addr3__oc_mean__yb0"
     },
     "question": {
-        "en": "Annual average of Organic Carbon in mcg/m^3 at 50m (Address 3) (address 3)"
+        "en": "Annual average of Organic Carbon in mcg/m^3 at 50m (Address 3)"
     },
     "responseOptions": {
         "valueType": [

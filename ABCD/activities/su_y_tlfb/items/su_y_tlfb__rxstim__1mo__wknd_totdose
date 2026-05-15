@@ -40,7 +40,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0811"
+            "value": "su_y_tlfb_0845"
         },
         {
             "column": "activity",
@@ -52,7 +52,7 @@
         "en": "su_y_tlfb__rxstim__1mo__wknd_totdose"
     },
     "question": {
-        "en": "Prescription stimulants: total dose on weekends (Last 30 days)"
+        "en": "Prescription stimulants: Total dose on weekends (Last 30 days)"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "le_l_nlcd__addr2__mixfor_prcnt"
     },
     "question": {
-        "en": "Percent classified as Mixed Forest [NLCD 2016; census tract] (Address 2) (address 2)"
+        "en": "Percent classified as Mixed Forest [NLCD 2016; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

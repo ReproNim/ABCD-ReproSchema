@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__job_001"
     },
     "question": {
-        "en": "Since January 2020, has anyone in your household lost wages, sales, or work due to the impact of coronavirus on employment, business, or the economy? [COVID Substudy]"
+        "en": "Since January 2020, has anyone in your household lost wages, sales, or work due to the impact of coronavirus on employment, business, or the economy? [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

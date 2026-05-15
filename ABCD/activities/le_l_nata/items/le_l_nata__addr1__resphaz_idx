@@ -52,7 +52,7 @@
         "en": "le_l_nata__addr1__resphaz_idx"
     },
     "question": {
-        "en": "Respiratory Hazard Index; Ratio of exposure concentration to EPA Reference Concentration [NATA] (Address 1) (address 1)"
+        "en": "Respiratory Hazard Index; Ratio of exposure concentration to EPA Reference Concentration [NATA] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr3__unemployment_prcnt"
     },
     "question": {
-        "en": "Percentage of civilian labor force population aged >=16 y unemployed (unemployment rate) [Area Deprivation Index] (Address 3) (address 3)"
+        "en": "Percentage of civilian labor force population aged >=16 y unemployed (unemployment rate) [Area Deprivation Index] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

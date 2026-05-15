@@ -1,0 +1,95 @@
+{
+    "id": "recover_p_miscpots_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_miscpots"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_miscpots_dt",
+            "items/recover_p_miscpots_age",
+            "items/recover_p_miscpots_lang",
+            "items/recover_p_miscpots_ver",
+            "items/recover_p_miscpots_001",
+            "items/recover_p_miscpots_001__01",
+            "items/recover_p_miscpots_001__02",
+            "items/recover_p_miscpots_002",
+            "items/recover_p_miscpots_002__01",
+            "items/recover_p_miscpots_002__02",
+            "items/recover_p_miscpots_003",
+            "items/recover_p_miscpots_003__01",
+            "items/recover_p_miscpots_003__02"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_miscpots_dt",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_dt"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_age",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_age"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_lang",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_lang"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_ver",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_ver"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_001",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_001"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_001__01",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_001__01"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_001__02",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_001__02"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_002",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_002"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_002__01",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_002__01"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_002__02",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_002__02"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_003",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_003"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_003__01",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_003__01"
+            },
+            {
+                "isAbout": "items/recover_p_miscpots_003__02",
+                "isVis": true,
+                "variableName": "recover_p_miscpots_003__02"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

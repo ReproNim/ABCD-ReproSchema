@@ -67,7 +67,7 @@
         "en": "irma_p_qtn__dur_001___5"
     },
     "question": {
-        "en": "Where was your child during the Hurricane? (you can check more than one) [out of town fuera de la ciudad]"
+        "en": "Where was your child during the Hurricane [Multi-select]: Out of town"
     },
     "responseOptions": {
         "valueType": [

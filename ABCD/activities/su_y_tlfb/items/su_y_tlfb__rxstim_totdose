@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0833"
+            "value": "su_y_tlfb_0868"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__rxstim_totdose"
     },
     "question": {
-        "en": "Prescription stimulants: total dose"
+        "en": "Prescription stimulants: Total dose"
     },
     "responseOptions": {
         "valueType": [

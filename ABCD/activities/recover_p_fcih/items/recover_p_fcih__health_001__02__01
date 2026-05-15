@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_fcih__health_001__02__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "days (d)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "first_covid_infection_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fcih_picudur"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_fcih__health_001__02__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_fcih_0016"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_fcih"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_fcih__health_001__02__01"
+    },
+    "question": {
+        "en": "For how many days was the child in the pediatric intensive care unit (PICU)?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__plc__r01__aseg__ilv__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: place; run 1) in Subcortical ROI: inferior lateral ventricle (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Place; Run 1) in Subcortical ROI: Inferior lateral ventricle (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

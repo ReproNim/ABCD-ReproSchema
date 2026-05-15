@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0654"
+            "value": "su_y_tlfb_0681"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__nic__rplc__cum_totdose"
     },
     "question": {
-        "en": "Nicotine - Replacements: total dose (Cumulative period)"
+        "en": "Nicotine - Replacements: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

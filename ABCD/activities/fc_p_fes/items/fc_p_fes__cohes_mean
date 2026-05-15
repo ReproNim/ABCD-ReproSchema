@@ -52,7 +52,7 @@
         "en": "fc_p_fes__cohes_mean"
     },
     "question": {
-        "en": "Family Environment Scale\u2014Cohesion: Mean [Validation: No more than 1 missing or declined]"
+        "en": "Family Environment Scale [Parent] (Cohesion): Mean [Validation: No more than 1 missing or declined]"
     },
     "responseOptions": {
         "valueType": [

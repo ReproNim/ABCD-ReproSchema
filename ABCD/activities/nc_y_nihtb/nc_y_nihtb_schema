@@ -12,28 +12,16 @@
             "items/nc_y_nihtb_dev",
             "items/nc_y_nihtb__comp__cryst_ver",
             "items/nc_y_nihtb__comp__cryst__agecorr_score",
-            "items/nc_y_nihtb__comp__cryst__computed_score",
             "items/nc_y_nihtb__comp__cryst__fullcorr_tscore",
-            "items/nc_y_nihtb__comp__cryst__item_count",
-            "items/nc_y_nihtb__comp__cryst__raw_score",
             "items/nc_y_nihtb__comp__cryst__uncor_score",
-            "items/nc_y_nihtb__comp__cryst_theta",
             "items/nc_y_nihtb__comp__fluid_ver",
             "items/nc_y_nihtb__comp__fluid__agecorr_score",
-            "items/nc_y_nihtb__comp__fluid__computed_score",
             "items/nc_y_nihtb__comp__fluid__fullcorr_tscore",
-            "items/nc_y_nihtb__comp__fluid__item_count",
-            "items/nc_y_nihtb__comp__fluid__raw_score",
             "items/nc_y_nihtb__comp__fluid__uncor_score",
-            "items/nc_y_nihtb__comp__fluid_theta",
             "items/nc_y_nihtb__comp__tot_ver",
             "items/nc_y_nihtb__comp__tot__agecor_score",
-            "items/nc_y_nihtb__comp__tot__computed_score",
             "items/nc_y_nihtb__comp__tot__fullcor_tscore",
-            "items/nc_y_nihtb__comp__tot__item_count",
-            "items/nc_y_nihtb__comp__tot__raw_score",
             "items/nc_y_nihtb__comp__tot__uncor_score",
-            "items/nc_y_nihtb__comp__tot_theta",
             "items/nc_y_nihtb__crdst_dtt",
             "items/nc_y_nihtb__crdst_age",
             "items/nc_y_nihtb__crdst_ver",
@@ -52,7 +40,6 @@
             "items/nc_y_nihtb__crdst__item_count",
             "items/nc_y_nihtb__crdst__raw_score",
             "items/nc_y_nihtb__crdst__uncor_score",
-            "items/nc_y_nihtb__crdst_theta",
             "items/nc_y_nihtb__flnkr_dtt",
             "items/nc_y_nihtb__flnkr_age",
             "items/nc_y_nihtb__flnkr_ver",
@@ -71,7 +58,6 @@
             "items/nc_y_nihtb__flnkr__item_count",
             "items/nc_y_nihtb__flnkr__raw_score",
             "items/nc_y_nihtb__flnkr__uncor_score",
-            "items/nc_y_nihtb__flnkr_theta",
             "items/nc_y_nihtb__lswmt_dtt",
             "items/nc_y_nihtb__lswmt_age",
             "items/nc_y_nihtb__lswmt_ver",
@@ -85,12 +71,10 @@
             "items/nc_y_nihtb__lswmt_adm__rmt___4",
             "items/nc_y_nihtb__lswmt_adm__v01",
             "items/nc_y_nihtb__lswmt__agecor_score",
-            "items/nc_y_nihtb__lswmt__computed_score",
             "items/nc_y_nihtb__lswmt__fullcor_tscore",
             "items/nc_y_nihtb__lswmt__item_count",
             "items/nc_y_nihtb__lswmt__raw_score",
             "items/nc_y_nihtb__lswmt__uncor_score",
-            "items/nc_y_nihtb__lswmt_theta",
             "items/nc_y_nihtb__picsq_dtt",
             "items/nc_y_nihtb__picsq_age",
             "items/nc_y_nihtb__picsq_ver",
@@ -146,7 +130,6 @@
             "items/nc_y_nihtb__pttcp__item_count",
             "items/nc_y_nihtb__pttcp__raw_score",
             "items/nc_y_nihtb__pttcp__uncor_score",
-            "items/nc_y_nihtb__pttcp_theta",
             "items/nc_y_nihtb__readr_dtt",
             "items/nc_y_nihtb__readr_age",
             "items/nc_y_nihtb__readr_ver",
@@ -163,7 +146,6 @@
             "items/nc_y_nihtb__readr__computed_score",
             "items/nc_y_nihtb__readr__fullcor_tscore",
             "items/nc_y_nihtb__readr__item_count",
-            "items/nc_y_nihtb__readr__raw_score",
             "items/nc_y_nihtb__readr__uncor_score",
             "items/nc_y_nihtb__readr_theta"
         ],
@@ -194,34 +176,14 @@
                 "variableName": "nc_y_nihtb__comp__cryst__agecorr_score"
             },
             {
-                "isAbout": "items/nc_y_nihtb__comp__cryst__computed_score",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__cryst__computed_score"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__comp__cryst__fullcorr_tscore",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__comp__cryst__fullcorr_tscore"
             },
             {
-                "isAbout": "items/nc_y_nihtb__comp__cryst__item_count",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__cryst__item_count"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__comp__cryst__raw_score",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__cryst__raw_score"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__comp__cryst__uncor_score",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__comp__cryst__uncor_score"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__comp__cryst_theta",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__cryst_theta"
             },
             {
                 "isAbout": "items/nc_y_nihtb__comp__fluid_ver",
@@ -234,34 +196,14 @@
                 "variableName": "nc_y_nihtb__comp__fluid__agecorr_score"
             },
             {
-                "isAbout": "items/nc_y_nihtb__comp__fluid__computed_score",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__fluid__computed_score"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__comp__fluid__fullcorr_tscore",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__comp__fluid__fullcorr_tscore"
             },
             {
-                "isAbout": "items/nc_y_nihtb__comp__fluid__item_count",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__fluid__item_count"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__comp__fluid__raw_score",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__fluid__raw_score"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__comp__fluid__uncor_score",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__comp__fluid__uncor_score"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__comp__fluid_theta",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__fluid_theta"
             },
             {
                 "isAbout": "items/nc_y_nihtb__comp__tot_ver",
@@ -274,34 +216,14 @@
                 "variableName": "nc_y_nihtb__comp__tot__agecor_score"
             },
             {
-                "isAbout": "items/nc_y_nihtb__comp__tot__computed_score",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__tot__computed_score"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__comp__tot__fullcor_tscore",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__comp__tot__fullcor_tscore"
             },
             {
-                "isAbout": "items/nc_y_nihtb__comp__tot__item_count",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__tot__item_count"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__comp__tot__raw_score",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__tot__raw_score"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__comp__tot__uncor_score",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__comp__tot__uncor_score"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__comp__tot_theta",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__comp__tot_theta"
             },
             {
                 "isAbout": "items/nc_y_nihtb__crdst_dtt",
@@ -394,11 +316,6 @@
                 "variableName": "nc_y_nihtb__crdst__uncor_score"
             },
             {
-                "isAbout": "items/nc_y_nihtb__crdst_theta",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__crdst_theta"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__flnkr_dtt",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__flnkr_dtt"
@@ -489,11 +406,6 @@
                 "variableName": "nc_y_nihtb__flnkr__uncor_score"
             },
             {
-                "isAbout": "items/nc_y_nihtb__flnkr_theta",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__flnkr_theta"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__lswmt_dtt",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__lswmt_dtt"
@@ -559,11 +471,6 @@
                 "variableName": "nc_y_nihtb__lswmt__agecor_score"
             },
             {
-                "isAbout": "items/nc_y_nihtb__lswmt__computed_score",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__lswmt__computed_score"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__lswmt__fullcor_tscore",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__lswmt__fullcor_tscore"
@@ -582,11 +489,6 @@
                 "isAbout": "items/nc_y_nihtb__lswmt__uncor_score",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__lswmt__uncor_score"
-            },
-            {
-                "isAbout": "items/nc_y_nihtb__lswmt_theta",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__lswmt_theta"
             },
             {
                 "isAbout": "items/nc_y_nihtb__picsq_dtt",
@@ -864,11 +766,6 @@
                 "variableName": "nc_y_nihtb__pttcp__uncor_score"
             },
             {
-                "isAbout": "items/nc_y_nihtb__pttcp_theta",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__pttcp_theta"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__readr_dtt",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__readr_dtt"
@@ -949,11 +846,6 @@
                 "variableName": "nc_y_nihtb__readr__item_count"
             },
             {
-                "isAbout": "items/nc_y_nihtb__readr__raw_score",
-                "isVis": true,
-                "variableName": "nc_y_nihtb__readr__raw_score"
-            },
-            {
                 "isAbout": "items/nc_y_nihtb__readr__uncor_score",
                 "isVis": true,
                 "variableName": "nc_y_nihtb__readr__uncor_score"
@@ -966,6 +858,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

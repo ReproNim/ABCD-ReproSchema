@@ -57,7 +57,7 @@
         "en": "le_l_crime__addr1__mj__sale_count"
     },
     "question": {
-        "en": "Marijuana sale [Uniform Crime Reports] (Address 1) (address 1)"
+        "en": "Marijuana sale [Uniform Crime Reports] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

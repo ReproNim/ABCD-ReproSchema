@@ -57,7 +57,7 @@
         "en": "sdev_p_vt_007___1"
     },
     "question": {
-        "en": "Social Development visit information [Parent]: Did the child assent to allow reporting of sensitive information under the conditions listed on the assent form? [Yes]"
+        "en": "Social Development visit information [Parent]: Did the child assent to allow reporting of sensitive information under the conditions listed on the assent form [Multi-select]: Yes"
     },
     "responseOptions": {
         "valueType": [

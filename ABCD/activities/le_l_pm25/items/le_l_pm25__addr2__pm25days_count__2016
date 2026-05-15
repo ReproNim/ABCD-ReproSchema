@@ -62,7 +62,7 @@
         "en": "le_l_pm25__addr2__pm25days_count__2016"
     },
     "question": {
-        "en": "Number of days in 2016 PM2.5 was above EPA daily standards (35) at 1x1km2 (Address 2) (address 2)"
+        "en": "Number of days in 2016 PM2.5 was above EPA daily standards (35) at 1x1km2 (Address 2)"
     },
     "responseOptions": {
         "valueType": [

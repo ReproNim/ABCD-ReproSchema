@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvn__r01__aseg__cbwm__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: anticipated loss vs. neutral; run 1) in Subcortical ROI: cerebellum white matter (right hemisphere)"
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (Contrast - Anticipated loss vs. neutral; Run 1) in Subcortical ROI: Cerebellum white matter (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

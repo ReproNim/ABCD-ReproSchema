@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr2_wsum"
     },
     "question": {
-        "en": "Scaled weighted sum [Area Deprivation Index (based on Kind et al., Annals of Internal Medicine, 2012)] (Address 2) (address 2)"
+        "en": "Scaled weighted sum [Area Deprivation Index (based on Kind et al., Annals of Internal Medicine, 2012)] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

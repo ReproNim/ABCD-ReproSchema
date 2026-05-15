@@ -30,7 +30,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "lmt_scr_computer_os"
+            "value": "lmt_scr_computer_platform"
         },
         {
             "column": "url_table",

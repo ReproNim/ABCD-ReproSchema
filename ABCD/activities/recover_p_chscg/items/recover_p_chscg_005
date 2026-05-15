@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_chscg_005",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "current_health_status"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "chs_symperrand"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_chscg_005"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_chscg_0009"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_chscg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_chscg_005"
+    },
+    "question": {
+        "en": "Difficulty doing errands alone, such as visiting a doctor's office or shopping, because of a physical, mental, or emotional condition"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

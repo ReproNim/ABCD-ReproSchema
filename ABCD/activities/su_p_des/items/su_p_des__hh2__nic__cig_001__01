@@ -45,7 +45,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "su_des_h2_tob_inside_days_p"
+            "value": "su_des_h2_tob_inside_days_p | su_des_h2_tob_inside_days_p__v1"
         },
         {
             "column": "url_table",

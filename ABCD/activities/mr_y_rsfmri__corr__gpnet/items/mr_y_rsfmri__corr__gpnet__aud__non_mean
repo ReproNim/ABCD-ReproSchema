@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aud__non_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: auditory & none"
+        "en": "Average correlation between Gordon networks: Auditory & none"
     },
     "responseOptions": {
         "valueType": [

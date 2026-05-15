@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__sal__smh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: salience & sensorimotor hand"
+        "en": "Average correlation between Gordon networks: Salience & sensorimotor hand"
     },
     "responseOptions": {
         "valueType": [

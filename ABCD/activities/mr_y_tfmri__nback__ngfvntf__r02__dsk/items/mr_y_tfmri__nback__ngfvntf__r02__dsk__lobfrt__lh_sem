@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__ngfvntf__r02__dsk__lobfrt__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: negative face vs. neutral face; run 2) in Desikan ROI: lateral orbitofrontal (left hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Negative face vs. neutral face; Run 2) in Desikan ROI: Lateral orbitofrontal (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

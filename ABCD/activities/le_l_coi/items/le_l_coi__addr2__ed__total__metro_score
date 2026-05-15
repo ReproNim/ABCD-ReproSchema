@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr2__ed__total__metro_score"
     },
     "question": {
-        "en": "Child opportunity scores (from 1 to 100) [Education domain; Metro-normed] (Address 2) (address 2)"
+        "en": "Child opportunity scores (from 1 to 100) [Education domain; Metro-normed] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

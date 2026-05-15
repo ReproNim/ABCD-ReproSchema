@@ -62,7 +62,7 @@
         "en": "mh_p_ple__exp__bad_count"
     },
     "question": {
-        "en": "Life Events [Parent] (Experience Bad Events): Count [Validation: No more than 5 events missing and no experience items missing or declined]"
+        "en": "Life Events [Parent] (Experience Bad Events): Count"
     },
     "responseOptions": {
         "valueType": [

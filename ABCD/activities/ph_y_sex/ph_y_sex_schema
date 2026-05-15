@@ -66,6 +66,7 @@
             "items/ph_y_sex__pbeh_003b",
             "items/ph_y_sex__rode_001",
             "items/ph_y_sex__rore_001",
+            "items/ph_y_sex__rore_002",
             "items/ph_y_sex__rore_003",
             "items/ph_y_sex__rore_003__01",
             "items/ph_y_sex__rore_003__02",
@@ -77,7 +78,9 @@
             "items/ph_y_sex__so_001__01b",
             "items/ph_y_sex__so_001__01c",
             "items/ph_y_sex__so_001__02",
+            "items/ph_y_sex__so_001__03",
             "items/ph_y_sex__so_001__v01",
+            "items/ph_y_sex__so_001__v02",
             "items/ph_y_sex__so__kbi_001",
             "items/ph_y_sex__so__kbi_001__02",
             "items/ph_y_sex__eut_001"
@@ -379,6 +382,11 @@
                 "variableName": "ph_y_sex__rore_001"
             },
             {
+                "isAbout": "items/ph_y_sex__rore_002",
+                "isVis": true,
+                "variableName": "ph_y_sex__rore_002"
+            },
+            {
                 "isAbout": "items/ph_y_sex__rore_003",
                 "isVis": true,
                 "variableName": "ph_y_sex__rore_003"
@@ -434,9 +442,19 @@
                 "variableName": "ph_y_sex__so_001__02"
             },
             {
+                "isAbout": "items/ph_y_sex__so_001__03",
+                "isVis": true,
+                "variableName": "ph_y_sex__so_001__03"
+            },
+            {
                 "isAbout": "items/ph_y_sex__so_001__v01",
                 "isVis": true,
                 "variableName": "ph_y_sex__so_001__v01"
+            },
+            {
+                "isAbout": "items/ph_y_sex__so_001__v02",
+                "isVis": true,
+                "variableName": "ph_y_sex__so_001__v02"
             },
             {
                 "isAbout": "items/ph_y_sex__so__kbi_001",
@@ -456,6 +474,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

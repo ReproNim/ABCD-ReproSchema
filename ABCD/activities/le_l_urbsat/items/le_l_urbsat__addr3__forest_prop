@@ -52,7 +52,7 @@
         "en": "le_l_urbsat__addr3__forest_prop"
     },
     "question": {
-        "en": "Forest land use- (2017) CGLS fraction of total pixel area [0 1] (Address 3) (address 3)"
+        "en": "Forest land use- (2017) CGLS fraction of total pixel area [0 1] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

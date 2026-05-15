@@ -67,7 +67,7 @@
         "en": "covid_p_qtn_006___5"
     },
     "question": {
-        "en": "In the past week, our family has (check all that apply; by your choice rather than because it's closed): [Avoided having people in our home, except for immediate family"
+        "en": "In the past week, our family has (by your choice rather than because it's closed) [Multi-select]: Avoided having people in our home, except for immediate family"
     },
     "responseOptions": {
         "valueType": [

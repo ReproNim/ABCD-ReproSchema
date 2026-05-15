@@ -52,7 +52,7 @@
         "en": "le_l_entropy__addr2__metro_idx"
     },
     "question": {
-        "en": "Residential history derived-Multigroup Entropy Index (H) [ACS 2014-2018; metro-level] (Address 2) (address 2)"
+        "en": "Residential history derived-Multigroup Entropy Index (H) [ACS 2014-2018; metro-level] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

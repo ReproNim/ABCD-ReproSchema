@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__dst__sipt__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Destrieux ROI: intraparietal sulcus and transverse parietal sulci (right hemisphere)"
+        "en": "Average temporal variance in Destrieux ROI: Intraparietal sulcus and transverse parietal sulci (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__rsfmri__r03_indicator"
     },
     "question": {
-        "en": "Resting State fMRI (run 3): Indicates whether a scan passed manual quality control"
+        "en": "Resting State fMRI (Run 3): Indicates whether a scan passed manual quality control"
     },
     "responseOptions": {
         "valueType": [

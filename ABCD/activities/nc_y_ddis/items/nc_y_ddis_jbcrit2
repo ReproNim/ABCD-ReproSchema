@@ -52,7 +52,7 @@
         "en": "nc_y_ddis_jbcrit2"
     },
     "question": {
-        "en": "Delay Discounting: Consistent_per_JBcriterion2 - no: if the 5-year delay indifference point (proportion of full delayed amount) is less than 10% smaller than the 6 hour indifference point => rule violation due to illogical or inconsistent responding yes: otherwise"
+        "en": "Delay Discounting: Consistent_per_JBcriterion2 \u2013 no (value = 0; inconsistent): if the 5-year delay indifference point (Proportion of full delayed amount) is less than 10% smaller than the 6-hour indifference point => rule violation due to illogical or inconsistent responding, yes (value = 1; consistent): otherwise"
     },
     "responseOptions": {
         "valueType": [

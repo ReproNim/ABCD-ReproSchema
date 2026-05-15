@@ -52,7 +52,7 @@
         "en": "le_l_ssvi__addr1__urg__state_rate"
     },
     "question": {
-        "en": "Urgent care clinics per 100,000 [Supplemental SVI] (Address 1) (address 1)"
+        "en": "Urgent care clinics per 100,000 [Supplemental SVI] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__plc__dsk__ff__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: place; all runs) in Desikan ROI: fusiform (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Place; All runs) in Desikan ROI: Fusiform (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

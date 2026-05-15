@@ -25,12 +25,12 @@
         {
             "column": "table_redcap",
             "source": "nbdc",
-            "value": "mypi_substance_use"
+            "value": "mypi_substance_use | mypi_su"
         },
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "mypi_substance_use_start_time"
+            "value": "mypi_substance_use_start_time | mypi_su_start_time"
         },
         {
             "column": "url_table",

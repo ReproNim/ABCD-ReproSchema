@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr3__he__hlthins_zscore"
     },
     "question": {
-        "en": "Health insurance coverage- percentage individuals ages 0-64 with health insurance coverage, transformed to z-scores [Health and environment domain] (Address 3) (address 3)"
+        "en": "Health insurance coverage- percentage individuals ages 0-64 with health insurance coverage, transformed to z-scores [Health and environment domain] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

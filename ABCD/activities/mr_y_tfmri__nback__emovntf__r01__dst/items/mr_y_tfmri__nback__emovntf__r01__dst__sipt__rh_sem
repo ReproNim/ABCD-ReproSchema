@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__emovntf__r01__dst__sipt__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: emotion vs. neutral face; run 1) in Destrieux ROI: intraparietal sulcus and transverse parietal sulci (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Emotion vs. neutral face; Run 1) in Destrieux ROI: Intraparietal sulcus and transverse parietal sulci (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -47,7 +47,7 @@
         "en": "sdev_p_fa_dt"
     },
     "question": {
-        "en": "Firearms (BRFSS) Parent?: Date when collection was completed"
+        "en": "Firearms (BRFSS) Parent?: Date when data collection was completed"
     },
     "responseOptions": {
         "valueType": [

@@ -62,7 +62,7 @@
         "en": "le_l_temp__addr3__temp_max__db3"
     },
     "question": {
-        "en": "Maximum temperature at residence 3 days prior (t-3) to date of study visit (Address 3) (address 3)"
+        "en": "Maximum temperature at residence 3 days prior (t-3) to date of study visit (Address 3)"
     },
     "responseOptions": {
         "valueType": [

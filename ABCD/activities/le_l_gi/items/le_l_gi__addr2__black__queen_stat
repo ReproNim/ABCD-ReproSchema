@@ -52,7 +52,7 @@
         "en": "le_l_gi__addr2__black__queen_stat"
     },
     "question": {
-        "en": "Local Gi* statistic, non-Hispanic Black, queen neighborhood tracts [ICPSR; census tract] (Address 2) (address 2)"
+        "en": "Local Gi* statistic, non-Hispanic Black, queen neighborhood tracts [ICPSR; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

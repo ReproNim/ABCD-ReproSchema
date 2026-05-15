@@ -52,7 +52,7 @@
         "en": "covid_l_geobls__addr5__unemp_rate"
     },
     "question": {
-        "en": "Bureau of Labor Statistics monthly unemployment rate (not seasonally adjusted) county-level (Address 5)"
+        "en": "Bureau of Labor Statistics monthly unemployment rate (not seasonally adjusted) county-level (address 5)"
     },
     "responseOptions": {
         "valueType": [

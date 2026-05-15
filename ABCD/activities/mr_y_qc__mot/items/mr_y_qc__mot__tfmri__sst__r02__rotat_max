@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_mot_0101"
+            "value": "mr_y_qc_mot_0119"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "mr_y_qc__mot__tfmri__sst__r02__rotat_max"
     },
     "question": {
-        "en": "Task fMRI - Stop Signal Task (run 2): Maximum framewise rotation"
+        "en": "Task fMRI - Stop Signal Task (Run 2): Maximum framewise rotation"
     },
     "responseOptions": {
         "valueType": [

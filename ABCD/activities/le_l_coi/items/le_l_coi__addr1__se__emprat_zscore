@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__se__emprat_zscore"
     },
     "question": {
-        "en": "Employment rate: Percentage adults ages 25-54 who are employed, transformed to z-scores [Social and economic domain] (Address 1) (address 1)"
+        "en": "Employment rate: Percentage adults ages 25-54 who are employed, transformed to z-scores [Social and economic domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

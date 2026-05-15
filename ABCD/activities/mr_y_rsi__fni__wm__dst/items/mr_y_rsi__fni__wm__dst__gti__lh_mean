@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__fni__wm__dst__gti__lh_mean"
     },
     "question": {
-        "en": "Average free normalized isotropic diffusion (white matter) in Destrieux ROI: inferior temporal gyrus (left hemisphere)"
+        "en": "Average free normalized isotropic diffusion (White matter) in Destrieux ROI: Inferior temporal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

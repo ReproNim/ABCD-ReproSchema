@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__csvis__dsk__mtmp__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: correct stop vs. incorrect stop; all runs) in Desikan ROI: middle temporal (right hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Correct stop vs. incorrect stop; All runs) in Desikan ROI: Middle temporal (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

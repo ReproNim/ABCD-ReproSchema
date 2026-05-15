@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__hnt__gwc__dst__sts__lh_mean"
     },
     "question": {
-        "en": "Average hindered normalized total diffusion (gray/white contrast) in Destrieux ROI: superior temporal sulcus (left hemisphere)"
+        "en": "Average hindered normalized total diffusion (Gray/white contrast) in Destrieux ROI: Superior temporal sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

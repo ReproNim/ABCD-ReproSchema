@@ -57,7 +57,7 @@
         "en": "le_l_traffic__addr3__traffic_count"
     },
     "question": {
-        "en": "Average annual daily traffic counts (Address 3) (address 3)"
+        "en": "Average annual daily traffic counts (Address 3)"
     },
     "responseOptions": {
         "valueType": [

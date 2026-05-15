@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr2__coi__total__state_score"
     },
     "question": {
-        "en": "Child opportunity scores (from 1 to 100) [Overall COI; State-normed] (Address 2) (address 2)"
+        "en": "Child opportunity scores (from 1 to 100) [Overall COI; State-normed] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

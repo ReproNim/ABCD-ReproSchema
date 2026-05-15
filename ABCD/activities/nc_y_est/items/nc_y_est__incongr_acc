@@ -57,7 +57,7 @@
         "en": "nc_y_est__incongr_acc"
     },
     "question": {
-        "en": "Emotional Stroop Task (EST): Accuracy rate (proportion correct) of correct in incongruent trials (Across conditions)"
+        "en": "Emotional Stroop Task (EST): Accuracy rate (Proportion correct) of correct in incongruent trials (Across conditions)"
     },
     "responseOptions": {
         "valueType": [

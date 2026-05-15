@@ -47,7 +47,7 @@
         "en": "gn_y_genrel_id__birth"
     },
     "question": {
-        "en": "Birth event ID - Participants from the same family who were born together share a birth event ID (derived based on genetic information)"
+        "en": "Birth event ID - Participants from the same family who were born together share a birth event ID (Derived based on genetic information)"
     },
     "responseOptions": {
         "valueType": [

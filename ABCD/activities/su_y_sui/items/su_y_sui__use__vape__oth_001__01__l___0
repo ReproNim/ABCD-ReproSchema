@@ -62,7 +62,7 @@
         "en": "su_y_sui__use__vape__oth_001__01__l___0"
     },
     "question": {
-        "en": "Have you vaped something other than nicotine, marijuana, or just flavoring [Multi-select]: No [Longitudinal]"
+        "en": "Have you vaped something other than nicotine, marijuana, or just flavoring [Multi-select]: No, I have not used any of these substances [Longitudinal]"
     },
     "responseOptions": {
         "valueType": [

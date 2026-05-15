@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__nback__r05__snr_mean"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task (run 5): Mean temporal signal-to-noise ratio within brain"
+        "en": "Task fMRI - Emotional N-Back task (Run 5): Mean temporal signal-to-noise ratio within brain"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr2__national_prcnt"
     },
     "question": {
-        "en": "National percentiles, higher means higher value of ADI [Area Deprivation Index] (Address 2) (address 2)"
+        "en": "National percentiles, higher means higher value of ADI [Area Deprivation Index] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

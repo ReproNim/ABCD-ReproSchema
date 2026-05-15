@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0327"
+            "value": "ph_p_meds_0347"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_011__01__05"
     },
     "question": {
-        "en": "RX 11: On average during the last two weeks, how many of these pills (or other medication items) did your child take per day? [Parent]"
+        "en": "Prescription - Medication 11: On average during the last two weeks, how many of these pills (or other medication items) did your child take per day? [Parent]"
     },
     "responseOptions": {
         "valueType": [

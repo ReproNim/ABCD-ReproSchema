@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__nback__r01__fdsub_sum"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task (run 1): Number of seconds run had framewise displacement < 0.2 mm"
+        "en": "Task fMRI - Emotional N-Back task (Run 1): Number of seconds run had framewise displacement < 0.2 mm"
     },
     "responseOptions": {
         "valueType": [

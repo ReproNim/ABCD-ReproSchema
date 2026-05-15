@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__aseg__hc__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI) in Subcortical ROI: hippocampus (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI) in Subcortical ROI: Hippocampus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

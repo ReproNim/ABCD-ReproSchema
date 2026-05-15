@@ -52,7 +52,7 @@
         "en": "su_y_nicvapeexp_age"
     },
     "question": {
-        "en": "ENDS Expectancies (CEQ) [Youth]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "ENDS Expectancies (CEQ) [Youth]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

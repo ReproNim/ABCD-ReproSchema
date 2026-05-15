@@ -1,0 +1,1901 @@
+{
+    "id": "le_l_sedarec__distr_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_sedarec__distr"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_sedarec__distr_dt",
+            "items/le_l_sedarec__distr__all__asmts_count__2019",
+            "items/le_l_sedarec__distr__all__asmts_count__2022",
+            "items/le_l_sedarec__distr__all__asmts_count__2023",
+            "items/le_l_sedarec__distr__all__asmts_count__2024",
+            "items/le_l_sedarec__distr__all__asmts_mean__2019",
+            "items/le_l_sedarec__distr__all__asmts_mean__2022",
+            "items/le_l_sedarec__distr__all__asmts_mean__2023",
+            "items/le_l_sedarec__distr__all__asmts_mean__2024",
+            "items/le_l_sedarec__distr__all__center_grade__2019",
+            "items/le_l_sedarec__distr__all__center_grade__2022",
+            "items/le_l_sedarec__distr__all__center_grade__2023",
+            "items/le_l_sedarec__distr__all__center_grade__2024",
+            "items/le_l_sedarec__distr__all__est__asmts_count__2019",
+            "items/le_l_sedarec__distr__all__est__asmts_count__2022",
+            "items/le_l_sedarec__distr__all__est__asmts_count__2023",
+            "items/le_l_sedarec__distr__all__est__asmts_count__2024",
+            "items/le_l_sedarec__distr__asian_prop__2019",
+            "items/le_l_sedarec__distr__asian_prop__2020",
+            "items/le_l_sedarec__distr__asian_prop__2021",
+            "items/le_l_sedarec__distr__asian_prop__2022",
+            "items/le_l_sedarec__distr__asian_prop__2023",
+            "items/le_l_sedarec__distr__asian_prop__2024",
+            "items/le_l_sedarec__distr__black_prop__2019",
+            "items/le_l_sedarec__distr__black_prop__2020",
+            "items/le_l_sedarec__distr__black_prop__2021",
+            "items/le_l_sedarec__distr__black_prop__2022",
+            "items/le_l_sedarec__distr__black_prop__2023",
+            "items/le_l_sedarec__distr__black_prop__2024",
+            "items/le_l_sedarec__distr__eb__all__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__all__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__all__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__all__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__all__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__all__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__ecd__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__ecd__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__ecd__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__ecd__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__ecd__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__ecd__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__fem__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__fem__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__fem__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__fem__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__fem__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__fem__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__mal__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__mal__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__mal__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__mal__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__mal__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__mal__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__nec__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__nec__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__nec__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__nec__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__eb__nec__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__eb__nec__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__eb__all__avg_lminc__2019",
+            "items/le_l_sedarec__distr__eb__all__avg_lminc__2020",
+            "items/le_l_sedarec__distr__eb__all__avg_lminc__2021",
+            "items/le_l_sedarec__distr__eb__all__avg_lminc__2022",
+            "items/le_l_sedarec__distr__eb__all__avg_lminc__2023",
+            "items/le_l_sedarec__distr__eb__all__avg_lminc__2024",
+            "items/le_l_sedarec__distr__eb__all__avg_ses__2019",
+            "items/le_l_sedarec__distr__eb__all__avg_ses__2020",
+            "items/le_l_sedarec__distr__eb__all__avg_ses__2021",
+            "items/le_l_sedarec__distr__eb__all__avg_ses__2022",
+            "items/le_l_sedarec__distr__eb__all__avg_ses__2023",
+            "items/le_l_sedarec__distr__eb__all__avg_ses__2024",
+            "items/le_l_sedarec__distr__eb__all__college__avg_rate__2019",
+            "items/le_l_sedarec__distr__eb__all__college__avg_rate__2020",
+            "items/le_l_sedarec__distr__eb__all__college__avg_rate__2021",
+            "items/le_l_sedarec__distr__eb__all__college__avg_rate__2022",
+            "items/le_l_sedarec__distr__eb__all__college__avg_rate__2023",
+            "items/le_l_sedarec__distr__eb__all__college__avg_rate__2024",
+            "items/le_l_sedarec__distr__eb__all__college_prop__2019",
+            "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2019",
+            "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2020",
+            "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2021",
+            "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2022",
+            "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2023",
+            "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2024",
+            "items/le_l_sedarec__distr__eb__all__poverty_rate__2019",
+            "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2019",
+            "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2020",
+            "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2021",
+            "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2022",
+            "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2023",
+            "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2024",
+            "items/le_l_sedarec__distr__eb__all__singlmoth_rate__2019",
+            "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2019",
+            "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2020",
+            "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2021",
+            "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2022",
+            "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2023",
+            "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2024",
+            "items/le_l_sedarec__distr__eb__all__snap_rate__2019",
+            "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2019",
+            "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2020",
+            "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2021",
+            "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2022",
+            "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2023",
+            "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2024",
+            "items/le_l_sedarec__distr__eb__all__unemp_rate__2019",
+            "items/le_l_sedarec__distr__eb__all_lminc__2019",
+            "items/le_l_sedarec__distr__eb__all_mean__2019",
+            "items/le_l_sedarec__distr__eb__all_mean__2022",
+            "items/le_l_sedarec__distr__eb__all_mean__2023",
+            "items/le_l_sedarec__distr__eb__all_mean__2024",
+            "items/le_l_sedarec__distr__eb__all_ses__2019",
+            "items/le_l_sedarec__distr__eb__ecd_mean__2019",
+            "items/le_l_sedarec__distr__eb__ecd_mean__2022",
+            "items/le_l_sedarec__distr__eb__ecd_mean__2023",
+            "items/le_l_sedarec__distr__eb__ecd_mean__2024",
+            "items/le_l_sedarec__distr__eb__fem_mean__2019",
+            "items/le_l_sedarec__distr__eb__fem_mean__2022",
+            "items/le_l_sedarec__distr__eb__fem_mean__2023",
+            "items/le_l_sedarec__distr__eb__fem_mean__2024",
+            "items/le_l_sedarec__distr__eb__mal_mean__2019",
+            "items/le_l_sedarec__distr__eb__mal_mean__2022",
+            "items/le_l_sedarec__distr__eb__mal_mean__2023",
+            "items/le_l_sedarec__distr__eb__mal_mean__2024",
+            "items/le_l_sedarec__distr__eb__nec_mean__2019",
+            "items/le_l_sedarec__distr__eb__nec_mean__2022",
+            "items/le_l_sedarec__distr__eb__nec_mean__2023",
+            "items/le_l_sedarec__distr__eb__nec_mean__2024",
+            "items/le_l_sedarec__distr__ecd__asmts_count__2019",
+            "items/le_l_sedarec__distr__ecd__asmts_count__2022",
+            "items/le_l_sedarec__distr__ecd__asmts_count__2023",
+            "items/le_l_sedarec__distr__ecd__asmts_count__2024",
+            "items/le_l_sedarec__distr__ecd__asmts_mean__2019",
+            "items/le_l_sedarec__distr__ecd__asmts_mean__2022",
+            "items/le_l_sedarec__distr__ecd__asmts_mean__2023",
+            "items/le_l_sedarec__distr__ecd__asmts_mean__2024",
+            "items/le_l_sedarec__distr__ecd__center_grade__2019",
+            "items/le_l_sedarec__distr__ecd__center_grade__2022",
+            "items/le_l_sedarec__distr__ecd__center_grade__2023",
+            "items/le_l_sedarec__distr__ecd__center_grade__2024",
+            "items/le_l_sedarec__distr__ecd__est__asmts_count__2019",
+            "items/le_l_sedarec__distr__ecd__est__asmts_count__2022",
+            "items/le_l_sedarec__distr__ecd__est__asmts_count__2023",
+            "items/le_l_sedarec__distr__ecd__est__asmts_count__2024",
+            "items/le_l_sedarec__distr__enrl_count__2019",
+            "items/le_l_sedarec__distr__enrl_count__2020",
+            "items/le_l_sedarec__distr__enrl_count__2021",
+            "items/le_l_sedarec__distr__enrl_count__2022",
+            "items/le_l_sedarec__distr__enrl_count__2023",
+            "items/le_l_sedarec__distr__enrl_count__2024",
+            "items/le_l_sedarec__distr__enrl_mean__2019",
+            "items/le_l_sedarec__distr__enrl_mean__2020",
+            "items/le_l_sedarec__distr__enrl_mean__2021",
+            "items/le_l_sedarec__distr__enrl_mean__2022",
+            "items/le_l_sedarec__distr__enrl_mean__2023",
+            "items/le_l_sedarec__distr__enrl_mean__2024",
+            "items/le_l_sedarec__distr__enrol_count__2019",
+            "items/le_l_sedarec__distr__enrol_count__2020",
+            "items/le_l_sedarec__distr__enrol_count__2021",
+            "items/le_l_sedarec__distr__enrol_count__2022",
+            "items/le_l_sedarec__distr__enrol_count__2023",
+            "items/le_l_sedarec__distr__enrol_count__2024",
+            "items/le_l_sedarec__distr__fem__asmts_count__2019",
+            "items/le_l_sedarec__distr__fem__asmts_count__2022",
+            "items/le_l_sedarec__distr__fem__asmts_count__2023",
+            "items/le_l_sedarec__distr__fem__asmts_count__2024",
+            "items/le_l_sedarec__distr__fem__asmts_mean__2019",
+            "items/le_l_sedarec__distr__fem__asmts_mean__2022",
+            "items/le_l_sedarec__distr__fem__asmts_mean__2023",
+            "items/le_l_sedarec__distr__fem__asmts_mean__2024",
+            "items/le_l_sedarec__distr__fem__center_grade__2019",
+            "items/le_l_sedarec__distr__fem__center_grade__2022",
+            "items/le_l_sedarec__distr__fem__center_grade__2023",
+            "items/le_l_sedarec__distr__fem__center_grade__2024",
+            "items/le_l_sedarec__distr__fem__est__asmts_count__2019",
+            "items/le_l_sedarec__distr__fem__est__asmts_count__2022",
+            "items/le_l_sedarec__distr__fem__est__asmts_count__2023",
+            "items/le_l_sedarec__distr__fem__est__asmts_count__2024",
+            "items/le_l_sedarec__distr__fl_prop__2019",
+            "items/le_l_sedarec__distr__fl_prop__2020",
+            "items/le_l_sedarec__distr__fl_prop__2021",
+            "items/le_l_sedarec__distr__fl_prop__2022",
+            "items/le_l_sedarec__distr__fl_prop__2023",
+            "items/le_l_sedarec__distr__fl_prop__2024",
+            "items/le_l_sedarec__distr__hisp_prop__2019",
+            "items/le_l_sedarec__distr__hisp_prop__2020",
+            "items/le_l_sedarec__distr__hisp_prop__2021",
+            "items/le_l_sedarec__distr__hisp_prop__2022",
+            "items/le_l_sedarec__distr__hisp_prop__2023",
+            "items/le_l_sedarec__distr__hisp_prop__2024",
+            "items/le_l_sedarec__distr__mal__asmts_count__2019",
+            "items/le_l_sedarec__distr__mal__asmts_count__2022",
+            "items/le_l_sedarec__distr__mal__asmts_count__2023",
+            "items/le_l_sedarec__distr__mal__asmts_count__2024",
+            "items/le_l_sedarec__distr__mal__asmts_mean__2019",
+            "items/le_l_sedarec__distr__mal__asmts_mean__2022",
+            "items/le_l_sedarec__distr__mal__asmts_mean__2023",
+            "items/le_l_sedarec__distr__mal__asmts_mean__2024",
+            "items/le_l_sedarec__distr__mal__center_grade__2019",
+            "items/le_l_sedarec__distr__mal__center_grade__2022",
+            "items/le_l_sedarec__distr__mal__center_grade__2023",
+            "items/le_l_sedarec__distr__mal__center_grade__2024",
+            "items/le_l_sedarec__distr__mal__est__asmts_count__2019",
+            "items/le_l_sedarec__distr__mal__est__asmts_count__2022",
+            "items/le_l_sedarec__distr__mal__est__asmts_count__2023",
+            "items/le_l_sedarec__distr__mal__est__asmts_count__2024",
+            "items/le_l_sedarec__distr__multi_prop__2019",
+            "items/le_l_sedarec__distr__multi_prop__2020",
+            "items/le_l_sedarec__distr__multi_prop__2021",
+            "items/le_l_sedarec__distr__multi_prop__2022",
+            "items/le_l_sedarec__distr__multi_prop__2023",
+            "items/le_l_sedarec__distr__multi_prop__2024",
+            "items/le_l_sedarec__distr__nec__asmts_count__2019",
+            "items/le_l_sedarec__distr__nec__asmts_count__2022",
+            "items/le_l_sedarec__distr__nec__asmts_count__2023",
+            "items/le_l_sedarec__distr__nec__asmts_count__2024",
+            "items/le_l_sedarec__distr__nec__asmts_mean__2019",
+            "items/le_l_sedarec__distr__nec__asmts_mean__2022",
+            "items/le_l_sedarec__distr__nec__asmts_mean__2023",
+            "items/le_l_sedarec__distr__nec__asmts_mean__2024",
+            "items/le_l_sedarec__distr__nec__center_grade__2019",
+            "items/le_l_sedarec__distr__nec__center_grade__2022",
+            "items/le_l_sedarec__distr__nec__center_grade__2023",
+            "items/le_l_sedarec__distr__nec__center_grade__2024",
+            "items/le_l_sedarec__distr__nec__est__asmts_count__2019",
+            "items/le_l_sedarec__distr__nec__est__asmts_count__2022",
+            "items/le_l_sedarec__distr__nec__est__asmts_count__2023",
+            "items/le_l_sedarec__distr__nec__est__asmts_count__2024",
+            "items/le_l_sedarec__distr__ntvam_prop__2019",
+            "items/le_l_sedarec__distr__ntvam_prop__2020",
+            "items/le_l_sedarec__distr__ntvam_prop__2021",
+            "items/le_l_sedarec__distr__ntvam_prop__2022",
+            "items/le_l_sedarec__distr__ntvam_prop__2023",
+            "items/le_l_sedarec__distr__ntvam_prop__2024",
+            "items/le_l_sedarec__distr__ols__all__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__all__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__all__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__all__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__all__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__all__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__ecd__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__ecd__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__ecd__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__ecd__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__ecd__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__ecd__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__fem__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__fem__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__fem__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__fem__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__fem__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__fem__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__mal__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__mal__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__mal__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__mal__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__mal__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__mal__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__nec__avg_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__nec__avg_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__nec__avg_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__nec__diff_impact__2019__2022",
+            "items/le_l_sedarec__distr__ols__nec__diff_impact__2019__2024",
+            "items/le_l_sedarec__distr__ols__nec__diff_impact__2022__2024",
+            "items/le_l_sedarec__distr__ols__all_mean__2019",
+            "items/le_l_sedarec__distr__ols__all_mean__2022",
+            "items/le_l_sedarec__distr__ols__all_mean__2023",
+            "items/le_l_sedarec__distr__ols__all_mean__2024",
+            "items/le_l_sedarec__distr__ols__ecd_mean__2019",
+            "items/le_l_sedarec__distr__ols__ecd_mean__2022",
+            "items/le_l_sedarec__distr__ols__ecd_mean__2023",
+            "items/le_l_sedarec__distr__ols__ecd_mean__2024",
+            "items/le_l_sedarec__distr__ols__fem_mean__2019",
+            "items/le_l_sedarec__distr__ols__fem_mean__2022",
+            "items/le_l_sedarec__distr__ols__fem_mean__2023",
+            "items/le_l_sedarec__distr__ols__fem_mean__2024",
+            "items/le_l_sedarec__distr__ols__mal_mean__2019",
+            "items/le_l_sedarec__distr__ols__mal_mean__2022",
+            "items/le_l_sedarec__distr__ols__mal_mean__2023",
+            "items/le_l_sedarec__distr__ols__mal_mean__2024",
+            "items/le_l_sedarec__distr__ols__nec_mean__2019",
+            "items/le_l_sedarec__distr__ols__nec_mean__2022",
+            "items/le_l_sedarec__distr__ols__nec_mean__2023",
+            "items/le_l_sedarec__distr__ols__nec_mean__2024",
+            "items/le_l_sedarec__distr__rural_indicator__2019",
+            "items/le_l_sedarec__distr__rural_indicator__2020",
+            "items/le_l_sedarec__distr__rural_indicator__2021",
+            "items/le_l_sedarec__distr__rural_indicator__2022",
+            "items/le_l_sedarec__distr__rural_indicator__2023",
+            "items/le_l_sedarec__distr__rural_indicator__2024",
+            "items/le_l_sedarec__distr__suburb_indicator__2019",
+            "items/le_l_sedarec__distr__suburb_indicator__2020",
+            "items/le_l_sedarec__distr__suburb_indicator__2021",
+            "items/le_l_sedarec__distr__suburb_indicator__2022",
+            "items/le_l_sedarec__distr__suburb_indicator__2023",
+            "items/le_l_sedarec__distr__suburb_indicator__2024",
+            "items/le_l_sedarec__distr__town_indicator__2019",
+            "items/le_l_sedarec__distr__town_indicator__2020",
+            "items/le_l_sedarec__distr__town_indicator__2021",
+            "items/le_l_sedarec__distr__town_indicator__2022",
+            "items/le_l_sedarec__distr__town_indicator__2023",
+            "items/le_l_sedarec__distr__town_indicator__2024",
+            "items/le_l_sedarec__distr__urban_indicator__2019",
+            "items/le_l_sedarec__distr__urban_indicator__2020",
+            "items/le_l_sedarec__distr__urban_indicator__2021",
+            "items/le_l_sedarec__distr__urban_indicator__2022",
+            "items/le_l_sedarec__distr__urban_indicator__2023",
+            "items/le_l_sedarec__distr__urban_indicator__2024",
+            "items/le_l_sedarec__distr__white_prop__2019",
+            "items/le_l_sedarec__distr__white_prop__2020",
+            "items/le_l_sedarec__distr__white_prop__2021",
+            "items/le_l_sedarec__distr__white_prop__2022",
+            "items/le_l_sedarec__distr__white_prop__2023",
+            "items/le_l_sedarec__distr__white_prop__2024"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_sedarec__distr_dt",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr_dt"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__asmts_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__asmts_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__asmts_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__asmts_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__asmts_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__asmts_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__asmts_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__asmts_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__center_grade__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__center_grade__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__center_grade__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__center_grade__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__center_grade__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__center_grade__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__center_grade__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__center_grade__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__est__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__est__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__est__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__est__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__est__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__est__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__all__est__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__all__est__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__asian_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__asian_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__asian_prop__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__asian_prop__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__asian_prop__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__asian_prop__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__asian_prop__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__asian_prop__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__asian_prop__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__asian_prop__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__asian_prop__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__asian_prop__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__black_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__black_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__black_prop__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__black_prop__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__black_prop__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__black_prop__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__black_prop__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__black_prop__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__black_prop__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__black_prop__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__black_prop__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__black_prop__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_lminc__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_lminc__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_lminc__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_lminc__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_lminc__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_lminc__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_lminc__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_lminc__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_lminc__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_lminc__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_lminc__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_lminc__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_ses__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_ses__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_ses__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_ses__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_ses__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_ses__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_ses__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_ses__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_ses__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_ses__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__avg_ses__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__avg_ses__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__college__avg_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__college__avg_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__college__avg_rate__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__college__avg_rate__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__college__avg_rate__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__college__avg_rate__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__college__avg_rate__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__college__avg_rate__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__college__avg_rate__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__college__avg_rate__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__college__avg_rate__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__college__avg_rate__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__college_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__college_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__poverty__avg_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__poverty__avg_rate__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__poverty__avg_rate__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__poverty__avg_rate__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__poverty__avg_rate__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__poverty__avg_rate__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__poverty__avg_rate__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__poverty_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__poverty_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__singlmoth__avg_rate__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__singlmoth_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__singlmoth_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__snap__avg_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__snap__avg_rate__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__snap__avg_rate__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__snap__avg_rate__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__snap__avg_rate__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__snap__avg_rate__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__snap__avg_rate__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__snap_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__snap_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__unemp__avg_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__unemp__avg_rate__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__unemp__avg_rate__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__unemp__avg_rate__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__unemp__avg_rate__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__unemp__avg_rate__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__unemp__avg_rate__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all__unemp_rate__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all__unemp_rate__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all_lminc__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all_lminc__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__all_ses__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__all_ses__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__ecd_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__ecd_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__fem_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__fem_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__mal_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__mal_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__eb__nec_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__eb__nec_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__asmts_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__asmts_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__asmts_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__asmts_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__asmts_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__asmts_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__asmts_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__asmts_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__center_grade__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__center_grade__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__center_grade__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__center_grade__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__center_grade__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__center_grade__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__center_grade__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__center_grade__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__est__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__est__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__est__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__est__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__est__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__est__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ecd__est__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ecd__est__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_count__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_count__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_count__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_count__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_mean__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_mean__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_mean__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_mean__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrl_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrl_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrol_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrol_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrol_count__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrol_count__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrol_count__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrol_count__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrol_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrol_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrol_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrol_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__enrol_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__enrol_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__asmts_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__asmts_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__asmts_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__asmts_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__asmts_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__asmts_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__asmts_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__asmts_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__center_grade__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__center_grade__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__center_grade__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__center_grade__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__center_grade__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__center_grade__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__center_grade__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__center_grade__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__est__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__est__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__est__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__est__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__est__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__est__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fem__est__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fem__est__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fl_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fl_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fl_prop__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fl_prop__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fl_prop__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fl_prop__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fl_prop__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fl_prop__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fl_prop__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fl_prop__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__fl_prop__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__fl_prop__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__hisp_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__hisp_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__hisp_prop__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__hisp_prop__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__hisp_prop__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__hisp_prop__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__hisp_prop__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__hisp_prop__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__hisp_prop__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__hisp_prop__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__hisp_prop__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__hisp_prop__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__asmts_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__asmts_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__asmts_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__asmts_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__asmts_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__asmts_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__asmts_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__asmts_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__center_grade__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__center_grade__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__center_grade__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__center_grade__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__center_grade__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__center_grade__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__center_grade__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__center_grade__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__est__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__est__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__est__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__est__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__est__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__est__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__mal__est__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__mal__est__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__multi_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__multi_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__multi_prop__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__multi_prop__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__multi_prop__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__multi_prop__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__multi_prop__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__multi_prop__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__multi_prop__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__multi_prop__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__multi_prop__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__multi_prop__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__asmts_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__asmts_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__asmts_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__asmts_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__asmts_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__asmts_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__asmts_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__asmts_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__center_grade__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__center_grade__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__center_grade__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__center_grade__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__center_grade__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__center_grade__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__center_grade__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__center_grade__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__est__asmts_count__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__est__asmts_count__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__est__asmts_count__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__est__asmts_count__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__est__asmts_count__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__est__asmts_count__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__nec__est__asmts_count__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__nec__est__asmts_count__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ntvam_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ntvam_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ntvam_prop__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ntvam_prop__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ntvam_prop__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ntvam_prop__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ntvam_prop__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ntvam_prop__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ntvam_prop__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ntvam_prop__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ntvam_prop__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ntvam_prop__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec__avg_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec__avg_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec__avg_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec__avg_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec__avg_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec__avg_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec__diff_impact__2019__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec__diff_impact__2019__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec__diff_impact__2019__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec__diff_impact__2019__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec__diff_impact__2022__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec__diff_impact__2022__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__all_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__all_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__ecd_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__ecd_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__fem_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__fem_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__mal_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__mal_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec_mean__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec_mean__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec_mean__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec_mean__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec_mean__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec_mean__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__ols__nec_mean__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__ols__nec_mean__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__rural_indicator__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__rural_indicator__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__rural_indicator__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__rural_indicator__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__rural_indicator__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__rural_indicator__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__rural_indicator__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__rural_indicator__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__rural_indicator__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__rural_indicator__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__rural_indicator__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__rural_indicator__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__suburb_indicator__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__suburb_indicator__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__suburb_indicator__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__suburb_indicator__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__suburb_indicator__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__suburb_indicator__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__suburb_indicator__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__suburb_indicator__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__suburb_indicator__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__suburb_indicator__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__suburb_indicator__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__suburb_indicator__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__town_indicator__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__town_indicator__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__town_indicator__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__town_indicator__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__town_indicator__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__town_indicator__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__town_indicator__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__town_indicator__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__town_indicator__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__town_indicator__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__town_indicator__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__town_indicator__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__urban_indicator__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__urban_indicator__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__urban_indicator__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__urban_indicator__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__urban_indicator__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__urban_indicator__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__urban_indicator__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__urban_indicator__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__urban_indicator__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__urban_indicator__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__urban_indicator__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__urban_indicator__2024"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__white_prop__2019",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__white_prop__2019"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__white_prop__2020",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__white_prop__2020"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__white_prop__2021",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__white_prop__2021"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__white_prop__2022",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__white_prop__2022"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__white_prop__2023",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__white_prop__2023"
+            },
+            {
+                "isAbout": "items/le_l_sedarec__distr__white_prop__2024",
+                "isVis": true,
+                "variableName": "le_l_sedarec__distr__white_prop__2024"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

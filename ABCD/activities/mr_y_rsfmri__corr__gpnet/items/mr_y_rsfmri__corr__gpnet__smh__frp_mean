@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__smh__frp_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: sensorimotor hand & fronto-parietal"
+        "en": "Average correlation between Gordon networks: Sensorimotor hand & fronto-parietal"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__aseg__hc__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Subcortical ROI: hippocampus (right hemisphere)"
+        "en": "Average temporal variance in Subcortical ROI: Hippocampus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

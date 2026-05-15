@@ -1,0 +1,239 @@
+{
+    "id": "sips_y_dysmood_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "sips_y_dysmood"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/sips_y_dysmood_dt",
+            "items/sips_y_dysmood_age",
+            "items/sips_y_dysmood__curr_001",
+            "items/sips_y_dysmood__lt_001",
+            "items/sips_y_dysmood__lt_001__01",
+            "items/sips_y_dysmood__lt_001__01__01",
+            "items/sips_y_dysmood__lt_001__01__02",
+            "items/sips_y_dysmood_002",
+            "items/sips_y_dysmood_002__01",
+            "items/sips_y_dysmood_002__02",
+            "items/sips_y_dysmood_002__03",
+            "items/sips_y_dysmood_002__04",
+            "items/sips_y_dysmood_003",
+            "items/sips_y_dysmood_003__01",
+            "items/sips_y_dysmood_003__02",
+            "items/sips_y_dysmood_003__03",
+            "items/sips_y_dysmood_003__04",
+            "items/sips_y_dysmood_004",
+            "items/sips_y_dysmood_004__01",
+            "items/sips_y_dysmood_004__02",
+            "items/sips_y_dysmood_004__03",
+            "items/sips_y_dysmood_004__04",
+            "items/sips_y_dysmood_005",
+            "items/sips_y_dysmood_005__01",
+            "items/sips_y_dysmood_005__02",
+            "items/sips_y_dysmood_005__03",
+            "items/sips_y_dysmood_005__04",
+            "items/sips_y_dysmood_006",
+            "items/sips_y_dysmood_006__01",
+            "items/sips_y_dysmood_006__02",
+            "items/sips_y_dysmood_006__03",
+            "items/sips_y_dysmood_006__04",
+            "items/sips_y_dysmood_007",
+            "items/sips_y_dysmood_007__01",
+            "items/sips_y_dysmood_007__02",
+            "items/sips_y_dysmood_007__03",
+            "items/sips_y_dysmood_007__04"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/sips_y_dysmood_dt",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_dt"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_age",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_age"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood__curr_001",
+                "isVis": true,
+                "variableName": "sips_y_dysmood__curr_001"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood__lt_001",
+                "isVis": true,
+                "variableName": "sips_y_dysmood__lt_001"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood__lt_001__01",
+                "isVis": true,
+                "variableName": "sips_y_dysmood__lt_001__01"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood__lt_001__01__01",
+                "isVis": true,
+                "variableName": "sips_y_dysmood__lt_001__01__01"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood__lt_001__01__02",
+                "isVis": true,
+                "variableName": "sips_y_dysmood__lt_001__01__02"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_002",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_002"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_002__01",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_002__01"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_002__02",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_002__02"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_002__03",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_002__03"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_002__04",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_002__04"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_003",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_003"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_003__01",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_003__01"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_003__02",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_003__02"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_003__03",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_003__03"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_003__04",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_003__04"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_004",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_004"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_004__01",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_004__01"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_004__02",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_004__02"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_004__03",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_004__03"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_004__04",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_004__04"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_005",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_005"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_005__01",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_005__01"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_005__02",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_005__02"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_005__03",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_005__03"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_005__04",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_005__04"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_006",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_006"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_006__01",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_006__01"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_006__02",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_006__02"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_006__03",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_006__03"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_006__04",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_006__04"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_007",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_007"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_007__01",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_007__01"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_007__02",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_007__02"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_007__03",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_007__03"
+            },
+            {
+                "isAbout": "items/sips_y_dysmood_007__04",
+                "isVis": true,
+                "variableName": "sips_y_dysmood_007__04"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

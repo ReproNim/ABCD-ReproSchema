@@ -52,7 +52,7 @@
         "en": "sdev_p_apq_age"
     },
     "question": {
-        "en": "Alabama Parenting Questionnaire [Parent]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Alabama Parenting Questionnaire [Parent]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

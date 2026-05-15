@@ -40,7 +40,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "mctq_fd_btime_hrs2"
+            "value": "mctq_fd_btime_hrs2 | mctq_fd_btime_hrs4"
         },
         {
             "column": "url_table",

@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0849"
+            "value": "su_y_tlfb_0884"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__salv__est_totdose"
     },
     "question": {
-        "en": "Salvia: total dose (Estimated period)"
+        "en": "Salvia: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

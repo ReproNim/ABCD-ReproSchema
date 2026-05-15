@@ -1,0 +1,107 @@
+{
+    "id": "sdev_y_gma_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "sdev_y_gma"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/sdev_y_gma_dt",
+            "items/sdev_y_gma_age",
+            "items/sdev_y_gma_001",
+            "items/sdev_y_gma_001__01",
+            "items/sdev_y_gma_001__01__dk",
+            "items/sdev_y_gma_001__02",
+            "items/sdev_y_gma_001__02__01",
+            "items/sdev_y_gma_001__02__01__dk",
+            "items/sdev_y_gma_001__03",
+            "items/sdev_y_gma_001__03__01",
+            "items/sdev_y_gma_001__03__02",
+            "items/sdev_y_gma_001__03__03",
+            "items/sdev_y_gma_001__04",
+            "items/sdev_y_gma_002",
+            "items/sdev_y_gma_002__01"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/sdev_y_gma_dt",
+                "isVis": true,
+                "variableName": "sdev_y_gma_dt"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_age",
+                "isVis": true,
+                "variableName": "sdev_y_gma_age"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__01",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__01"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__01__dk",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__01__dk"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__02",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__02"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__02__01",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__02__01"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__02__01__dk",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__02__01__dk"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__03",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__03"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__03__01",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__03__01"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__03__02",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__03__02"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__03__03",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__03__03"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_001__04",
+                "isVis": true,
+                "variableName": "sdev_y_gma_001__04"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_002",
+                "isVis": true,
+                "variableName": "sdev_y_gma_002"
+            },
+            {
+                "isAbout": "items/sdev_y_gma_002__01",
+                "isVis": true,
+                "variableName": "sdev_y_gma_002__01"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

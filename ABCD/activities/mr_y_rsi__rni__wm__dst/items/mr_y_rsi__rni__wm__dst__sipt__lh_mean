@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__rni__wm__dst__sipt__lh_mean"
     },
     "question": {
-        "en": "Average restricted normalized isotropic diffusion (white matter) in Destrieux ROI: intraparietal sulcus and transverse parietal sulci (left hemisphere)"
+        "en": "Average restricted normalized isotropic diffusion (White matter) in Destrieux ROI: Intraparietal sulcus and transverse parietal sulci (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

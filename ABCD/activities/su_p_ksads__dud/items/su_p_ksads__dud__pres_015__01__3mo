@@ -1,0 +1,61 @@
+{
+    "id": "su_p_ksads__dud__pres_015__01__3mo",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_p_ksads__dud"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_p_ksads__dud__pres_015__01__3mo"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_p_ksads_dud_0318"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_p_ksads__dud"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_p_ksads__dud__pres_015__01__3mo"
+    },
+    "question": {
+        "en": "Your child's time using replaced the time he or she used to spend doing his or her usual activities, like sports, hobbies, spending time with family or friends, or work or school: Marijuana (pot, weed, hash, THC, blunts, synthetic marijuana/K2/Spice, marijuana edibles, concentrates such as dabs or shatter) - Past 0-3 months"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

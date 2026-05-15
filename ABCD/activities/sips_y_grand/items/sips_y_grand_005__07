@@ -1,0 +1,71 @@
+{
+    "id": "sips_y_grand_005__07",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions probe for psychotic grandiosity, non-psychotic grandiosity, and inflated self-esteem. They are rated on the SOPS P3 Scale at the end of the queries."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_grandiosity"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_grand_005_05_02"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_y_grand_005__07"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_y_grand_0062"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_y_grand"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_y_grand_005__07"
+    },
+    "question": {
+        "en": "Do you ever feel that you have been chosen by God for a special role? Do you ever feel as if you can save others: How would you rate your degree of distress? [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

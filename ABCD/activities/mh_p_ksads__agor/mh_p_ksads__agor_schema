@@ -7,6 +7,52 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
+            "items/mh_p_ksads__agor_age",
+            "items/mh_p_ksads__agor_dtt",
+            "items/mh_p_ksads__agor__past_001___1",
+            "items/mh_p_ksads__agor__past_001___2",
+            "items/mh_p_ksads__agor__past_001___3",
+            "items/mh_p_ksads__agor__past_002",
+            "items/mh_p_ksads__agor__past_003___1",
+            "items/mh_p_ksads__agor__past_003___2",
+            "items/mh_p_ksads__agor__past_003___3",
+            "items/mh_p_ksads__agor__past_003___4",
+            "items/mh_p_ksads__agor__past_003___5",
+            "items/mh_p_ksads__agor__past_003___6",
+            "items/mh_p_ksads__agor__past_004",
+            "items/mh_p_ksads__agor__past_005__mo",
+            "items/mh_p_ksads__agor__past_005__wk",
+            "items/mh_p_ksads__agor__past_005__yr",
+            "items/mh_p_ksads__agor__past_006",
+            "items/mh_p_ksads__agor__pres_001___1",
+            "items/mh_p_ksads__agor__pres_001___2",
+            "items/mh_p_ksads__agor__pres_001___3",
+            "items/mh_p_ksads__agor__pres_002",
+            "items/mh_p_ksads__agor__pres_003___1",
+            "items/mh_p_ksads__agor__pres_003___2",
+            "items/mh_p_ksads__agor__pres_003___3",
+            "items/mh_p_ksads__agor__pres_003___4",
+            "items/mh_p_ksads__agor__pres_003___5",
+            "items/mh_p_ksads__agor__pres_003___6",
+            "items/mh_p_ksads__agor__pres_004",
+            "items/mh_p_ksads__agor__screen__past_001",
+            "items/mh_p_ksads__agor__screen__past_001__01",
+            "items/mh_p_ksads__agor__screen__past_001__02__mo",
+            "items/mh_p_ksads__agor__screen__past_001__02__yr",
+            "items/mh_p_ksads__agor__screen__pres_001",
+            "items/mh_p_ksads__agor__screen__pres_001__01",
+            "items/mh_p_ksads__agor__screen__pres_001__02",
+            "items/mh_p_ksads__agor__screen__pres_001__03",
+            "items/mh_p_ksads__agor__screen__pres_001__04",
+            "items/mh_p_ksads__agor__screen__pres_001__05",
+            "items/mh_p_ksads__agor__screen__pres_001__06",
+            "items/mh_p_ksads__agor__screen__pres_001__07",
+            "items/mh_p_ksads__agor__screen__pres_001__08",
+            "items/mh_p_ksads__agor__screen__pres_001__09",
+            "items/mh_p_ksads__agor__screen__pres_001__10",
+            "items/mh_p_ksads__agor__screen__pres_001__11",
+            "items/mh_p_ksads__agor__screen__pres_001__12__mo",
+            "items/mh_p_ksads__agor__screen__pres_001__12__yr",
             "items/mh_p_ksads__agor__avoid__past_sx",
             "items/mh_p_ksads__agor__avoid__pres_sx",
             "items/mh_p_ksads__agor__clndistrs__past_sx",
@@ -16,13 +62,245 @@
             "items/mh_p_ksads__agor__impfunct__pres_sx",
             "items/mh_p_ksads__agor__multi__past_sx",
             "items/mh_p_ksads__agor__multi__pres_sx",
-            "items/mh_p_ksads__agor__rsn__past_sx",
-            "items/mh_p_ksads__agor__rsn__pres_sx",
+            "items/mh_p_ksads__agor__oth_dx",
+            "items/mh_p_ksads__agor__past__sx_mean",
             "items/mh_p_ksads__agor__past_dx",
+            "items/mh_p_ksads__agor__pres__sx_mean",
             "items/mh_p_ksads__agor__pres_dx",
-            "items/mh_p_ksads__agor__oth_dx"
+            "items/mh_p_ksads__agor__rsn__past_sx",
+            "items/mh_p_ksads__agor__rsn__pres_sx"
         ],
         "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__agor_age",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor_age"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor_dtt",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_001___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_001___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_001___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_001___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_001___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_001___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_003___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_003___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_003___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_003___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_003___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_003___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_003___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_003___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_003___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_003___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_003___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_003___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_005__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_005__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_005__wk",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_005__wk"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_005__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_005__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_006",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_006"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_001___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_001___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_001___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_001___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_001___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_001___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_003___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_003___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_003___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_003___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_003___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_003___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_003___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_003___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_003___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_003___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_003___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_003___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__past_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__past_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__past_001__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__past_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__past_001__02__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__past_001__02__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__past_001__02__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__past_001__02__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__02",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__02"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__03",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__03"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__04",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__04"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__05",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__05"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__06",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__06"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__07",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__07"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__08",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__08"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__09",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__09"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__12__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__12__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__screen__pres_001__12__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__screen__pres_001__12__yr"
+            },
             {
                 "isAbout": "items/mh_p_ksads__agor__avoid__past_sx",
                 "isVis": true,
@@ -69,6 +347,31 @@
                 "variableName": "mh_p_ksads__agor__multi__pres_sx"
             },
             {
+                "isAbout": "items/mh_p_ksads__agor__oth_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__oth_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__agor__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__agor__pres_dx"
+            },
+            {
                 "isAbout": "items/mh_p_ksads__agor__rsn__past_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__agor__rsn__past_sx"
@@ -77,25 +380,10 @@
                 "isAbout": "items/mh_p_ksads__agor__rsn__pres_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__agor__rsn__pres_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__agor__past_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__agor__past_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__agor__pres_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__agor__pres_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__agor__oth_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__agor__oth_dx"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

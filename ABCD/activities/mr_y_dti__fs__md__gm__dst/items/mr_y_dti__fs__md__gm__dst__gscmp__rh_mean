@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__md__gm__dst__gscmp__rh_mean"
     },
     "question": {
-        "en": "Average mean diffusivity (full shell DTI; gray matter) in Destrieux ROI: middle-posterior part of the cingulate gyrus and sulcus (right hemisphere)"
+        "en": "Average mean diffusivity (Full shell DTI; Gray matter) in Destrieux ROI: Middle-posterior part of the cingulate gyrus and sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

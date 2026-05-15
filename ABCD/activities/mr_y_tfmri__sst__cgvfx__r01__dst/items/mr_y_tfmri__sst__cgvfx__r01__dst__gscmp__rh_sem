@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__cgvfx__r01__dst__gscmp__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Stop Signal task (contrast: correct go vs. fixation; run 1) in Destrieux ROI: middle-posterior part of the cingulate gyrus and sulcus (right hemisphere)"
+        "en": "Average standard error of the mean for Stop Signal task (Contrast - Correct go vs. fixation; Run 1) in Destrieux ROI: Middle-posterior part of the cingulate gyrus and sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

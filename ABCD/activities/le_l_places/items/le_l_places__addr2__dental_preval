@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__dental_preval"
     },
     "question": {
-        "en": "Visits to dentist or dental clinic among adults aged >=18 years; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "Visits to dentist or dental clinic among adults aged >=18 years; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

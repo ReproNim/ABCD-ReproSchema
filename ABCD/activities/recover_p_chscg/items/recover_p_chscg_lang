@@ -1,0 +1,67 @@
+{
+    "id": "recover_p_chscg_lang",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "current_health_status"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "chs_colllang"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_chscg_lang"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_chscg_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_chscg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_chscg_lang"
+    },
+    "question": {
+        "en": "Caregiver Current Health Status [Parent]: Language of administration"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

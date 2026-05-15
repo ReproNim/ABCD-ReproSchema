@@ -47,14 +47,14 @@
             "items/ph_y_pq__face__frntr_001",
             "items/ph_y_pq__foot__btml_001",
             "items/ph_y_pq__foot__btmr_001",
-            "items/ph_y_pq__foot__topl_001",
             "items/ph_y_pq__foot__topr_001",
+            "items/ph_y_pq__foot__topl_001",
             "items/ph_y_pq__forearm__bckl_001",
             "items/ph_y_pq__forearm__bckr_001",
             "items/ph_y_pq__forearm__frntl_001",
             "items/ph_y_pq__forearm__frntr_001",
-            "items/ph_y_pq__hand__plml_001",
             "items/ph_y_pq__hand__plmr_001",
+            "items/ph_y_pq__hand__plml_001",
             "items/ph_y_pq__hand__topl_001",
             "items/ph_y_pq__hand__topr_001",
             "items/ph_y_pq__head__bckl_001",
@@ -293,14 +293,14 @@
                 "variableName": "ph_y_pq__foot__btmr_001"
             },
             {
-                "isAbout": "items/ph_y_pq__foot__topl_001",
-                "isVis": true,
-                "variableName": "ph_y_pq__foot__topl_001"
-            },
-            {
                 "isAbout": "items/ph_y_pq__foot__topr_001",
                 "isVis": true,
                 "variableName": "ph_y_pq__foot__topr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__foot__topl_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__foot__topl_001"
             },
             {
                 "isAbout": "items/ph_y_pq__forearm__bckl_001",
@@ -323,14 +323,14 @@
                 "variableName": "ph_y_pq__forearm__frntr_001"
             },
             {
-                "isAbout": "items/ph_y_pq__hand__plml_001",
-                "isVis": true,
-                "variableName": "ph_y_pq__hand__plml_001"
-            },
-            {
                 "isAbout": "items/ph_y_pq__hand__plmr_001",
                 "isVis": true,
                 "variableName": "ph_y_pq__hand__plmr_001"
+            },
+            {
+                "isAbout": "items/ph_y_pq__hand__plml_001",
+                "isVis": true,
+                "variableName": "ph_y_pq__hand__plml_001"
             },
             {
                 "isAbout": "items/ph_y_pq__hand__topl_001",
@@ -510,6 +510,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

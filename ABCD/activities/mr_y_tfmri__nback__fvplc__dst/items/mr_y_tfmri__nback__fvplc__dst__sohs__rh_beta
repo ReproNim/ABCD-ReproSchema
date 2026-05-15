@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__dst__sohs__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: face vs. place; all runs) in Destrieux ROI: orbital sulci (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Face vs. place; All runs) in Destrieux ROI: Orbital sulci (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

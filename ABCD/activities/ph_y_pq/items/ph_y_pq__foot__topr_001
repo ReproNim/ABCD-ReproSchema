@@ -35,7 +35,7 @@
         {
             "column": "name_nda",
             "source": "nbdc",
-            "value": "pain_bodymap_male___f36 | pain_bodymap_female___f36"
+            "value": "pain_bodymap_male___f35 | pain_bodymap_female___f35"
         },
         {
             "column": "name_redcap",
@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_y_pq_0042"
+            "value": "ph_y_pq_0041"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "ph_y_pq__foot__topr_001"
     },
     "question": {
-        "en": "Where you have felt pain during the last month?: Foot (top-left)"
+        "en": "Where you have felt pain during the last month?: Foot (Top-right)"
     },
     "responseOptions": {
         "valueType": [

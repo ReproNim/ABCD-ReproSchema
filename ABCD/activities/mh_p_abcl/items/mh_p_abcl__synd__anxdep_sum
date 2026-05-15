@@ -62,7 +62,7 @@
         "en": "mh_p_abcl__synd__anxdep_sum"
     },
     "question": {
-        "en": "Adult Behavior Checklist [Parent] (Syndrome Scale - Anxious/Depressed): Sum\n[Validation: No more than 0 missing or declined]"
+        "en": "Adult Behavior Checklist [Parent] (Syndrome Scale - Anxious/Depressed): Sum [Validation: No more than 0 missing or declined]"
     },
     "responseOptions": {
         "valueType": [

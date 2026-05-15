@@ -52,7 +52,7 @@
         "en": "le_l_relciv__addr2__relorg__cnty_count"
     },
     "question": {
-        "en": "Count number all religious organizations [NaNDA; county] (Address 2) (address 2)"
+        "en": "Count number all religious organizations [NaNDA; county] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

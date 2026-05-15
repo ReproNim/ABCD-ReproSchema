@@ -1,0 +1,71 @@
+{
+    "id": "sips_p_utc__oth_001__02__02",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions are organized in sections and probe for both psychotic, delusional thinking and for non-psychotic, unusual thought content. These experiences are rated on the SOPS P1 Scale at the end of the queries."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_utc"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_utc_oth_001_02_02"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_utc__oth_001__02__02"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_utc_0097"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_utc"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_utc__oth_001__02__02"
+    },
+    "question": {
+        "en": "Somatic Ideas: Do you ever worry that something might be wrong with your body or your health: Onset - Year [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

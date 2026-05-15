@@ -57,7 +57,7 @@
         "en": "le_l_svi__addr2__nohsdiploma_prcntile"
     },
     "question": {
-        "en": "Percentile of no high school diploma subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 2) (address 2)"
+        "en": "Percentile of no high school diploma subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

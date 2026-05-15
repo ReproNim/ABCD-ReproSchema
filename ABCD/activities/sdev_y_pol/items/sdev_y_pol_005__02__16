@@ -1,0 +1,66 @@
+{
+    "id": "sdev_y_pol_005__02__16",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Police Interaction"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "social_development_follow_up_child_police_contact"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "socialdev_cpc_34"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_pol_005__02__16"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_pol_0040"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_pol"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_pol_005__02__16"
+    },
+    "question": {
+        "en": "Arrested first time: Did your new friends do more, the same, or less of these types of activities that got you in trouble (illegal things, or things that are not allowed)? [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

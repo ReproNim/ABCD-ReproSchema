@@ -52,7 +52,7 @@
         "en": "irma_y_qtn_age"
     },
     "question": {
-        "en": "Hurricane Irma Experiences [Youth]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Hurricane Irma Experiences [Youth]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,53 @@
+{
+    "id": "mh_y_ppsss_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "mh_y_ppsss"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/mh_y_ppsss__dist__pers_count",
+            "items/mh_y_ppsss__dist__curr_count",
+            "items/mh_y_ppsss__dist__pers_first",
+            "items/mh_y_ppsss__dist__curr_first",
+            "items/mh_y_ppsss__dist__pers_ever",
+            "items/mh_y_ppsss__dist__curr_ever"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/mh_y_ppsss__dist__pers_count",
+                "isVis": true,
+                "variableName": "mh_y_ppsss__dist__pers_count"
+            },
+            {
+                "isAbout": "items/mh_y_ppsss__dist__curr_count",
+                "isVis": true,
+                "variableName": "mh_y_ppsss__dist__curr_count"
+            },
+            {
+                "isAbout": "items/mh_y_ppsss__dist__pers_first",
+                "isVis": true,
+                "variableName": "mh_y_ppsss__dist__pers_first"
+            },
+            {
+                "isAbout": "items/mh_y_ppsss__dist__curr_first",
+                "isVis": true,
+                "variableName": "mh_y_ppsss__dist__curr_first"
+            },
+            {
+                "isAbout": "items/mh_y_ppsss__dist__pers_ever",
+                "isVis": true,
+                "variableName": "mh_y_ppsss__dist__pers_ever"
+            },
+            {
+                "isAbout": "items/mh_y_ppsss__dist__curr_ever",
+                "isVis": true,
+                "variableName": "mh_y_ppsss__dist__curr_ever"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

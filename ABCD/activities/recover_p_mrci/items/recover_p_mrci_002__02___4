@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_mrci_002__02___4",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "most_recent_covid_infection_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "mrcih_reason"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_mrci_002__02___4"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_mrci_0039"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_mrci"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_mrci_002__02___4"
+    },
+    "question": {
+        "en": "Why did you think the child had COVID during their most recent COVID infection? [Multi-select]: A test done at home said that the child had COVID"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

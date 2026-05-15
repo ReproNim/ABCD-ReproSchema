@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0247"
+            "value": "ph_p_meds_0255"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_005__01__04"
     },
     "question": {
-        "en": "RX 5: Is this a PRN (As needed) medication? [Parent]"
+        "en": "Prescription - Medication 5: Is this a PRN (As needed) medication? [Parent]"
     },
     "responseOptions": {
         "valueType": [

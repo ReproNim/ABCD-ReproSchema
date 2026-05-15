@@ -52,7 +52,7 @@
         "en": "le_l_places__addr2__bphigh_preval"
     },
     "question": {
-        "en": "High blood pressure among adults aged >=18 years; Prevalence [PLACES] (Address 2) (address 2)"
+        "en": "High blood pressure among adults aged >=18 years; Prevalence [PLACES] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

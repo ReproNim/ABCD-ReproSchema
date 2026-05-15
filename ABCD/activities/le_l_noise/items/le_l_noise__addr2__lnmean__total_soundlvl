@@ -52,7 +52,7 @@
         "en": "le_l_noise__addr2__lnmean__total_soundlvl"
     },
     "question": {
-        "en": "Average total sound level from the hours of 10pm-7am (Address 2) (address 2)"
+        "en": "Average total sound level from the hours of 10pm-7am (Address 2)"
     },
     "responseOptions": {
         "valueType": [

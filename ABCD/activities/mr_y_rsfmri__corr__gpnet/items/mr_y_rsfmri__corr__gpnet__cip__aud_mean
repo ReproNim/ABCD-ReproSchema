@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__cip__aud_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: cingulo-parietal & auditory"
+        "en": "Average correlation between Gordon networks: Cingulo-parietal & auditory"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gwc__dsk__ff__rh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray/white contrast) in Desikan ROI: fusiform (right hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI: Gray/white contrast) in Desikan ROI: Fusiform (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

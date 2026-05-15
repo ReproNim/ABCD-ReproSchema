@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__dst__gcn__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Destrieux ROI: cuneus (right hemisphere)"
+        "en": "Average temporal variance in Destrieux ROI: Cuneus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

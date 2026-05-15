@@ -52,7 +52,7 @@
         "en": "ph_p_cna_age"
     },
     "question": {
-        "en": "Child Nutrition Assessment [Parent]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Child Nutrition Assessment [Parent]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

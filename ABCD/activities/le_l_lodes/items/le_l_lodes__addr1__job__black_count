@@ -52,7 +52,7 @@
         "en": "le_l_lodes__addr1__job__black_count"
     },
     "question": {
-        "en": "Number of jobs for workers with Race: Black or African American Alone [LODES; census tract] (Address 1) (address 1)"
+        "en": "Number of jobs for workers with Race: Black or African American Alone [LODES; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

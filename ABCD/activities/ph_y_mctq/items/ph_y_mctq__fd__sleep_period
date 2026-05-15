@@ -3,6 +3,11 @@
     "category": "reproschema:Item",
     "additionalNotesObj": [
         {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "In this questionnaire, you report on your typical sleep behavior over the last 4 weeks. We ask about work/school days and free days separately.\r\n\r\nWhat do we mean by work/school days and free days?\r\nBy work/school days we are referring to non-free days in which you have routine scheduled obligations such as work or school. These days might be weekdays if you are currently in school or are working a weekday job.\r\n\r\nBy free days we are referring to days in which you do not have any routine scheduled obligations. This might be a weekend if you are currently in school and or are working a weekday job.\r\n\r\nPlease respond to the questions according to your perception of a normal week that includes your usual work/school days and free days. \r\n\r\nIf you have a variable schedule, select the average for your schedule for the last 4 weeks as best you can."
+        },
+        {
             "column": "study",
             "source": "nbdc",
             "value": "Core"
@@ -40,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_y_mctq_0087"
+            "value": "ph_y_mctq_0089"
         },
         {
             "column": "activity",

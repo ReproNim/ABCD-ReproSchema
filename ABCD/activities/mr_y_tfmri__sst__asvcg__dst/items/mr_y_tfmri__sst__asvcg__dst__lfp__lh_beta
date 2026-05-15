@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__asvcg__dst__lfp__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: any stop vs. correct go; all runs) in Destrieux ROI: posterior ramus of the lateral sulcus (left hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Any stop vs. correct go; All runs) in Destrieux ROI: Posterior ramus of the lateral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

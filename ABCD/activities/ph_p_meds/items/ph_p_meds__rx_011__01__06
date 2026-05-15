@@ -55,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0328"
+            "value": "ph_p_meds_0349"
         },
         {
             "column": "activity",
@@ -67,7 +67,7 @@
         "en": "ph_p_meds__rx_011__01__06"
     },
     "question": {
-        "en": "RX 11: Did your child take this medication in the last 24 hours? [Parent]"
+        "en": "Prescription - Medication 11: Did your child take this medication in the last 24 hours? [Parent]"
     },
     "responseOptions": {
         "valueType": [

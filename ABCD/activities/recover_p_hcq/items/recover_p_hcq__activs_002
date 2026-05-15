@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_hcq__activs_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The next questions ask about the child\u2019s overall health and how the COVID pandemic has affected the child\u2019s health since March 2020."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_health_consequences"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "hcq_activeaffect"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_hcq__activs_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_hcq_0006"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_hcq"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_hcq__activs_002"
+    },
+    "question": {
+        "en": "In general, how has the COVID pandemic affected the child\u2019s physical activity?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

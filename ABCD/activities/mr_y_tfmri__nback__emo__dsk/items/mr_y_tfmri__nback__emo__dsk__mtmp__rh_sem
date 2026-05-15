@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__emo__dsk__mtmp__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: emotion; all runs) in Desikan ROI: middle temporal (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Emotion; All runs) in Desikan ROI: Middle temporal (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

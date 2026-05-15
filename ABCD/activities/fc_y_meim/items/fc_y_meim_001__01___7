@@ -57,7 +57,7 @@
         "en": "fc_y_meim_001__01___7"
     },
     "question": {
-        "en": "What ethnic groups do you consider yourself to be [Multi-select]: East Asian (i.e. China, Japan, Korea, Taiwan) [Youth]"
+        "en": "What ethnic group(s)s do you consider yourself to be [Multi-select]: East Asian (i.e. China, Japan, Korea, Taiwan) [Youth]"
     },
     "responseOptions": {
         "valueType": [

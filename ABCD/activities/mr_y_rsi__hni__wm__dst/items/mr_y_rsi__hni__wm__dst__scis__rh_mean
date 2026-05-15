@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__hni__wm__dst__scis__rh_mean"
     },
     "question": {
-        "en": "Average hindered normalized isotropic diffusion (white matter) in Destrieux ROI: superior segment of the circular sulcus of the insula (right hemisphere)"
+        "en": "Average hindered normalized isotropic diffusion (White matter) in Destrieux ROI: Superior segment of the circular sulcus of the insula (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

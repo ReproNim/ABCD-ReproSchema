@@ -62,7 +62,7 @@
         "en": "le_l_elevation__addr2__elevation_m"
     },
     "question": {
-        "en": "Residential history derived elevation (Address 2) (address 2)"
+        "en": "Residential history derived elevation (Address 2)"
     },
     "responseOptions": {
         "valueType": [

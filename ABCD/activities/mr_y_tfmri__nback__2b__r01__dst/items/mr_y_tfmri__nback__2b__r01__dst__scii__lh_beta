@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2b__r01__dst__scii__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: 2-back; run 1) in Destrieux ROI: inferior segment of the circular sulcus of the insula (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - 2-back; Run 1) in Destrieux ROI: Inferior segment of the circular sulcus of the insula (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

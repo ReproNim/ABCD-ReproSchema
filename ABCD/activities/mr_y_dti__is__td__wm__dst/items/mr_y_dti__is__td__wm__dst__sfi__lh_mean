@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__td__wm__dst__sfi__lh_mean"
     },
     "question": {
-        "en": "Average transversal diffusivity (inner shell DTI; white matter) in Destrieux ROI: inferior frontal sulcus (left hemisphere)"
+        "en": "Average transversal diffusivity (inner shell DTI; White matter) in Destrieux ROI: Inferior frontal sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

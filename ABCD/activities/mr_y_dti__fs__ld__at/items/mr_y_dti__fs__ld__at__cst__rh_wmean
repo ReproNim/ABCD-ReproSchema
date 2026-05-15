@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__ld__at__cst__rh_wmean"
     },
     "question": {
-        "en": "Weighted average longitudinal diffusivity (full shell DTI) in AtlasTrack fiber tract: corticospinal/pyramidal (right hemisphere)"
+        "en": "Weighted average longitudinal diffusivity (Full shell DTI) in AtlasTrack fiber tract: Corticospinal/pyramidal (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

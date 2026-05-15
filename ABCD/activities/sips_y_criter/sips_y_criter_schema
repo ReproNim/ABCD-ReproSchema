@@ -1,0 +1,161 @@
+{
+    "id": "sips_y_criter_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "sips_y_criter"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/sips_y_criter__curr_001",
+            "items/sips_y_criter__curr_001__01",
+            "items/sips_y_criter__curr_001__02",
+            "items/sips_y_criter__curr_001__03",
+            "items/sips_y_criter__curr_001__04",
+            "items/sips_y_criter_dt",
+            "items/sips_y_criter_age",
+            "items/sips_y_criter__curr_001__05",
+            "items/sips_y_criter__curr_002",
+            "items/sips_y_criter__curr_002__01",
+            "items/sips_y_criter__curr_002__02",
+            "items/sips_y_criter__curr_002__03",
+            "items/sips_y_criter__curr_002__04",
+            "items/sips_y_criter__curr_002__05",
+            "items/sips_y_criter__curr_003",
+            "items/sips_y_criter__curr_004",
+            "items/sips_y_criter__curr_005",
+            "items/sips_y_criter__curr_005__01",
+            "items/sips_y_criter__curr_005__02",
+            "items/sips_y_criter__past_001",
+            "items/sips_y_criter__past_001__01",
+            "items/sips_y_criter__past_001__02",
+            "items/sips_y_criter__past_001__03",
+            "items/sips_y_criter__past_001__04"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/sips_y_criter__curr_001",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_001"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_001__01",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_001__01"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_001__02",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_001__02"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_001__03",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_001__03"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_001__04",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_001__04"
+            },
+            {
+                "isAbout": "items/sips_y_criter_dt",
+                "isVis": true,
+                "variableName": "sips_y_criter_dt"
+            },
+            {
+                "isAbout": "items/sips_y_criter_age",
+                "isVis": true,
+                "variableName": "sips_y_criter_age"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_001__05",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_001__05"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_002",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_002"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_002__01",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_002__01"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_002__02",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_002__02"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_002__03",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_002__03"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_002__04",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_002__04"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_002__05",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_002__05"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_003",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_003"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_004",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_004"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_005",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_005"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_005__01",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_005__01"
+            },
+            {
+                "isAbout": "items/sips_y_criter__curr_005__02",
+                "isVis": true,
+                "variableName": "sips_y_criter__curr_005__02"
+            },
+            {
+                "isAbout": "items/sips_y_criter__past_001",
+                "isVis": true,
+                "variableName": "sips_y_criter__past_001"
+            },
+            {
+                "isAbout": "items/sips_y_criter__past_001__01",
+                "isVis": true,
+                "variableName": "sips_y_criter__past_001__01"
+            },
+            {
+                "isAbout": "items/sips_y_criter__past_001__02",
+                "isVis": true,
+                "variableName": "sips_y_criter__past_001__02"
+            },
+            {
+                "isAbout": "items/sips_y_criter__past_001__03",
+                "isVis": true,
+                "variableName": "sips_y_criter__past_001__03"
+            },
+            {
+                "isAbout": "items/sips_y_criter__past_001__04",
+                "isVis": true,
+                "variableName": "sips_y_criter__past_001__04"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -52,7 +52,7 @@
         "en": "le_l_svi__addr1__nohsdiploma_prcnt"
     },
     "question": {
-        "en": "Percent population estimate of no high school diploma subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 1) (address 1)"
+        "en": "Percent population estimate of no high school diploma subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

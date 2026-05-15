@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__igvcg__r01__dst__gis__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: incorrect go vs. correct go; run 1) in Destrieux ROI: short insular gyri (right hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Incorrrect go vs. correct go; Run 1) in Destrieux ROI: Short insular gyri (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

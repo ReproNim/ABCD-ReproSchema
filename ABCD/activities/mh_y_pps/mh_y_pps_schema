@@ -79,7 +79,9 @@
             "items/mh_y_pps__severity_nm",
             "items/mh_y_pps__severity_score",
             "items/mh_y_pps_count",
-            "items/mh_y_pps_nm"
+            "items/mh_y_pps_nm",
+            "items/mh_y_pps__dist__pers_score",
+            "items/mh_y_pps__dist__curr_score"
         ],
         "addProperties": [
             {
@@ -446,10 +448,20 @@
                 "isAbout": "items/mh_y_pps_nm",
                 "isVis": true,
                 "variableName": "mh_y_pps_nm"
+            },
+            {
+                "isAbout": "items/mh_y_pps__dist__pers_score",
+                "isVis": true,
+                "variableName": "mh_y_pps__dist__pers_score"
+            },
+            {
+                "isAbout": "items/mh_y_pps__dist__curr_score",
+                "isVis": true,
+                "variableName": "mh_y_pps__dist__curr_score"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

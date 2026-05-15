@@ -62,7 +62,7 @@
         "en": "su_y_sui__use__othdrg_002__01__l___8"
     },
     "question": {
-        "en": "Other Drug since last visit: What did you use (Please choose all that apply)? [Cathinones]"
+        "en": "Other Drug since last visit: What did you use ([Multi-select]: Cathinones"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,61 @@
+{
+    "id": "su_p_ksads__dud__screen__pres_002___6",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_p_ksads__dud"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_p_ksads__dud__screen__pres_002___6"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_p_ksads_dud_0722"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_p_ksads__dud"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_p_ksads__dud__screen__pres_002___6"
+    },
+    "question": {
+        "en": "In the past two weeks, how often did your child wake up feeling sick (nausea, headache, tired, anxious, sad, dizzy, a lot of sweating, stomach ache) or missed school or work because of using the drug or drugs listed below the night before: Other Hallucinogens (LSD, mescaline, peyote, DMT, salvia, psilocybin, magic mushrooms, ecstasy/molly/MDMA, morning glory seeds)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

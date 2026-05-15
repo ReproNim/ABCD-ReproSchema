@@ -52,7 +52,7 @@
         "en": "mh_t_bpm_age"
     },
     "question": {
-        "en": "Brief Problem Monitor [Teacher]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Brief Problem Monitor [Teacher]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

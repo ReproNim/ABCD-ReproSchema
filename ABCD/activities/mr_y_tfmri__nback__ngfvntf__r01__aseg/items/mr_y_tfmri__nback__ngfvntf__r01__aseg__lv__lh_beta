@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__ngfvntf__r01__aseg__lv__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: negative face vs. neutral face; run 1) in Subcortical ROI: lateral ventricle (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Negative face vs. neutral face; Run 1) in Subcortical ROI: Lateral ventricle (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

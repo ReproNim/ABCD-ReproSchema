@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__emovntf__r02__dst__gtspt__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: emotion vs. neutral face; run 2) in Destrieux ROI: planum temporale (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Emotion vs. neutral face; Run 2) in Destrieux ROI: Planum temporale (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "nc_y_ddis_jbcrit1"
     },
     "question": {
-        "en": "Delay Discounting: Consistent_per_JBcriterion1- no: if any indifference point (proportion of full delayed amount) is > 20% larger than that of the next shorter delay interval => rule violation due to inconsistent responding yes: otherwise"
+        "en": "Delay Discounting: Consistent_per_JBcriterion1- no (value = 0; inconsistent): if any indifference point (Proportion of full delayed amount) is > 20% larger than that of the next shorter delay interval => rule violation due to inconsistent responding, yes (value =1; consistent): otherwise"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__md__wm__dsk__lobfrt__rh_mean"
     },
     "question": {
-        "en": "Average mean diffusivity (inner shell DTI; white matter) in Desikan ROI: lateral orbitofrontal (right hemisphere)"
+        "en": "Average mean diffusivity (inner shell DTI; White matter) in Desikan ROI: Lateral orbitofrontal (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

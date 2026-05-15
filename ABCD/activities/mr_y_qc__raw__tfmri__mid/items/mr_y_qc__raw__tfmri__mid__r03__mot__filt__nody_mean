@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__tfmri__mid__r03__mot__filt__nody_mean"
     },
     "question": {
-        "en": "Task fMRI - Monetary Incentive Delay task (run 3): Mean framewise displacement using the filtering technique and without y-displacement"
+        "en": "Task fMRI - Monetary Incentive Delay task (Run 3): Mean framewise displacement using the filtering technique and without y-displacement"
     },
     "responseOptions": {
         "valueType": [

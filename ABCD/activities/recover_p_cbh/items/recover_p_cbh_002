@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_cbh_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "child_birth_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "cbh_delivery"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_cbh_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_cbh_0018"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_cbh"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_cbh_002"
+    },
+    "question": {
+        "en": "How was the youth delivered?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

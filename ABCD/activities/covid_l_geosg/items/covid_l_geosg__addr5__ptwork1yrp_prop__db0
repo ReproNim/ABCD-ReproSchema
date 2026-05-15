@@ -52,7 +52,7 @@
         "en": "covid_l_geosg__addr5__ptwork1yrp_prop__db0"
     },
     "question": {
-        "en": "SafeGraph Device exhibiting part-time work behavior (1 year prior) by census block ratio: Same day as questionnaire dissemenation date (Address 5)"
+        "en": "SafeGraph Device exhibiting part-time work behavior (1 year prior) by census block ratio: Same day as questionnaire dissemenation date (address 5)"
     },
     "responseOptions": {
         "valueType": [

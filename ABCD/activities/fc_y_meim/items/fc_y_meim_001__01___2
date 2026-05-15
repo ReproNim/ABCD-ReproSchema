@@ -57,7 +57,7 @@
         "en": "fc_y_meim_001__01___2"
     },
     "question": {
-        "en": "What ethnic groups do you consider yourself to be [Multi-select]: Western European [Youth]"
+        "en": "What ethnic group(s)s do you consider yourself to be [Multi-select]: Western European [Youth]"
     },
     "responseOptions": {
         "valueType": [

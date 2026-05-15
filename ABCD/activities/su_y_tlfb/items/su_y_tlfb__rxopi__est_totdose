@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0777"
+            "value": "su_y_tlfb_0809"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__rxopi__est_totdose"
     },
     "question": {
-        "en": "Prescription opiods: total dose (Estimated period)"
+        "en": "Prescription opiods: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

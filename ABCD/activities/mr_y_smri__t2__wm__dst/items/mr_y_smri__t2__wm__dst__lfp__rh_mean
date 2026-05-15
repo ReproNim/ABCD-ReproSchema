@@ -67,7 +67,7 @@
         "en": "mr_y_smri__t2__wm__dst__lfp__rh_mean"
     },
     "question": {
-        "en": "Average T2-weighted intensity (white matter) in Destrieux ROI: posterior ramus of the lateral sulcus (right hemisphere)"
+        "en": "Average T2-weighted intensity (White matter) in Destrieux ROI: Posterior ramus of the lateral sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

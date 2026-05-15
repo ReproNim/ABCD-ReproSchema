@@ -52,7 +52,7 @@
         "en": "le_l_dissim__addr3__aw__metro_score"
     },
     "question": {
-        "en": "Asian-White dissimilarity index [ACS 2014-2018; metro-level] (Address 3) (address 3)"
+        "en": "Asian-White dissimilarity index [ACS 2014-2018; metro-level] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,173 @@
+{
+    "id": "recover_p_vacccg_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_vacccg"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_vacccg_dt",
+            "items/recover_p_vacccg_age",
+            "items/recover_p_vacccg_lang",
+            "items/recover_p_vacccg_ver",
+            "items/recover_p_vacccg__r01_001",
+            "items/recover_p_vacccg__r01_002",
+            "items/recover_p_vacccg__r02_001",
+            "items/recover_p_vacccg__r02_002",
+            "items/recover_p_vacccg__r03_001",
+            "items/recover_p_vacccg__r03_002",
+            "items/recover_p_vacccg__r04_001",
+            "items/recover_p_vacccg__r04_002",
+            "items/recover_p_vacccg__r05_001",
+            "items/recover_p_vacccg__r05_002",
+            "items/recover_p_vacccg__r06_001",
+            "items/recover_p_vacccg__r06_002",
+            "items/recover_p_vacccg__r07_001",
+            "items/recover_p_vacccg__r07_002",
+            "items/recover_p_vacccg__r08_001",
+            "items/recover_p_vacccg__r08_002",
+            "items/recover_p_vacccg__r09_001",
+            "items/recover_p_vacccg__r09_002",
+            "items/recover_p_vacccg__r10_001",
+            "items/recover_p_vacccg__r10_002",
+            "items/recover_p_vacccg_001",
+            "items/recover_p_vacccg_001__01"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_vacccg_dt",
+                "isVis": true,
+                "variableName": "recover_p_vacccg_dt"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg_age",
+                "isVis": true,
+                "variableName": "recover_p_vacccg_age"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg_lang",
+                "isVis": true,
+                "variableName": "recover_p_vacccg_lang"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg_ver",
+                "isVis": true,
+                "variableName": "recover_p_vacccg_ver"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r01_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r01_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r01_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r01_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r02_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r02_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r02_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r02_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r03_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r03_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r03_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r03_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r04_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r04_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r04_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r04_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r05_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r05_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r05_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r05_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r06_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r06_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r06_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r06_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r07_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r07_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r07_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r07_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r08_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r08_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r08_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r08_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r09_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r09_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r09_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r09_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r10_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r10_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg__r10_002",
+                "isVis": true,
+                "variableName": "recover_p_vacccg__r10_002"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg_001",
+                "isVis": true,
+                "variableName": "recover_p_vacccg_001"
+            },
+            {
+                "isAbout": "items/recover_p_vacccg_001__01",
+                "isVis": true,
+                "variableName": "recover_p_vacccg_001__01"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

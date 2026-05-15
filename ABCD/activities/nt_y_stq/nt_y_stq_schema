@@ -104,10 +104,6 @@
             "items/nt_y_stq__screen__wknd__tot__min_001",
             "items/nt_y_stq__screen__wknd__tot__hr_002",
             "items/nt_y_stq__screen__wknd__tot__min_002",
-            "items/nt_y_stq__screen__wkdy_nm",
-            "items/nt_y_stq__screen__wkdy_sum",
-            "items/nt_y_stq__screen__wknd_nm",
-            "items/nt_y_stq__screen__wknd_sum",
             "items/nt_y_stq__sleep_001",
             "items/nt_y_stq__sleep_002",
             "items/nt_y_stq__sleep_003",
@@ -187,7 +183,11 @@
             "items/nt_y_stq__parent_001",
             "items/nt_y_stq__parent_002",
             "items/nt_y_stq__parent_003",
-            "items/nt_y_stq__parent_004"
+            "items/nt_y_stq__parent_004",
+            "items/nt_y_stq__screen__wkdy_nm",
+            "items/nt_y_stq__screen__wkdy_sum",
+            "items/nt_y_stq__screen__wknd_nm",
+            "items/nt_y_stq__screen__wknd_sum"
         ],
         "addProperties": [
             {
@@ -676,26 +676,6 @@
                 "variableName": "nt_y_stq__screen__wknd__tot__min_002"
             },
             {
-                "isAbout": "items/nt_y_stq__screen__wkdy_nm",
-                "isVis": true,
-                "variableName": "nt_y_stq__screen__wkdy_nm"
-            },
-            {
-                "isAbout": "items/nt_y_stq__screen__wkdy_sum",
-                "isVis": true,
-                "variableName": "nt_y_stq__screen__wkdy_sum"
-            },
-            {
-                "isAbout": "items/nt_y_stq__screen__wknd_nm",
-                "isVis": true,
-                "variableName": "nt_y_stq__screen__wknd_nm"
-            },
-            {
-                "isAbout": "items/nt_y_stq__screen__wknd_sum",
-                "isVis": true,
-                "variableName": "nt_y_stq__screen__wknd_sum"
-            },
-            {
                 "isAbout": "items/nt_y_stq__sleep_001",
                 "isVis": true,
                 "variableName": "nt_y_stq__sleep_001"
@@ -1094,10 +1074,30 @@
                 "isAbout": "items/nt_y_stq__parent_004",
                 "isVis": true,
                 "variableName": "nt_y_stq__parent_004"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_nm",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_nm"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wkdy_sum",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wkdy_sum"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_nm",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_nm"
+            },
+            {
+                "isAbout": "items/nt_y_stq__screen__wknd_sum",
+                "isVis": true,
+                "variableName": "nt_y_stq__screen__wknd_sum"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

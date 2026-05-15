@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__csvcg__dst__stt__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Stop Signal task (contrast: correct stop vs. correct go; all runs) in Destrieux ROI: transverse temporal sulcus (right hemisphere)"
+        "en": "Average standard error of the mean for Stop Signal task (Contrast - Correct stop vs. correct go; All runs) in Destrieux ROI: Transverse temporal sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

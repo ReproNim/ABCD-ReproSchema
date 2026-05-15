@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0435"
+            "value": "su_y_tlfb_0453"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__mj__synth__est_totdose"
     },
     "question": {
-        "en": "Marijuana - Synthetic: total dose (Estimated period)"
+        "en": "Marijuana - Synthetic: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

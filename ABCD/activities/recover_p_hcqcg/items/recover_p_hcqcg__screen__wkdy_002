@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_hcqcg__screen__wkdy_002",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_health_consequences"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "hcq_mfgamehr"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg__screen__wkdy_002"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg_0060"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_hcqcg__screen__wkdy_002"
+    },
+    "question": {
+        "en": "On a weekday (Monday to Friday), how many hours do you play video or computer games or use a computer for something that is not work? (Count time spent playing games, texting, or using social media on your smartphone, computer, Xbox, PlayStation, iPad, or other tablet.)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

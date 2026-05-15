@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_hcn__cond_017__03__v1",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "special_health_care_needs_screener"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "hcn_speechdisworse2"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_hcn__cond_017__03__v1"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_hcn_0063"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_hcn"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_hcn__cond_017__03__v1"
+    },
+    "question": {
+        "en": "Do you think the speech or language disorder was made worse by the COVID infection?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

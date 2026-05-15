@@ -32,7 +32,10 @@
             "items/fc_p_sag_006a__02___13",
             "items/fc_p_sag_006a__02___444",
             "items/fc_p_sag_006a__02___999",
-            "items/fc_p_sag_006b"
+            "items/fc_p_sag_006b",
+            "items/fc_p_sag_006b__01",
+            "items/fc_p_sag_006c",
+            "items/fc_p_sag_006c__01"
         ],
         "addProperties": [
             {
@@ -164,10 +167,25 @@
                 "isAbout": "items/fc_p_sag_006b",
                 "isVis": true,
                 "variableName": "fc_p_sag_006b"
+            },
+            {
+                "isAbout": "items/fc_p_sag_006b__01",
+                "isVis": true,
+                "variableName": "fc_p_sag_006b__01"
+            },
+            {
+                "isAbout": "items/fc_p_sag_006c",
+                "isVis": true,
+                "variableName": "fc_p_sag_006c"
+            },
+            {
+                "isAbout": "items/fc_p_sag_006c__01",
+                "isVis": true,
+                "variableName": "fc_p_sag_006c__01"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

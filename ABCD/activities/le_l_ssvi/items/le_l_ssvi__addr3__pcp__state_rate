@@ -52,7 +52,7 @@
         "en": "le_l_ssvi__addr3__pcp__state_rate"
     },
     "question": {
-        "en": "Primary care physicians (rate; care, non-federal) [Supplemental SVI] (Address 3) (address 3)"
+        "en": "Primary care physicians (rate; care, non-federal) [Supplemental SVI] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

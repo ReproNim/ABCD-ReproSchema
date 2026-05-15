@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gm__dst__gfio__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray matter) in Destrieux ROI: opercular part of the inferior frontal gyrus (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI; Gray matter) in Destrieux ROI: Opercular part of the inferior frontal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

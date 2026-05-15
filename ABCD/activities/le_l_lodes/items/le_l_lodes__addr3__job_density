@@ -52,7 +52,7 @@
         "en": "le_l_lodes__addr3__job_density"
     },
     "question": {
-        "en": "Total density of jobs (per sq. mile of land area) (Address 3) (address 3)"
+        "en": "Total density of jobs (Per sq. mile of land area) (Address 3)"
     },
     "responseOptions": {
         "valueType": [

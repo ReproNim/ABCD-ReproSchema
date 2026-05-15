@@ -47,7 +47,7 @@
         "en": "sdev_y_pb_dt"
     },
     "question": {
-        "en": "Peer Behavior [Youth]: Date when collection was completed"
+        "en": "Peer Behavior [Youth]: Date when data collection was completed"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__mid__r03_indicator"
     },
     "question": {
-        "en": "Task fMRI - Monetary Incentive Delay task (run 3): Indicates whether a scan passed manual quality control"
+        "en": "Task fMRI - Monetary Incentive Delay task (Run 3): Indicates whether a scan passed manual quality control"
     },
     "responseOptions": {
         "valueType": [

@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__tfmri__sst__r03__mot_mean"
     },
     "question": {
-        "en": "Task fMRI - Stop Signal Task (run 3): Mean framewise displacement"
+        "en": "Task fMRI - Stop Signal Task (Run 3): Mean framewise displacement"
     },
     "responseOptions": {
         "valueType": [

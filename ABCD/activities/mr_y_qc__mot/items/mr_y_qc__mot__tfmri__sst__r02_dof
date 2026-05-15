@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_mot_0106"
+            "value": "mr_y_qc_mot_0124"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__mot__tfmri__sst__r02_dof"
     },
     "question": {
-        "en": "Task fMRI - Stop Signal Task (run 2): Degrees of freedom"
+        "en": "Task fMRI - Stop Signal Task (Run 2): Degrees of freedom"
     },
     "responseOptions": {
         "valueType": [

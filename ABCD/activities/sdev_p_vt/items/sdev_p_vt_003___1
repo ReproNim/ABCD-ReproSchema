@@ -67,7 +67,7 @@
         "en": "sdev_p_vt_003___1"
     },
     "question": {
-        "en": "Social Development visit information [Parent]: Has a change of caregiver form been filled out for this visit? [Yes]"
+        "en": "Social Development visit information [Parent]: Has a change of caregiver form been filled out for this visit [Multi-select]: Yes"
     },
     "responseOptions": {
         "valueType": [

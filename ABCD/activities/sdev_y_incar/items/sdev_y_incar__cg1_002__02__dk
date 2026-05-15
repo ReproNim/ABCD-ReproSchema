@@ -1,0 +1,56 @@
+{
+    "id": "sdev_y_incar__cg1_002__02__dk",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Social Development"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Parental Incarceration"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sdev_y_incar__cg1_002__02__dk"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sdev_y_incar_0008"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sdev_y_incar"
+        }
+    ],
+    "prefLabel": {
+        "en": "sdev_y_incar__cg1_002__02__dk"
+    },
+    "question": {
+        "en": "Caregiver 1: How old were you when they first went to jail or prison? [Non-response] [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

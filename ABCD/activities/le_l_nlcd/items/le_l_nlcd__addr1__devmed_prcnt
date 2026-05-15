@@ -52,7 +52,7 @@
         "en": "le_l_nlcd__addr1__devmed_prcnt"
     },
     "question": {
-        "en": "Percent classified as Developed, Medium Intensity [NLCD 2016; census tract] (Address 1) (address 1)"
+        "en": "Percent classified as Developed, Medium Intensity [NLCD 2016; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

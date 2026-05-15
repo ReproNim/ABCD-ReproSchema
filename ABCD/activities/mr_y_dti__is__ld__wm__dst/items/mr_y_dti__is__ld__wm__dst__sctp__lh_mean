@@ -72,7 +72,7 @@
         "en": "mr_y_dti__is__ld__wm__dst__sctp__lh_mean"
     },
     "question": {
-        "en": "Average longitudinal diffusivity (inner shell DTI; white matter) in Destrieux ROI: posterior transverse collateral sulcus (left hemisphere)"
+        "en": "Average longitudinal diffusivity (inner shell DTI; White matter) in Destrieux ROI: Posterior transverse collateral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "le_l_rxmonit__addr3__pdmp__mustaccess_indicator"
     },
     "question": {
-        "en": "Indicates if legislation requiring Prescribers to access PDMP before prescribing as interpreted by PDAPS was effective at date of baseline visit (Address 3) (address 3)"
+        "en": "Indicates if legislation requiring Prescribers to access PDMP before prescribing as interpreted by PDAPS was effective at date of baseline visit (Address 3)"
     },
     "responseOptions": {
         "valueType": [

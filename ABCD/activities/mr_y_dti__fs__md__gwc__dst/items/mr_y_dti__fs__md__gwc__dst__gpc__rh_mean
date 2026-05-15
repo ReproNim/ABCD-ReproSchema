@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__md__gwc__dst__gpc__rh_mean"
     },
     "question": {
-        "en": "Average mean diffusivity (full shell DTI; gray/white contrast) in Destrieux ROI: postcentral gyrus (right hemisphere)"
+        "en": "Average mean diffusivity (Full shell DTI: Gray/white contrast) in Destrieux ROI: Postcentral gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

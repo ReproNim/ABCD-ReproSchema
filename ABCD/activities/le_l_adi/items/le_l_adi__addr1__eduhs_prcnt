@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr1__eduhs_prcnt"
     },
     "question": {
-        "en": "Percentage of population aged >=25 y with at least a high school diploma [Area Deprivation Index] (Address 1) (address 1)"
+        "en": "Percentage of population aged >=25 y with at least a high school diploma [Area Deprivation Index] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

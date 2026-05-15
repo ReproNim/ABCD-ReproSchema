@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_democg__ethnrace_001__ntvam___3",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "demographics"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_cgnative"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_democg__ethnrace_001__ntvam___3"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_democg_0088"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_democg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_democg__ethnrace_001__ntvam___3"
+    },
+    "question": {
+        "en": "Which of these American Indian or Alaska Native groups best describe you? [Multi-select]: Central or South American Indian"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

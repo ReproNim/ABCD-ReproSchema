@@ -52,7 +52,7 @@
         "en": "le_l_medmj__addr1__rec_indicator"
     },
     "question": {
-        "en": "Indicates if the recreational adult-use MML was effective at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if the recreational adult-use MML was effective at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

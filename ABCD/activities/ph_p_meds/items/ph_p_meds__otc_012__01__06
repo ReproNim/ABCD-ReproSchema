@@ -67,7 +67,7 @@
         "en": "ph_p_meds__otc_012__01__06"
     },
     "question": {
-        "en": "OTC 12: Did your child take this medication in the last 24 hours? [Parent]"
+        "en": "Over the counter - Medication 12: Did your child take this medication in the last 24 hours? [Parent]"
     },
     "responseOptions": {
         "valueType": [

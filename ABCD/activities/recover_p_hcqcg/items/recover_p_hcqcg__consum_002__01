@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_hcqcg__consum_002__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The next questions ask about the fruits and vegetables you ate or drank during the past 30 days. Please think about all forms of fruits and vegetables including cooked or raw, fresh, frozen, or canned. Please think about all meals, snacks, and food eaten at home and away from home. We will be asking how often you ate or drank each one: for example, once a day, twice a week, or three times a month."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_health_consequences"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "hcq_fruitnum_u1"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg__consum_002__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg_0012"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_hcqcg__consum_002__01"
+    },
+    "question": {
+        "en": "Number of times per day eating fruit"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

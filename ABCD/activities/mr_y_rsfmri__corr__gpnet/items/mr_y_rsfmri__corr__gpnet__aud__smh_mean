@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aud__smh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: auditory & sensorimotor hand"
+        "en": "Average correlation between Gordon networks: Auditory & sensorimotor hand"
     },
     "responseOptions": {
         "valueType": [

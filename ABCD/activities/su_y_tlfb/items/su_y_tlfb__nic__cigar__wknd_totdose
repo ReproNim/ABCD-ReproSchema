@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0585"
+            "value": "su_y_tlfb_0610"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__nic__cigar__wknd_totdose"
     },
     "question": {
-        "en": "Nicotine - Cigars: total dose on weekends"
+        "en": "Nicotine - Cigars: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

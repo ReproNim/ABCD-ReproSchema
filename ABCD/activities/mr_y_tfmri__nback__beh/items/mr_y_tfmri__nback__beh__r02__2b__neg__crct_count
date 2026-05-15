@@ -67,7 +67,7 @@
         "en": "mr_y_tfmri__nback__beh__r02__2b__neg__crct_count"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task - Behavioral (run 2): Number of times individual 2 back with negative face stimuli were answered correctly during run 2"
+        "en": "Task fMRI - Emotional N-Back task - Behavioral (Run 2): Number of times individual 2 back with negative face stimuli were answered correctly during run 2"
     },
     "responseOptions": {
         "valueType": [

@@ -52,7 +52,7 @@
         "en": "le_l_relciv__addr2__relorg_count"
     },
     "question": {
-        "en": "Count number all religious organizations [NaNDA; census tract] (Address 2) (address 2)"
+        "en": "Count number all religious organizations [NaNDA; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

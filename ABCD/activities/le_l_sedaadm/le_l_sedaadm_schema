@@ -1,0 +1,53 @@
+{
+    "id": "le_l_sedaadm_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "le_l_sedaadm"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/le_l_sedaadm__distr_id",
+            "items/le_l_sedaadm__schl_id",
+            "items/le_l_sedaadm__distr__id_count",
+            "items/le_l_sedaadm__schl__id_count",
+            "items/le_l_sedaadm_grade",
+            "items/le_l_sedaadm__homeschl_indicator"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/le_l_sedaadm__distr_id",
+                "isVis": true,
+                "variableName": "le_l_sedaadm__distr_id"
+            },
+            {
+                "isAbout": "items/le_l_sedaadm__schl_id",
+                "isVis": true,
+                "variableName": "le_l_sedaadm__schl_id"
+            },
+            {
+                "isAbout": "items/le_l_sedaadm__distr__id_count",
+                "isVis": true,
+                "variableName": "le_l_sedaadm__distr__id_count"
+            },
+            {
+                "isAbout": "items/le_l_sedaadm__schl__id_count",
+                "isVis": true,
+                "variableName": "le_l_sedaadm__schl__id_count"
+            },
+            {
+                "isAbout": "items/le_l_sedaadm_grade",
+                "isVis": true,
+                "variableName": "le_l_sedaadm_grade"
+            },
+            {
+                "isAbout": "items/le_l_sedaadm__homeschl_indicator",
+                "isVis": true,
+                "variableName": "le_l_sedaadm__homeschl_indicator"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

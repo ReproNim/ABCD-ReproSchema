@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__ed__hsgrad_zscore"
     },
     "question": {
-        "en": "High school graduation rate- percentage ninth graders graduating from high school on time, transformed to z-scores [Education domain] (Address 1) (address 1)"
+        "en": "High school graduation rate- percentage ninth graders graduating from high school on time, transformed to z-scores [Education domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

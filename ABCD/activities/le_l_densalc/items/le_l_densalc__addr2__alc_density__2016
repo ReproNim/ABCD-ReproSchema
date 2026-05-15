@@ -52,7 +52,7 @@
         "en": "le_l_densalc__addr2__alc_density__2016"
     },
     "question": {
-        "en": "Estimate of alcohol outlet density (number of establishments where alcohol could be purchased and/or consumed [North American Industry Classification System (NAICS) (2016 census zip code business patterns)] (Address 2) (address 2)"
+        "en": "Estimate of alcohol outlet density (number of establishments where alcohol could be purchased and/or consumed [North American Industry Classification System (NAICS) (2016 census zip code business patterns)] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

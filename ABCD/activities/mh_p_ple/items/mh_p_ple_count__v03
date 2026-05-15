@@ -52,7 +52,7 @@
         "en": "mh_p_ple_count__v03"
     },
     "question": {
-        "en": "Life Events [Parent] (Events): Count - Version 3 (Year 6) [Validation: No more than 6 missing or declined]"
+        "en": "Life Events [Parent] (Events): Count - Version 3 (Year 6)"
     },
     "responseOptions": {
         "valueType": [

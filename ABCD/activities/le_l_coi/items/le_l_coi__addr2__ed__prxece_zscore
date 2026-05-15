@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr2__ed__prxece_zscore"
     },
     "question": {
-        "en": "Early childhood education centers- number of ECE centers within a 5-mile radius, converted to natural log units, transformed to z-scores [Education domain] (Address 2) (address 2)"
+        "en": "Early childhood education centers- number of ECE centers within a 5-mile radius, converted to natural log units, transformed to z-scores [Education domain] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gwc__dst__gpc__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray/white contrast) in Destrieux ROI: postcentral gyrus (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI: Gray/white contrast) in Destrieux ROI: Postcentral gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

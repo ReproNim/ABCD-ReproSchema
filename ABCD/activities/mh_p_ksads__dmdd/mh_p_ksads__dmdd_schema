@@ -7,13 +7,103 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
+            "items/mh_p_ksads__dmdd_age",
+            "items/mh_p_ksads__dmdd_dtt",
+            "items/mh_p_ksads__dmdd_001",
+            "items/mh_p_ksads__dmdd_002",
+            "items/mh_p_ksads__dmdd_003",
+            "items/mh_p_ksads__dmdd_004",
+            "items/mh_p_ksads__dmdd_005",
+            "items/mh_p_ksads__dmdd_006___1",
+            "items/mh_p_ksads__dmdd_006___2",
+            "items/mh_p_ksads__dmdd_006___3",
+            "items/mh_p_ksads__dmdd_006___4",
+            "items/mh_p_ksads__dmdd_007",
+            "items/mh_p_ksads__dmdd_008__mo",
+            "items/mh_p_ksads__dmdd_008__yr",
+            "items/mh_p_ksads__dmdd__dmdd__pres_dx",
             "items/mh_p_ksads__dmdd__dur12mo_sx",
             "items/mh_p_ksads__dmdd__no3mosymptfree_sx",
             "items/mh_p_ksads__dmdd__outbrst__3perwk_sx",
-            "items/mh_p_ksads__dmdd__temper__mltset_sx",
-            "items/mh_p_ksads__dmdd__dmdd__pres_dx"
+            "items/mh_p_ksads__dmdd__sx_mean",
+            "items/mh_p_ksads__dmdd__temper__mltset_sx"
         ],
         "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_age",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_age"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_dtt",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_006___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_006___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_006___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_006___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_006___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_006___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_006___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_006___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_007",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_007"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_008__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_008__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd_008__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd_008__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__dmdd__dmdd__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd__dmdd__pres_dx"
+            },
             {
                 "isAbout": "items/mh_p_ksads__dmdd__dur12mo_sx",
                 "isVis": true,
@@ -30,18 +120,18 @@
                 "variableName": "mh_p_ksads__dmdd__outbrst__3perwk_sx"
             },
             {
+                "isAbout": "items/mh_p_ksads__dmdd__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__dmdd__sx_mean"
+            },
+            {
                 "isAbout": "items/mh_p_ksads__dmdd__temper__mltset_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__dmdd__temper__mltset_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__dmdd__dmdd__pres_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__dmdd__dmdd__pres_dx"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

@@ -52,7 +52,7 @@
         "en": "le_l_urbsat__addr2__grass_prop"
     },
     "question": {
-        "en": "Grass land use- (2017) CGLS herbaceous vegetation fraction of total pixel area [0 1] (Address 2) (address 2)"
+        "en": "Grass land use- (2017) CGLS herbaceous vegetation fraction of total pixel area [0 1] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

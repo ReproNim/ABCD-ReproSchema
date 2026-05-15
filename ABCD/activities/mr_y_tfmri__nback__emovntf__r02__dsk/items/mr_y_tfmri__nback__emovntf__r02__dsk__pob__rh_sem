@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__emovntf__r02__dsk__pob__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: emotion vs. neutral face; run 2) in Desikan ROI: pars orbitalis (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Emotion vs. neutral face; Run 2) in Desikan ROI: Pars orbitalis (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

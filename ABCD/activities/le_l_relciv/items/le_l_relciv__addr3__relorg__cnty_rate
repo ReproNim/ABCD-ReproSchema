@@ -52,7 +52,7 @@
         "en": "le_l_relciv__addr3__relorg__cnty_rate"
     },
     "question": {
-        "en": "Number of all religious organizations per 1000 people [NaNDA; county] (Address 3) (address 3)"
+        "en": "Number of all religious organizations per 1000 people [NaNDA; county] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

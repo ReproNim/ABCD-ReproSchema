@@ -67,7 +67,7 @@
         "en": "fc_y_meim__explor_001"
     },
     "question": {
-        "en": "I have spent time trying to find out more about my ethnic group, such as its history, traditions, and customs. [Youth]"
+        "en": "I have spent time trying to find out more about my ethnic group(s), such as its history, traditions, and customs. [Youth]"
     },
     "responseOptions": {
         "valueType": [

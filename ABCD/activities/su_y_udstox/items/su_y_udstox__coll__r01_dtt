@@ -28,6 +28,11 @@
             "value": "uds_collection_and_results_form"
         },
         {
+            "column": "name_nda",
+            "source": "nbdc",
+            "value": "biospec_urine_start_time"
+        },
+        {
             "column": "name_redcap",
             "source": "nbdc",
             "value": "biospec_urine_toxscrn_date"
@@ -45,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_udstox_0002"
+            "value": "su_y_udstox_0001"
         },
         {
             "column": "activity",

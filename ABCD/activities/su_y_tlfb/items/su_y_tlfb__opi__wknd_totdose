@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0709"
+            "value": "su_y_tlfb_0739"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__opi__wknd_totdose"
     },
     "question": {
-        "en": "Opiods: total dose on weekends"
+        "en": "Opiods: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

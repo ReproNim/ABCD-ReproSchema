@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0848"
+            "value": "su_y_tlfb_0883"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__salv__cum_totdose"
     },
     "question": {
-        "en": "Salvia: total dose (Cumulative period)"
+        "en": "Salvia: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,341 @@
+{
+    "id": "recover_p_fcihcg_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_fcihcg"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_fcihcg_dt",
+            "items/recover_p_fcihcg_age",
+            "items/recover_p_fcihcg_lang",
+            "items/recover_p_fcihcg_ver",
+            "items/recover_p_fcihcg__health_001___1",
+            "items/recover_p_fcihcg__health_001___2",
+            "items/recover_p_fcihcg__health_001___3",
+            "items/recover_p_fcihcg__health_001___4",
+            "items/recover_p_fcihcg__health_001___5",
+            "items/recover_p_fcihcg__health_001___6",
+            "items/recover_p_fcihcg__health_001___777",
+            "items/recover_p_fcihcg__health_001___999",
+            "items/recover_p_fcihcg__health_001__01",
+            "items/recover_p_fcihcg__health_001__01__01",
+            "items/recover_p_fcihcg__health_001__02",
+            "items/recover_p_fcihcg__health_001__02__01",
+            "items/recover_p_fcihcg__health_001__03",
+            "items/recover_p_fcihcg__health_001__04",
+            "items/recover_p_fcihcg__health_001__05",
+            "items/recover_p_fcihcg__health_001__06",
+            "items/recover_p_fcihcg__health_001__07",
+            "items/recover_p_fcihcg__health_001__08",
+            "items/recover_p_fcihcg__health_001__09",
+            "items/recover_p_fcihcg__health_001__10",
+            "items/recover_p_fcihcg__health_001__11",
+            "items/recover_p_fcihcg__health_001__12",
+            "items/recover_p_fcihcg__health_001__13",
+            "items/recover_p_fcihcg__health_001__14",
+            "items/recover_p_fcihcg__sympt_001",
+            "items/recover_p_fcihcg__sympt_002",
+            "items/recover_p_fcihcg__sympt_003",
+            "items/recover_p_fcihcg_001",
+            "items/recover_p_fcihcg_002",
+            "items/recover_p_fcihcg_002__01",
+            "items/recover_p_fcihcg_002__02___1",
+            "items/recover_p_fcihcg_002__02___2",
+            "items/recover_p_fcihcg_002__02___3",
+            "items/recover_p_fcihcg_002__02___4",
+            "items/recover_p_fcihcg_002__02___777",
+            "items/recover_p_fcihcg_002__02___999",
+            "items/recover_p_fcihcg_002__03___0",
+            "items/recover_p_fcihcg_002__03___1",
+            "items/recover_p_fcihcg_002__03___2",
+            "items/recover_p_fcihcg_002__03___3",
+            "items/recover_p_fcihcg_002__03___4",
+            "items/recover_p_fcihcg_002__03___777",
+            "items/recover_p_fcihcg_002__03___999",
+            "items/recover_p_fcihcg_002__04",
+            "items/recover_p_fcihcg_002__05___1",
+            "items/recover_p_fcihcg_002__05___2",
+            "items/recover_p_fcihcg_002__05___3",
+            "items/recover_p_fcihcg_002__05___4",
+            "items/recover_p_fcihcg_002__05___777",
+            "items/recover_p_fcihcg_002__05___999"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_fcihcg_dt",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_dt"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_age",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_age"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_lang",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_lang"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_ver",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_ver"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001___1",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001___1"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001___2",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001___2"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001___3",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001___3"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001___4",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001___4"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001___5",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001___5"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001___6",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001___6"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001___777",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001___777"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001___999",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001___999"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__01",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__01"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__01__01",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__01__01"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__02",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__02"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__02__01",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__02__01"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__03",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__03"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__04",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__04"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__05",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__05"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__06",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__06"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__07",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__07"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__08",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__08"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__09",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__09"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__10",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__10"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__11",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__11"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__12",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__12"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__13",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__13"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__health_001__14",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__health_001__14"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__sympt_001",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__sympt_001"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__sympt_002",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__sympt_002"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg__sympt_003",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg__sympt_003"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_001",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_001"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__01",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__01"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__02___1",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__02___1"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__02___2",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__02___2"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__02___3",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__02___3"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__02___4",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__02___4"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__02___777",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__02___777"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__02___999",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__02___999"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__03___0",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__03___0"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__03___1",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__03___1"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__03___2",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__03___2"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__03___3",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__03___3"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__03___4",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__03___4"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__03___777",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__03___777"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__03___999",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__03___999"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__04",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__04"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__05___1",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__05___1"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__05___2",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__05___2"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__05___3",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__05___3"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__05___4",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__05___4"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__05___777",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__05___777"
+            },
+            {
+                "isAbout": "items/recover_p_fcihcg_002__05___999",
+                "isVis": true,
+                "variableName": "recover_p_fcihcg_002__05___999"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

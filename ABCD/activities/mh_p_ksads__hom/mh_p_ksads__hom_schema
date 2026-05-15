@@ -7,14 +7,88 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
+            "items/mh_p_ksads__hom_age",
+            "items/mh_p_ksads__hom_dtt",
+            "items/mh_p_ksads__hom__screen__past_001",
+            "items/mh_p_ksads__hom__screen__past_001__01",
+            "items/mh_p_ksads__hom__screen__past_001__02__mo",
+            "items/mh_p_ksads__hom__screen__past_001__02__yr",
+            "items/mh_p_ksads__hom__screen__past_002",
+            "items/mh_p_ksads__hom__screen__past_002__01",
+            "items/mh_p_ksads__hom__screen__past_002__02__mo",
+            "items/mh_p_ksads__hom__screen__past_002__02__yr",
+            "items/mh_p_ksads__hom__screen__pres_001",
+            "items/mh_p_ksads__hom__screen__pres_002",
             "items/mh_p_ksads__hom__idea__past_sx",
             "items/mh_p_ksads__hom__idea__pres_sx",
+            "items/mh_p_ksads__hom__past__sx_mean",
+            "items/mh_p_ksads__hom__past_dx",
             "items/mh_p_ksads__hom__plan__past_sx",
             "items/mh_p_ksads__hom__plan__pres_sx",
-            "items/mh_p_ksads__hom__past_dx",
+            "items/mh_p_ksads__hom__pres__sx_mean",
             "items/mh_p_ksads__hom__pres_dx"
         ],
         "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__hom_age",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom_age"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom_dtt",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__past_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__past_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__past_001__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__past_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__past_001__02__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__past_001__02__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__past_001__02__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__past_001__02__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__past_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__past_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__past_002__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__past_002__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__past_002__02__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__past_002__02__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__past_002__02__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__past_002__02__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__pres_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__pres_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__screen__pres_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__screen__pres_002"
+            },
             {
                 "isAbout": "items/mh_p_ksads__hom__idea__past_sx",
                 "isVis": true,
@@ -24,6 +98,16 @@
                 "isAbout": "items/mh_p_ksads__hom__idea__pres_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__hom__idea__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__past__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__past__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__hom__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__hom__past_dx"
             },
             {
                 "isAbout": "items/mh_p_ksads__hom__plan__past_sx",
@@ -36,9 +120,9 @@
                 "variableName": "mh_p_ksads__hom__plan__pres_sx"
             },
             {
-                "isAbout": "items/mh_p_ksads__hom__past_dx",
+                "isAbout": "items/mh_p_ksads__hom__pres__sx_mean",
                 "isVis": true,
-                "variableName": "mh_p_ksads__hom__past_dx"
+                "variableName": "mh_p_ksads__hom__pres__sx_mean"
             },
             {
                 "isAbout": "items/mh_p_ksads__hom__pres_dx",
@@ -48,6 +132,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

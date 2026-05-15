@@ -52,7 +52,7 @@
         "en": "le_l_artsports__addr1__sports__cnty_count"
     },
     "question": {
-        "en": "Count number all spectator sports organizations [NaNDA; county] (Address 1) (address 1)"
+        "en": "Count number all spectator sports organizations [NaNDA; county] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

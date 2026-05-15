@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__gp__aud__224__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Gordon ROI: 224 (auditory network; right hemisphere)"
+        "en": "Average temporal variance in Gordon ROI: 224 (Auditory network; Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

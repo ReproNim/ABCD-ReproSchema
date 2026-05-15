@@ -67,7 +67,7 @@
         "en": "mr_y_tfmri__nback__beh__r02__0b__neg__nonlure_std"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task - Behavioral (run 2): Standard deviation of the reaction time for all correct responses to 0 back with negative face nonlure stimuli during run 2"
+        "en": "Task fMRI - Emotional N-Back task - Behavioral (Run 2): Standard deviation of the reaction time for all correct responses to 0 back with negative face nonlure stimuli during run 2"
     },
     "responseOptions": {
         "valueType": [

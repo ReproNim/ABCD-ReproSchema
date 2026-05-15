@@ -52,7 +52,7 @@
         "en": "le_l_nbhsoc__addr2__finc75k_prop"
     },
     "question": {
-        "en": "Proportion of families with Income greater than 75K [NaNDA, ACS 2013-2017; census tract] (Address 2) (address 2)"
+        "en": "Proportion of families with Income greater than 75K [NaNDA, ACS 2013-2017; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

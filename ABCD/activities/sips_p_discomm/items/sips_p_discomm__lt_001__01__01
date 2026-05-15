@@ -1,0 +1,71 @@
+{
+    "id": "sips_p_discomm__lt_001__01__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions probe for thought disorder and other difficulties in thinking as reflected in speech.\u00a0 They are rated on the SOPS P5 Scale. Note: Basis for rating includes - Verbal communication and coherence during the interview as well as reports of problems with speech."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_disorg"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_disorg_rate_002_01_02"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_discomm__lt_001__01__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_discomm_0006"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_discomm"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_discomm__lt_001__01__01"
+    },
+    "question": {
+        "en": "Disorganized communication (Symptoms rated at level 3 or higher): Onset - Month [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

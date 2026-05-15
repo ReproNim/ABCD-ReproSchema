@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__smh__cio_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: sensorimotor hand & cingulo-opercular"
+        "en": "Average correlation between Gordon networks: Sensorimotor hand & cingulo-opercular"
     },
     "responseOptions": {
         "valueType": [

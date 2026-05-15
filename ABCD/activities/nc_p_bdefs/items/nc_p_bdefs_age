@@ -52,7 +52,7 @@
         "en": "nc_p_bdefs_age"
     },
     "question": {
-        "en": "Barkley Deficits in Executive Functioning Scale [Parent]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Barkley Deficits in Executive Functioning Scale [Parent]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

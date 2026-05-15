@@ -52,7 +52,7 @@
         "en": "le_l_gi__addr1__black__rook_stat"
     },
     "question": {
-        "en": "Local Gi* statistic, non-Hispanic Black, rook neighborhood tracts [ICPSR; census tract] (Address 1) (address 1)"
+        "en": "Local Gi* statistic, non-Hispanic Black, rook neighborhood tracts [ICPSR; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

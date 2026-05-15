@@ -1,0 +1,71 @@
+{
+    "id": "sips_y_criter__curr_002__03",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "Rule in psychosis-risk syndrome: Criteria of psychosis-risk syndromes (COPS 0)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Administrative"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_criteria"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_cops_002_04"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_y_criter__curr_002__03"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_y_criter_0012"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_y_criter"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_y_criter__curr_002__03"
+    },
+    "question": {
+        "en": "Are any of the SOPS P1-P5 Scales scored 3-5: Are all otherwise qualifying symptoms better explained by another DSM-IV disorder (Axis 1 or 2)? [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

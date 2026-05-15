@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__aseg__cwm__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Subcortical ROI: cerebral white matter (right hemisphere)"
+        "en": "Average temporal variance in Subcortical ROI: Cerebral white matter (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

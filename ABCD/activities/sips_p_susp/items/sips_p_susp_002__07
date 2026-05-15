@@ -1,0 +1,71 @@
+{
+    "id": "sips_p_susp_002__07",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions probe for paranoid ideas of reference, paranoid thinking or suspiciousness. They are rated on the SOPS P2 Scale at the end of the queries ."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_suspicious"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_susp_002_05_02"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_susp_002__07"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_susp_0032"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_susp"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_susp_002__07"
+    },
+    "question": {
+        "en": "Have you ever found yourself feeling mistrustful or suspicious of other people: How would you rate your degree of distress? [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

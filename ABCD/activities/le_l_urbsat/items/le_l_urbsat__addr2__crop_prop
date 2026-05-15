@@ -52,7 +52,7 @@
         "en": "le_l_urbsat__addr2__crop_prop"
     },
     "question": {
-        "en": "Cropland land use- (2017) fraction of total pixel area [0 1] (Address 2) (address 2)"
+        "en": "Cropland land use- (2017) fraction of total pixel area [0 1] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

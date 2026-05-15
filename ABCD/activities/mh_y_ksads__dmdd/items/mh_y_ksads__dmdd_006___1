@@ -1,0 +1,61 @@
+{
+    "id": "mh_y_ksads__dmdd_006___1",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Mental Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Mood"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/mh.html#mh_y_ksads"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mh_y_ksads__dmdd_006___1"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mh_y_ksads_dmdd_0008"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mh_y_ksads__dmdd"
+        }
+    ],
+    "prefLabel": {
+        "en": "mh_y_ksads__dmdd_006___1"
+    },
+    "question": {
+        "en": "In the past year, in which situations have you lost your temper [Multi-select]: At School"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

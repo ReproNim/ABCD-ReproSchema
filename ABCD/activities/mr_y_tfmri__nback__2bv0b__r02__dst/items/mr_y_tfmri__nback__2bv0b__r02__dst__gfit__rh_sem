@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__2bv0b__r02__dst__gfit__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: 2-back vs. 0-back; run 2) in Destrieux ROI: triangular part of the inferior frontal gyrus (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - 2-back vs. 0-back; Run 2) in Destrieux ROI: Triangular part of the inferior frontal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

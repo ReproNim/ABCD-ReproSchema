@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr3__coi__total__metro_score"
     },
     "question": {
-        "en": "Child opportunity scores (from 1 to 100) [Overall COI; Metro-normed] (Address 3) (address 3)"
+        "en": "Child opportunity scores (from 1 to 100) [Overall COI; Metro-normed] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

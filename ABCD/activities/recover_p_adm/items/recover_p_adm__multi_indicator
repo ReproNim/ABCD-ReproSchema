@@ -1,0 +1,57 @@
+{
+    "id": "recover_p_adm__multi_indicator",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_adm__multi_indicator"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_adm_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_adm"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_adm__multi_indicator"
+    },
+    "question": {
+        "en": "Participant has sibling(s) in the RECOVER substudy (note: The caregiver provided responses to caregiver surveys only once and they are duplicated to all siblings)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

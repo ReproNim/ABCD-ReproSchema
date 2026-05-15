@@ -57,7 +57,7 @@
         "en": "fc_y_meim_001__01___9"
     },
     "question": {
-        "en": "What ethnic groups do you consider yourself to be [Multi-select]: Southeast Asian (i.e. Phillipines, Vietnam, Thailand) [Youth]"
+        "en": "What ethnic group(s)s do you consider yourself to be [Multi-select]: Southeast Asian (i.e. Phillipines, Vietnam, Thailand) [Youth]"
     },
     "responseOptions": {
         "valueType": [

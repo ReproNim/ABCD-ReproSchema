@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__tfmri__mid__r06__fdsub__nody_sum"
     },
     "question": {
-        "en": "Task fMRI - Monetary Incentive Delay task (run 6): Total number of seconds of run with framewise displacement < 0.2 mm without y-displacement"
+        "en": "Task fMRI - Monetary Incentive Delay task (Run 6): Total number of seconds of run with framewise displacement < 0.2 mm without y-displacement"
     },
     "responseOptions": {
         "valueType": [

@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0144"
+            "value": "su_y_tlfb_0150"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__dxm__cum_totdose"
     },
     "question": {
-        "en": "Cough or cold medicine: total dose (Cumulative period)"
+        "en": "Cough or cold medicine: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

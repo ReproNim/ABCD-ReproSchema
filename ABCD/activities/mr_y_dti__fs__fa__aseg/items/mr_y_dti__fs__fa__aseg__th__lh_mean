@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__aseg__th__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI) in Subcortical ROI: thalamus (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI) in Subcortical ROI: Thalamus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

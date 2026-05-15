@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gm__dst__gps__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray matter) in Destrieux ROI: superior parietal lobule (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI; Gray matter) in Destrieux ROI: Superior parietal lobule (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

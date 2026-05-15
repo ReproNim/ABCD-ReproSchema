@@ -52,7 +52,7 @@
         "en": "le_l_rentmort__addr2__ownership_prcnt"
     },
     "question": {
-        "en": "Percent Homeownership [ACS 2014-2018; census tract] (Address 2) (address 2)"
+        "en": "Percent Homeownership [ACS 2014-2018; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

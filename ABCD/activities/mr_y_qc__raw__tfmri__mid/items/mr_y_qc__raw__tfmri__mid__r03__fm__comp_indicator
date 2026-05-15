@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__mid__r03__fm__comp_indicator"
     },
     "question": {
-        "en": "Task fMRI - Monetary Incentive Delay task - Field map (run 3): Data center received correct number of files for this series"
+        "en": "Task fMRI - Monetary Incentive Delay task - Field map (Run 3): Data center received correct number of files for this series"
     },
     "responseOptions": {
         "valueType": [

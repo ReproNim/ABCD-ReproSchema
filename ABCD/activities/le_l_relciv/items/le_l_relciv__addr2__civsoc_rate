@@ -52,7 +52,7 @@
         "en": "le_l_relciv__addr2__civsoc_rate"
     },
     "question": {
-        "en": "Number of all civic/social organizations per 1000 people [NaNDA; census tract] (Address 2) (address 2)"
+        "en": "Number of all civic/social organizations per 1000 people [NaNDA; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

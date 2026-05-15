@@ -40,7 +40,7 @@
         {
             "column": "table_redcap",
             "source": "nbdc",
-            "value": "demographicsdem_parent | p_demographicsdem_parent_l"
+            "value": "demographicsdem_parent | p_demographicsdem_parent_l | p_demographicsdem_parent_l"
         },
         {
             "column": "name_nda",
@@ -50,7 +50,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "demo_prnt_age_v2 | demo_prnt_age_v2_l"
+            "value": "demo_prnt_age_v2 | demo_prnt_age_v2_l | demo_prnt_age_v3_l"
         },
         {
             "column": "url_table",

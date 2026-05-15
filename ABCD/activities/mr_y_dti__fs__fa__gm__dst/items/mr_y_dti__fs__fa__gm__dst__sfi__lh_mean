@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gm__dst__sfi__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray matter) in Destrieux ROI: inferior frontal sulcus (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI; Gray matter) in Destrieux ROI: Inferior frontal sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gwc__dst__gprcn__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray/white contrast) in Destrieux ROI: precuneus (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI: Gray/white contrast) in Destrieux ROI: Precuneus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__exp_007"
     },
     "question": {
-        "en": "If you lost all your current source(s) of household income (your paycheck, public assistance, or other forms of income), how long could you continue to live at your current address and standard of living? [COVID Substudy]"
+        "en": "If you lost all your current source(s) of household income (your paycheck, public assistance, or other forms of income), how long could you continue to live at your current address and standard of living? [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

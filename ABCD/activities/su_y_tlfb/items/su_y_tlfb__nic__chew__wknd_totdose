@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0537"
+            "value": "su_y_tlfb_0560"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__nic__chew__wknd_totdose"
     },
     "question": {
-        "en": "Nicotine - Chewing tobacco: total dose on weekends"
+        "en": "Nicotine - Chewing tobacco: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

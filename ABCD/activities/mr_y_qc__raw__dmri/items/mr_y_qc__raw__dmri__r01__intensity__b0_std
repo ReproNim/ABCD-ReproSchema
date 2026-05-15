@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0149"
+            "value": "mr_y_qc_raw_dmri_0150"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r01__intensity__b0_std"
     },
     "question": {
-        "en": "Diffusion MRI (run 1): Standard deviation of intensity in B0 image"
+        "en": "Diffusion MRI (Run 1): Standard deviation of intensity in B0 image"
     },
     "responseOptions": {
         "valueType": [

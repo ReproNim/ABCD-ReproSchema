@@ -62,7 +62,7 @@
         "en": "le_l_roadprox__addr3_m"
     },
     "question": {
-        "en": "Proximity to major roads (Address 3) (address 3)"
+        "en": "Proximity to major roads (Address 3)"
     },
     "responseOptions": {
         "valueType": [

@@ -40,7 +40,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0155"
+            "value": "su_y_tlfb_0162"
         },
         {
             "column": "activity",
@@ -52,7 +52,7 @@
         "en": "su_y_tlfb__ghb__1mo__wknd_totdose"
     },
     "question": {
-        "en": "GHB: total dose on weekends (Last 30 days)"
+        "en": "GHB: Total dose on weekends (Last 30 days)"
     },
     "responseOptions": {
         "valueType": [

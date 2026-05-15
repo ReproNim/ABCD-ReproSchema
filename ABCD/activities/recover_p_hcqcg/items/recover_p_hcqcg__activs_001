@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_hcqcg__activs_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_health_consequences"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "hcq_actyn"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg__activs_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg_0005"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_hcqcg__activs_001"
+    },
+    "question": {
+        "en": "During the past month, other than your regular job, did you participant in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

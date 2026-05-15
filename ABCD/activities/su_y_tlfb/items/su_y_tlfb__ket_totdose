@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0249"
+            "value": "su_y_tlfb_0260"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__ket_totdose"
     },
     "question": {
-        "en": "Ketamine: total dose"
+        "en": "Ketamine: Total dose"
     },
     "responseOptions": {
         "valueType": [

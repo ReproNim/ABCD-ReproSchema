@@ -52,7 +52,7 @@
         "en": "le_l_medmj__addr1__highcbd_indicator"
     },
     "question": {
-        "en": "Indicates if a high CBD/low THC law became was effective at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if a high CBD/low THC law became was effective at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

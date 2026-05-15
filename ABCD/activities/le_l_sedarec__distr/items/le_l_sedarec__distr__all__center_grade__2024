@@ -1,0 +1,61 @@
+{
+    "id": "le_l_sedarec__distr__all__center_grade__2024",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Linked External Data"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "School"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Linked Dataset"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/le.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "le_l_sedarec__distr__all__center_grade__2024"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "le_l_sedarec__distr_0013"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "le_l_sedarec__distr"
+        }
+    ],
+    "prefLabel": {
+        "en": "le_l_sedarec__distr__all__center_grade__2024"
+    },
+    "question": {
+        "en": "Grade Used for Centering in Pooling for all students in 2024"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -67,7 +67,7 @@
         "en": "covid_y_qtn__school_002"
     },
     "question": {
-        "en": "In the past week, was your schooling taking place: [COVID Substudy]"
+        "en": "In the past week, was your schooling taking place: [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

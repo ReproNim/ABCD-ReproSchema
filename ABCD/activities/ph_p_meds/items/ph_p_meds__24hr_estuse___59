@@ -1,0 +1,66 @@
+{
+    "id": "ph_p_meds__24hr_estuse___59",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Physical Health"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Medical"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/ph.html#ph_p_meds"
+        },
+        {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/articles/meds.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "ph_p_meds__24hr_estuse___59"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "ph_p_meds_0678"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "ph_p_meds"
+        }
+    ],
+    "prefLabel": {
+        "en": "ph_p_meds__24hr_estuse___59"
+    },
+    "question": {
+        "en": "Medication History [Parent] (Past 24 hours): Estimated use category - Immunomodulators & cytotoxic agents"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

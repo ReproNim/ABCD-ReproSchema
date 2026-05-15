@@ -60,7 +60,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0348"
+            "value": "ph_p_meds_0372"
         },
         {
             "column": "activity",
@@ -72,7 +72,7 @@
         "en": "ph_p_meds__rx_013__01__01"
     },
     "question": {
-        "en": "RX 13: Strength dose [Parent]"
+        "en": "Prescription - Medication 13: Strength dose [Parent]"
     },
     "responseOptions": {
         "valueType": [

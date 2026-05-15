@@ -52,7 +52,7 @@
         "en": "le_l_polnalox__addr1__nal__protocolstanding_indicator"
     },
     "question": {
-        "en": "Indicates if Naloxone law allowing distribution through a standing or protocol order was effective at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if Naloxone law allowing distribution through a standing or protocol order was effective at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

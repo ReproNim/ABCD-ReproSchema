@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__isvcg__dsk__bstmps__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Stop Signal task (contrast: incorrect stop vs. correct go; all runs) in Desikan ROI: banks of superior temporal sulcus (left hemisphere)"
+        "en": "Average standard error of the mean for Stop Signal task (Contrast - Incorrrect stop vs. correct go; All runs) in Desikan ROI: Banks of superior temporal sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

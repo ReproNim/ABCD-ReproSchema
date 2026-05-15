@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__aseg__ret__th__lh_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon network: retrosplenial temporal & Subcortical ROI: thalamus (left hemisphere)"
+        "en": "Average correlation between Gordon network: Retrosplenial temporal & Subcortical ROI: Thalamus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

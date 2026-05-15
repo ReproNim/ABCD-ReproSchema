@@ -62,7 +62,7 @@
         "en": "le_l_pm25__addr1__pm25_max__2016"
     },
     "question": {
-        "en": "Maximum of PM2.5 in 2016 at 1x1km2 (Address 1) (address 1)"
+        "en": "Maximum of PM2.5 in 2016 at 1x1km2 (Address 1)"
     },
     "responseOptions": {
         "valueType": [

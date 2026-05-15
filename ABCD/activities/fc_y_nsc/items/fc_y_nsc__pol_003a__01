@@ -62,7 +62,7 @@
         "en": "fc_y_nsc__pol_003a__01"
     },
     "question": {
-        "en": "How many times has this (police officer was physically aggressive) happened to you in the past year? [Youth]"
+        "en": "Police officer was physically aggressive: How many times has this happened to you in the past year? [Youth]"
     },
     "responseOptions": {
         "valueType": [

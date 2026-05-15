@@ -52,7 +52,7 @@
         "en": "su_y_caff_age"
     },
     "question": {
-        "en": "Caffeine Use Questionnaire [Youth]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Caffeine Use Questionnaire [Youth]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

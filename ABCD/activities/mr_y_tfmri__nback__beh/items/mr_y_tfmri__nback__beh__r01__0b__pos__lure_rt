@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__beh__r01__0b__pos__lure_rt"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task - Behavioral (run 1): Average reaction time for all correct responses to 0 back with positive face lure stimuli during run 1"
+        "en": "Task fMRI - Emotional N-Back task - Behavioral (Run 1): Average reaction time for all correct responses to 0 back with positive face lure stimuli during run 1"
     },
     "responseOptions": {
         "valueType": [

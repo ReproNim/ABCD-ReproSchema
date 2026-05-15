@@ -1,0 +1,62 @@
+{
+    "id": "sips_p_susp_age",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "years (yr)"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_p_susp_age"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_p_susp_0002"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_p_susp"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_p_susp_age"
+    },
+    "question": {
+        "en": "Suspiciousness & Persecutory Ideas [Parent]: Youth's age at data collection"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

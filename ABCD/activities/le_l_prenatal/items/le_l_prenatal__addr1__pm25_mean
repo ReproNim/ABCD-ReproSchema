@@ -57,7 +57,7 @@
         "en": "le_l_prenatal__addr1__pm25_mean"
     },
     "question": {
-        "en": "9 month average PM2.5 ppb (parts per billion) exposure during birth year (Address 1) (address 1)"
+        "en": "9 month average PM2.5 ppb (Parts per billion) exposure during birth year (Address 1)"
     },
     "responseOptions": {
         "valueType": [

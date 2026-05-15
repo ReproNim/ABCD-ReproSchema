@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__covid_001"
     },
     "question": {
-        "en": "Has your healthcare provider ever told you that your child has or might have COVID-19 (coronavirus)? [COVID Substudy]"
+        "en": "Has your healthcare provider ever told you that your child has or might have COVID-19 (coronavirus)? [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

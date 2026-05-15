@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvn__r01__dst__gfs__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: anticipated loss vs. neutral; run 1) in Destrieux ROI: superior frontal gyrus (left hemisphere)"
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (Contrast - Anticipated loss vs. neutral; Run 1) in Destrieux ROI: Superior frontal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

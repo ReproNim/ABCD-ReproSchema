@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__hnt__gm__dst__gspc__rh_mean"
     },
     "question": {
-        "en": "Average hindered normalized total diffusion (gray matter) in Destrieux ROI: paracentral lobule and sulcus (right hemisphere)"
+        "en": "Average hindered normalized total diffusion (Gray matter) in Destrieux ROI: Paracentral lobule and sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

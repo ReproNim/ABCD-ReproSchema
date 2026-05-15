@@ -1,0 +1,66 @@
+{
+    "id": "sips_y_intro_001",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Administrative"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_intro"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_intro_002"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_y_intro_001"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_y_intro_0001"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_y_intro"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_y_intro_001"
+    },
+    "question": {
+        "en": "Do you have any first degree relatives with a psychotic disorder (Schizophrenia, Schizophreniform Disorder, Brief Psychosis, Delusional Disorder, Psychotic Disorder NOS, Schizoaffective Disorder, Psychotic Mania, Psychotic Depression)? [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

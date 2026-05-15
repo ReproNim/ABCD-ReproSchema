@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__rpvnf__r02__dst__spct__lh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Monetary Incentive Delay task (contrast: reward positive vs. negative feedback; run 2) in Destrieux ROI: postcentral sulcus (left hemisphere)"
+        "en": "Average standard error of the mean for Monetary Incentive Delay task (Contrast - Reward positive vs. negative feedback; Run 2) in Destrieux ROI: Postcentral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

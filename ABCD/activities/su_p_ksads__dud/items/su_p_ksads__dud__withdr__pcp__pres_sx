@@ -28,6 +28,11 @@
             "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_p_ksads__dud"
         },
         {
+            "column": "url_docs_score",
+            "source": "nbdc",
+            "value": "https://software.nbdc-datahub.org/ABCDscores/reference/compute_su_p_ksads__dud__pcp__pres__sx_mean.html"
+        },
+        {
             "column": "name_short",
             "source": "nbdc",
             "value": "su_p_ksads__dud__withdr__pcp__pres_sx"
@@ -35,7 +40,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_p_ksads_dud_0329"
+            "value": "su_p_ksads_dud_1274"
         },
         {
             "column": "activity",

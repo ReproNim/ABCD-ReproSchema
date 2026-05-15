@@ -52,7 +52,7 @@
         "en": "covid_l_geocount__addr5__deaths100k_count__db0"
     },
     "question": {
-        "en": "Johns Hopkins COVID-19 cumulative death count normalized by population (per 100k) county-level. Same day as questionnaire dissemenation date (Address 5)"
+        "en": "Johns Hopkins COVID-19 cumulative death count normalized by population (Per 100k) county-level. Same day as questionnaire dissemenation date (address 5)"
     },
     "responseOptions": {
         "valueType": [

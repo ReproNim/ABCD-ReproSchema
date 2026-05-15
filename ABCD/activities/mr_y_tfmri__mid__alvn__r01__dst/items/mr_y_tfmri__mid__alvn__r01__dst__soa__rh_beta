@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvn__r01__dst__soa__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Monetary Incentive Delay task (contrast: anticipated loss vs. neutral; run 1) in Destrieux ROI: anterior occipital sulcus and preoccipital notch (right hemisphere)"
+        "en": "Average beta weight for Monetary Incentive Delay task (Contrast - Anticipated loss vs. neutral; Run 1) in Destrieux ROI: Anterior occipital sulcus and preoccipital notch (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

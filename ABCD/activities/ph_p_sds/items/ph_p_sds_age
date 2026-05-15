@@ -52,7 +52,7 @@
         "en": "ph_p_sds_age"
     },
     "question": {
-        "en": "Sleep Disturbance Scale for Children [Parent]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Sleep Disturbance Scale for Children [Parent]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

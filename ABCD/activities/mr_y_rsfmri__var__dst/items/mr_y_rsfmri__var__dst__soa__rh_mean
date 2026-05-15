@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__dst__soa__rh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Destrieux ROI: anterior occipital sulcus and preoccipital notch (right hemisphere)"
+        "en": "Average temporal variance in Destrieux ROI: Anterior occipital sulcus and preoccipital notch (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

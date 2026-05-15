@@ -65,7 +65,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "ph_p_meds_0290"
+            "value": "ph_p_meds_0305"
         },
         {
             "column": "activity",
@@ -77,7 +77,7 @@
         "en": "ph_p_meds__rx_008__01__06__01"
     },
     "question": {
-        "en": "RX 8: How long ago did h/she take the medication? [Parent]"
+        "en": "Prescription - Medication 8: How long ago did h/she take the medication? [Parent]"
     },
     "responseOptions": {
         "valueType": [

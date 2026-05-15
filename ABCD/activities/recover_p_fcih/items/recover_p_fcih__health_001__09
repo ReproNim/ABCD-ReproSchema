@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_fcih__health_001__09",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "first_covid_infection_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fcih_treatplasma"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_fcih__health_001__09"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_fcih_0023"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_fcih"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_fcih__health_001__09"
+    },
+    "question": {
+        "en": "During the first COVID infection, did the child receive any of the following treatments? [Multi-select]: Treatment with convalescent plasma (Plasma from people who recovered from COVID that may contain antibodies)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

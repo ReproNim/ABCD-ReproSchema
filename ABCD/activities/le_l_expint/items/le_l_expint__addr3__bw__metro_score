@@ -52,7 +52,7 @@
         "en": "le_l_expint__addr3__bw__metro_score"
     },
     "question": {
-        "en": "Black-White Interaction or Exposure Index [ACS 2014-2018; metro-level] (Address 3) (address 3)"
+        "en": "Black-White Interaction or Exposure Index [ACS 2014-2018; metro-level] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

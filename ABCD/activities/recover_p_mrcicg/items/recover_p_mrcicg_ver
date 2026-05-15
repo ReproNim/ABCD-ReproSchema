@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_mrcicg_ver",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "most_recent_covid_infection_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "mrcih_fversion"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_mrcicg_ver"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_mrcicg_0004"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_mrcicg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_mrcicg_ver"
+    },
+    "question": {
+        "en": "Caregiver Most Recent COVID Infection History [Parent]: Form version"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

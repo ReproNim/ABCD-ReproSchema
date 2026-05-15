@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gwc__dst__scii__lh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray/white contrast) in Destrieux ROI: inferior segment of the circular sulcus of the insula (left hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI: Gray/white contrast) in Destrieux ROI: Inferior segment of the circular sulcus of the insula (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

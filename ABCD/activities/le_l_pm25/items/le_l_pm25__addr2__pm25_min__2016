@@ -62,7 +62,7 @@
         "en": "le_l_pm25__addr2__pm25_min__2016"
     },
     "question": {
-        "en": "Minimum of PM2.5 in 2016 at 1x1km2 (Address 2) (address 2)"
+        "en": "Minimum of PM2.5 in 2016 at 1x1km2 (Address 2)"
     },
     "responseOptions": {
         "valueType": [

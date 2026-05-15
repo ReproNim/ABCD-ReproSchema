@@ -1,0 +1,61 @@
+{
+    "id": "su_p_ksads__dud__screen__pres_005__04__freq__mo",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_p_ksads__dud"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_p_ksads__dud__screen__pres_005__04__freq__mo"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_p_ksads_dud_0763"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_p_ksads__dud"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_p_ksads__dud__screen__pres_005__04__freq__mo"
+    },
+    "question": {
+        "en": "You said that your child had a time when he or she had the following problems because of using the drug or drugs listed below. When did this begin [Cocaine (coke, crack)]: Increased frequency - Month"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

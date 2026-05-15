@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_atr__rslt__ntype_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "absorbance at OD405"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Biospecimens"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "antibody_test_results"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "atr_nneg"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_atr__rslt__ntype_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_atr_0010"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_atr"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_atr__rslt__ntype_003"
+    },
+    "question": {
+        "en": "Antigen IgG N p9655 negative [Parent]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

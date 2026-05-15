@@ -30,7 +30,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "strp_scr_computer_os"
+            "value": "strp_computer_platform"
         },
         {
             "column": "url_table",

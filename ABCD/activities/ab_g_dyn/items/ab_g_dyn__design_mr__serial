@@ -47,7 +47,7 @@
         "en": "ab_g_dyn__design_mr__serial"
     },
     "question": {
-        "en": "Design/nesting: MRI scanner serial number (hashed)"
+        "en": "Design/nesting: MRI scanner serial number (Hashed)"
     },
     "responseOptions": {
         "valueType": [

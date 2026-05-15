@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__frp__aud_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: fronto-parietal & auditory"
+        "en": "Average correlation between Gordon networks: Fronto-parietal & auditory"
     },
     "responseOptions": {
         "valueType": [

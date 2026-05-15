@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0801"
+            "value": "su_y_tlfb_0834"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__rxsed__est_totdose"
     },
     "question": {
-        "en": "Prescription sedatives: total dose (Estimated period)"
+        "en": "Prescription sedatives: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

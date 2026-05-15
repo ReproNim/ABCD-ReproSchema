@@ -57,7 +57,7 @@
         "en": "le_l_rentmort__addr2__rent_med"
     },
     "question": {
-        "en": "Median rent per month [ACS 2014-2018; census tract] (Address 2) (address 2)"
+        "en": "Median rent per month [ACS 2014-2018; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

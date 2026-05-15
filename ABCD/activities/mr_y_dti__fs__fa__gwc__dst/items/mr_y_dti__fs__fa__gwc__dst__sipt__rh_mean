@@ -67,7 +67,7 @@
         "en": "mr_y_dti__fs__fa__gwc__dst__sipt__rh_mean"
     },
     "question": {
-        "en": "Average fractional anisotropy (full shell DTI; gray/white contrast) in Destrieux ROI: intraparietal sulcus and transverse parietal sulci (right hemisphere)"
+        "en": "Average fractional anisotropy (Full shell DTI: Gray/white contrast) in Destrieux ROI: Intraparietal sulcus and transverse parietal sulci (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

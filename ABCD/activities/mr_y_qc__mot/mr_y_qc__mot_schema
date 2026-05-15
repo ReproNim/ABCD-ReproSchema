@@ -11,18 +11,36 @@
             "items/mr_y_qc__mot__dmri__rotat_mean",
             "items/mr_y_qc__mot__dmri__trans_mean",
             "items/mr_y_qc__mot__rsfmri__frame_count",
+            "items/mr_y_qc__mot__rsfmri__mot__censor_max",
+            "items/mr_y_qc__mot__rsfmri__mot__censor_mean",
+            "items/mr_y_qc__mot__rsfmri__mot__xdir_mean",
+            "items/mr_y_qc__mot__rsfmri__mot__xdir__censor_mean",
+            "items/mr_y_qc__mot__rsfmri__mot__ydir_mean",
+            "items/mr_y_qc__mot__rsfmri__mot__ydir__censor_mean",
+            "items/mr_y_qc__mot__rsfmri__mot__zdir_mean",
+            "items/mr_y_qc__mot__rsfmri__mot__zdir__censor_mean",
             "items/mr_y_qc__mot__rsfmri__mot_max",
             "items/mr_y_qc__mot__rsfmri__mot_mean",
-            "items/mr_y_qc__mot__rsfmri__point_count",
+            "items/mr_y_qc__mot__rsfmri__rotat__xdir_mean",
+            "items/mr_y_qc__mot__rsfmri__rotat__xdir__censor_mean",
+            "items/mr_y_qc__mot__rsfmri__rotat__ydir_mean",
+            "items/mr_y_qc__mot__rsfmri__rotat__ydir__censor_mean",
+            "items/mr_y_qc__mot__rsfmri__rotat__zdir_mean",
+            "items/mr_y_qc__mot__rsfmri__rotat__zdir__censor_mean",
+            "items/mr_y_qc__mot__rsfmri__rotat__censor_max",
+            "items/mr_y_qc__mot__rsfmri__rotat__censor_mean",
             "items/mr_y_qc__mot__rsfmri__rotat_max",
             "items/mr_y_qc__mot__rsfmri__rotat_mean",
             "items/mr_y_qc__mot__rsfmri__tr_mean",
+            "items/mr_y_qc__mot__rsfmri__trans__censor_max",
+            "items/mr_y_qc__mot__rsfmri__trans__censor_mean",
             "items/mr_y_qc__mot__rsfmri__trans_max",
             "items/mr_y_qc__mot__rsfmri__trans_mean",
+            "items/mr_y_qc__mot__rsfmri__vol__censor_count",
             "items/mr_y_qc__mot__rsfmri__vol__fdsub__contig_count",
             "items/mr_y_qc__mot__rsfmri__vol__fdsub_count",
             "items/mr_y_qc__mot__rsfmri__vol_count",
-            "items/mr_y_qc__mot__tfmri__fdsub_count",
+            "items/mr_y_qc__mot__tfmri__mid__fdsub_count",
             "items/mr_y_qc__mot__tfmri__mid__frame_count",
             "items/mr_y_qc__mot__tfmri__mid__r01__fdsub_count",
             "items/mr_y_qc__mot__tfmri__mid__r01__frame_count",
@@ -51,8 +69,8 @@
             "items/mr_y_qc__mot__tfmri__mid__trans_mean",
             "items/mr_y_qc__mot__tfmri__mid__vol_count",
             "items/mr_y_qc__mot__tfmri__mid_dof",
-            "items/mr_y_qc__mot__tfmri__mot_max",
-            "items/mr_y_qc__mot__tfmri__mot_mean",
+            "items/mr_y_qc__mot__tfmri__mid_max",
+            "items/mr_y_qc__mot__tfmri__mid_mean",
             "items/mr_y_qc__mot__tfmri__nback__fdsub_count",
             "items/mr_y_qc__mot__tfmri__nback__frame_count",
             "items/mr_y_qc__mot__tfmri__nback__mot_max",
@@ -144,6 +162,46 @@
                 "variableName": "mr_y_qc__mot__rsfmri__frame_count"
             },
             {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot__censor_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot__censor_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot__censor_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot__censor_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot__xdir_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot__xdir_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot__xdir__censor_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot__xdir__censor_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot__ydir_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot__ydir_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot__ydir__censor_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot__ydir__censor_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot__zdir_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot__zdir_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__mot__zdir__censor_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__mot__zdir__censor_mean"
+            },
+            {
                 "isAbout": "items/mr_y_qc__mot__rsfmri__mot_max",
                 "isVis": true,
                 "variableName": "mr_y_qc__mot__rsfmri__mot_max"
@@ -154,9 +212,44 @@
                 "variableName": "mr_y_qc__mot__rsfmri__mot_mean"
             },
             {
-                "isAbout": "items/mr_y_qc__mot__rsfmri__point_count",
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat__xdir_mean",
                 "isVis": true,
-                "variableName": "mr_y_qc__mot__rsfmri__point_count"
+                "variableName": "mr_y_qc__mot__rsfmri__rotat__xdir_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat__xdir__censor_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__rotat__xdir__censor_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat__ydir_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__rotat__ydir_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat__ydir__censor_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__rotat__ydir__censor_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat__zdir_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__rotat__zdir_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat__zdir__censor_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__rotat__zdir__censor_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat__censor_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__rotat__censor_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__rotat__censor_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__rotat__censor_mean"
             },
             {
                 "isAbout": "items/mr_y_qc__mot__rsfmri__rotat_max",
@@ -174,6 +267,16 @@
                 "variableName": "mr_y_qc__mot__rsfmri__tr_mean"
             },
             {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__trans__censor_max",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__trans__censor_max"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__trans__censor_mean",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__trans__censor_mean"
+            },
+            {
                 "isAbout": "items/mr_y_qc__mot__rsfmri__trans_max",
                 "isVis": true,
                 "variableName": "mr_y_qc__mot__rsfmri__trans_max"
@@ -182,6 +285,11 @@
                 "isAbout": "items/mr_y_qc__mot__rsfmri__trans_mean",
                 "isVis": true,
                 "variableName": "mr_y_qc__mot__rsfmri__trans_mean"
+            },
+            {
+                "isAbout": "items/mr_y_qc__mot__rsfmri__vol__censor_count",
+                "isVis": true,
+                "variableName": "mr_y_qc__mot__rsfmri__vol__censor_count"
             },
             {
                 "isAbout": "items/mr_y_qc__mot__rsfmri__vol__fdsub__contig_count",
@@ -199,9 +307,9 @@
                 "variableName": "mr_y_qc__mot__rsfmri__vol_count"
             },
             {
-                "isAbout": "items/mr_y_qc__mot__tfmri__fdsub_count",
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid__fdsub_count",
                 "isVis": true,
-                "variableName": "mr_y_qc__mot__tfmri__fdsub_count"
+                "variableName": "mr_y_qc__mot__tfmri__mid__fdsub_count"
             },
             {
                 "isAbout": "items/mr_y_qc__mot__tfmri__mid__frame_count",
@@ -344,14 +452,14 @@
                 "variableName": "mr_y_qc__mot__tfmri__mid_dof"
             },
             {
-                "isAbout": "items/mr_y_qc__mot__tfmri__mot_max",
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid_max",
                 "isVis": true,
-                "variableName": "mr_y_qc__mot__tfmri__mot_max"
+                "variableName": "mr_y_qc__mot__tfmri__mid_max"
             },
             {
-                "isAbout": "items/mr_y_qc__mot__tfmri__mot_mean",
+                "isAbout": "items/mr_y_qc__mot__tfmri__mid_mean",
                 "isVis": true,
-                "variableName": "mr_y_qc__mot__tfmri__mot_mean"
+                "variableName": "mr_y_qc__mot__tfmri__mid_mean"
             },
             {
                 "isAbout": "items/mr_y_qc__mot__tfmri__nback__fdsub_count",
@@ -696,6 +804,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

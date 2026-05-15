@@ -67,7 +67,7 @@
         "en": "ph_p_meds__otc_001__01__05"
     },
     "question": {
-        "en": "OTC 1: On average during the last two weeks, how many of these pills (or other medication items) did your child take per day? [Parent]"
+        "en": "Over the counter - Medication 1: On average during the last two weeks, how many of these pills (or other medication items) did your child take per day? [Parent]"
     },
     "responseOptions": {
         "valueType": [

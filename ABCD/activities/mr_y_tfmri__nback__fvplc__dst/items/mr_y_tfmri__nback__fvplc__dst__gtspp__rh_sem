@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__dst__gtspp__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: face vs. place; all runs) in Destrieux ROI: planum polare of the superior temporal gyrus (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Face vs. place; All runs) in Destrieux ROI: Planum polare of the superior temporal gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

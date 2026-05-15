@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0033"
+            "value": "su_y_tlfb_0035"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__alc__binge_totdose"
     },
     "question": {
-        "en": "Alcohol - Binge episodes: total dose"
+        "en": "Alcohol - Binge episodes: Total dose"
     },
     "responseOptions": {
         "valueType": [

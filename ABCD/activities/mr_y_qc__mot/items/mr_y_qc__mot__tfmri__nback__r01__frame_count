@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_mot_0052"
+            "value": "mr_y_qc_mot_0070"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__mot__tfmri__nback__r01__frame_count"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task (run 1): Number of frames in acquisition"
+        "en": "Task fMRI - Emotional N-Back task (Run 1): Number of frames in acquisition"
     },
     "responseOptions": {
         "valueType": [

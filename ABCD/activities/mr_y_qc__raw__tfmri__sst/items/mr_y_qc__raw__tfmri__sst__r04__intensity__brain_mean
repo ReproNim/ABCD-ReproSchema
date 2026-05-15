@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__tfmri__sst__r04__intensity__brain_mean"
     },
     "question": {
-        "en": "Task fMRI - Stop Signal Task (run 4): Mean intensity within brain mask"
+        "en": "Task fMRI - Stop Signal Task (Run 4): Mean intensity within brain mask"
     },
     "responseOptions": {
         "valueType": [

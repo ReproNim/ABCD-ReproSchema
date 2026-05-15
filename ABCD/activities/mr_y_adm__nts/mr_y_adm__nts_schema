@@ -9,25 +9,32 @@
         "order": [
             "items/mr_y_adm__nts__sess_count",
             "items/mr_y_adm__nts__tfmri_order",
+            "items/mr_y_adm__nts__tfmri__ver_order",
             "items/mr_y_adm__nts__tfmri__nonrand_indicator",
             "items/mr_y_adm__nts__tfmri__nonrand_order",
-            "items/mr_y_adm__nts__tfmri__ver_order",
-            "items/mr_y_adm__nts__tfmri__mid_order",
-            "items/mr_y_adm__nts__tfmri__mid__nonrand_order",
-            "items/mr_y_adm__nts__tfmri__mid_ver",
+            "items/mr_y_adm__nts__tfmri__nonrand__mid_order",
+            "items/mr_y_adm__nts__tfmri__nonrand__mid__trial_order",
+            "items/mr_y_adm__nts__tfmri__nonrand__mid_ver",
+            "items/mr_y_adm__nts__tfmri__nonrand__nback_order",
+            "items/mr_y_adm__nts__tfmri__nonrand__nback__trial_order",
+            "items/mr_y_adm__nts__tfmri__nonrand__nback_ver",
+            "items/mr_y_adm__nts__tfmri__nonrand__sst_order",
+            "items/mr_y_adm__nts__tfmri__nonrand__sst__trial_order",
             "items/mr_y_adm__nts__tfmri__mid_indicator",
             "items/mr_y_adm__nts__tfmri__mid__run_count",
+            "items/mr_y_adm__nts__tfmri__mid__run__lap_count",
+            "items/mr_y_adm__nts__tfmri__mid__run__scan_count",
             "items/mr_y_adm__nts__tfmri__mid__prac_rt",
             "items/mr_y_adm__nts__tfmri__mid__earn_count",
-            "items/mr_y_adm__nts__tfmri__nback_order",
-            "items/mr_y_adm__nts__tfmri__nback__nonrand_order",
-            "items/mr_y_adm__nts__tfmri__nback_ver",
             "items/mr_y_adm__nts__tfmri__nback_indicator",
             "items/mr_y_adm__nts__tfmri__nback__run_count",
-            "items/mr_y_adm__nts__tfmri__sst_order",
-            "items/mr_y_adm__nts__tfmri__sst__nonrand_order",
+            "items/mr_y_adm__nts__tfmri__nback__run__lap_count",
+            "items/mr_y_adm__nts__tfmri__nback__run__scan_count",
+            "items/mr_y_adm__nts__tfmri__nback__rec_ver",
             "items/mr_y_adm__nts__tfmri__sst_indicator",
-            "items/mr_y_adm__nts__tfmri__sst__run_count"
+            "items/mr_y_adm__nts__tfmri__sst__run_count",
+            "items/mr_y_adm__nts__tfmri__sst__run__lap_count",
+            "items/mr_y_adm__nts__tfmri__sst__run__scan_count"
         ],
         "addProperties": [
             {
@@ -41,6 +48,11 @@
                 "variableName": "mr_y_adm__nts__tfmri_order"
             },
             {
+                "isAbout": "items/mr_y_adm__nts__tfmri__ver_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__ver_order"
+            },
+            {
                 "isAbout": "items/mr_y_adm__nts__tfmri__nonrand_indicator",
                 "isVis": true,
                 "variableName": "mr_y_adm__nts__tfmri__nonrand_indicator"
@@ -51,24 +63,44 @@
                 "variableName": "mr_y_adm__nts__tfmri__nonrand_order"
             },
             {
-                "isAbout": "items/mr_y_adm__nts__tfmri__ver_order",
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand__mid_order",
                 "isVis": true,
-                "variableName": "mr_y_adm__nts__tfmri__ver_order"
+                "variableName": "mr_y_adm__nts__tfmri__nonrand__mid_order"
             },
             {
-                "isAbout": "items/mr_y_adm__nts__tfmri__mid_order",
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand__mid__trial_order",
                 "isVis": true,
-                "variableName": "mr_y_adm__nts__tfmri__mid_order"
+                "variableName": "mr_y_adm__nts__tfmri__nonrand__mid__trial_order"
             },
             {
-                "isAbout": "items/mr_y_adm__nts__tfmri__mid__nonrand_order",
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand__mid_ver",
                 "isVis": true,
-                "variableName": "mr_y_adm__nts__tfmri__mid__nonrand_order"
+                "variableName": "mr_y_adm__nts__tfmri__nonrand__mid_ver"
             },
             {
-                "isAbout": "items/mr_y_adm__nts__tfmri__mid_ver",
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand__nback_order",
                 "isVis": true,
-                "variableName": "mr_y_adm__nts__tfmri__mid_ver"
+                "variableName": "mr_y_adm__nts__tfmri__nonrand__nback_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand__nback__trial_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nonrand__nback__trial_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand__nback_ver",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nonrand__nback_ver"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand__sst_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nonrand__sst_order"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nonrand__sst__trial_order",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nonrand__sst__trial_order"
             },
             {
                 "isAbout": "items/mr_y_adm__nts__tfmri__mid_indicator",
@@ -81,6 +113,16 @@
                 "variableName": "mr_y_adm__nts__tfmri__mid__run_count"
             },
             {
+                "isAbout": "items/mr_y_adm__nts__tfmri__mid__run__lap_count",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__mid__run__lap_count"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__mid__run__scan_count",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__mid__run__scan_count"
+            },
+            {
                 "isAbout": "items/mr_y_adm__nts__tfmri__mid__prac_rt",
                 "isVis": true,
                 "variableName": "mr_y_adm__nts__tfmri__mid__prac_rt"
@@ -89,21 +131,6 @@
                 "isAbout": "items/mr_y_adm__nts__tfmri__mid__earn_count",
                 "isVis": true,
                 "variableName": "mr_y_adm__nts__tfmri__mid__earn_count"
-            },
-            {
-                "isAbout": "items/mr_y_adm__nts__tfmri__nback_order",
-                "isVis": true,
-                "variableName": "mr_y_adm__nts__tfmri__nback_order"
-            },
-            {
-                "isAbout": "items/mr_y_adm__nts__tfmri__nback__nonrand_order",
-                "isVis": true,
-                "variableName": "mr_y_adm__nts__tfmri__nback__nonrand_order"
-            },
-            {
-                "isAbout": "items/mr_y_adm__nts__tfmri__nback_ver",
-                "isVis": true,
-                "variableName": "mr_y_adm__nts__tfmri__nback_ver"
             },
             {
                 "isAbout": "items/mr_y_adm__nts__tfmri__nback_indicator",
@@ -116,14 +143,19 @@
                 "variableName": "mr_y_adm__nts__tfmri__nback__run_count"
             },
             {
-                "isAbout": "items/mr_y_adm__nts__tfmri__sst_order",
+                "isAbout": "items/mr_y_adm__nts__tfmri__nback__run__lap_count",
                 "isVis": true,
-                "variableName": "mr_y_adm__nts__tfmri__sst_order"
+                "variableName": "mr_y_adm__nts__tfmri__nback__run__lap_count"
             },
             {
-                "isAbout": "items/mr_y_adm__nts__tfmri__sst__nonrand_order",
+                "isAbout": "items/mr_y_adm__nts__tfmri__nback__run__scan_count",
                 "isVis": true,
-                "variableName": "mr_y_adm__nts__tfmri__sst__nonrand_order"
+                "variableName": "mr_y_adm__nts__tfmri__nback__run__scan_count"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__nback__rec_ver",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__nback__rec_ver"
             },
             {
                 "isAbout": "items/mr_y_adm__nts__tfmri__sst_indicator",
@@ -134,10 +166,20 @@
                 "isAbout": "items/mr_y_adm__nts__tfmri__sst__run_count",
                 "isVis": true,
                 "variableName": "mr_y_adm__nts__tfmri__sst__run_count"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__sst__run__lap_count",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__sst__run__lap_count"
+            },
+            {
+                "isAbout": "items/mr_y_adm__nts__tfmri__sst__run__scan_count",
+                "isVis": true,
+                "variableName": "mr_y_adm__nts__tfmri__sst__run__scan_count"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

@@ -57,7 +57,7 @@
         "en": "le_l_nata__addr3__dieselpm_conc"
     },
     "question": {
-        "en": "Diesel PM in micrograms of PM2.5 per cubic meter in air [NATA] (Address 3) (address 3)"
+        "en": "Diesel PM in micrograms of PM2.5 per cubic meter in air [NATA] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

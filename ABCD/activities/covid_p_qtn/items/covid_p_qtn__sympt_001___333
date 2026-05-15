@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__sympt_001___333"
     },
     "question": {
-        "en": "Which of the following symptoms has your child had at any point in time since March 2020? [Multi-select]: None of the above [COVID Substudy]"
+        "en": "Which of the following symptoms has your child had at any point in time since March 2020? [Multi-select]: None of the above [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0136"
+            "value": "mr_y_qc_raw_dmri_0137"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r01__dterr_med"
     },
     "question": {
-        "en": "Diffusion MRI (run 1): Median residual error of diffusion tensor fit"
+        "en": "Diffusion MRI (Run 1): Median residual error of diffusion tensor fit"
     },
     "responseOptions": {
         "valueType": [

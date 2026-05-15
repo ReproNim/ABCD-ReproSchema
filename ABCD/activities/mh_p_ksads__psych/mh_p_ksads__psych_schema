@@ -7,7 +7,185 @@
     "schemaVersion": "1.0.0",
     "ui": {
         "order": [
+            "items/mh_p_ksads__psych_age",
+            "items/mh_p_ksads__psych_dtt",
+            "items/mh_p_ksads__psych__past_001___1",
+            "items/mh_p_ksads__psych__past_001___2",
+            "items/mh_p_ksads__psych__past_001___3",
+            "items/mh_p_ksads__psych__past_001___4",
+            "items/mh_p_ksads__psych__past_001___5",
+            "items/mh_p_ksads__psych__past_001___6",
+            "items/mh_p_ksads__psych__past_001___7",
+            "items/mh_p_ksads__psych__past_001__v01___1",
+            "items/mh_p_ksads__psych__past_001__v01___2",
+            "items/mh_p_ksads__psych__past_001__v01___3",
+            "items/mh_p_ksads__psych__past_001__v01___4",
+            "items/mh_p_ksads__psych__past_001__v01___5",
+            "items/mh_p_ksads__psych__past_002___1",
+            "items/mh_p_ksads__psych__past_002___2",
+            "items/mh_p_ksads__psych__past_002___3",
+            "items/mh_p_ksads__psych__past_002___4",
+            "items/mh_p_ksads__psych__past_003",
+            "items/mh_p_ksads__psych__past_004",
+            "items/mh_p_ksads__psych__past_005",
+            "items/mh_p_ksads__psych__past_006",
+            "items/mh_p_ksads__psych__past_007___1",
+            "items/mh_p_ksads__psych__past_007___2",
+            "items/mh_p_ksads__psych__past_007___3",
+            "items/mh_p_ksads__psych__past_007___4",
+            "items/mh_p_ksads__psych__past_007___5",
+            "items/mh_p_ksads__psych__past_008",
+            "items/mh_p_ksads__psych__past_008__01__day",
+            "items/mh_p_ksads__psych__past_008__01__wk",
+            "items/mh_p_ksads__psych__past_008__01__mo",
+            "items/mh_p_ksads__psych__past_009___1",
+            "items/mh_p_ksads__psych__past_009___2",
+            "items/mh_p_ksads__psych__past_009___3",
+            "items/mh_p_ksads__psych__past_009___4",
+            "items/mh_p_ksads__psych__past_009___5",
+            "items/mh_p_ksads__psych__past_009___6",
+            "items/mh_p_ksads__psych__past_009___7",
+            "items/mh_p_ksads__psych__past_009___8",
+            "items/mh_p_ksads__psych__past_009___9",
+            "items/mh_p_ksads__psych__past_010",
+            "items/mh_p_ksads__psych__past_011",
+            "items/mh_p_ksads__psych__past_012",
+            "items/mh_p_ksads__psych__past_013___1",
+            "items/mh_p_ksads__psych__past_013___2",
+            "items/mh_p_ksads__psych__past_013___3",
+            "items/mh_p_ksads__psych__past_013___4",
+            "items/mh_p_ksads__psych__past_013___5",
+            "items/mh_p_ksads__psych__past_014___1",
+            "items/mh_p_ksads__psych__past_014___2",
+            "items/mh_p_ksads__psych__past_014___3",
+            "items/mh_p_ksads__psych__past_014___4",
+            "items/mh_p_ksads__psych__past_014___5",
+            "items/mh_p_ksads__psych__past_014___6",
+            "items/mh_p_ksads__psych__past_014___7",
+            "items/mh_p_ksads__psych__past_014__01__mo",
+            "items/mh_p_ksads__psych__past_014__01__yr",
+            "items/mh_p_ksads__psych__past_014__v01___1",
+            "items/mh_p_ksads__psych__past_014__v01___2",
+            "items/mh_p_ksads__psych__past_014__v01___3",
+            "items/mh_p_ksads__psych__past_014__v01___4",
+            "items/mh_p_ksads__psych__past_014__v01___5",
+            "items/mh_p_ksads__psych__past_014__v01___6",
+            "items/mh_p_ksads__psych__past_014__v01___7",
+            "items/mh_p_ksads__psych__past_015",
+            "items/mh_p_ksads__psych__pres_001___1",
+            "items/mh_p_ksads__psych__pres_001___2",
+            "items/mh_p_ksads__psych__pres_001___3",
+            "items/mh_p_ksads__psych__pres_001___4",
+            "items/mh_p_ksads__psych__pres_001___5",
+            "items/mh_p_ksads__psych__pres_001___6",
+            "items/mh_p_ksads__psych__pres_001___7",
+            "items/mh_p_ksads__psych__pres_001__01",
+            "items/mh_p_ksads__psych__pres_001__v01___1",
+            "items/mh_p_ksads__psych__pres_001__v01___2",
+            "items/mh_p_ksads__psych__pres_001__v01___3",
+            "items/mh_p_ksads__psych__pres_001__v01___4",
+            "items/mh_p_ksads__psych__pres_001__v01___5",
+            "items/mh_p_ksads__psych__pres_002___1",
+            "items/mh_p_ksads__psych__pres_002___2",
+            "items/mh_p_ksads__psych__pres_002___3",
+            "items/mh_p_ksads__psych__pres_002___4",
+            "items/mh_p_ksads__psych__pres_003",
+            "items/mh_p_ksads__psych__pres_004",
+            "items/mh_p_ksads__psych__pres_005",
+            "items/mh_p_ksads__psych__pres_006",
+            "items/mh_p_ksads__psych__pres_007___1",
+            "items/mh_p_ksads__psych__pres_007___2",
+            "items/mh_p_ksads__psych__pres_007___3",
+            "items/mh_p_ksads__psych__pres_007___4",
+            "items/mh_p_ksads__psych__pres_007___5",
+            "items/mh_p_ksads__psych__pres_008",
+            "items/mh_p_ksads__psych__pres_008__01__day",
+            "items/mh_p_ksads__psych__pres_008__01__wk",
+            "items/mh_p_ksads__psych__pres_008__01__mo",
+            "items/mh_p_ksads__psych__pres_009___1",
+            "items/mh_p_ksads__psych__pres_009___2",
+            "items/mh_p_ksads__psych__pres_009___3",
+            "items/mh_p_ksads__psych__pres_009___4",
+            "items/mh_p_ksads__psych__pres_009___5",
+            "items/mh_p_ksads__psych__pres_009___6",
+            "items/mh_p_ksads__psych__pres_009___7",
+            "items/mh_p_ksads__psych__pres_009___8",
+            "items/mh_p_ksads__psych__pres_009___9",
+            "items/mh_p_ksads__psych__pres_010",
+            "items/mh_p_ksads__psych__pres_011",
+            "items/mh_p_ksads__psych__pres_012",
+            "items/mh_p_ksads__psych__pres_013___1",
+            "items/mh_p_ksads__psych__pres_013___2",
+            "items/mh_p_ksads__psych__pres_013___3",
+            "items/mh_p_ksads__psych__pres_013___4",
+            "items/mh_p_ksads__psych__pres_013___5",
+            "items/mh_p_ksads__psych__pres_014___1",
+            "items/mh_p_ksads__psych__pres_014___2",
+            "items/mh_p_ksads__psych__pres_014___3",
+            "items/mh_p_ksads__psych__pres_014___4",
+            "items/mh_p_ksads__psych__pres_014___5",
+            "items/mh_p_ksads__psych__pres_014___6",
+            "items/mh_p_ksads__psych__pres_014___7",
+            "items/mh_p_ksads__psych__pres_014__01",
+            "items/mh_p_ksads__psych__pres_015",
+            "items/mh_p_ksads__psych__pres_016___1",
+            "items/mh_p_ksads__psych__pres_016___2",
+            "items/mh_p_ksads__psych__pres_016___3",
+            "items/mh_p_ksads__psych__pres_016___4",
+            "items/mh_p_ksads__psych__pres_016___5",
+            "items/mh_p_ksads__psych__pres_016___6",
+            "items/mh_p_ksads__psych__pres_016___7",
+            "items/mh_p_ksads__psych__pres_016___8",
+            "items/mh_p_ksads__psych__pres_016___9",
+            "items/mh_p_ksads__psych__pres_016___10",
+            "items/mh_p_ksads__psych__pres_016___11",
+            "items/mh_p_ksads__psych__pres_016___12",
+            "items/mh_p_ksads__psych__pres_016___13",
+            "items/mh_p_ksads__psych__pres_016___14",
+            "items/mh_p_ksads__psych__pres_016___15",
+            "items/mh_p_ksads__psych__pres_016___16",
+            "items/mh_p_ksads__psych__pres_016___17",
+            "items/mh_p_ksads__psych__pres_016___18",
+            "items/mh_p_ksads__psych__pres_016___19",
+            "items/mh_p_ksads__psych__pres_016___20",
+            "items/mh_p_ksads__psych__screen__past_001",
+            "items/mh_p_ksads__psych__screen__past_001__01",
+            "items/mh_p_ksads__psych__screen__past_001__v01",
+            "items/mh_p_ksads__psych__screen__past_002",
+            "items/mh_p_ksads__psych__screen__past_003",
+            "items/mh_p_ksads__psych__screen__past_003__01",
+            "items/mh_p_ksads__psych__screen__past_003__02__mo",
+            "items/mh_p_ksads__psych__screen__past_003__02__yr",
+            "items/mh_p_ksads__psych__screen__past_004a__mo",
+            "items/mh_p_ksads__psych__screen__past_004a__yr",
+            "items/mh_p_ksads__psych__screen__past_004b__mo",
+            "items/mh_p_ksads__psych__screen__past_004b__yr",
+            "items/mh_p_ksads__psych__screen__past_004c__mo",
+            "items/mh_p_ksads__psych__screen__past_004c__yr",
+            "items/mh_p_ksads__psych__screen__past_005",
+            "items/mh_p_ksads__psych__screen__past_005__01",
+            "items/mh_p_ksads__psych__screen__pres_001",
+            "items/mh_p_ksads__psych__screen__pres_001__v01",
+            "items/mh_p_ksads__psych__screen__pres_002",
+            "items/mh_p_ksads__psych__screen__pres_003",
+            "items/mh_p_ksads__psych__screen__pres_003__03",
+            "items/mh_p_ksads__psych__screen__pres_004__mo",
+            "items/mh_p_ksads__psych__screen__pres_004__yr",
+            "items/mh_p_ksads__psych__screen__pres_004a__mo",
+            "items/mh_p_ksads__psych__screen__pres_004a__yr",
+            "items/mh_p_ksads__psych__screen__pres_004b__mo",
+            "items/mh_p_ksads__psych__screen__pres_004b__yr",
+            "items/mh_p_ksads__psych__screen__pres_004c__mo",
+            "items/mh_p_ksads__psych__screen__pres_004c__yr",
+            "items/mh_p_ksads__psych__screen__pres_005",
+            "items/mh_p_ksads__psych_001",
+            "items/mh_p_ksads__psych_002",
+            "items/mh_p_ksads__psych_003",
+            "items/mh_p_ksads__psych_004",
+            "items/mh_p_ksads__psych_005",
+            "items/mh_p_ksads__psych__aps__past_dx",
             "items/mh_p_ksads__psych__aps__past_sx",
+            "items/mh_p_ksads__psych__aps__pres_dx",
             "items/mh_p_ksads__psych__aps__pres_sx",
             "items/mh_p_ksads__psych__culturacpt__pres_sx",
             "items/mh_p_ksads__psych__delus__affctill__past_sx",
@@ -18,11 +196,13 @@
             "items/mh_p_ksads__psych__delus__freq__pres_sx",
             "items/mh_p_ksads__psych__delus__imp__past_sx",
             "items/mh_p_ksads__psych__delus__imp__pres_sx",
-            "items/mh_p_ksads__psych__delus__persec__past_sx",
-            "items/mh_p_ksads__psych__delus__persec__2wk__pres_sx",
-            "items/mh_p_ksads__psych__delus__oth__past_sx",
             "items/mh_p_ksads__psych__delus__oth__2wk__pres_sx",
+            "items/mh_p_ksads__psych__delus__oth__past_sx",
+            "items/mh_p_ksads__psych__delus__past_dx",
             "items/mh_p_ksads__psych__delus__past_sx",
+            "items/mh_p_ksads__psych__delus__persec__2wk__pres_sx",
+            "items/mh_p_ksads__psych__delus__persec__past_sx",
+            "items/mh_p_ksads__psych__delus__pres_dx",
             "items/mh_p_ksads__psych__delus__pres_sx",
             "items/mh_p_ksads__psych__delus__tenac__past_sx",
             "items/mh_p_ksads__psych__delus__tenac__pres_sx",
@@ -51,28 +231,916 @@
             "items/mh_p_ksads__psych__halluc__pres_sx",
             "items/mh_p_ksads__psych__halluc__wake__past_sx",
             "items/mh_p_ksads__psych__halluc__wake__pres_sx",
-            "items/mh_p_ksads__psych__neg__pres_sx",
-            "items/mh_p_ksads__psych__tenacblf__past_sx",
-            "items/mh_p_ksads__psych__tenacblf__pres_sx",
-            "items/mh_p_ksads__psych__no3mosymptfree__past_sx",
-            "items/mh_p_ksads__psych__aps__past_dx",
-            "items/mh_p_ksads__psych__aps__pres_dx",
-            "items/mh_p_ksads__psych__delus__past_dx",
-            "items/mh_p_ksads__psych__delus__pres_dx",
             "items/mh_p_ksads__psych__hlcn__past_dx",
             "items/mh_p_ksads__psych__hlcn__pres_dx",
+            "items/mh_p_ksads__psych__neg__pres_sx",
+            "items/mh_p_ksads__psych__no3mosymptfree__past_sx",
+            "items/mh_p_ksads__psych__oth__pres_dx",
+            "items/mh_p_ksads__psych__past__sx_mean",
+            "items/mh_p_ksads__psych__pres__sx_mean",
+            "items/mh_p_ksads__psych__schiz__oth__past_dx",
+            "items/mh_p_ksads__psych__schiz__oth__pres_dx",
             "items/mh_p_ksads__psych__schiz__pres_dx",
             "items/mh_p_ksads__psych__schizaffct__pres_dx",
             "items/mh_p_ksads__psych__schizform__pres_dx",
-            "items/mh_p_ksads__psych__schiz__oth__past_dx",
-            "items/mh_p_ksads__psych__schiz__oth__pres_dx",
-            "items/mh_p_ksads__psych__oth__pres_dx"
+            "items/mh_p_ksads__psych__tenacblf__past_sx",
+            "items/mh_p_ksads__psych__tenacblf__pres_sx"
         ],
         "addProperties": [
+            {
+                "isAbout": "items/mh_p_ksads__psych_age",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych_age"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych_dtt",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych_dtt"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001__v01___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001__v01___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001__v01___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001__v01___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001__v01___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001__v01___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001__v01___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001__v01___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_001__v01___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_001__v01___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_002___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_002___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_002___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_002___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_002___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_002___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_002___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_002___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_006",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_006"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_007___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_007___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_007___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_007___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_007___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_007___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_007___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_007___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_007___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_007___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_008",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_008"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_008__01__day",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_008__01__day"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_008__01__wk",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_008__01__wk"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_008__01__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_008__01__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_009___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_009___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_009___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_009___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_009___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_009___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_009___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_009___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_009___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_009___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_009___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_009___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_009___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_009___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_009___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_009___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_009___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_009___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_010",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_010"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_011",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_011"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_012",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_012"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_013___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_013___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_013___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_013___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_013___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_013___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_013___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_013___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_013___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_013___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014__01__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014__01__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014__01__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014__01__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014__v01___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014__v01___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014__v01___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014__v01___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014__v01___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014__v01___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014__v01___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014__v01___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014__v01___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014__v01___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014__v01___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014__v01___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_014__v01___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_014__v01___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past_015",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past_015"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001__v01___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001__v01___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001__v01___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001__v01___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001__v01___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001__v01___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001__v01___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001__v01___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_001__v01___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_001__v01___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_002___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_002___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_002___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_002___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_002___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_002___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_002___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_002___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_006",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_006"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_007___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_007___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_007___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_007___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_007___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_007___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_007___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_007___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_007___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_007___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_008",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_008"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_008__01__day",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_008__01__day"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_008__01__wk",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_008__01__wk"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_008__01__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_008__01__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_009___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_009___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_009___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_009___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_009___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_009___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_009___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_009___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_009___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_009___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_009___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_009___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_009___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_009___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_009___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_009___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_009___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_009___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_010",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_010"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_011",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_011"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_012",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_012"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_013___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_013___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_013___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_013___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_013___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_013___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_013___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_013___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_013___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_013___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_014___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_014___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_014___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_014___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_014___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_014___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_014___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_014___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_014___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_014___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_014___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_014___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_014___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_014___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_014__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_014__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_015",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_015"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___1",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___1"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___2",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___2"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___3",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___3"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___4",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___4"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___5",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___5"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___6",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___6"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___7",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___7"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___8",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___8"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___9",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___9"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___10",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___10"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___11",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___11"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___12",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___12"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___13",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___13"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___14",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___14"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___15",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___15"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___16",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___16"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___17",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___17"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___18",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___18"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___19",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___19"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres_016___20",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres_016___20"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_001__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_001__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_001__v01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_001__v01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_003__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_003__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_003__02__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_003__02__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_003__02__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_003__02__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_004a__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_004a__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_004a__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_004a__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_004b__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_004b__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_004b__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_004b__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_004c__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_004c__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_004c__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_004c__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__past_005__01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__past_005__01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_001__v01",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_001__v01"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_003__03",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_003__03"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_004__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_004__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_004__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_004__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_004a__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_004a__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_004a__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_004a__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_004b__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_004b__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_004b__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_004b__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_004c__mo",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_004c__mo"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_004c__yr",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_004c__yr"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__screen__pres_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__screen__pres_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych_001",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych_001"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych_002",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych_002"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych_003",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych_003"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych_004",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych_004"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych_005",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych_005"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__aps__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__aps__past_dx"
+            },
             {
                 "isAbout": "items/mh_p_ksads__psych__aps__past_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__psych__aps__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__aps__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__aps__pres_dx"
             },
             {
                 "isAbout": "items/mh_p_ksads__psych__aps__pres_sx",
@@ -125,14 +1193,9 @@
                 "variableName": "mh_p_ksads__psych__delus__imp__pres_sx"
             },
             {
-                "isAbout": "items/mh_p_ksads__psych__delus__persec__past_sx",
+                "isAbout": "items/mh_p_ksads__psych__delus__oth__2wk__pres_sx",
                 "isVis": true,
-                "variableName": "mh_p_ksads__psych__delus__persec__past_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__psych__delus__persec__2wk__pres_sx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__delus__persec__2wk__pres_sx"
+                "variableName": "mh_p_ksads__psych__delus__oth__2wk__pres_sx"
             },
             {
                 "isAbout": "items/mh_p_ksads__psych__delus__oth__past_sx",
@@ -140,14 +1203,29 @@
                 "variableName": "mh_p_ksads__psych__delus__oth__past_sx"
             },
             {
-                "isAbout": "items/mh_p_ksads__psych__delus__oth__2wk__pres_sx",
+                "isAbout": "items/mh_p_ksads__psych__delus__past_dx",
                 "isVis": true,
-                "variableName": "mh_p_ksads__psych__delus__oth__2wk__pres_sx"
+                "variableName": "mh_p_ksads__psych__delus__past_dx"
             },
             {
                 "isAbout": "items/mh_p_ksads__psych__delus__past_sx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__psych__delus__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__persec__2wk__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__persec__2wk__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__persec__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__persec__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__delus__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__delus__pres_dx"
             },
             {
                 "isAbout": "items/mh_p_ksads__psych__delus__pres_sx",
@@ -290,46 +1368,6 @@
                 "variableName": "mh_p_ksads__psych__halluc__wake__pres_sx"
             },
             {
-                "isAbout": "items/mh_p_ksads__psych__neg__pres_sx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__neg__pres_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__psych__tenacblf__past_sx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__tenacblf__past_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__psych__tenacblf__pres_sx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__tenacblf__pres_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__psych__no3mosymptfree__past_sx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__no3mosymptfree__past_sx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__psych__aps__past_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__aps__past_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__psych__aps__pres_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__aps__pres_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__psych__delus__past_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__delus__past_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__psych__delus__pres_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__delus__pres_dx"
-            },
-            {
                 "isAbout": "items/mh_p_ksads__psych__hlcn__past_dx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__psych__hlcn__past_dx"
@@ -338,6 +1376,41 @@
                 "isAbout": "items/mh_p_ksads__psych__hlcn__pres_dx",
                 "isVis": true,
                 "variableName": "mh_p_ksads__psych__hlcn__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__neg__pres_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__neg__pres_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__no3mosymptfree__past_sx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__no3mosymptfree__past_sx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__oth__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__oth__pres_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__past__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__past__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__pres__sx_mean",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__pres__sx_mean"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__schiz__oth__past_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__schiz__oth__past_dx"
+            },
+            {
+                "isAbout": "items/mh_p_ksads__psych__schiz__oth__pres_dx",
+                "isVis": true,
+                "variableName": "mh_p_ksads__psych__schiz__oth__pres_dx"
             },
             {
                 "isAbout": "items/mh_p_ksads__psych__schiz__pres_dx",
@@ -355,23 +1428,18 @@
                 "variableName": "mh_p_ksads__psych__schizform__pres_dx"
             },
             {
-                "isAbout": "items/mh_p_ksads__psych__schiz__oth__past_dx",
+                "isAbout": "items/mh_p_ksads__psych__tenacblf__past_sx",
                 "isVis": true,
-                "variableName": "mh_p_ksads__psych__schiz__oth__past_dx"
+                "variableName": "mh_p_ksads__psych__tenacblf__past_sx"
             },
             {
-                "isAbout": "items/mh_p_ksads__psych__schiz__oth__pres_dx",
+                "isAbout": "items/mh_p_ksads__psych__tenacblf__pres_sx",
                 "isVis": true,
-                "variableName": "mh_p_ksads__psych__schiz__oth__pres_dx"
-            },
-            {
-                "isAbout": "items/mh_p_ksads__psych__oth__pres_dx",
-                "isVis": true,
-                "variableName": "mh_p_ksads__psych__oth__pres_dx"
+                "variableName": "mh_p_ksads__psych__tenacblf__pres_sx"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

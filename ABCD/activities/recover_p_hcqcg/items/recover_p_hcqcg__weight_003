@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_hcqcg__weight_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The next questions will ask about your health overall. Other than getting infected with COVID, many people have been affected by COVID in other ways. We want to know about the different ways COVID has affected your health during the COVID pandemic. A pandemic is an outbreak of an illness across a whole country or the world. The COVID pandemic began in March 2020."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_health_consequences"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "hcq_wtaffect"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg__weight_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg_0068"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_hcqcg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_hcqcg__weight_003"
+    },
+    "question": {
+        "en": "In general, how has the COVID pandemic affected your weight?"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

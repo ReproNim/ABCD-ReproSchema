@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_mot_0072"
+            "value": "mr_y_qc_mot_0090"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "mr_y_qc__mot__tfmri__nback__r02_tr"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task (run 2): Motion QC - Repetition time"
+        "en": "Task fMRI - Emotional N-Back task (Run 2): Motion QC - Repetition time"
     },
     "responseOptions": {
         "valueType": [

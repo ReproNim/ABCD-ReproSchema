@@ -52,7 +52,7 @@
         "en": "le_l_rxnalox__addr1__nalcop__all_indicator"
     },
     "question": {
-        "en": "Indicates if state co-prescribing nalaxone policy was effective for all patients at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if state co-prescribing nalaxone policy was effective for all patients at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

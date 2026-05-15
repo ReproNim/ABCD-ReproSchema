@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr3__ed__total__national_zscore"
     },
     "question": {
-        "en": "Z-scores- weighted average of education domain component indicator z-scores [Education domain; Nationally-normed] (Address 3) (address 3)"
+        "en": "Z-scores- weighted average of education domain component indicator z-scores [Education domain; Nationally-normed] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

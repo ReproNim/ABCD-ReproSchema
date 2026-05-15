@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0687"
+            "value": "su_y_tlfb_0716"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__nic__vape_totdose"
     },
     "question": {
-        "en": "Nicotine - Vaped: total dose"
+        "en": "Nicotine - Vaped: Total dose"
     },
     "responseOptions": {
         "valueType": [

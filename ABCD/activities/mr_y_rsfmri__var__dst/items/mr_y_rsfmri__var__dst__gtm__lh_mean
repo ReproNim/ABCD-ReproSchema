@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__dst__gtm__lh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Destrieux ROI: middle temporal gyrus (left hemisphere)"
+        "en": "Average temporal variance in Destrieux ROI: Middle temporal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

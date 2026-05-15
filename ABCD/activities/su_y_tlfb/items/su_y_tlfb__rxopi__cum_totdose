@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0776"
+            "value": "su_y_tlfb_0808"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__rxopi__cum_totdose"
     },
     "question": {
-        "en": "Prescription opiods: total dose (Cumulative period)"
+        "en": "Prescription opiods: Total dose (Cumulative period)"
     },
     "responseOptions": {
         "valueType": [

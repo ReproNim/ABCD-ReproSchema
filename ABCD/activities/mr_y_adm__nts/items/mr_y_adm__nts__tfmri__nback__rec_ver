@@ -1,0 +1,72 @@
+{
+    "id": "mr_y_adm__nts__tfmri__nback__rec_ver",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Imaging"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Administrative"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "rec_memory_for_emo_nback"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "vrs_rec_mem"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/imaging/adm.html"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "mr_y_adm__nts__tfmri__nback__rec_ver"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "mr_y_adm_nts_0024"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "mr_y_adm__nts"
+        }
+    ],
+    "prefLabel": {
+        "en": "mr_y_adm__nts__tfmri__nback__rec_ver"
+    },
+    "question": {
+        "en": "Task fMRI - Emotional N-Back task - Recognition memory: Version of recognition memory task"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

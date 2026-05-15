@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__dst__gr__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: face vs. place; all runs) in Destrieux ROI: gyrus rectus (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Face vs. place; All runs) in Destrieux ROI: Gyrus rectus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

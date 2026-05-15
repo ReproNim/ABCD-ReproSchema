@@ -57,7 +57,7 @@
         "en": "le_l_socmob__addr2__kfrpp_count"
     },
     "question": {
-        "en": "Number of children for all [opportunity atlas] (Address 2) (address 2)"
+        "en": "Number of children for all [opportunity atlas] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

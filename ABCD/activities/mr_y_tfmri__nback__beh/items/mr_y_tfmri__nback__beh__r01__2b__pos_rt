@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__beh__r01__2b__pos_rt"
     },
     "question": {
-        "en": "Task fMRI - Emotional N-Back task - Behavioral (run 1): Average reaction time for all correct responses to 2 back with positive face stimuli during run 1"
+        "en": "Task fMRI - Emotional N-Back task - Behavioral (Run 1): Average reaction time for all correct responses to 2 back with positive face stimuli during run 1"
     },
     "responseOptions": {
         "valueType": [

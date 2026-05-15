@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0659"
+            "value": "su_y_tlfb_0687"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__nic__rplc__wknd_totdose"
     },
     "question": {
-        "en": "Nicotine - Replacements: total dose on weekends"
+        "en": "Nicotine - Replacements: Total dose on weekends"
     },
     "responseOptions": {
         "valueType": [

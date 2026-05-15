@@ -1,0 +1,66 @@
+{
+    "id": "sips_y_dysmood_003",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_general"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_gen_dys_003"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_y_dysmood_003"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_y_dysmood_0013"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_y_dysmood"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_y_dysmood_003"
+    },
+    "question": {
+        "en": "Have you ever been depressed? Do you find yourself crying a lot? Do you feel sad/bad/worthless/hopeless? Has your mood affected your appetite? Your sleep? Your ability to work? [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -47,7 +47,7 @@
         "en": "gn_y_genrel_id__fam"
     },
     "question": {
-        "en": "Family ID - Participants belonging to the same family share a family ID (derived based on genetic information)"
+        "en": "Family ID - Participants belonging to the same family share a family ID (Derived based on genetic information)"
     },
     "responseOptions": {
         "valueType": [

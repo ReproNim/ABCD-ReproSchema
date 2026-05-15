@@ -3,6 +3,11 @@
     "category": "reproschema:Item",
     "additionalNotesObj": [
         {
+            "column": "unit",
+            "source": "nbdc",
+            "value": "hours (h)"
+        },
+        {
             "column": "study",
             "source": "nbdc",
             "value": "Core"
@@ -50,7 +55,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "nt_y_stq_0101"
+            "value": "nt_y_stq_0181"
         },
         {
             "column": "activity",

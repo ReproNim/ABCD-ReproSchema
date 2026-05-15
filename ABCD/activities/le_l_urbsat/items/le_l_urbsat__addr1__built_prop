@@ -52,7 +52,7 @@
         "en": "le_l_urbsat__addr1__built_prop"
     },
     "question": {
-        "en": "Built-up land use- (2017) build-up land area (urban area) fraction of total pixel area [0 1] (Address 1) (address 1)"
+        "en": "Built-up land use- (2017) build-up land area (urban area) fraction of total pixel area [0 1] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

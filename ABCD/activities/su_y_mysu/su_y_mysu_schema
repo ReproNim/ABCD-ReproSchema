@@ -17,8 +17,10 @@
             "items/su_y_mysu__hrd__rx_001",
             "items/su_y_mysu__use__alc_001",
             "items/su_y_mysu__use__alc__1mo_001",
+            "items/su_y_mysu__use__alc__1mo_001__v01",
             "items/su_y_mysu__use__alc__1wk_001",
             "items/su_y_mysu__use__alc__6mo_001",
+            "items/su_y_mysu__use__alc__6mo_001__v01",
             "items/su_y_mysu__use__alc__6mo_002",
             "items/su_y_mysu__use__alc__first_001",
             "items/su_y_mysu__use__alc__sip_001",
@@ -43,8 +45,10 @@
             "items/su_y_mysu__use__hall__first_001",
             "items/su_y_mysu__use__illdrg_001",
             "items/su_y_mysu__use__illdrg__1mo_001",
+            "items/su_y_mysu__use__illdrg__1mo_001__v01",
             "items/su_y_mysu__use__illdrg__1wk_001",
             "items/su_y_mysu__use__illdrg__6mo_001",
+            "items/su_y_mysu__use__illdrg__6mo_001__v01",
             "items/su_y_mysu__use__illdrg__6mo_002",
             "items/su_y_mysu__use__inh__1mo_001",
             "items/su_y_mysu__use__inh__1wk_001",
@@ -59,6 +63,7 @@
             "items/su_y_mysu__use__meth__first_001",
             "items/su_y_mysu__use__mj__1mo_001",
             "items/su_y_mysu__use__mj__6mo_001",
+            "items/su_y_mysu__use__mj__6mo_001__v01",
             "items/su_y_mysu__use__mj__conc__1mo_001",
             "items/su_y_mysu__use__mj__conc__1wk_001",
             "items/su_y_mysu__use__mj__conc__6mo_002",
@@ -94,12 +99,15 @@
             "items/su_y_mysu__use__nic__6mo_001",
             "items/su_y_mysu__use__nic__6mo_002",
             "items/su_y_mysu__use__nic__chew__1mo_001",
+            "items/su_y_mysu__use__nic__chew__1mo_001__v01",
             "items/su_y_mysu__use__nic__chew__1wk_001",
             "items/su_y_mysu__use__nic__chew__6mo_001",
+            "items/su_y_mysu__use__nic__chew__6mo_001__v01",
             "items/su_y_mysu__use__nic__chew__6mo_002",
             "items/su_y_mysu__use__nic__chew__first_001",
             "items/su_y_mysu__use__nic__cig__1mo_001",
             "items/su_y_mysu__use__nic__cig__6mo_001",
+            "items/su_y_mysu__use__nic__cig__6mo_001__v01",
             "items/su_y_mysu__use__nic__cig__first_001",
             "items/su_y_mysu__use__nic__cigar__6mo_001",
             "items/su_y_mysu__use__nic__cigar__first_001",
@@ -112,6 +120,7 @@
             "items/su_y_mysu__use__nic__puff__6mo_002",
             "items/su_y_mysu__use__nic__vape__1mo_001",
             "items/su_y_mysu__use__nic__vape__6mo_001",
+            "items/su_y_mysu__use__nic__vape__6mo_001__v01",
             "items/su_y_mysu__use__nic__vape__first_001",
             "items/su_y_mysu__use__opi__6mo_001",
             "items/su_y_mysu__use__opi__first_001",
@@ -193,6 +202,11 @@
                 "variableName": "su_y_mysu__use__alc__1mo_001"
             },
             {
+                "isAbout": "items/su_y_mysu__use__alc__1mo_001__v01",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__1mo_001__v01"
+            },
+            {
                 "isAbout": "items/su_y_mysu__use__alc__1wk_001",
                 "isVis": true,
                 "variableName": "su_y_mysu__use__alc__1wk_001"
@@ -201,6 +215,11 @@
                 "isAbout": "items/su_y_mysu__use__alc__6mo_001",
                 "isVis": true,
                 "variableName": "su_y_mysu__use__alc__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__alc__6mo_001__v01",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__alc__6mo_001__v01"
             },
             {
                 "isAbout": "items/su_y_mysu__use__alc__6mo_002",
@@ -323,6 +342,11 @@
                 "variableName": "su_y_mysu__use__illdrg__1mo_001"
             },
             {
+                "isAbout": "items/su_y_mysu__use__illdrg__1mo_001__v01",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__illdrg__1mo_001__v01"
+            },
+            {
                 "isAbout": "items/su_y_mysu__use__illdrg__1wk_001",
                 "isVis": true,
                 "variableName": "su_y_mysu__use__illdrg__1wk_001"
@@ -331,6 +355,11 @@
                 "isAbout": "items/su_y_mysu__use__illdrg__6mo_001",
                 "isVis": true,
                 "variableName": "su_y_mysu__use__illdrg__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__illdrg__6mo_001__v01",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__illdrg__6mo_001__v01"
             },
             {
                 "isAbout": "items/su_y_mysu__use__illdrg__6mo_002",
@@ -401,6 +430,11 @@
                 "isAbout": "items/su_y_mysu__use__mj__6mo_001",
                 "isVis": true,
                 "variableName": "su_y_mysu__use__mj__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__mj__6mo_001__v01",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__mj__6mo_001__v01"
             },
             {
                 "isAbout": "items/su_y_mysu__use__mj__conc__1mo_001",
@@ -578,6 +612,11 @@
                 "variableName": "su_y_mysu__use__nic__chew__1mo_001"
             },
             {
+                "isAbout": "items/su_y_mysu__use__nic__chew__1mo_001__v01",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__chew__1mo_001__v01"
+            },
+            {
                 "isAbout": "items/su_y_mysu__use__nic__chew__1wk_001",
                 "isVis": true,
                 "variableName": "su_y_mysu__use__nic__chew__1wk_001"
@@ -586,6 +625,11 @@
                 "isAbout": "items/su_y_mysu__use__nic__chew__6mo_001",
                 "isVis": true,
                 "variableName": "su_y_mysu__use__nic__chew__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__chew__6mo_001__v01",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__chew__6mo_001__v01"
             },
             {
                 "isAbout": "items/su_y_mysu__use__nic__chew__6mo_002",
@@ -606,6 +650,11 @@
                 "isAbout": "items/su_y_mysu__use__nic__cig__6mo_001",
                 "isVis": true,
                 "variableName": "su_y_mysu__use__nic__cig__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__cig__6mo_001__v01",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__cig__6mo_001__v01"
             },
             {
                 "isAbout": "items/su_y_mysu__use__nic__cig__first_001",
@@ -666,6 +715,11 @@
                 "isAbout": "items/su_y_mysu__use__nic__vape__6mo_001",
                 "isVis": true,
                 "variableName": "su_y_mysu__use__nic__vape__6mo_001"
+            },
+            {
+                "isAbout": "items/su_y_mysu__use__nic__vape__6mo_001__v01",
+                "isVis": true,
+                "variableName": "su_y_mysu__use__nic__vape__6mo_001__v01"
             },
             {
                 "isAbout": "items/su_y_mysu__use__nic__vape__first_001",
@@ -810,6 +864,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

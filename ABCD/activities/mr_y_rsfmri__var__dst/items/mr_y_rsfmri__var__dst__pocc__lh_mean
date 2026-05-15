@@ -67,7 +67,7 @@
         "en": "mr_y_rsfmri__var__dst__pocc__lh_mean"
     },
     "question": {
-        "en": "Average temporal variance in Destrieux ROI: occipital pole (left hemisphere)"
+        "en": "Average temporal variance in Destrieux ROI: Occipital pole (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

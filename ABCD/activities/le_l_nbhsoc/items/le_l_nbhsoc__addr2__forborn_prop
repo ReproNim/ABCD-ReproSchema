@@ -52,7 +52,7 @@
         "en": "le_l_nbhsoc__addr2__forborn_prop"
     },
     "question": {
-        "en": "Proportion of people who are foreign born, ACS2013-2017 [NaNDA; census tract] (Address 2) (address 2)"
+        "en": "Proportion of people who are foreign born, ACS2013-2017 [NaNDA; census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

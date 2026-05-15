@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mr_y_qc_raw_dmri_0223"
+            "value": "mr_y_qc_raw_dmri_0224"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__dmri__r03__intensity__brain_std"
     },
     "question": {
-        "en": "Diffusion MRI (run 3): Standard deviation of intensities within brain mask"
+        "en": "Diffusion MRI (Run 3): Standard deviation of intensities within brain mask"
     },
     "responseOptions": {
         "valueType": [

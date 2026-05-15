@@ -3,6 +3,11 @@
     "category": "reproschema:Item",
     "additionalNotesObj": [
         {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "Please indicate whether your child has EVER participated in any of the following sports and activities continuously for 4 months or more (e.g., for a season in sports, or at least four months of lessons, group participation, etc). We will then ask you some follow-up questions about EACH of the sports or activities in which your child has participated."
+        },
+        {
             "column": "study",
             "source": "nbdc",
             "value": "Core"

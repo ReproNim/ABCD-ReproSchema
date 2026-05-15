@@ -228,7 +228,19 @@
             "items/mh_p_ple__severity__bad_mean__v03",
             "items/mh_p_ple__severity__bad_sum__v03",
             "items/mh_p_ple__severity__good_mean__v03",
-            "items/mh_p_ple__severity__good_sum__v03"
+            "items/mh_p_ple__severity__good_sum__v03",
+            "items/mh_p_ple_count__v04",
+            "items/mh_p_ple_nm__v04",
+            "items/mh_p_ple__exp__bad_count__v04",
+            "items/mh_p_ple__exp__good_count__v04",
+            "items/mh_p_ple__exp_nm__v04",
+            "items/mh_p_ple__severity_mean__v04",
+            "items/mh_p_ple__severity_nm__v04",
+            "items/mh_p_ple__severity_sum__v04",
+            "items/mh_p_ple__severity__bad_mean__v04",
+            "items/mh_p_ple__severity__bad_sum__v04",
+            "items/mh_p_ple__severity__good_mean__v04",
+            "items/mh_p_ple__severity__good_sum__v04"
         ],
         "addProperties": [
             {
@@ -1340,10 +1352,70 @@
                 "isAbout": "items/mh_p_ple__severity__good_sum__v03",
                 "isVis": true,
                 "variableName": "mh_p_ple__severity__good_sum__v03"
+            },
+            {
+                "isAbout": "items/mh_p_ple_count__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple_count__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple_nm__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple_nm__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__exp__bad_count__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__exp__bad_count__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__exp__good_count__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__exp__good_count__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__exp_nm__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__exp_nm__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__severity_mean__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__severity_mean__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__severity_nm__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__severity_nm__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__severity_sum__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__severity_sum__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__severity__bad_mean__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__severity__bad_mean__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__severity__bad_sum__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__severity__bad_sum__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__severity__good_mean__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__severity__good_mean__v04"
+            },
+            {
+                "isAbout": "items/mh_p_ple__severity__good_sum__v04",
+                "isVis": true,
+                "variableName": "mh_p_ple__severity__good_sum__v04"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

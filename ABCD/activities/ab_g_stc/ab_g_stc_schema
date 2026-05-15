@@ -12,11 +12,108 @@
             "items/ab_g_stc__design_id__birth",
             "items/ab_g_stc__design_id__birth__gen",
             "items/ab_g_stc__design_famrel",
-            "items/ab_g_stc__design_id__group",
-            "items/ab_g_stc__design_id__grouporder",
             "items/ab_g_stc__design_sstwin",
+            "items/ab_g_stc__cohort_country",
             "items/ab_g_stc__cohort_dob",
             "items/ab_g_stc__cohort_ethn",
+            "items/ab_g_stc__cohort_ethnrace__aou___1",
+            "items/ab_g_stc__cohort_ethnrace__aou___2",
+            "items/ab_g_stc__cohort_ethnrace__aou___3",
+            "items/ab_g_stc__cohort_ethnrace__aou___4",
+            "items/ab_g_stc__cohort_ethnrace__aou___5",
+            "items/ab_g_stc__cohort_ethnrace__aou___6",
+            "items/ab_g_stc__cohort_ethnrace__aou___7",
+            "items/ab_g_stc__cohort_ethnrace__aou___333",
+            "items/ab_g_stc__cohort_ethnrace__aou___777",
+            "items/ab_g_stc__cohort_ethnrace__aou___999",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___1",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___2",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___3",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___4",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___5",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___6",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___7",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___8",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___9",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___15",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___777",
+            "items/ab_g_stc__cohort_ethnrace__aou__asian___999",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___1",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___2",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___3",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___4",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___5",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___6",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___7",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___8",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___9",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___10",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___11",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___15",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___777",
+            "items/ab_g_stc__cohort_ethnrace__aou__black___999",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___1",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___2",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___3",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___4",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___5",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___6",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___7",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___8",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___9",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___15",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___777",
+            "items/ab_g_stc__cohort_ethnrace__aou__hisp___999",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___1",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___2",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___3",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___4",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___5",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___6",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___7",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___8",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___9",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___10",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___15",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___777",
+            "items/ab_g_stc__cohort_ethnrace__aou__mideast___999",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___1",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___10",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___11",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___12",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___13",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___14",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___15",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___2",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___3",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___4",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___5",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___6",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___7",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___8",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___9",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___777",
+            "items/ab_g_stc__cohort_ethnrace__aou__nhpi___999",
+            "items/ab_g_stc__cohort_ethnrace__aou__ntvam___1",
+            "items/ab_g_stc__cohort_ethnrace__aou__ntvam___2",
+            "items/ab_g_stc__cohort_ethnrace__aou__ntvam___3",
+            "items/ab_g_stc__cohort_ethnrace__aou__ntvam___333",
+            "items/ab_g_stc__cohort_ethnrace__aou__ntvam___777",
+            "items/ab_g_stc__cohort_ethnrace__aou__ntvam___999",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___1",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___2",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___3",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___4",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___5",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___6",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___7",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___8",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___9",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___10",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___11",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___15",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___777",
+            "items/ab_g_stc__cohort_ethnrace__aou__white___999",
             "items/ab_g_stc__cohort_ethnrace__leg",
             "items/ab_g_stc__cohort_ethnrace__mblack",
             "items/ab_g_stc__cohort_ethnrace__meim",
@@ -84,19 +181,14 @@
                 "variableName": "ab_g_stc__design_famrel"
             },
             {
-                "isAbout": "items/ab_g_stc__design_id__group",
-                "isVis": true,
-                "variableName": "ab_g_stc__design_id__group"
-            },
-            {
-                "isAbout": "items/ab_g_stc__design_id__grouporder",
-                "isVis": true,
-                "variableName": "ab_g_stc__design_id__grouporder"
-            },
-            {
                 "isAbout": "items/ab_g_stc__design_sstwin",
                 "isVis": true,
                 "variableName": "ab_g_stc__design_sstwin"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_country",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_country"
             },
             {
                 "isAbout": "items/ab_g_stc__cohort_dob",
@@ -107,6 +199,496 @@
                 "isAbout": "items/ab_g_stc__cohort_ethn",
                 "isVis": true,
                 "variableName": "ab_g_stc__cohort_ethn"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___1",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___1"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___2",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___2"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___3",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___3"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___4",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___4"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___5",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___5"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___6",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___6"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___7",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___7"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___333",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___333"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___777",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___777"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou___999",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou___999"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___1",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___1"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___2",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___2"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___3",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___3"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___4",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___4"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___5",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___5"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___6",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___6"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___7",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___7"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___8",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___8"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___9",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___9"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___15",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___15"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___777",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___777"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__asian___999",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__asian___999"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___1",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___1"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___2",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___2"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___3",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___3"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___4",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___4"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___5",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___5"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___6",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___6"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___7",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___7"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___8",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___8"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___9",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___9"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___10",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___10"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___11",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___11"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___15",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___15"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___777",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___777"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__black___999",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__black___999"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___1",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___1"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___2",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___2"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___3",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___3"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___4",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___4"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___5",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___5"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___6",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___6"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___7",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___7"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___8",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___8"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___9",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___9"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___15",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___15"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___777",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___777"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__hisp___999",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__hisp___999"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___1",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___1"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___2",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___2"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___3",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___3"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___4",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___4"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___5",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___5"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___6",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___6"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___7",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___7"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___8",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___8"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___9",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___9"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___10",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___10"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___15",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___15"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___777",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___777"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__mideast___999",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__mideast___999"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___1",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___1"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___10",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___10"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___11",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___11"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___12",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___12"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___13",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___13"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___14",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___14"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___15",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___15"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___2",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___2"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___3",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___3"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___4",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___4"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___5",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___5"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___6",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___6"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___7",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___7"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___8",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___8"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___9",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___9"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___777",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___777"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__nhpi___999",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__nhpi___999"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__ntvam___1",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__ntvam___1"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__ntvam___2",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__ntvam___2"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__ntvam___3",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__ntvam___3"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__ntvam___333",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__ntvam___333"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__ntvam___777",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__ntvam___777"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__ntvam___999",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__ntvam___999"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___1",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___1"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___2",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___2"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___3",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___3"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___4",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___4"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___5",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___5"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___6",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___6"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___7",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___7"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___8",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___8"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___9",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___9"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___10",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___10"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___11",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___11"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___15",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___15"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___777",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___777"
+            },
+            {
+                "isAbout": "items/ab_g_stc__cohort_ethnrace__aou__white___999",
+                "isVis": true,
+                "variableName": "ab_g_stc__cohort_ethnrace__aou__white___999"
             },
             {
                 "isAbout": "items/ab_g_stc__cohort_ethnrace__leg",
@@ -306,6 +888,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

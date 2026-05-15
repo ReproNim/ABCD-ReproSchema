@@ -1,0 +1,71 @@
+{
+    "id": "sips_y_utc__perp_005__02__01",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "instruction",
+            "source": "nbdc",
+            "value": "The following questions are organized in sections and probe for both psychotic, delusional thinking and for non-psychotic, unusual thought content. These experiences are rated on the SOPS P1 Scale at the end of the queries."
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "SIPS"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Psychosis"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "sips_utc"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "sips_utc_perp_005_02_01"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "sips_y_utc__perp_005__02__01"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "sips_y_utc_0216"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "sips_y_utc"
+        }
+    ],
+    "prefLabel": {
+        "en": "sips_y_utc__perp_005__02__01"
+    },
+    "question": {
+        "en": "Do you ever seem to live through events exactly as you have experienced them before: Onset - Month [Youth]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

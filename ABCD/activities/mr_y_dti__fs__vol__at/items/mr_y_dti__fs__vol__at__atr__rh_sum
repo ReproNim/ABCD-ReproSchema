@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__vol__at__atr__rh_sum"
     },
     "question": {
-        "en": "Total volume (full shell DTI) of AtlasTrack fiber tract: anterior thalamic radiation (right hemisphere)"
+        "en": "Total volume (Full shell DTI) of AtlasTrack fiber tract: Anterior thalamic radiation (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

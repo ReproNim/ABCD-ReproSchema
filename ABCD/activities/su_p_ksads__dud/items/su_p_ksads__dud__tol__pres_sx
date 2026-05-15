@@ -25,12 +25,12 @@
         {
             "column": "table_nda",
             "source": "nbdc",
-            "value": "abcd_ksad01 | ksads2daic_use_only_p01"
+            "value": "ksads2daic_use_only_p01"
         },
         {
             "column": "name_nda",
             "source": "nbdc",
-            "value": "ksads_20_528_p | ksads2_20_477_p"
+            "value": "ksads2_20_845_p"
         },
         {
             "column": "url_table",
@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_p_ksads_dud_0293"
+            "value": "su_p_ksads_dud_1248"
         },
         {
             "column": "activity",

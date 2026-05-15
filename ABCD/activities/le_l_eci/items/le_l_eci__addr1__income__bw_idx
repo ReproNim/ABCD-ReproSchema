@@ -52,7 +52,7 @@
         "en": "le_l_eci__addr1__income__bw_idx"
     },
     "question": {
-        "en": "Economic Concentration Index (Income+ BW), (non-Hispanic white Households income >= $100k) - (non-Hispanic Black Households income < $25k)/total population [ACS 2014-2018; census tract] (Address 1) (address 1)"
+        "en": "Economic Concentration Index (Income+ BW), (non-Hispanic white Households income >= $100k) - (non-Hispanic Black Households income < $25k)/total population [ACS 2014-2018; census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

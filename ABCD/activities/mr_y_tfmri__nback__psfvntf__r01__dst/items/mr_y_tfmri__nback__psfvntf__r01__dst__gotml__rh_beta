@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__psfvntf__r01__dst__gotml__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: positive face vs. neutral face; run 1) in Destrieux ROI: lingual gyrus (right hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Positive face vs. neutral face; Run 1) in Destrieux ROI: Lingual gyrus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

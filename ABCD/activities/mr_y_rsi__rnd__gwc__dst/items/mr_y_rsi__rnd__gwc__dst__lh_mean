@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__rnd__gwc__dst__lh_mean"
     },
     "question": {
-        "en": "Average restricted normalized directional diffusion (gray/white contrast) in Destrieux ROI: all (left hemisphere)"
+        "en": "Average restricted normalized directional diffusion (Gray/white contrast) in Destrieux ROI: All (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

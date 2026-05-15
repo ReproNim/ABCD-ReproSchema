@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alvn__dsk__locc__rh_beta"
     },
     "question": {
-        "en": "Average beta weight for Monetary Incentive Delay task (contrast: anticipated loss vs. neutral; all runs) in Desikan ROI: lateral occipital (right hemisphere)"
+        "en": "Average beta weight for Monetary Incentive Delay task (Contrast - Anticipated loss vs. neutral; All runs) in Desikan ROI: Lateral occipital (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

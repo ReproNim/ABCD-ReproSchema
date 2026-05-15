@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__rsfmri__r09__study_uid"
     },
     "question": {
-        "en": "Resting State fMRI (run 9): Study instance UID"
+        "en": "Resting State fMRI (Run 9): Study instance UID"
     },
     "responseOptions": {
         "valueType": [

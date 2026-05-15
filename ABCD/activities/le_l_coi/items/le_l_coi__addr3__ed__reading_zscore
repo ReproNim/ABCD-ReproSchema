@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr3__ed__reading_zscore"
     },
     "question": {
-        "en": "Third grade reading proficiency- percentage third graders scoring proficient on standardized reading tests, converted to NAEP scale score points, transformed to z-scores [Education domain] (Address 3) (address 3)"
+        "en": "Third grade reading proficiency- percentage third graders scoring proficient on standardized reading tests, converted to NAEP scale score points, transformed to z-scores [Education domain] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

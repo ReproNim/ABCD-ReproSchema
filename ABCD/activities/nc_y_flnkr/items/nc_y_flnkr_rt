@@ -52,7 +52,7 @@
         "en": "nc_y_flnkr_rt"
     },
     "question": {
-        "en": "Flanker Task (Millisecond): Mean Response Time"
+        "en": "Flanker Task (Millisecond): Mean Response Time - Correct trials"
     },
     "responseOptions": {
         "valueType": [

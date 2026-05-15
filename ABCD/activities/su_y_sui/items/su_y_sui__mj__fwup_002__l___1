@@ -67,7 +67,7 @@
         "en": "su_y_sui__mj__fwup_002__l___1"
     },
     "question": {
-        "en": "During the past year, where did you get your marijuana? [Multi-select]: From a doctor (prescription marijuana in your name) [Longitudinal]"
+        "en": "During the past year, where did you get your marijuana? [Multi-select]: From a doctor (Prescription marijuana in your name) [Longitudinal]"
     },
     "responseOptions": {
         "valueType": [

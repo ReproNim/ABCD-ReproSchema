@@ -52,7 +52,7 @@
         "en": "le_l_rxmonit__addr1__pdmp__op_indicator"
     },
     "question": {
-        "en": "Indicates if a \"modern PDMP system\" became operational and users could access was enabled at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if a \"modern PDMP system\" became operational and users could access was enabled at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

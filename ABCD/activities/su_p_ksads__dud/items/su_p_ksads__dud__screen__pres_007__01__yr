@@ -1,0 +1,66 @@
+{
+    "id": "su_p_ksads__dud__screen__pres_007__01__yr",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Substance Use"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "SU Consequence"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_nda",
+            "source": "nbdc",
+            "value": "item"
+        },
+        {
+            "column": "url_table",
+            "source": "nbdc",
+            "value": "https://docs.abcdstudy.org/latest/documentation/non_imaging/su.html#su_p_ksads__dud"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "su_p_ksads__dud__screen__pres_007__01__yr"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "su_p_ksads_dud_0862"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "su_p_ksads__dud"
+        }
+    ],
+    "prefLabel": {
+        "en": "su_p_ksads__dud__screen__pres_007__01__yr"
+    },
+    "question": {
+        "en": "You said that your child had a time when he/she used the following drugs listed below. When did he/she first use them: Marijuana (pot, weed, hash, THC, blunts, synthetic marijuana/K2/Spice, marijuana edibles, concentrates such as dabs or shatter) - Year"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:integer"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

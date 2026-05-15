@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__sst__csvcg__r02__aseg__th__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Stop Signal task (contrast: correct stop vs. correct go; run 2) in Subcortical ROI: thalamus (left hemisphere)"
+        "en": "Average beta weight for Stop Signal task (Contrast - Correct stop vs. correct go; Run 2) in Subcortical ROI: Thalamus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

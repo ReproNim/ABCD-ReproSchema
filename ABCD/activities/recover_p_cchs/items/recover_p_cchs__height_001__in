@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_cchs__height_001__in",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "child_current_health_status"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "cchs_htin"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_cchs__height_001__in"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_cchs_0016"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_cchs"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_cchs__height_001__in"
+    },
+    "question": {
+        "en": "Child's heel to head length (inches)"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

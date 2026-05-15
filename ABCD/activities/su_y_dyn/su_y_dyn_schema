@@ -1,0 +1,299 @@
+{
+    "id": "su_y_dyn_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "su_y_dyn"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/su_y_dyn__alc__lowuse__lt_indicator",
+            "items/su_y_dyn__alc__lt_indicator",
+            "items/su_y_dyn__alc__sip__lt_indicator",
+            "items/su_y_dyn__cath__lt_indicator",
+            "items/su_y_dyn__cbd__lt_indicator",
+            "items/su_y_dyn__coc__lt_indicator",
+            "items/su_y_dyn__dxm__lt_indicator",
+            "items/su_y_dyn__flav__vape__lt_indicator",
+            "items/su_y_dyn__ghb__lt_indicator",
+            "items/su_y_dyn__hall__lt_indicator",
+            "items/su_y_dyn__inh__lt_indicator",
+            "items/su_y_dyn__ket__lt_indicator",
+            "items/su_y_dyn__mdma__lt_indicator",
+            "items/su_y_dyn__meth__lt_indicator",
+            "items/su_y_dyn__mj__blunt__lt_indicator",
+            "items/su_y_dyn__mj__conc__lt_indicator",
+            "items/su_y_dyn__mj__drink__lt_indicator",
+            "items/su_y_dyn__mj__edbl__lt_indicator",
+            "items/su_y_dyn__mj__lowuse__lt_indicator",
+            "items/su_y_dyn__mj__lt_indicator",
+            "items/su_y_dyn__mj__puff__lt_indicator",
+            "items/su_y_dyn__mj__smoke__lt_indicator",
+            "items/su_y_dyn__mj__tinc__lt_indicator",
+            "items/su_y_dyn__mj__vape__flwr__lt_indicator",
+            "items/su_y_dyn__mj__vape__oil__lt_indicator",
+            "items/su_y_dyn__mj__synth__lt_indicator",
+            "items/su_y_dyn__nic__chew__lt_indicator",
+            "items/su_y_dyn__nic__cig__lt_indicator",
+            "items/su_y_dyn__nic__cigar__lt_indicator",
+            "items/su_y_dyn__nic__hookah__lt_indicator",
+            "items/su_y_dyn__nic__lowuse__lt_indicator",
+            "items/su_y_dyn__nic__lt_indicator",
+            "items/su_y_dyn__nic__pipe__lt_indicator",
+            "items/su_y_dyn__nic__puff__lt_indicator",
+            "items/su_y_dyn__nic__rplc__lt_indicator",
+            "items/su_y_dyn__nic__vape__lt_indicator",
+            "items/su_y_dyn__opi__lt_indicator",
+            "items/su_y_dyn__oth__lt_indicator",
+            "items/su_y_dyn__roid__lt_indicator",
+            "items/su_y_dyn__rxopi__lt_indicator",
+            "items/su_y_dyn__rxsed__lt_indicator",
+            "items/su_y_dyn__rxstim__lt_indicator",
+            "items/su_y_dyn__salv__lt_indicator",
+            "items/su_y_dyn__shroom__lt_indicator",
+            "items/su_y_dyn__su__lowuse__lt_indicator",
+            "items/su_y_dyn__su__lt_indicator",
+            "items/su_y_dyn__su__oth__lt_indicator"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/su_y_dyn__alc__lowuse__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__alc__lowuse__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__alc__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__alc__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__alc__sip__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__alc__sip__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__cath__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__cath__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__cbd__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__cbd__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__coc__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__coc__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__dxm__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__dxm__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__flav__vape__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__flav__vape__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__ghb__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__ghb__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__hall__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__hall__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__inh__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__inh__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__ket__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__ket__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mdma__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mdma__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__meth__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__meth__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__blunt__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__blunt__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__conc__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__conc__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__drink__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__drink__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__edbl__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__edbl__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__lowuse__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__lowuse__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__puff__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__puff__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__smoke__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__smoke__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__tinc__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__tinc__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__vape__flwr__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__vape__flwr__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__vape__oil__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__vape__oil__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__mj__synth__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__mj__synth__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__chew__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__chew__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__cig__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__cig__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__cigar__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__cigar__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__hookah__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__hookah__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__lowuse__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__lowuse__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__pipe__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__pipe__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__puff__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__puff__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__rplc__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__rplc__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__nic__vape__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__nic__vape__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__opi__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__opi__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__oth__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__oth__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__roid__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__roid__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__rxopi__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__rxopi__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__rxsed__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__rxsed__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__rxstim__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__rxstim__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__salv__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__salv__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__shroom__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__shroom__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__su__lowuse__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__su__lowuse__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__su__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__su__lt_indicator"
+            },
+            {
+                "isAbout": "items/su_y_dyn__su__oth__lt_indicator",
+                "isVis": true,
+                "variableName": "su_y_dyn__su__oth__lt_indicator"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

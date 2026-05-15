@@ -52,7 +52,7 @@
         "en": "mh_p_abcl_age"
     },
     "question": {
-        "en": "Adult Behavior Checklist [Parent]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Adult Behavior Checklist [Parent]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

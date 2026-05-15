@@ -57,7 +57,7 @@
         "en": "mr_y_qc__raw__smri__t1__r03__series_uid"
     },
     "question": {
-        "en": "Structural MRI - T1 weighted (run 3): Series instance UID"
+        "en": "Structural MRI - T1 weighted (Run 3): Series instance UID"
     },
     "responseOptions": {
         "valueType": [

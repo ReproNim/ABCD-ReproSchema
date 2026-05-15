@@ -57,7 +57,7 @@
         "en": "le_l_urban__addr2_urbanclassification"
     },
     "question": {
-        "en": "Urban classification [census tract] (Address 2) (address 2)"
+        "en": "Urban classification [census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

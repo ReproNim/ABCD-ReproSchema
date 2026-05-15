@@ -52,7 +52,7 @@
         "en": "le_l_relciv__addr1__civsoc__cnty_rate"
     },
     "question": {
-        "en": "Number of all civic/social organizations per 1000 people [NaNDA; county] (Address 1) (address 1)"
+        "en": "Number of all civic/social organizations per 1000 people [NaNDA; county] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

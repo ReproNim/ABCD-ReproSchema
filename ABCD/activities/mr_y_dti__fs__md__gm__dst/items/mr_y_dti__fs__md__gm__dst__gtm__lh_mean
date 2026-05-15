@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__md__gm__dst__gtm__lh_mean"
     },
     "question": {
-        "en": "Average mean diffusivity (full shell DTI; gray matter) in Destrieux ROI: middle temporal gyrus (left hemisphere)"
+        "en": "Average mean diffusivity (Full shell DTI; Gray matter) in Destrieux ROI: Middle temporal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

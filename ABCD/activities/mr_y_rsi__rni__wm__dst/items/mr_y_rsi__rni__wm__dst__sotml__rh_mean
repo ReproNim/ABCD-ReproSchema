@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__rni__wm__dst__sotml__rh_mean"
     },
     "question": {
-        "en": "Average restricted normalized isotropic diffusion (white matter) in Destrieux ROI: medial occipito-temporal sulcus and lingual sulcus (right hemisphere)"
+        "en": "Average restricted normalized isotropic diffusion (White matter) in Destrieux ROI: Medial occipito-temporal sulcus and lingual sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

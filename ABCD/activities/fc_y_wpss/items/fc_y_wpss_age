@@ -52,7 +52,7 @@
         "en": "fc_y_wpss_age"
     },
     "question": {
-        "en": "Wills Problem Solving Scale [Youth]: Youth's age at data collection (note: if table-specific date/time is missing, the age at visit start is used)"
+        "en": "Wills Problem Solving Scale [Youth]: Youth's age at data collection (Note: if table-specific date/time is missing, the age at visit start is used)"
     },
     "responseOptions": {
         "valueType": [

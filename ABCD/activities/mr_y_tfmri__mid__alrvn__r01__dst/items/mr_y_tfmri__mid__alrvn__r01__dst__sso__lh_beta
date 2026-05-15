@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__mid__alrvn__r01__dst__sso__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Monetary Incentive Delay task (contrast: anticipated large reward vs. neutral; run 1) in Destrieux ROI: suborbital sulcus (left hemisphere)"
+        "en": "Average beta weight for Monetary Incentive Delay task (Contrast - Anticipated large reward vs. neutral; Run 1) in Destrieux ROI: Suborbital sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -15,6 +15,7 @@
             "items/fc_y_eut_002",
             "items/fc_y_eut_002__v01",
             "items/fc_y_eut_003",
+            "items/fc_y_eut_003__v01",
             "items/fc_y_eut_004",
             "items/fc_y_eut_005",
             "items/fc_y_eut_006",
@@ -23,6 +24,7 @@
             "items/fc_y_eut_008b",
             "items/fc_y_eut_008__v01",
             "items/fc_y_eut_009",
+            "items/fc_y_eut_010",
             "items/fc_y_eut__ethn_001a",
             "items/fc_y_eut__ethn_001b",
             "items/fc_y_eut__ethn_001c",
@@ -80,6 +82,11 @@
                 "variableName": "fc_y_eut_003"
             },
             {
+                "isAbout": "items/fc_y_eut_003__v01",
+                "isVis": true,
+                "variableName": "fc_y_eut_003__v01"
+            },
+            {
                 "isAbout": "items/fc_y_eut_004",
                 "isVis": true,
                 "variableName": "fc_y_eut_004"
@@ -118,6 +125,11 @@
                 "isAbout": "items/fc_y_eut_009",
                 "isVis": true,
                 "variableName": "fc_y_eut_009"
+            },
+            {
+                "isAbout": "items/fc_y_eut_010",
+                "isVis": true,
+                "variableName": "fc_y_eut_010"
             },
             {
                 "isAbout": "items/fc_y_eut__ethn_001a",
@@ -192,6 +204,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

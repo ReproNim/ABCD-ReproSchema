@@ -62,7 +62,7 @@
         "en": "mr_y_rsfmri__corr__gpnet__doa__smm_mean"
     },
     "question": {
-        "en": "Average correlation between Gordon networks: dorsal attention & sensorimotor mouth"
+        "en": "Average correlation between Gordon networks: Dorsal attention & sensorimotor mouth"
     },
     "responseOptions": {
         "valueType": [

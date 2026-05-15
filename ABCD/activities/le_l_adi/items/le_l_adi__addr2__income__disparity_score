@@ -57,7 +57,7 @@
         "en": "le_l_adi__addr2__income__disparity_score"
     },
     "question": {
-        "en": "Income disparity defined by Singh as the log of 100 x ratio of the number of households with <10000 annual income to the number of households with >50000 annual income [Area Deprivation Index] (Address 2) (address 2)"
+        "en": "Income disparity defined by Singh as the log of 100 x ratio of the number of households with <10000 annual income to the number of households with >50000 annual income [Area Deprivation Index] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__ld__gm__dst__gtsgtt__lh_mean"
     },
     "question": {
-        "en": "Average longitudinal diffusivity (full shell DTI; gray matter) in Destrieux ROI: anterior transverse temporal gyrus (left hemisphere)"
+        "en": "Average longitudinal diffusivity (Full shell DTI; Gray matter) in Destrieux ROI: Anterior transverse temporal gyrus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

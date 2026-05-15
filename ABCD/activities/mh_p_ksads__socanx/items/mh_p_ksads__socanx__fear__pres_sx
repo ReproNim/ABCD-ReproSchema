@@ -30,7 +30,7 @@
         {
             "column": "name_nda",
             "source": "nbdc",
-            "value": "ksads_8_29_p | ksads2_8_27_p"
+            "value": "ksads_8_303_p | ksads2_8_268_p"
         },
         {
             "column": "url_table",
@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "mh_p_ksads_socanx_0011"
+            "value": "mh_p_ksads_socanx_0096"
         },
         {
             "column": "activity",

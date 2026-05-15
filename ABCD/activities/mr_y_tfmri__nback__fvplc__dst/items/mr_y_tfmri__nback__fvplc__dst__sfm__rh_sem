@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__fvplc__dst__sfm__rh_sem"
     },
     "question": {
-        "en": "Average standard error of the mean for Emotional N-back task (contrast: face vs. place; all runs) in Destrieux ROI: middle frontal sulcus (right hemisphere)"
+        "en": "Average standard error of the mean for Emotional N-back task (Contrast - Face vs. place; All runs) in Destrieux ROI: Middle frontal sulcus (Right hemisphere)"
     },
     "responseOptions": {
         "valueType": [

@@ -1,0 +1,56 @@
+{
+    "id": "fc_y_lone_mean",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Core"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "Friends, Family, & Community"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Peers"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Youth"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "fc_y_lone_mean"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "fc_y_lone_0011"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "fc_y_lone"
+        }
+    ],
+    "prefLabel": {
+        "en": "fc_y_lone_mean"
+    },
+    "question": {
+        "en": "UCLA Loneliness Scale [Youth]: Mean [Validation: No more than 1 missing or declined]"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:decimal"
+        ]
+    },
+    "ui": {
+        "inputType": "number"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

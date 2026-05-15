@@ -57,7 +57,7 @@
         "en": "fc_p_nsc__pol_001a__01"
     },
     "question": {
-        "en": "How many times has this (police officer provided assistance, protection, or any other services) happened to you in the past year? [Parent]"
+        "en": "How many times has this (Police officer provided assistance, protection, or any other services) happened to you in the past year? [Parent]"
     },
     "responseOptions": {
         "valueType": [

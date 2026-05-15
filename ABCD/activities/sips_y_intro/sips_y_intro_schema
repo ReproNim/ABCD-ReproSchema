@@ -1,0 +1,41 @@
+{
+    "id": "sips_y_intro_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "sips_y_intro"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/sips_y_intro_001",
+            "items/sips_y_intro_dt",
+            "items/sips_y_intro_age",
+            "items/sips_y_intro__group_001"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/sips_y_intro_001",
+                "isVis": true,
+                "variableName": "sips_y_intro_001"
+            },
+            {
+                "isAbout": "items/sips_y_intro_dt",
+                "isVis": true,
+                "variableName": "sips_y_intro_dt"
+            },
+            {
+                "isAbout": "items/sips_y_intro_age",
+                "isVis": true,
+                "variableName": "sips_y_intro_age"
+            },
+            {
+                "isAbout": "items/sips_y_intro__group_001",
+                "isVis": true,
+                "variableName": "sips_y_intro__group_001"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

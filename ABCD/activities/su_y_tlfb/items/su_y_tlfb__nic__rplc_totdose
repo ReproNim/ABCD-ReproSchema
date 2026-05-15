@@ -50,7 +50,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0663"
+            "value": "su_y_tlfb_0691"
         },
         {
             "column": "activity",
@@ -62,7 +62,7 @@
         "en": "su_y_tlfb__nic__rplc_totdose"
     },
     "question": {
-        "en": "Nicotine - Replacements: total dose"
+        "en": "Nicotine - Replacements: Total dose"
     },
     "responseOptions": {
         "valueType": [

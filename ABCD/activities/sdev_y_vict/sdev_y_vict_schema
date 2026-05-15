@@ -1576,7 +1576,9 @@
             "items/sdev_y_vict_030__35",
             "items/sdev_y_vict_030__35__l",
             "items/sdev_y_vict_030__36",
+            "items/sdev_y_vict_030__36__dk",
             "items/sdev_y_vict_030__36__l",
+            "items/sdev_y_vict_030__36__dk__l",
             "items/sdev_y_vict_030__36__01",
             "items/sdev_y_vict_030__36__01__l",
             "items/sdev_y_vict_030__37",
@@ -1667,7 +1669,9 @@
             "items/sdev_y_vict_031__35",
             "items/sdev_y_vict_031__35__l",
             "items/sdev_y_vict_031__36",
+            "items/sdev_y_vict_031__36__dk",
             "items/sdev_y_vict_031__36__l",
+            "items/sdev_y_vict_031__36__dk__l",
             "items/sdev_y_vict_031__36__01",
             "items/sdev_y_vict_031__36__01__l",
             "items/sdev_y_vict_031__37",
@@ -9530,9 +9534,19 @@
                 "variableName": "sdev_y_vict_030__36"
             },
             {
+                "isAbout": "items/sdev_y_vict_030__36__dk",
+                "isVis": true,
+                "variableName": "sdev_y_vict_030__36__dk"
+            },
+            {
                 "isAbout": "items/sdev_y_vict_030__36__l",
                 "isVis": true,
                 "variableName": "sdev_y_vict_030__36__l"
+            },
+            {
+                "isAbout": "items/sdev_y_vict_030__36__dk__l",
+                "isVis": true,
+                "variableName": "sdev_y_vict_030__36__dk__l"
             },
             {
                 "isAbout": "items/sdev_y_vict_030__36__01",
@@ -9985,9 +9999,19 @@
                 "variableName": "sdev_y_vict_031__36"
             },
             {
+                "isAbout": "items/sdev_y_vict_031__36__dk",
+                "isVis": true,
+                "variableName": "sdev_y_vict_031__36__dk"
+            },
+            {
                 "isAbout": "items/sdev_y_vict_031__36__l",
                 "isVis": true,
                 "variableName": "sdev_y_vict_031__36__l"
+            },
+            {
+                "isAbout": "items/sdev_y_vict_031__36__dk__l",
+                "isVis": true,
+                "variableName": "sdev_y_vict_031__36__dk__l"
             },
             {
                 "isAbout": "items/sdev_y_vict_031__36__01",
@@ -10062,6 +10086,6 @@
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

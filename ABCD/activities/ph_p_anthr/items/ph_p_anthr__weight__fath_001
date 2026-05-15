@@ -3,11 +3,6 @@
     "category": "reproschema:Item",
     "additionalNotesObj": [
         {
-            "column": "note",
-            "source": "nbdc",
-            "value": "Pounds"
-        },
-        {
             "column": "unit",
             "source": "nbdc",
             "value": "pounds (lb)"

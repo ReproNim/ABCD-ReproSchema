@@ -57,7 +57,7 @@
         "en": "le_l_coi__addr1__se__povrate_zscore"
     },
     "question": {
-        "en": "Poverty rate z-score [Social and economic domain] (Address 1) (address 1)"
+        "en": "Poverty rate z-score [Social and economic domain] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

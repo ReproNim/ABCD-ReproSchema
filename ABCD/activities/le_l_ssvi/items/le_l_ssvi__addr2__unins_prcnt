@@ -52,7 +52,7 @@
         "en": "le_l_ssvi__addr2__unins_prcnt"
     },
     "question": {
-        "en": "Percentage population estimate persons without health insurance [Supplemental SVI] (Address 2) (address 2)"
+        "en": "Percentage population estimate persons without health insurance [Supplemental SVI] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

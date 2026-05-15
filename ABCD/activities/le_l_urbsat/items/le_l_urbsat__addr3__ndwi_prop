@@ -52,7 +52,7 @@
         "en": "le_l_urbsat__addr3__ndwi_prop"
     },
     "question": {
-        "en": "Normalized difference water index- (2017) fraction of pixel area with NDWI index over 0.3 [0 1] (Address 3) (address 3)"
+        "en": "Normalized difference water index- (2017) fraction of pixel area with NDWI index over 0.3 [0 1] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

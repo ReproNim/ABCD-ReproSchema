@@ -62,7 +62,7 @@
         "en": "le_l_temp__addr2__temp_max__db5"
     },
     "question": {
-        "en": "Maximum temperature at residence 5 days prior (t-5) to date of study visit (Address 2) (address 2)"
+        "en": "Maximum temperature at residence 5 days prior (t-5) to date of study visit (Address 2)"
     },
     "responseOptions": {
         "valueType": [

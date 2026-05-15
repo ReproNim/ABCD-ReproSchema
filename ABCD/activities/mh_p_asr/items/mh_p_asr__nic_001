@@ -45,7 +45,7 @@
         {
             "column": "name_redcap",
             "source": "nbdc",
-            "value": "asr_q124_p"
+            "value": "asr_q124_p | asr_q124_p_v2"
         },
         {
             "column": "url_table",

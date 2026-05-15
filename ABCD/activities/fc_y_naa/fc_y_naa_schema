@@ -11,7 +11,8 @@
             "items/fc_y_naa_age",
             "items/fc_y_naa_001",
             "items/fc_y_naa_002",
-            "items/fc_y_naa_003"
+            "items/fc_y_naa_003",
+            "items/fc_y_naa_mean"
         ],
         "addProperties": [
             {
@@ -38,10 +39,15 @@
                 "isAbout": "items/fc_y_naa_003",
                 "isVis": true,
                 "variableName": "fc_y_naa_003"
+            },
+            {
+                "isAbout": "items/fc_y_naa_mean",
+                "isVis": true,
+                "variableName": "fc_y_naa_mean"
             }
         ],
         "shuffle": false
     },
-    "version": "6.1",
+    "version": "7.0",
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
 }

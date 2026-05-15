@@ -45,7 +45,7 @@
         {
             "column": "name_stata",
             "source": "nbdc",
-            "value": "su_y_tlfb_0873"
+            "value": "su_y_tlfb_0909"
         },
         {
             "column": "activity",
@@ -57,7 +57,7 @@
         "en": "su_y_tlfb__shroom__est_totdose"
     },
     "question": {
-        "en": "Mushrooms: total dose (Estimated period)"
+        "en": "Mushrooms: Total dose (Estimated period)"
     },
     "responseOptions": {
         "valueType": [

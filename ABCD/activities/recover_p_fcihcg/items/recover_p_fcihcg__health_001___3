@@ -1,0 +1,66 @@
+{
+    "id": "recover_p_fcihcg__health_001___3",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "first_covid_infection_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "fcih_care"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_fcihcg__health_001___3"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_fcihcg_0007"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_fcihcg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_fcihcg__health_001___3"
+    },
+    "question": {
+        "en": "When you were first infected with COVID, what kind of health care did you get? [Multi-select]: I took care of myself at home and talked to my doctor using an online video visit"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

@@ -57,7 +57,7 @@
         "en": "le_l_crime__addr3__dui_count"
     },
     "question": {
-        "en": "DUI [Uniform Crime Reports] (Address 3) (address 3)"
+        "en": "DUI [Uniform Crime Reports] (Address 3)"
     },
     "responseOptions": {
         "valueType": [

@@ -62,7 +62,7 @@
         "en": "fc_y_nsc__pol_005a__01"
     },
     "question": {
-        "en": "How many times has this (stopped by a police officer for no clear reason) happened to you in the past year? [Youth]"
+        "en": "Stopped by a police officer for no clear reason: How many times has this happened to you in the past year? [Youth]"
     },
     "responseOptions": {
         "valueType": [

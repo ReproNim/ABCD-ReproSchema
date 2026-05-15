@@ -57,7 +57,7 @@
         "en": "nc_y_ddis__1wk__indifpt_prop"
     },
     "question": {
-        "en": "Delay Discounting: 1 week delay \"indifference point\"; The proportion of the maximum ($100) reward that, if presented immediately, was equal in subjective value to the maximum ($100) reward if the subject had to wait 6 h to receive the maximum."
+        "en": "Delay Discounting: 1 week delay \"indifference point\"; The proportion of the maximum ($100) reward that, if presented immediately, was equal in subjective value to the maximum ($100) reward if the subject had to wait one week to receive the maximum."
     },
     "responseOptions": {
         "valueType": [

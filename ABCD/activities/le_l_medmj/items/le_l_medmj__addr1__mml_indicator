@@ -52,7 +52,7 @@
         "en": "le_l_medmj__addr1__mml_indicator"
     },
     "question": {
-        "en": "Indicates if the medical marijuana law (MML) (i.e. patients have legal protection to possess MJ for medicinal purposes) was effective at date of baseline visit (Address 1) (address 1)"
+        "en": "Indicates if the medical marijuana law (MML) (i.e. patients have legal protection to possess MJ for medicinal purposes) was effective at date of baseline visit (Address 1)"
     },
     "responseOptions": {
         "valueType": [

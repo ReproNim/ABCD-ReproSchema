@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__emovntf__dst__gspc__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: emotion vs. neutral face; all runs) in Destrieux ROI: paracentral lobule and sulcus (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Emotion vs. neutral face; All runs) in Destrieux ROI: Paracentral lobule and sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

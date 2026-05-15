@@ -1,0 +1,67 @@
+{
+    "id": "recover_p_vacc_lang",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Pediatric Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "covid_vaccine_history"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "vacc_colllang"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_vacc_lang"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_vacc_0003"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_vacc"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_vacc_lang"
+    },
+    "question": {
+        "en": "Youth COVID Vaccine History [Parent]: Language of administration"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "static",
+        "readonlyValue": true
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

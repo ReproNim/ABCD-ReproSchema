@@ -57,7 +57,7 @@
         "en": "le_l_svi__addr1__percapitaincome_prcntile"
     },
     "question": {
-        "en": "Percentile per capita income subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 1) (address 1)"
+        "en": "Percentile per capita income subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

@@ -57,7 +57,7 @@
         "en": "nc_y_flnkr__incongr_medrt"
     },
     "question": {
-        "en": "Flanker Task (Millisecond): Median Response Time - Incongruent trials"
+        "en": "Flanker Task (Millisecond): Median Response Time - Correct incongruent trials"
     },
     "responseOptions": {
         "valueType": [

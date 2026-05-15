@@ -57,7 +57,7 @@
         "en": "le_l_denspop__addr2_density"
     },
     "question": {
-        "en": "UN adjusted population density (Address 2) (address 2)"
+        "en": "UN adjusted population density (Address 2)"
     },
     "responseOptions": {
         "valueType": [

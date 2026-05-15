@@ -72,7 +72,7 @@
         "en": "mr_y_dti__fs__vol__at__lh_sum"
     },
     "question": {
-        "en": "Total volume (full shell DTI) of AtlasTrack fiber tract: all (left hemisphere)"
+        "en": "Total volume (Full shell DTI) of AtlasTrack fiber tract: All (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

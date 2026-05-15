@@ -62,7 +62,7 @@
         "en": "su_y_sui__use__hall_001__01__l___9"
     },
     "question": {
-        "en": "Since we last saw you: Which of these have you used? (Please check all that apply) [Salvia]"
+        "en": "Since we last saw you: Which of these have you used? [Multi-select]: Salvia"
     },
     "responseOptions": {
         "valueType": [

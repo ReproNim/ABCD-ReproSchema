@@ -62,7 +62,7 @@
         "en": "mr_y_qc__raw__rsfmri__r11__fdsub__filt__nody_sum"
     },
     "question": {
-        "en": "Resting State fMRI (run 11): Total number of seconds of run with framewise displacement < 0.2 mm using the filtering technique and without y-displacement"
+        "en": "Resting State fMRI (Run 11): Total number of seconds of run with framewise displacement < 0.2 mm using the filtering technique and without y-displacement"
     },
     "responseOptions": {
         "valueType": [

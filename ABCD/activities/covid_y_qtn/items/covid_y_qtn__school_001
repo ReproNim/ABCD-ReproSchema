@@ -67,7 +67,7 @@
         "en": "covid_y_qtn__school_001"
     },
     "question": {
-        "en": "In the past week, is your schooling like it was in January 2020? [COVID Substudy]"
+        "en": "In the past week, is your schooling like it was in January 2020? [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

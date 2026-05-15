@@ -67,7 +67,7 @@
         "en": "mr_y_rsi__rni__gm__dst__sprip__lh_mean"
     },
     "question": {
-        "en": "Average restricted normalized isotropic diffusion (gray matter) in Destrieux ROI: inferior part of the precentral sulcus (left hemisphere)"
+        "en": "Average restricted normalized isotropic diffusion (Gray matter) in Destrieux ROI: Inferior part of the precentral sulcus (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

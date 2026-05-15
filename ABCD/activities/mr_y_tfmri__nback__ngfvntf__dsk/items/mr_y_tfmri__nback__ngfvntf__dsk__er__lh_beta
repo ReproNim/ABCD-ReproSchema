@@ -72,7 +72,7 @@
         "en": "mr_y_tfmri__nback__ngfvntf__dsk__er__lh_beta"
     },
     "question": {
-        "en": "Average beta weight for Emotional N-back task (contrast: negative face vs. neutral face; all runs) in Desikan ROI: entorhinal (left hemisphere)"
+        "en": "Average beta weight for Emotional N-back task (Contrast - Negative face vs. neutral face; All runs) in Desikan ROI: Entorhinal (Left hemisphere)"
     },
     "responseOptions": {
         "valueType": [

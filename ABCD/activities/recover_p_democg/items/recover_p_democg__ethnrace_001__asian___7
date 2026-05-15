@@ -1,0 +1,71 @@
+{
+    "id": "recover_p_democg__ethnrace_001__asian___7",
+    "category": "reproschema:Item",
+    "additionalNotesObj": [
+        {
+            "column": "note",
+            "source": "nbdc",
+            "value": "Check all that apply"
+        },
+        {
+            "column": "study",
+            "source": "nbdc",
+            "value": "Substudy"
+        },
+        {
+            "column": "domain",
+            "source": "nbdc",
+            "value": "RECOVER"
+        },
+        {
+            "column": "sub_domain",
+            "source": "nbdc",
+            "value": "Caregiver Surveys"
+        },
+        {
+            "column": "source",
+            "source": "nbdc",
+            "value": "Parent"
+        },
+        {
+            "column": "table_redcap",
+            "source": "nbdc",
+            "value": "demographics"
+        },
+        {
+            "column": "name_redcap",
+            "source": "nbdc",
+            "value": "demo_cgasian"
+        },
+        {
+            "column": "name_short",
+            "source": "nbdc",
+            "value": "recover_p_democg__ethnrace_001__asian___7"
+        },
+        {
+            "column": "name_stata",
+            "source": "nbdc",
+            "value": "recover_p_democg_0024"
+        },
+        {
+            "column": "activity",
+            "source": "nbdc",
+            "value": "recover_p_democg"
+        }
+    ],
+    "prefLabel": {
+        "en": "recover_p_democg__ethnrace_001__asian___7"
+    },
+    "question": {
+        "en": "Which of these Asian groups best describe you? [Multi-select]: Korean"
+    },
+    "responseOptions": {
+        "valueType": [
+            "xsd:string"
+        ]
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

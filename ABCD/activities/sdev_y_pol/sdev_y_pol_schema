@@ -1,0 +1,407 @@
+{
+    "id": "sdev_y_pol_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "sdev_y_pol"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/sdev_y_pol_dt",
+            "items/sdev_y_pol_age",
+            "items/sdev_y_pol_001",
+            "items/sdev_y_pol_002",
+            "items/sdev_y_pol_002__01",
+            "items/sdev_y_pol_002__01__dk",
+            "items/sdev_y_pol_002__02",
+            "items/sdev_y_pol_002__02__01",
+            "items/sdev_y_pol_002__03",
+            "items/sdev_y_pol_002__03__01",
+            "items/sdev_y_pol_003",
+            "items/sdev_y_pol_003__01",
+            "items/sdev_y_pol_003__01__dk",
+            "items/sdev_y_pol_004",
+            "items/sdev_y_pol_004__01",
+            "items/sdev_y_pol_004__01__dk",
+            "items/sdev_y_pol_004__02",
+            "items/sdev_y_pol_004__02__01",
+            "items/sdev_y_pol_004__03",
+            "items/sdev_y_pol_004__03__01",
+            "items/sdev_y_pol_005",
+            "items/sdev_y_pol_005__01",
+            "items/sdev_y_pol_005__01__dk",
+            "items/sdev_y_pol_005__02",
+            "items/sdev_y_pol_005__02__01",
+            "items/sdev_y_pol_005__02__02",
+            "items/sdev_y_pol_005__02__03",
+            "items/sdev_y_pol_005__02__04",
+            "items/sdev_y_pol_005__02__05",
+            "items/sdev_y_pol_005__02__06",
+            "items/sdev_y_pol_005__02__07",
+            "items/sdev_y_pol_005__02__08",
+            "items/sdev_y_pol_005__02__09",
+            "items/sdev_y_pol_005__02__10",
+            "items/sdev_y_pol_005__02__11",
+            "items/sdev_y_pol_005__02__12",
+            "items/sdev_y_pol_005__02__13",
+            "items/sdev_y_pol_005__02__14",
+            "items/sdev_y_pol_005__02__15",
+            "items/sdev_y_pol_005__02__16",
+            "items/sdev_y_pol_005__02__17",
+            "items/sdev_y_pol_005__02__18",
+            "items/sdev_y_pol_005__02__19",
+            "items/sdev_y_pol_005__03",
+            "items/sdev_y_pol_005__03__01",
+            "items/sdev_y_pol_005__03__02",
+            "items/sdev_y_pol_005__03__03",
+            "items/sdev_y_pol_005__03__04",
+            "items/sdev_y_pol_005__03__05",
+            "items/sdev_y_pol_005__03__06",
+            "items/sdev_y_pol_005__03__07",
+            "items/sdev_y_pol_005__03__08",
+            "items/sdev_y_pol_005__03__09",
+            "items/sdev_y_pol_005__03__10",
+            "items/sdev_y_pol_005__03__11",
+            "items/sdev_y_pol_005__03__12",
+            "items/sdev_y_pol_005__03__13",
+            "items/sdev_y_pol_005__03__14",
+            "items/sdev_y_pol_005__03__15",
+            "items/sdev_y_pol_005__03__16",
+            "items/sdev_y_pol_005__03__17",
+            "items/sdev_y_pol_005__03__18",
+            "items/sdev_y_pol_005__03__19",
+            "items/sdev_y_pol_006",
+            "items/sdev_y_pol_006__dk"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/sdev_y_pol_dt",
+                "isVis": true,
+                "variableName": "sdev_y_pol_dt"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_age",
+                "isVis": true,
+                "variableName": "sdev_y_pol_age"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_001",
+                "isVis": true,
+                "variableName": "sdev_y_pol_001"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_002",
+                "isVis": true,
+                "variableName": "sdev_y_pol_002"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_002__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_002__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_002__01__dk",
+                "isVis": true,
+                "variableName": "sdev_y_pol_002__01__dk"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_002__02",
+                "isVis": true,
+                "variableName": "sdev_y_pol_002__02"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_002__02__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_002__02__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_002__03",
+                "isVis": true,
+                "variableName": "sdev_y_pol_002__03"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_002__03__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_002__03__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_003",
+                "isVis": true,
+                "variableName": "sdev_y_pol_003"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_003__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_003__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_003__01__dk",
+                "isVis": true,
+                "variableName": "sdev_y_pol_003__01__dk"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_004",
+                "isVis": true,
+                "variableName": "sdev_y_pol_004"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_004__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_004__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_004__01__dk",
+                "isVis": true,
+                "variableName": "sdev_y_pol_004__01__dk"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_004__02",
+                "isVis": true,
+                "variableName": "sdev_y_pol_004__02"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_004__02__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_004__02__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_004__03",
+                "isVis": true,
+                "variableName": "sdev_y_pol_004__03"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_004__03__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_004__03__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__01__dk",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__01__dk"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__02",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__02"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__03",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__03"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__04",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__04"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__05",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__05"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__06",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__06"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__07",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__07"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__08",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__08"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__09",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__09"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__10",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__10"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__11",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__11"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__12",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__12"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__13",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__13"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__14",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__14"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__15",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__15"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__16",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__16"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__17",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__17"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__18",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__18"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__02__19",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__02__19"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__01",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__01"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__02",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__02"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__03",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__03"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__04",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__04"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__05",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__05"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__06",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__06"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__07",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__07"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__08",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__08"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__09",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__09"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__10",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__10"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__11",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__11"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__12",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__12"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__13",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__13"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__14",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__14"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__15",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__15"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__16",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__16"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__17",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__17"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__18",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__18"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_005__03__19",
+                "isVis": true,
+                "variableName": "sdev_y_pol_005__03__19"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_006",
+                "isVis": true,
+                "variableName": "sdev_y_pol_006"
+            },
+            {
+                "isAbout": "items/sdev_y_pol_006__dk",
+                "isVis": true,
+                "variableName": "sdev_y_pol_006__dk"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}

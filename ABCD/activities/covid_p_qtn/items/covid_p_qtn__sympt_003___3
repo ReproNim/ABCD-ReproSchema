@@ -67,7 +67,7 @@
         "en": "covid_p_qtn__sympt_003___3"
     },
     "question": {
-        "en": "Which of the following ever occurred as a result of your child's symptoms? [Multi-select]: My child or I spoke to a healthcare provider over the phone, email, or online [COVID Substudy]"
+        "en": "Which of the following ever occurred as a result of your child's symptoms? [Multi-select]: My child or I spoke to a healthcare provider over the phone, email, or online [COVID substudy]"
     },
     "responseOptions": {
         "valueType": [

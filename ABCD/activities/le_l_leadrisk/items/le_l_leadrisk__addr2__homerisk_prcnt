@@ -57,7 +57,7 @@
         "en": "le_l_leadrisk__addr2__homerisk_prcnt"
     },
     "question": {
-        "en": "Estimated percentage of homes at risk for lead exposure given lead-based paint [census tract] (Address 2) (address 2)"
+        "en": "Estimated percentage of homes at risk for lead exposure given lead-based paint [census tract] (Address 2)"
     },
     "responseOptions": {
         "valueType": [

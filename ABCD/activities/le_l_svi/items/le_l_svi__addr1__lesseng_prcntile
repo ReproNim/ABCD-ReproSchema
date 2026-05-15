@@ -57,7 +57,7 @@
         "en": "le_l_svi__addr1__lesseng_prcntile"
     },
     "question": {
-        "en": "Percentile of persons who speak English ''less than well'' subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 1) (address 1)"
+        "en": "Percentile of persons who speak English ''less than well'' subcomponent [CDC SVI (ACS 2014-2018 5 yr avg); census tract] (Address 1)"
     },
     "responseOptions": {
         "valueType": [

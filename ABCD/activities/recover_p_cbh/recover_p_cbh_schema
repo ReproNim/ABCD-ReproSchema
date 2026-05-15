@@ -1,0 +1,209 @@
+{
+    "id": "recover_p_cbh_schema",
+    "category": "reproschema:Activity",
+    "prefLabel": {
+        "en": "recover_p_cbh"
+    },
+    "schemaVersion": "1.0.0",
+    "ui": {
+        "order": [
+            "items/recover_p_cbh_dt",
+            "items/recover_p_cbh_age",
+            "items/recover_p_cbh_lang",
+            "items/recover_p_cbh_ver",
+            "items/recover_p_cbh__birthlength_001",
+            "items/recover_p_cbh__birthlength_001__cm",
+            "items/recover_p_cbh__birthlength_001__in",
+            "items/recover_p_cbh__birthweight_001",
+            "items/recover_p_cbh__birthweight_001__g",
+            "items/recover_p_cbh__birthweight_001__kg",
+            "items/recover_p_cbh__birthweight_001__lb",
+            "items/recover_p_cbh__birthweight_001__oz",
+            "items/recover_p_cbh__moth_age",
+            "items/recover_p_cbh_001",
+            "items/recover_p_cbh_001__01",
+            "items/recover_p_cbh_001__02",
+            "items/recover_p_cbh_001__03",
+            "items/recover_p_cbh_002",
+            "items/recover_p_cbh_003",
+            "items/recover_p_cbh_004___1",
+            "items/recover_p_cbh_004___2",
+            "items/recover_p_cbh_004___3",
+            "items/recover_p_cbh_004___4",
+            "items/recover_p_cbh_004___5",
+            "items/recover_p_cbh_004___6",
+            "items/recover_p_cbh_004___7",
+            "items/recover_p_cbh_004___8",
+            "items/recover_p_cbh_004___9",
+            "items/recover_p_cbh_004___10",
+            "items/recover_p_cbh_004___15",
+            "items/recover_p_cbh_004___777",
+            "items/recover_p_cbh_004___999"
+        ],
+        "addProperties": [
+            {
+                "isAbout": "items/recover_p_cbh_dt",
+                "isVis": true,
+                "variableName": "recover_p_cbh_dt"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_age",
+                "isVis": true,
+                "variableName": "recover_p_cbh_age"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_lang",
+                "isVis": true,
+                "variableName": "recover_p_cbh_lang"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_ver",
+                "isVis": true,
+                "variableName": "recover_p_cbh_ver"
+            },
+            {
+                "isAbout": "items/recover_p_cbh__birthlength_001",
+                "isVis": true,
+                "variableName": "recover_p_cbh__birthlength_001"
+            },
+            {
+                "isAbout": "items/recover_p_cbh__birthlength_001__cm",
+                "isVis": true,
+                "variableName": "recover_p_cbh__birthlength_001__cm"
+            },
+            {
+                "isAbout": "items/recover_p_cbh__birthlength_001__in",
+                "isVis": true,
+                "variableName": "recover_p_cbh__birthlength_001__in"
+            },
+            {
+                "isAbout": "items/recover_p_cbh__birthweight_001",
+                "isVis": true,
+                "variableName": "recover_p_cbh__birthweight_001"
+            },
+            {
+                "isAbout": "items/recover_p_cbh__birthweight_001__g",
+                "isVis": true,
+                "variableName": "recover_p_cbh__birthweight_001__g"
+            },
+            {
+                "isAbout": "items/recover_p_cbh__birthweight_001__kg",
+                "isVis": true,
+                "variableName": "recover_p_cbh__birthweight_001__kg"
+            },
+            {
+                "isAbout": "items/recover_p_cbh__birthweight_001__lb",
+                "isVis": true,
+                "variableName": "recover_p_cbh__birthweight_001__lb"
+            },
+            {
+                "isAbout": "items/recover_p_cbh__birthweight_001__oz",
+                "isVis": true,
+                "variableName": "recover_p_cbh__birthweight_001__oz"
+            },
+            {
+                "isAbout": "items/recover_p_cbh__moth_age",
+                "isVis": true,
+                "variableName": "recover_p_cbh__moth_age"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_001",
+                "isVis": true,
+                "variableName": "recover_p_cbh_001"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_001__01",
+                "isVis": true,
+                "variableName": "recover_p_cbh_001__01"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_001__02",
+                "isVis": true,
+                "variableName": "recover_p_cbh_001__02"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_001__03",
+                "isVis": true,
+                "variableName": "recover_p_cbh_001__03"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_002",
+                "isVis": true,
+                "variableName": "recover_p_cbh_002"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_003",
+                "isVis": true,
+                "variableName": "recover_p_cbh_003"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___1",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___1"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___2",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___2"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___3",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___3"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___4",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___4"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___5",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___5"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___6",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___6"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___7",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___7"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___8",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___8"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___9",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___9"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___10",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___10"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___15",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___15"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___777",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___777"
+            },
+            {
+                "isAbout": "items/recover_p_cbh_004___999",
+                "isVis": true,
+                "variableName": "recover_p_cbh_004___999"
+            }
+        ],
+        "shuffle": false
+    },
+    "version": "7.0",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema"
+}
